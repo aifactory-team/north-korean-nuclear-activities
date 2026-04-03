@@ -1,0 +1,96 @@
+name: Daily NK Nuclear Activities Report
+
+on:
+  schedule:
+    # 한국시간 오전 9시 (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target date (YYYY-MM-DD). Defaults to today if empty.'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 10
+
+      - name: Determine target date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            echo "target=${{ github.event.inputs.target_date }}" >> $GITHUB_OUTPUT
+          else
+            echo "target=$(date -u +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          fi
+          echo "year=$(date -u +%Y -d "${{ github.event.inputs.target_date || '$(date -u +%Y-%m-%d)' }}" 2>/dev/null || date -u +%Y)" >> $GITHUB_OUTPUT
+          echo "month=$(date -u +%m -d "${{ github.event.inputs.target_date || '$(date -u +%Y-%m-%d)' }}" 2>/dev/null || date -u +%m)" >> $GITHUB_OUTPUT
+
+      - name: Generate report with Claude Code
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: "--model claude-opus-4-6 --allowedTools 'Bash(*)' 'Read(*)' 'Write(*)' 'Edit(*)' 'Glob(*)' 'Grep(*)' 'WebSearch(*)' 'WebFetch(*)'"
+          use_bedrock: false
+          use_vertex: false
+          prompt: |
+            You are the North Korean Nuclear Activities daily report agent.
+
+            **Target date:** ${{ steps.date.outputs.target }}
+
+            Read CLAUDE.md for full project rules, report format, search keywords, and deduplication instructions.
+
+            ## Execution Steps
+
+            ### Step 1: Prepare
+            - Create directory: `reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/`
+            - Find and read the last 7 days of existing reports using Glob pattern `reports/**/*.md`
+            - Extract previously reported headlines and source URLs for deduplication
+
+            ### Step 2: Multilingual Web Search
+            Search using keywords defined in CLAUDE.md. Perform at least 8 searches across 4 languages:
+            - Korean (최소 3회): "북핵 최신 뉴스", "북한 핵실험 2026", "북한 미사일 발사"
+            - English (최소 3회): "North Korean nuclear news today", "DPRK missile launch 2026", "North Korea sanctions update"
+            - Japanese (최소 1회): "北朝鮮 核実験 最新ニュース"
+            - Chinese (최소 1회): "朝鲜核试验 最新消息"
+
+            Focus on news from the last 24-48 hours. Prioritize authoritative sources (Reuters, AP, 연합뉴스, NHK, 新华社, BBC, etc.)
+
+            ### Step 3: Deduplicate
+            Compare search results against previously reported items from Step 1.
+            - Remove items with matching headlines or source URLs
+            - Keep follow-up reports on existing events only if they contain significant new information (mark as "업데이트")
+
+            ### Step 4: Generate Report
+            Write the report to `reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.target }}.md`
+
+            Follow the exact report structure defined in CLAUDE.md:
+            - YAML frontmatter with title, date, sources_count, new_items, updated_items
+            - 요약 (3-5 sentences)
+            - 주요 뉴스 (each with 출처 URL, 일시, 내용, 상태)
+            - 분석 및 평가
+            - 국제 반응
+            - 동향 요약 table
+            - 출처 목록
+
+            If no news found, create a "특이사항 없음" report with the same structure.
+
+            ### Step 5: Commit
+            ```bash
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add reports/
+            git commit -m "report: daily NK nuclear update (${{ steps.date.outputs.target }})"
+            git push
+            ```
