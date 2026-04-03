@@ -142,9 +142,12 @@ jobs:
             ```bash
             # Clone wiki
             git clone https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.wiki.git /tmp/wiki
+            ```
 
-            # Copy report as flat wiki page (YYYY-MM-DD.md)
-            cp reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.target }}.md /tmp/wiki/${{ steps.date.outputs.target }}.md
+            Copy the report to wiki, but **strip the YAML frontmatter** (GitHub Wiki does not render it):
+            ```bash
+            # Remove frontmatter (lines between --- markers) and copy to wiki
+            sed '1{/^---$/!q;};1,/^---$/d' reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.target }}.md > /tmp/wiki/${{ steps.date.outputs.target }}.md
             ```
 
             Then update `/tmp/wiki/Home.md` — this is the wiki landing page.

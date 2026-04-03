@@ -64,6 +64,11 @@ node $CHELIPED_CLI '[{"cmd":"goto","args":["URL"]},{"cmd":"wait","args":["2000"]
 - 보고서 커밋: `report: daily NK nuclear update (YYYY-MM-DD)`
 - 구조/설정 변경: `chore: 설명`
 
+## Wiki Publishing Rules
+- GitHub Wiki는 YAML frontmatter(`---`)를 지원하지 않는다
+- Wiki에 복사할 보고서에서는 YAML frontmatter 블록(`---`로 감싼 부분)을 반드시 제거한다
+- 메인 리포의 `reports/` 파일에는 frontmatter를 그대로 유지한다
+
 ## Rules
 - 출처 URL 없는 정보는 보고서에 포함하지 않는다
 - 보고서 언어는 한국어가 기본이며, 원문 인용은 원어 보존한다
