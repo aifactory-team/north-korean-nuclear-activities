@@ -56,6 +56,8 @@ jobs:
           echo "month=$(date -u +%m -d "${{ github.event.inputs.target_date || '$(date -u +%Y-%m-%d)' }}" 2>/dev/null || date -u +%m)" >> $GITHUB_OUTPUT
 
       - name: Generate report with Claude Code
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -125,11 +127,68 @@ jobs:
 
             If no news found, create a "특이사항 없음" report with the same structure.
 
-            ### Step 5: Commit
+            ### Step 5: Commit to main repo
             ```bash
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add reports/
             git commit -m "report: daily NK nuclear update (${{ steps.date.outputs.target }})"
+            git push
+            ```
+
+            ### Step 6: Publish to GitHub Wiki
+            Clone the wiki repo, copy the report, update navigation, and push.
+
+            ```bash
+            # Clone wiki
+            git clone https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.wiki.git /tmp/wiki
+
+            # Copy report as flat wiki page (YYYY-MM-DD.md)
+            cp reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.target }}.md /tmp/wiki/${{ steps.date.outputs.target }}.md
+            ```
+
+            Then update `/tmp/wiki/Home.md` — this is the wiki landing page.
+            Read the existing Home.md if it exists, and prepend today's report link to the list.
+            Home.md structure:
+
+            ```markdown
+            # 북한 핵활동 일일 보고서
+
+            자동 수집된 북한 핵활동 관련 일일 보고서입니다.
+
+            ## 최근 보고서
+            - [YYYY-MM-DD 보고서](YYYY-MM-DD) ← prepend new entry here
+            - [previous entries...]
+
+            ## 월별 보관
+            - [YYYY년 MM월](Monthly-YYYY-MM) ← update/create as needed
+            ```
+
+            Also update `/tmp/wiki/_Sidebar.md` for wiki navigation:
+            ```markdown
+            **최근 보고서**
+            - [YYYY-MM-DD](YYYY-MM-DD)
+            (keep last 14 days, remove older entries)
+
+            **월별 보관**
+            - [YYYY-MM](Monthly-YYYY-MM)
+            ```
+
+            Also create/update a monthly index page `/tmp/wiki/Monthly-YYYY-MM.md`:
+            ```markdown
+            # YYYY년 MM월 북한 핵활동 보고서
+
+            | 날짜 | 보고서 |
+            |------|--------|
+            | YYYY-MM-DD | [보고서](YYYY-MM-DD) |
+            ```
+
+            Finally push to wiki:
+            ```bash
+            cd /tmp/wiki
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "report: ${{ steps.date.outputs.target }}"
             git push
             ```
