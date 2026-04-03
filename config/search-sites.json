@@ -1,0 +1,97 @@
+{
+  "description": "검색 사이트 목록 - Cheliped browser의 search 커맨드 및 직접 URL 검색에 사용",
+  "search_engines": [
+    {
+      "id": "google",
+      "name": "Google",
+      "engine": "google",
+      "languages": ["en", "ko", "ja", "zh"],
+      "enabled": true
+    },
+    {
+      "id": "naver",
+      "name": "Naver",
+      "engine": "naver",
+      "languages": ["ko"],
+      "enabled": true
+    },
+    {
+      "id": "bing",
+      "name": "Bing",
+      "engine": "bing",
+      "languages": ["en", "ko"],
+      "enabled": true
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu (百度)",
+      "engine": "baidu",
+      "languages": ["zh"],
+      "enabled": true
+    },
+    {
+      "id": "yahoo_japan",
+      "name": "Yahoo Japan",
+      "engine": "yahoo_japan",
+      "languages": ["ja"],
+      "enabled": true
+    },
+    {
+      "id": "duckduckgo",
+      "name": "DuckDuckGo",
+      "engine": "duckduckgo",
+      "languages": ["en"],
+      "enabled": true
+    }
+  ],
+  "custom_sites": [
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "search_url": "https://www.reuters.com/site-search/?query={query}",
+      "languages": ["en"],
+      "enabled": true
+    },
+    {
+      "id": "yonhap",
+      "name": "연합뉴스",
+      "search_url": "https://www.yna.co.kr/search/index?query={query}",
+      "languages": ["ko"],
+      "enabled": true
+    },
+    {
+      "id": "nhk",
+      "name": "NHK",
+      "search_url": "https://www3.nhk.or.jp/news/json/search/index.html?keyword={query}",
+      "languages": ["ja"],
+      "enabled": true
+    },
+    {
+      "id": "38north",
+      "name": "38 North",
+      "search_url": "https://www.38north.org/?s={query}",
+      "languages": ["en"],
+      "enabled": true
+    },
+    {
+      "id": "nknews",
+      "name": "NK News",
+      "search_url": "https://www.nknews.org/?s={query}",
+      "languages": ["en"],
+      "enabled": true
+    },
+    {
+      "id": "arms_control",
+      "name": "Arms Control Association",
+      "search_url": "https://www.armscontrol.org/search?search={query}",
+      "languages": ["en"],
+      "enabled": true
+    }
+  ],
+  "keywords": {
+    "ko": ["북핵", "북한 핵실험", "북한 미사일", "북한 핵무기", "북한 ICBM"],
+    "en": ["North Korean nuclear", "DPRK missile launch", "North Korea sanctions"],
+    "ja": ["北朝鮮 核実験", "北朝鮮 ミサイル"],
+    "zh": ["朝鲜核试验", "朝鲜导弹"]
+  }
+}

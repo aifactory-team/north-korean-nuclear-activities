@@ -37,6 +37,29 @@ North Korean nuclear, DPRK nuclear test, North Korea missile launch, DPRK ICBM, 
 ### Chinese (中文)
 朝鲜核试验, 朝鲜核武器, 朝鲜导弹, 朝鲜半岛核问题, 朝鲜铀浓缩, 朝鲜制裁
 
+## Search Methods
+
+### Method 1: WebSearch (Built-in)
+Claude Code의 빌트인 WebSearch 도구로 일반 웹검색을 수행한다.
+
+### Method 2: Cheliped Browser (Site-specific)
+Cheliped CLI (`$CHELIPED_CLI`)를 사용하여 특정 검색 사이트에서 직접 검색한다.
+검색 사이트 목록은 `config/search-sites.json`에서 관리한다.
+
+**검색 엔진 (search 커맨드):** Google, Naver, Bing, Baidu, Yahoo Japan, DuckDuckGo
+```bash
+node $CHELIPED_CLI '[{"cmd":"search","args":["검색어","엔진명"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+```
+
+**커스텀 사이트 (goto + extract):** 38 North, NK News, Reuters, 연합뉴스, NHK, Arms Control Association
+```bash
+node $CHELIPED_CLI '[{"cmd":"goto","args":["URL"]},{"cmd":"wait","args":["2000"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+```
+
+- 각 검색 후 반드시 `close` 커맨드로 세션을 종료한다
+- `config/search-sites.json`에서 `enabled: true`인 사이트만 검색한다
+- 검색 결과의 links와 texts를 수집하여 분석한다
+
 ## Commit Convention
 - 보고서 커밋: `report: daily NK nuclear update (YYYY-MM-DD)`
 - 구조/설정 변경: `chore: 설명`

@@ -13,7 +13,7 @@ description: "북한 핵활동 일일 보고서를 자동 생성하는 오케스
 3. 이전 7일 보고서 파일 목록 조회 (Glob)
 4. 이전 보고서 내용 읽기 (Read) → 이미 보고된 사건/출처 URL 목록 추출
 
-### Phase 2: 다국어 웹검색
+### Phase 2A: WebSearch (빌트인)
 최소 다음 키워드 그룹별 1회 이상 WebSearch 수행:
 
 **필수 검색 (4개 언어):**
@@ -22,10 +22,27 @@ description: "북한 핵활동 일일 보고서를 자동 생성하는 오케스
 3. `北朝鮮 核実験 最新` / `北朝鮮 ミサイル`
 4. `朝鲜核试验 最新` / `朝鲜导弹`
 
+### Phase 2B: Cheliped Browser (사이트별 검색)
+`config/search-sites.json` 파일을 읽고 Cheliped CLI로 추가 검색 수행:
+
+**검색 엔진 (search 커맨드):**
+```bash
+node $CHELIPED_CLI '[{"cmd":"search","args":["북핵","google"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+node $CHELIPED_CLI '[{"cmd":"search","args":["북한 핵실험","naver"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+node $CHELIPED_CLI '[{"cmd":"search","args":["朝鲜核试验","baidu"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+node $CHELIPED_CLI '[{"cmd":"search","args":["北朝鮮 核実験","yahoo_japan"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+```
+
+**커스텀 사이트 (goto + extract):**
+- `config/search-sites.json`의 `custom_sites`에서 `enabled: true`인 사이트 순회
+- `search_url`의 `{query}`를 URL-인코딩된 키워드로 치환
+- goto → wait(2000) → extract(all) → close 순서로 실행
+
 **검색 전략:**
+- WebSearch와 Cheliped 결과를 병합하여 더 넓은 범위의 소스 확보
 - 각 언어별 최소 2개 키워드 검색
 - 검색 결과에서 최근 24~48시간 내 뉴스에 집중
-- 주요 뉴스 출처(Reuters, AP, 연합뉴스, NHK, 新华社 등) 우선
+- 전문 사이트(38 North, NK News) 결과를 우선 활용
 
 ### Phase 3: 중복 제거
 1. Phase 1에서 추출한 기존 보고 사건 목록과 비교

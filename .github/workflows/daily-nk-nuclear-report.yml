@@ -18,13 +18,31 @@ permissions:
 jobs:
   generate-report:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 10
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Cheliped Browser
+        run: |
+          git clone https://github.com/tykimos/cheliped-browser.git /tmp/cheliped-browser
+          cd /tmp/cheliped-browser/scripts
+          npm install
+          npm run build 2>/dev/null || true
+          echo "CHELIPED_CLI=/tmp/cheliped-browser/scripts/cheliped-cli.mjs" >> $GITHUB_ENV
+
+      - name: Verify Cheliped and Chrome
+        run: |
+          which google-chrome || which chromium-browser || echo "No Chrome found"
+          node $CHELIPED_CLI '[{"cmd":"goto","args":["https://www.google.com"]},{"cmd":"close"}]' && echo "Cheliped: OK" || echo "Cheliped: FAILED"
 
       - name: Determine target date
         id: date
@@ -48,8 +66,10 @@ jobs:
             You are the North Korean Nuclear Activities daily report agent.
 
             **Target date:** ${{ steps.date.outputs.target }}
+            **Cheliped CLI:** Available at $CHELIPED_CLI (environment variable)
 
             Read CLAUDE.md for full project rules, report format, search keywords, and deduplication instructions.
+            Read config/search-sites.json for the list of search engines and custom sites to search.
 
             ## Execution Steps
 
@@ -58,31 +78,50 @@ jobs:
             - Find and read the last 7 days of existing reports using Glob pattern `reports/**/*.md`
             - Extract previously reported headlines and source URLs for deduplication
 
-            ### Step 2: Multilingual Web Search
+            ### Step 2A: WebSearch (Built-in)
             Search using keywords defined in CLAUDE.md. Perform at least 8 searches across 4 languages:
-            - Korean (최소 3회): "북핵 최신 뉴스", "북한 핵실험 2026", "북한 미사일 발사"
-            - English (최소 3회): "North Korean nuclear news today", "DPRK missile launch 2026", "North Korea sanctions update"
+            - Korean (최소 3회): "북핵 최신 뉴스", "북한 핵실험", "북한 미사일 발사"
+            - English (최소 3회): "North Korean nuclear news today", "DPRK missile launch", "North Korea sanctions update"
             - Japanese (최소 1회): "北朝鮮 核実験 最新ニュース"
             - Chinese (최소 1회): "朝鲜核试验 最新消息"
 
-            Focus on news from the last 24-48 hours. Prioritize authoritative sources (Reuters, AP, 연합뉴스, NHK, 新华社, BBC, etc.)
+            ### Step 2B: Cheliped Browser Search (Site-specific)
+            Read config/search-sites.json and use the Cheliped CLI for additional searches.
+
+            **Search Engines** — Use the built-in `search` command:
+            ```bash
+            node $CHELIPED_CLI '[{"cmd":"search","args":["북핵","google"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+            node $CHELIPED_CLI '[{"cmd":"search","args":["북한 핵실험","naver"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+            node $CHELIPED_CLI '[{"cmd":"search","args":["朝鲜核试验","baidu"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+            node $CHELIPED_CLI '[{"cmd":"search","args":["北朝鮮 核実験","yahoo_japan"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+            ```
+
+            **Custom Sites** (38 North, NK News, Reuters, 연합뉴스, etc.) — Navigate and extract:
+            ```bash
+            node $CHELIPED_CLI '[{"cmd":"goto","args":["https://www.38north.org/?s=North+Korea+nuclear"]},{"cmd":"wait","args":["2000"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+            node $CHELIPED_CLI '[{"cmd":"goto","args":["https://www.nknews.org/?s=nuclear"]},{"cmd":"wait","args":["2000"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+            ```
+
+            For each search site in config/search-sites.json where enabled=true:
+            - Search engines: use the `search` command with appropriate keywords for that engine's languages
+            - Custom sites: use `goto` with the search_url (replace {query} with URL-encoded keyword), then `extract`
+            - Always `close` the session after each site to free resources
+
+            Collect all extracted links and text for analysis.
 
             ### Step 3: Deduplicate
-            Compare search results against previously reported items from Step 1.
+            Merge results from Step 2A and 2B.
+            Compare against previously reported items from Step 1.
             - Remove items with matching headlines or source URLs
-            - Keep follow-up reports on existing events only if they contain significant new information (mark as "업데이트")
+            - Keep follow-up reports only if they contain significant new information (mark as "업데이트")
 
             ### Step 4: Generate Report
             Write the report to `reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.target }}.md`
 
-            Follow the exact report structure defined in CLAUDE.md:
-            - YAML frontmatter with title, date, sources_count, new_items, updated_items
-            - 요약 (3-5 sentences)
-            - 주요 뉴스 (each with 출처 URL, 일시, 내용, 상태)
-            - 분석 및 평가
-            - 국제 반응
-            - 동향 요약 table
-            - 출처 목록
+            Follow the exact report structure defined in CLAUDE.md.
+            Add a "검색 방법" subsection at the end noting which sources were searched:
+            - WebSearch: list of keywords used
+            - Cheliped: list of sites searched (from config/search-sites.json)
 
             If no news found, create a "특이사항 없음" report with the same structure.
 
