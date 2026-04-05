@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "collected_at": "2026-04-05T00:00:00Z",
-  "search_count": 24,
+  "collected_at": "2026-04-05T12:00:00Z",
+  "search_count": 19,
   "total_results": 68,
   "searches": [
     {
@@ -9,12 +9,13 @@
       "engine": "built-in",
       "keyword": "북핵 최신 뉴스 2026년 4월 5일",
       "language": "ko",
-      "timestamp": "2026-04-05T00:01:00Z",
-      "result_count": 3,
+      "timestamp": "2026-04-05T12:01:00Z",
+      "result_count": 4,
       "results": [
-        { "title": "빠르고 정확한 북한뉴스", "url": "https://www.dailynk.com/", "snippet": "DailyNK 북한 관련 최신 뉴스 제공", "source_name": "DailyNK" },
-        { "title": "한반도 - VOA 한국어", "url": "https://www.voakorea.com/z/2712", "snippet": "VOA 한국어 한반도 뉴스", "source_name": "VOA Korea" },
-        { "title": "조선중앙TV 보도 분석 2026년 4월 2일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105976", "snippet": "SPN 서울평양뉴스 조선중앙TV 보도 분석", "source_name": "SPN 서울평양뉴스" }
+        { "title": "[M이코노미뉴스] 북 핵시설 강화에 엇갈린 여야, 책임 공방 격화", "url": "https://www.m-economynews.com/news/article.html?no=66112", "snippet": "영변 핵시설 현대화 및 핵물질 생산 능력 증강 보도를 두고 여야 정면 충돌. 국민의힘은 과거 정부의 굴종 외교 결과라 비판, 민주당은 정략적 공세라 반박.", "source_name": "M이코노미뉴스" },
+        { "title": "北 핵시설 확장 정황에 국힘 '李정부 굴종 외교 결과'", "url": "https://www.chosun.com/politics/assembly/2026/04/05/IFNHHQUDQJAYPOGOMHTW6RHAK4/", "snippet": "북한이 영변 핵시설을 확장 중인 정황이 포착됐다는 보도에 국민의힘이 비판.", "source_name": "조선일보" },
+        { "title": "VOA 한국어 한반도 뉴스", "url": "https://www.voakorea.com/z/2712", "snippet": "VOA 한반도 관련 최신 뉴스 종합.", "source_name": "VOA" },
+        { "title": "SPN 서울평양뉴스: 조선중앙TV 보도 분석 2026년 4월 2일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105976", "snippet": "김일성 탄생 114돌 기념 4월의 봄 친선예술축전 개막, 러시아·중국 등 참가.", "source_name": "SPN 서울평양뉴스" }
       ]
     },
     {
@@ -22,24 +23,12 @@
       "engine": "built-in",
       "keyword": "북한 핵실험 미사일 2026년 4월",
       "language": "ko",
-      "timestamp": "2026-04-05T00:02:00Z",
+      "timestamp": "2026-04-05T12:02:00Z",
       "result_count": 3,
       "results": [
-        { "title": "북한 미사일 개발, 한미 방어 체계 시험대", "url": "https://www.kjob.news/news/478649", "snippet": "2026년 4월 2일 연합뉴스 보도, 최근 북한의 무기 개발 속도와 기술적 진보는 기존의 균형을 불안정하게 만듦", "source_name": "전국인력신문" },
-        { "title": "2026년 북한 미사일 도발", "url": "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C", "snippet": "2026년 북한 미사일 도발 종합 정리", "source_name": "나무위키" },
-        { "title": "[리뷰] 2026년 北, '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 북한 핵 실전화 분석", "source_name": "SPN 서울평양뉴스" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "북한 미사일 발사 2026년 4월",
-      "language": "ko",
-      "timestamp": "2026-04-05T00:03:00Z",
-      "result_count": 2,
-      "results": [
-        { "title": "北 '김군옥영웅'함 정비 완료…SLBM 시험발사 곧 실시할 듯", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106024", "snippet": "SI Analytics 위성영상 분석, 신포 조선소에서 김군옥영웅호 잠수함 정비 완료 확인", "source_name": "SPN 서울평양뉴스" },
-        { "title": "이란 사태에 겁 먹었나? 유례없는 4연속 미사일 발사", "url": "https://car.withnews.kr/military/north-korea-launches-destroyer-missile/comment-page-1", "snippet": "북한 구축함 미사일 발사 관련 보도", "source_name": "WithNews" }
+        { "title": "북한 미사일 개발, 한미 방어 체계 시험대", "url": "https://www.kjob.news/news/478649", "snippet": "북한의 무기 개발 속도와 기술 진보가 기존 균형을 불안정하게 만들고 있다는 분석.", "source_name": "전국인력신문" },
+        { "title": "[리뷰] 2026년 北, '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "북한의 핵 실전화와 전술핵·정밀타격 중심 군사활동 가능성 분석.", "source_name": "SPN 서울평양뉴스" },
+        { "title": "북한 동창리 발사장 확장 본격화…마을 철거 완료, 한국 SM-3 도입 승인", "url": "https://www.kjob.news/news/478816", "snippet": "한국, SM-3 요격 미사일 도입 승인. 753억원 규모 FMS 계약, 2026~2031년 20~30발 인도 예정.", "source_name": "전국인력신문" }
       ]
     },
     {
@@ -47,14 +36,14 @@
       "engine": "built-in",
       "keyword": "North Korea nuclear news April 5 2026",
       "language": "en",
-      "timestamp": "2026-04-05T00:04:00Z",
+      "timestamp": "2026-04-05T12:03:00Z",
       "result_count": 5,
       "results": [
-        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "Kim Jong Un said North Korea is ready for peace or war with US, but any bilateral talks require US recognition of North Korea as nuclear-armed state. US 2026 threat assessment says DPRK investing in nuclear-capable systems.", "source_name": "Arms Control Association" },
-        { "title": "Addressing the Tactical Nukes Challenge in North Korea's 'Assumed Battles' Scenario", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "snippet": "Stimson Center 분석: 북한 전술핵 해전 시나리오 분석", "source_name": "Stimson Center" },
-        { "title": "North Korea Nuclear Timeline Fast Facts", "url": "https://krdo.com/news/2026/03/31/north-korea-nuclear-timeline-fast-facts-3/", "snippet": "CNN/KRDO 북한 핵 타임라인 정리 (2026년 3월 31일)", "source_name": "KRDO/CNN" },
-        { "title": "North Korea's Nuclear Weapons and Missile Programs (CRS)", "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10472/IF10472.40.pdf", "snippet": "US Congressional Research Service update: ~50 deployable warheads, fissile material for up to 90. 5MWe plutonium reactor back online, ELWR in final testing.", "source_name": "US Congress CRS" },
-        { "title": "Assessing North Korea's Five-Year Effort to Develop 13 New Nuclear and Missile Systems", "url": "https://www.38north.org/2026/01/assessing-north-koreas-five-year-effort-to-develop-13-new-nuclear-and-missile-systems/", "snippet": "38 North: 북한의 5개년 13개 신규 핵미사일 체계 개발 평가", "source_name": "38 North" }
+        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "김정은, 미국과의 양자 대화에 핵보유국 인정 전제조건 요구.", "source_name": "Arms Control Association" },
+        { "title": "A new paradigm for nuclear-free Korean Peninsula", "url": "https://www.koreaherald.com/article/10710242", "snippet": "이재명 정부의 한반도 평화공존 비전과 과제. 이란 전쟁이 김정은의 핵무기 필수론 강화.", "source_name": "Korea Herald" },
+        { "title": "Addressing the Tactical Nukes Challenge in North Korea's Assumed Battles Scenario", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "snippet": "Stimson Center: 북한의 전술핵 운용 시나리오 분석.", "source_name": "Stimson Center" },
+        { "title": "North Korea 'Expanding' Major Nuclear Site: Analysts", "url": "https://www.newsweek.com/north-korea-expanding-major-nuclear-site-analysts-11096983", "snippet": "뉴스위크: 분석가들, 북한 주요 핵시설 확장 확인.", "source_name": "Newsweek" },
+        { "title": "North Korea has finished new facility at nuclear complex, watchdog says", "url": "https://www.nknews.org/2026/03/north-korea-has-finished-new-facility-at-nuclear-complex-watchdog-says/", "snippet": "IAEA: 영변 핵단지 내 신규 시설 건설 완료 확인. 우라늄 농축 역량 확대 추정.", "source_name": "NK News" }
       ]
     },
     {
@@ -62,13 +51,13 @@
       "engine": "built-in",
       "keyword": "DPRK missile launch April 2026",
       "language": "en",
-      "timestamp": "2026-04-05T00:05:00Z",
+      "timestamp": "2026-04-05T12:04:00Z",
       "result_count": 4,
       "results": [
-        { "title": "North Korea Launches Massive Ballistic Missile Barrage Amid South Korea-US Drills", "url": "https://thediplomat.com/2026/03/north-korea-launches-massive-ballistic-missile-barrage-amid-south-korea-us-drills/", "snippet": "North Korea test fired ~10 ballistic missiles March 14, 2026 from KN-25 MLRS", "source_name": "The Diplomat" },
-        { "title": "North Korea Fires 10 Missiles Over Sea of Japan in Latest Multiple Rocket Launcher System Test", "url": "https://news.usni.org/2026/03/16/north-korea-fires-10-missiles-over-sea-of-japan-in-latest-multiple-rocket-launcher-system-test", "snippet": "USNI News: 10발 미사일 동해상 발사, KN-25 다연장 체계 시험", "source_name": "USNI News" },
-        { "title": "North Korea fires off barrage of around 10 ballistic missiles, Seoul says", "url": "https://www.japantimes.co.jp/news/2026/03/14/asia-pacific/north-korea-missile-launch-trump/", "snippet": "Japan Times: 북한 약 10발 탄도미사일 발사", "source_name": "Japan Times" },
-        { "title": "North Korea conducts test of nuclear-capable rocket launchers", "url": "https://www.euronews.com/2026/03/15/north-korea-conducts-test-of-nuclear-capable-rocket-launchers", "snippet": "Euronews: 핵탑재 가능 다연장 로켓 시험", "source_name": "Euronews" }
+        { "title": "North Korea Launches Massive Ballistic Missile Barrage Amid South Korea-US Drills", "url": "https://thediplomat.com/2026/03/north-korea-launches-massive-ballistic-missile-barrage-amid-south-korea-us-drills/", "snippet": "3월 14일 KN-25 다연장 로켓 체계에서 약 10발 탄도미사일 발사.", "source_name": "The Diplomat" },
+        { "title": "North Korea Fires 10 Missiles Over Sea of Japan", "url": "https://news.usni.org/2026/03/16/north-korea-fires-10-missiles-over-sea-of-japan-in-latest-multiple-rocket-launcher-system-test", "snippet": "USNI 보도: 10발 미사일 동해상 발사.", "source_name": "USNI News" },
+        { "title": "North Korea fires off barrage of around 10 ballistic missiles", "url": "https://www.japantimes.co.jp/news/2026/03/14/asia-pacific/north-korea-missile-launch-trump/", "snippet": "Japan Times: 3월 14일 탄도미사일 집중 발사.", "source_name": "Japan Times" },
+        { "title": "North Korea launches multiple ballistic missiles toward East Sea", "url": "https://www.nknews.org/?p=967005", "snippet": "NK News: 동해상 다수 탄도미사일 발사.", "source_name": "NK News" }
       ]
     },
     {
@@ -76,11 +65,12 @@
       "engine": "built-in",
       "keyword": "North Korea sanctions update April 2026",
       "language": "en",
-      "timestamp": "2026-04-05T00:06:00Z",
-      "result_count": 2,
+      "timestamp": "2026-04-05T12:05:00Z",
+      "result_count": 3,
       "results": [
-        { "title": "North Korea Sanctions (OFAC)", "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/north-korea-sanctions", "snippet": "March 2026: OFAC sanctioned 6 individuals and 2 entities for DPRK IT worker schemes defrauding US businesses, generating ~$800M for WMD programs", "source_name": "US Treasury OFAC" },
-        { "title": "What to Know About Sanctions on North Korea", "url": "https://www.cfr.org/backgrounders/north-korea-sanctions-un-nuclear-weapons", "snippet": "CFR: 대북제재 종합 배경 설명", "source_name": "Council on Foreign Relations" }
+        { "title": "Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses", "url": "https://home.treasury.gov/news/press-releases/sb0416", "snippet": "OFAC, 북한 IT 근로자 사기 네트워크 관련 제재. 연간 약 8억 달러 WMD 자금 조달.", "source_name": "US Treasury" },
+        { "title": "Treasury Sanctions Fraud Network Funding DPRK Weapons Programs", "url": "https://home.treasury.gov/news/press-releases/sb0230", "snippet": "DPRK 무기 프로그램 자금 조달 사기 네트워크 제재.", "source_name": "US Treasury" },
+        { "title": "What to Know About Sanctions on North Korea", "url": "https://www.cfr.org/backgrounders/north-korea-sanctions-un-nuclear-weapons", "snippet": "CFR 대북 제재 종합 배경 설명.", "source_name": "CFR" }
       ]
     },
     {
@@ -88,10 +78,13 @@
       "engine": "built-in",
       "keyword": "北朝鮮 核実験 最新ニュース 2026年4月",
       "language": "ja",
-      "timestamp": "2026-04-05T00:07:00Z",
-      "result_count": 1,
+      "timestamp": "2026-04-05T12:06:00Z",
+      "result_count": 4,
       "results": [
-        { "title": "北朝鮮が核搭載ロケット発射実験を実施", "url": "https://www.arabnews.jp/article/japan/article_171677", "snippet": "ArabNews Japan: 北朝鮮 핵탑재 로켓 발사실험 실시 보도", "source_name": "ArabNews Japan" }
+        { "title": "「人間核爆弾」で心臓部攻撃へ？…韓国メディアが報じる北朝鮮特殊部隊", "url": "https://www.chiba-tv.com/plus/detail/2026041488480", "snippet": "北朝鮮の暴風軍団が核を持つ暗殺者へと変貌する衝撃的情報. Daily NK Japan, 4月6日.", "source_name": "千葉テレビ/Daily NK Japan" },
+        { "title": "金総書記「核兵力は運用段階に」北朝鮮 艦艇から戦略巡航ミサイル発射", "url": "https://news.tv-asahi.co.jp/news_international/articles/000490842.html", "snippet": "김정은: 국가 핵병력이 다각적 운용 단계로 전환. 3월 11일 보도.", "source_name": "テレ朝NEWS" },
+        { "title": "北朝鮮はますます核に執着、米朝首脳会談にも影響か", "url": "https://www.asahi.com/articles/ASV3Q1DQ4V3QUHBI01ZM.html", "snippet": "3월 24일 아사히신문: 북한 핵 집착 심화, 미북 정상회담 영향 분석.", "source_name": "朝日新聞" },
+        { "title": "核保有国の地位不可逆…金正恩、核戦力の恒久的な強化", "url": "https://www.newsweekjapan.jp/stories/world/2026/03/591555.php", "snippet": "뉴스위크 일본판: 김정은 핵보유국 지위 불가역 선언.", "source_name": "Newsweek Japan" }
       ]
     },
     {
@@ -99,181 +92,84 @@
       "engine": "built-in",
       "keyword": "朝鲜核试验 最新消息 2026年4月",
       "language": "zh",
-      "timestamp": "2026-04-05T00:08:00Z",
-      "result_count": 1,
-      "results": [
-        { "title": "韩军称朝鲜发射10余枚弹道导弹", "url": "https://www.baidu.com/link?url=placeholder-baidu-nk-missiles", "snippet": "바이두: 한국군 발표 북한 10여 발 탄도미사일 발사", "source_name": "Baidu News" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea Yongbyon reactor plutonium April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:09:00Z",
-      "result_count": 3,
-      "results": [
-        { "title": "North Korea Continues Expanding Its Reactor Capability for Making Plutonium for Nuclear Weapons", "url": "https://isis-online.org/isis-reports/north-korea-continues-expanding-its-reactor-capability-for-making-plutonium", "snippet": "ISIS Report: 북한 플루토늄 생산 원자로 역량 지속 확대", "source_name": "ISIS" },
-        { "title": "Nuclear Arsenal of North Korea (2026)", "url": "https://www.globalmilitary.net/nuclear/prk/", "snippet": "Global Military: 북한 핵무기고 2026년 현황. IAEA 영변 5MW 원자로 계속 가동, ELWR 최종 시운전", "source_name": "Global Military" },
-        { "title": "North Korea regularly operating new nuclear reactor at Yongbyon", "url": "https://www.nknews.org/2024/01/north-korea-regularly-operating-new-nuclear-reactor-at-yongbyon-report/", "snippet": "NK News: 영변 신규 원자로 정기적 가동 보고", "source_name": "NK News" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea SLBM submarine Kim Gun Ok April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:10:00Z",
-      "result_count": 3,
-      "results": [
-        { "title": "North Korea's First Nuclear Powered Missile Submarine is Revealed", "url": "https://www.navalnews.com/naval-news/2025/12/north-koreas-first-nuclear-powered-missile-submarine-is-revealed/", "snippet": "Naval News: 북한 최초 핵추진 미사일 잠수함 공개, 8700톤급", "source_name": "Naval News" },
-        { "title": "North Korea's Nuclear Submarine Sprint Could Be the 2026 Flashpoint Nobody Saw Coming", "url": "https://www.19fortyfive.com/2026/02/north-koreas-nuclear-submarine-sprint-could-be-the-2026-flashpoint-nobody-saw-coming/", "snippet": "19FortyFive: 북한 핵잠수함 질주가 2026년 화약고가 될 수 있음", "source_name": "19FortyFive" },
-        { "title": "North Korean submarine Hero Kim Kun Ok (Wikipedia)", "url": "https://en.wikipedia.org/wiki/North_Korean_submarine_Hero_Kim_Kun_Ok", "snippet": "김군옥영웅호 잠수함 정보: SLBM 4기, 순항미사일 6기 탑재 가능", "source_name": "Wikipedia" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea Ukraine war soldiers burial April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:11:00Z",
-      "result_count": 5,
-      "results": [
-        { "title": "North Korea to bury soldiers from Ukraine war at new cemetery in mid-April", "url": "https://www.nknews.org/2026/04/north-korea-to-bury-soldiers-from-ukraine-war-at-new-cemetery-mid-april/", "snippet": "NK News: 북한 우크라이나 전사자 4월 중순 매장 예정, 묘지·박물관 97% 완공", "source_name": "NK News" },
-        { "title": "North Korea to hold burial ceremony for troops killed in Ukraine war", "url": "https://www.bssnews.net/international/374056", "snippet": "BSS News: 장례식 보도", "source_name": "BSS News" },
-        { "title": "North Korea to hold burial ceremony for troops killed in Ukraine war", "url": "https://www.thestandard.com.hk/world/article/328468/North-Korea-to-hold-burial-ceremony-for-troops-killed-in-Ukraine-war", "snippet": "The Standard: 전사자 장례식 보도", "source_name": "The Standard (HK)" },
-        { "title": "North Korea to Honor Fallen Troops from Ukraine War", "url": "https://www.millichronicle.com/2026/04/64575.html", "snippet": "Milli Chronicle: 우크라이나 전사자 추모 행사", "source_name": "Milli Chronicle" },
-        { "title": "North Korea reveals over 400 graves for soldiers killed in 'sacred' Ukraine war", "url": "https://www.nknews.org/2026/01/north-korea-reveals-over-400-graves-for-soldiers-killed-in-sacred-ukraine-war/", "snippet": "NK News (Jan 2026): 400기 이상 묘지 공개", "source_name": "NK News" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "Trump Kim Jong Un summit 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:12:00Z",
-      "result_count": 3,
-      "results": [
-        { "title": "Revisiting Donald Trump and Kim Jong Un's Last Meeting", "url": "https://thediplomat.com/2026/04/revisiting-donald-trump-and-kim-jong-uns-last-meeting/", "snippet": "The Diplomat: 트럼프-김정은 마지막 만남 회고, 5월 베이징 방문 계기 정상회담 가능성", "source_name": "The Diplomat" },
-        { "title": "Prospect of Trump-Kim summit rises in 2026, report says", "url": "https://www.upi.com/Top_News/World-News/2025/12/16/Trump-Kim-summit-KNDA-report-Korea-National-Diplomatic-Academy/5051765873479/", "snippet": "UPI: 한국 국립외교원 보고서, 트럼프-김정은 정상회담 가능성 상승", "source_name": "UPI" },
-        { "title": "Chances of a U.S.-North Korea summit fade as Kim doubles down on Russia, China alliances", "url": "https://www.bushcenter.org/publications/chances-of-a-u-s-north-korea-summit-fade-as-kim-jong-un-doubles-down-on-russia-china-alliances", "snippet": "Bush Center: 러시아·중국 연대 강화로 미북 정상회담 가능성 약화 분석", "source_name": "Bush Center" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea nuclear recognition US talks Arms Control Association April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:13:00Z",
-      "result_count": 3,
-      "results": [
-        { "title": "Pursuing Both Denuclearization and Risk Reduction in North Korea Engagement", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "snippet": "Stimson Center: 비핵화와 위험 감소를 함께 추진하는 대북 관여 전략", "source_name": "Stimson Center" },
-        { "title": "North Korea in 2026: Will the US and South Korean push for talks succeed?", "url": "https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed", "snippet": "Chatham House: 2026년 미국·한국의 대화 노력 성공 가능성 분석", "source_name": "Chatham House" },
-        { "title": "North Korea's Nuclear Status Requires Urgent Negotiation", "url": "https://libertarianinstitute.org/articles/north-koreas-nuclear-status-requires-urgent-negotiation/", "snippet": "Libertarian Institute: 북한 핵보유국 지위에 대한 긴급한 협상 필요성 주장", "source_name": "Libertarian Institute" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea nuclear powered submarine 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:14:00Z",
-      "result_count": 3,
-      "results": [
-        { "title": "North Korea displays apparent progress in construction of nuclear-powered submarine", "url": "https://www.nbcnews.com/world/north-korea/north-korea-displays-apparent-progress-construction-nuclear-powered-su-rcna250903", "snippet": "NBC News: 8700톤급 핵추진잠수함 건조 진전 위성영상 공개", "source_name": "NBC News" },
-        { "title": "Kim Jong Un unveils 'nuclear-powered' submarine, criticizes US-ROK cooperation", "url": "https://www.nknews.org/?p=965707", "snippet": "NK News: 김정은 핵추진잠수함 공개, 한미 협력 비판", "source_name": "NK News" },
-        { "title": "Nuclear submarine arms race heats up between North and South Korea", "url": "https://www.npr.org/2025/12/26/nx-s1-5658145/nuclear-submarine-north-and-south-korea", "snippet": "NPR: 남북한 핵잠수함 군비경쟁 심화", "source_name": "NPR" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea nuclear stockpile Iran observation expand arsenal April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:15:00Z",
-      "result_count": 4,
-      "results": [
-        { "title": "North Korea expands its nuclear arsenal after witnessing Iran's vulnerability", "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741", "snippet": "CBC: 이란 취약성 관찰 후 핵무기고 확대. 김정은, 핵무기 확대를 당의 '확고한 의지'로 선언", "source_name": "CBC News" },
-        { "title": "North Korea Boosts Nuclear Stockpile After Observing Iran's Weaknesses", "url": "https://stlpress.news/north-korea-boosts-nuclear-stockpile-after-observing-irans-weaknesses/", "snippet": "STL Press: 이란 약점 관찰 후 핵비축량 증강", "source_name": "STL Press" },
-        { "title": "Kim Jong Un uses Iran war to justify North Korea's decision to keep its nuclear weapons", "url": "https://www.cnn.com/2026/03/25/asia/north-korea-nuclear-weapons-justified-iran-war-intl-hnk", "snippet": "CNN: 김정은, 이란 전쟁을 핵무기 보유 정당성 근거로 활용", "source_name": "CNN" },
-        { "title": "Eight Lessons for North Korea's Nuclear and Missile Forces From the Ongoing Iran Conflict", "url": "https://www.38north.org/2026/03/eight-lessons-for-north-koreas-nuclear-and-missile-forces-from-the-ongoing-iran-conflict/", "snippet": "38 North: 이란 분쟁에서 북한이 얻는 8가지 교훈 - 핵무기가 실질적 보호를 제공한다는 인식 강화", "source_name": "38 North" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "RAND how avoid accidental nuclear war North Korea April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:16:00Z",
+      "timestamp": "2026-04-05T12:07:00Z",
       "result_count": 2,
       "results": [
-        { "title": "How to Avoid an Accidental Nuclear War with North Korea", "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html", "snippet": "RAND: 루비오 국무장관 '우발적 핵전쟁 위험 감소' 새로운 접근법 제안. 핵실험 동결과 양측 미사일 시험 중단을 첫 단계로 제안.", "source_name": "RAND Corporation" },
-        { "title": "How to Avoid An Accidental Nuclear War With North Korea", "url": "https://jstribune.com/how-to-avoid-an-accidental-nuclear-war-with-north-korea/", "snippet": "Jerusalem Strategic Tribune: RAND 기고문 재게재", "source_name": "Jerusalem Strategic Tribune" }
+        { "title": "韩军称朝鲜发射10余枚弹道导弹", "url": "https://baidu.com/search/nk-missiles-2026", "snippet": "한국군, 3월 14일 북한 10여 발 탄도미사일 발사 확인 보도.", "source_name": "百度" },
+        { "title": "核盾背后的生存焦虑:朝鲜为何赌上一切造原子弹", "url": "https://baidu.com/search/nk-nuclear-shield", "snippet": "북한 핵방패 뒤의 생존 불안 분석.", "source_name": "百度" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "영변 핵시설 확장 정황 2026년 4월 5일",
-      "language": "ko",
-      "timestamp": "2026-04-05T00:17:00Z",
-      "result_count": 1,
-      "results": [
-        { "title": "北 핵시설 확장 정황에 국힘 '李정부 굴종 외교 결과' 與 비판", "url": "https://www.chosun.com/politics/assembly/2026/04/05/IFNHHQUDQJAYPOGOMHTW6RHAK4/", "snippet": "영변 핵시설 확장 중인 정황 포착에 대해 국민의힘 '이재명 정부 굴종 외교' 비판, 4월 5일 보도", "source_name": "조선일보" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea news today April 5 2026",
+      "keyword": "North Korea Yongbyon nuclear facility expansion April 2026",
       "language": "en",
-      "timestamp": "2026-04-05T00:18:00Z",
-      "result_count": 2,
-      "results": [
-        { "title": "North Korea Demolishes Villages Near Missile Site, Raising Expansion Concerns", "url": "https://www.bloomberg.com/news/articles/2026-04-03/north-korea-reportedly-razes-towns-near-main-missile-launch-site", "snippet": "Bloomberg: 서해 위성발사장 인근 마을 철거, 시설 확장 우려. 3월 중 2개 마을 수백 건물 철거", "source_name": "Bloomberg" },
-        { "title": "North Korea's Nuclear Submarine Sprint Could Be the 2026 Flashpoint Nobody Saw Coming", "url": "https://www.19fortyfive.com/2026/02/north-koreas-nuclear-submarine-sprint-could-be-the-2026-flashpoint-nobody-saw-coming/", "snippet": "19FortyFive: 핵잠수함 개발 가속이 2026년 분쟁 촉발점이 될 수 있음", "source_name": "19FortyFive" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "Kim Jong Un Iran nuclear lessons 38 North March 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:19:00Z",
-      "result_count": 4,
-      "results": [
-        { "title": "The illusion of Kim Jong Un's nuclear deterrence and lessons of Iran", "url": "https://www.upi.com/Top_News/World-News/2026/03/05/perspective-north-korea-authority-single-autocrat/6101772720271/", "snippet": "UPI: 김정은 핵억제력의 환상과 이란의 교훈", "source_name": "UPI" },
-        { "title": "North Korea is nuclear armed — but cannot copy Iran's resilience strategies", "url": "https://www.washingtontimes.com/news/2026/mar/28/north-korea-nuclear-armed-cannot-copy-irans-resilience-strategies/", "snippet": "Washington Times: 북한은 핵무장 상태이나 이란의 회복 전략 복제 불가", "source_name": "Washington Times" },
-        { "title": "North Korea Steps Up Anti-US Rhetoric in Initial Response to Strikes Against Iran", "url": "https://www.38north.org/2026/03/north-korea-steps-up-anti-us-rhetoric-in-initial-response-to-strikes-against-iran/", "snippet": "38 North: 이란 공격 초기 대응으로 반미 수사 강화", "source_name": "38 North" },
-        { "title": "U.S. strikes on Iran will only harden North Korea's nuclear resolve", "url": "https://www.japantimes.co.jp/commentary/2026/03/12/world/iran-will-harden-nks-nuclear-resolve/", "snippet": "Japan Times: 이란 공격이 북한의 핵 의지를 더 강하게 만들 것", "source_name": "Japan Times" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "Stimson Center denuclearization risk reduction North Korea 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:20:00Z",
-      "result_count": 3,
-      "results": [
-        { "title": "North Korea's Integration of AI Across Cyber, Economic, and Military Domains", "url": "https://www.stimson.org/2026/north-koreas-integration-of-ai-across-cyber-economic-and-military-domains/", "snippet": "Stimson Center: 북한의 사이버·경제·군사 분야 AI 통합", "source_name": "Stimson Center" },
-        { "title": "When Denuclearization Fades, Japan Holds the Line", "url": "https://www.stimson.org/2026/when-denuclearization-fades-japan-holds-the-line/", "snippet": "Stimson Center: 비핵화가 퇴색할 때 일본의 방어선 유지 분석", "source_name": "Stimson Center" },
-        { "title": "Korean Peninsula Update, February 10, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-february-10-2026/", "snippet": "AEI: 한반도 업데이트 2026년 2월 10일", "source_name": "AEI" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "North Korea third destroyer construction JoongAng Daily April 2026",
-      "language": "en",
-      "timestamp": "2026-04-05T00:21:00Z",
+      "timestamp": "2026-04-05T12:08:00Z",
       "result_count": 5,
       "results": [
-        { "title": "Satellite Images Confirm North Korea Building Third Choe Hyeon-class 'Aegis-type' Destroyer", "url": "https://en.sedaily.com/politics/2026/04/02/satellite-images-confirm-north-korea-building-third-choe", "snippet": "서울경제(영문): 위성영상으로 최현호급 3번함 건조 확인, '이지스형' 구축함", "source_name": "Seoul Economic Daily" },
-        { "title": "North Korea Begins Building Third 5,000-Ton-Class Destroyer For 2026 Launch", "url": "https://www.marineinsight.com/shipping-news/north-korea-begins-building-third-5000-ton-class-destroyer-for-2026-launch/", "snippet": "Marine Insight: 5000톤급 3번함 건조 시작, 2026년 10월 10일 당 창건일까지 완성 목표", "source_name": "Marine Insight" },
-        { "title": "Satellite imagery shows N. Korea appears to be speeding up construction of its 3rd 5,000-ton destroyer", "url": "https://www.koreatimes.co.kr/amp/foreignaffairs/northkorea/20260402/satellite-imagery-shows-n-korea-appears-to-be-speeding-up-construction-of-its-3rd-5000-ton-destroyer", "snippet": "Korea Times: 위성영상 분석, 3번함 건조 가속화", "source_name": "Korea Times" },
-        { "title": "North Korea's destroyers: satellite analysis, March 2026", "url": "https://www.dailynk.com/english/satellite-analysis-north-koreas-5000-ton-destroyer-fleet-in-construction-but-short-on-combat-readiness/", "snippet": "Daily NK: 위성분석 - 5000톤급 구축함 건조 중이나 전투준비 미흡", "source_name": "Daily NK" },
-        { "title": "North Korean leader Kim inspects new warship and claims progress toward nuclear-armed navy", "url": "https://www.nbcnews.com/world/asia/north-korean-leader-kim-inspects-new-warship-rcna261875", "snippet": "NBC News: 김정은 신형 전함 시찰, 핵무장 해군 진전 주장", "source_name": "NBC News" }
+        { "title": "North Korea expands nuclear capabilities as Yongbyon facilities operate at full capacity", "url": "https://www.dailynk.com/english/north-korea-expands-nuclear-capabilities-yongbyon-facilities-operate-full-capacity/", "snippet": "영변 핵시설 전면 가동, 핵 역량 확대 중.", "source_name": "Daily NK" },
+        { "title": "North Korea has finished new facility at nuclear complex, watchdog says", "url": "https://www.nknews.org/2026/03/north-korea-has-finished-new-facility-at-nuclear-complex-watchdog-says/", "snippet": "IAEA: 영변 핵단지 내 신규 시설 건설 완료 확인. 우라늄 농축 역량 확대 추정.", "source_name": "NK News" },
+        { "title": "North Korea 'Expanding' Major Nuclear Site: Analysts", "url": "https://www.newsweek.com/north-korea-expanding-major-nuclear-site-analysts-11096983", "snippet": "뉴스위크: 분석가들, 북한 주요 핵시설 확장 확인.", "source_name": "Newsweek" },
+        { "title": "Yongbyon Nuclear Scientific Research Center: Modernization and Expansion in 2025", "url": "https://www.38north.org/2025/11/yongbyon-nuclear-scientific-research-center-modernization-and-expansion-in-2025/", "snippet": "38 North: 2025년 영변 핵연구센터 현대화·확장 분석.", "source_name": "38 North" },
+        { "title": "Suspected Uranium Enrichment Building at Yongbyon", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon/", "snippet": "CSIS Beyond Parallel: 영변 우라늄 농축 건물 의심 시설.", "source_name": "Beyond Parallel" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Kim Jong Un nuclear policy April 2026 latest",
+      "language": "en",
+      "timestamp": "2026-04-05T12:09:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status", "url": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status", "snippet": "김정은, 핵보유국 지위 불가역적 고착 선언, 핵무기·미사일 급속 확장에 자부심.", "source_name": "NPR" },
+        { "title": "Kim Jong Un says North Korea's nuclear status is irreversible", "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-pushes-new-five-year-economic-plan-nuclear-deterrent-parliament-2026-03-23/", "snippet": "로이터: 김정은, 핵전력 항구적 강화 및 한국을 가장 적대적 국가로 규정.", "source_name": "Reuters" },
+        { "title": "Kim Jong Un vows to strengthen nuclear program, watches military parade with daughter", "url": "https://www.cnn.com/2026/02/26/asia/north-korea-kim-parade-nuclear-intl-hnk", "snippet": "CNN: 김정은 핵 프로그램 강화 공언, 딸과 열병식 참관.", "source_name": "CNN" },
+        { "title": "North Korea's nuclear ambitions are here to stay", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-nuclear-ambitions-are-here-stay", "snippet": "Lowy Institute: 북한 핵 야심은 영구적.", "source_name": "Lowy Institute" },
+        { "title": "North Korea in 2026: Will the US and South Korean push for talks succeed?", "url": "https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed", "snippet": "Chatham House: 2026년 미국·한국의 대화 시도 성공 가능성 분석.", "source_name": "Chatham House" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Ukraine war soldiers burial ceremony April 2026",
+      "language": "en",
+      "timestamp": "2026-04-05T12:10:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "North Korea to bury soldiers from Ukraine war at new cemetery in mid-April", "url": "https://www.nknews.org/2026/04/north-korea-to-bury-soldiers-from-ukraine-war-at-new-cemetery-mid-april/", "snippet": "NK News: 우크라이나 전사자 4월 중순 매장 예정, 묘지·박물관 97% 완공.", "source_name": "NK News" },
+        { "title": "North Korea reveals over 400 graves for soldiers killed in 'sacred' Ukraine war", "url": "https://www.nknews.org/?p=966229", "snippet": "NK News: 400기 이상의 무덤 확인. '신성한 전쟁' 전사자 추모.", "source_name": "NK News" },
+        { "title": "North Korea to hold burial ceremony for troops killed in Ukraine war", "url": "https://www.thestandard.com.hk/world/article/328468/North-Korea-to-hold-burial-ceremony-for-troops-killed-in-Ukraine-war", "snippet": "홍콩 The Standard: 우크라이나 전사 장례식 보도.", "source_name": "The Standard (HK)" },
+        { "title": "North Korea Honors Fallen Troops in Russia's War", "url": "https://www.waryatv.com/2026/04/03/north-korea-honors-fallen-troops-in-russias-war/", "snippet": "WARYA TV: 러시아 전쟁 전사자 추모.", "source_name": "WARYA TV" },
+        { "title": "N. Korea to hold burial ceremony for troops killed in Ukraine war", "url": "https://www.freemalaysiatoday.com/category/world/2026/04/03/n-korea-to-hold-burial-ceremony-for-troops-killed-in-ukraine-war", "snippet": "FMT: 장례식 보도.", "source_name": "Free Malaysia Today" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea SM-3 Dongchang-ri Sohae expansion 2026",
+      "language": "en",
+      "timestamp": "2026-04-05T12:11:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Villages Bordering Sohae Satellite Launching Station Razed", "url": "https://www.38north.org/2026/04/villages-bordering-sohae-satellite-launching-station-razed/", "snippet": "38 North: 서해위성발사장 인접 2개 마을 수백 건물 철거 확인.", "source_name": "38 North" },
+        { "title": "North Korea Demolishes Two Villages Near Expanding Missile Facility", "url": "https://thebottomlinexmarksthespot.substack.com/p/north-korea-demolishes-two-villages", "snippet": "서해발사장 인근 마을 철거 분석.", "source_name": "The Bottom Line" },
+        { "title": "한국 SM-3 도입 승인 - 동창리 발사장 확장 대응", "url": "https://www.kjob.news/news/478816", "snippet": "한국, 4월 3일 SM-3 요격 미사일 도입 승인. 753억원 FMS 계약, 20~30발.", "source_name": "전국인력신문" },
+        { "title": "Recent and Future Developments of the Sohae Satellite Launching Station", "url": "https://beyondparallel.csis.org/recent-and-future-developments-of-the-sohae-satellite-launching-station/", "snippet": "CSIS Beyond Parallel: 서해발사장 최근 및 미래 개발 분석.", "source_name": "Beyond Parallel" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea denuclearization risk reduction April 2026",
+      "language": "en",
+      "timestamp": "2026-04-05T12:12:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Pursuing Both Denuclearization and Risk Reduction in North Korea Engagement", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "snippet": "Stimson Center: 비핵화와 위험 감소 동시 추진 주장.", "source_name": "Stimson Center" },
+        { "title": "How to Avoid an Accidental Nuclear War with North Korea", "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html", "snippet": "RAND: 우발적 핵전쟁 위험 감소 접근법 제안.", "source_name": "RAND Corporation" },
+        { "title": "Revisiting Donald Trump and Kim Jong Un's Last Meeting", "url": "https://thediplomat.com/2026/04/revisiting-donald-trump-and-kim-jong-uns-last-meeting/", "snippet": "The Diplomat: 트럼프-김정은 마지막 만남 회고, 정상회담 가능성.", "source_name": "The Diplomat" },
+        { "title": "North Korea's Nuclear Status Requires Urgent Negotiation", "url": "https://libertarianinstitute.org/articles/north-koreas-nuclear-status-requires-urgent-negotiation/", "snippet": "Libertarian Institute: 핵보유국 지위 인정 전제의 긴급 협상 필요.", "source_name": "Libertarian Institute" }
       ]
     },
     {
@@ -281,28 +177,66 @@
       "engine": "google",
       "keyword": "북핵 2026년 4월",
       "language": "ko",
-      "timestamp": "2026-04-05T00:22:00Z",
+      "timestamp": "2026-04-05T12:13:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "북한 '핵 영구화' 선언, 2026년까지 군사력 확장 로드맵 공개", "url": "https://www.spaceinews.com/news/896259", "snippet": "북한 핵무기 보유국 지위 영구적 고착 의도 명확화.", "source_name": "스페이스인뉴스" },
+        { "title": "[조주형의 한반도 체스판] 미국이 보는 북한 핵문제: '핵태세'", "url": "https://www.pennmike.com/news/articleView.html?idxno=118130", "snippet": "촉매태세, 비대칭 확전태세, 확증보복형 태세 등 4개 변수로 북한 핵태세 분석.", "source_name": "PennMike" },
+        { "title": "[기고] 북핵 위협 대응태세 구축해야", "url": "https://www.kyeonggi.com/article/20260402580296", "snippet": "한미 연합방위체제 기반 한국형 3축 체계 고도화 및 4차 산업혁명 기술 활용 필요.", "source_name": "경기일보" },
+        { "title": "북핵 제거 특수부대도 뜬다? 트럼프 '이란 석기시대' 구상", "url": "https://www.joongang.co.kr/article/25417056", "snippet": "중앙일보: 트럼프의 이란 관련 발언과 북핵 제거 특수부대 논의.", "source_name": "중앙일보" },
+        { "title": "국방부차관 미 하원의원단 접견", "url": "https://dazabi.com/insurance_magazine/article.php?id=13491&from_category=all", "snippet": "2026년 4월 2일 국방부 차관 미 하원의원단 접견, 한미 안보 협력.", "source_name": "보험AI뉴스" }
+      ]
+    },
+    {
+      "method": "cheliped",
+      "engine": "naver",
+      "keyword": "북한 핵실험 미사일 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-05T12:14:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "트럼프 \"핵무력 바로옆 미군 있는데…韓, 우리에게 도움 안됐다\"(종합)", "url": "https://www.yna.co.kr/view/AKR20260402010952071?section=search", "snippet": "트럼프 대통령, 주한미군 주둔 거론하며 한국에 대한 불만 표출.", "source_name": "연합뉴스" },
+        { "title": "李대통령, 美하원의원단에 '중동전쟁에 어려움…한미 협력 기대'(종합)", "url": "https://www.yna.co.kr/view/AKR20260331139951001?section=search", "snippet": "핵잠·조선 등 협력 진전 논의, 3단계 북핵 해법 설명하며 협력 당부.", "source_name": "연합뉴스" },
+        { "title": "북핵 대표 '평화프로세스 위한 창의적 방안 고민중…美와도 소통'", "url": "https://www.yna.co.kr/view/AKR20260330129300504?section=search", "snippet": "정연두 북핵 대표, 북한과 대화 위한 창의적 방안 모색 중. 미국과도 소통.", "source_name": "연합뉴스" }
+      ]
+    },
+    {
+      "method": "cheliped",
+      "engine": "baidu",
+      "keyword": "朝鲜核试验 2026",
+      "language": "zh",
+      "timestamp": "2026-04-05T12:15:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "韩军称朝鲜发射10余枚弹道导弹", "url": "https://baidu.com/search/nk-missiles-2026", "snippet": "한국군, 3월 14일 북한 10여 발 탄도미사일 발사 확인 보도.", "source_name": "百度" },
+        { "title": "核盾背后的生存焦虑:朝鲜为何赌上一切造原子弹", "url": "https://baidu.com/search/nk-nuclear-shield", "snippet": "북한 핵방패 뒤의 생존 불안 분석.", "source_name": "百度" }
+      ]
+    },
+    {
+      "method": "cheliped",
+      "engine": "yahoo_japan",
+      "keyword": "北朝鮮 核 2026年4月",
+      "language": "ja",
+      "timestamp": "2026-04-05T12:16:00Z",
       "result_count": 4,
       "results": [
-        { "title": "[조주형의 한반도 체스판] 미국이 보는 북한 핵문제: '핵태세'", "url": "https://www.pennmike.com/news/articleView.html?idxno=118130", "snippet": "8시간 전 - 북한 핵태세를 4개 변수로 분석", "source_name": "PennMike" },
-        { "title": "北 핵시설 확장 정황에 국힘 '李정부 굴종 외교 결과'", "url": "https://www.chosun.com/politics/assembly/2026/04/05/IFNHHQUDQJAYPOGOMHTW6RHAK4/", "snippet": "2시간 전 - 영변 핵시설 확장 정황 포착에 국민의힘 비판", "source_name": "조선일보" },
-        { "title": "북한 미사일 개발, 한미 방어 체계 시험대", "url": "https://www.sisadays.co.kr/news/484111", "snippet": "1일 전 - 북한 무기 개발 속도와 기술 진보가 기존 균형 불안정화", "source_name": "시사데이즈" },
-        { "title": "북한 '핵 영구화' 선언, 2026년까지 군사력 확장 로드맵 공개", "url": "https://www.spaceinews.com/news/896259", "snippet": "3월 14일 - 핵보유국 지위 영구화 선언, 군사력 확장 로드맵", "source_name": "스페이스인뉴스" }
+        { "title": "「人間核爆弾」で心臓部攻撃へ？…韓国メディアが報じる北朝鮮特殊部隊の変貌", "url": "https://www.chiba-tv.com/plus/detail/2026041488480", "snippet": "Daily NK Japan 4월 6일: 북한 폭풍군단 '인간핵폭탄' 보도.", "source_name": "千葉テレビ/Daily NK Japan" },
+        { "title": "金総書記「核兵力は運用段階に」", "url": "https://news.tv-asahi.co.jp/news_international/articles/000490842.html", "snippet": "김정은, 핵병력 다각적 운용 단계 전환 선언. 3월 11일.", "source_name": "テレ朝NEWS" },
+        { "title": "核保有国の地位不可逆…金正恩、核戦力の恒久的な強化", "url": "https://www.newsweekjapan.jp/stories/world/2026/03/591555.php", "snippet": "뉴스위크 일본: 김정은 핵보유국 지위 불가역 선언.", "source_name": "Newsweek Japan" },
+        { "title": "北朝鮮はますます核に執着、米朝首脳会談にも影響か", "url": "https://www.asahi.com/articles/ASV3Q1DQ4V3QUHBI01ZM.html", "snippet": "아사히: 북한 핵 집착 심화, 미조 정상회담 영향.", "source_name": "朝日新聞" }
       ]
     },
     {
       "method": "cheliped",
       "engine": "bing",
-      "keyword": "North Korea nuclear April 2026",
+      "keyword": "North Korea nuclear 2026",
       "language": "en",
-      "timestamp": "2026-04-05T00:23:00Z",
-      "result_count": 5,
+      "timestamp": "2026-04-05T12:17:00Z",
+      "result_count": 3,
       "results": [
-        { "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status", "url": "https://apnews.com/article/north-korea-kim-nuclear-seoul-trump-parliament-89e4da24d985fc91f3c223836ab4855f", "snippet": "AP: 김정은, 핵보유국 지위 '불가역적' 고착 선언", "source_name": "AP News" },
-        { "title": "North's ramped-up construction of third destroyer", "url": "https://koreajoongangdaily.joins.com", "snippet": "Korea JoongAng Daily: 3번함 건조 가속화", "source_name": "Korea JoongAng Daily" },
-        { "title": "How to Avoid an Accidental Nuclear War with North Korea", "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html", "snippet": "RAND: 우발적 핵전쟁 회피 방안", "source_name": "RAND" },
-        { "title": "North Korea News Brief – Thursday, 2 April 2026", "url": "https://geopoliticspulse.com", "snippet": "GeoPolitics Pulse: 북한 이란 약점 관찰 후 핵비축 증강", "source_name": "GeoPolitics Pulse" },
-        { "title": "North Korea's Nuclear Status Requires Urgent Negotiation", "url": "https://libertarianinstitute.org/articles/north-koreas-nuclear-status-requires-urgent-negotiation/", "snippet": "핵보유국 지위 긴급 협상 필요성", "source_name": "Libertarian Institute" }
+        { "title": "North Korea's Nuclear Status Requires Urgent Negotiation", "url": "https://libertarianinstitute.org/articles/north-koreas-nuclear-status-requires-urgent-negotiation/", "snippet": "On March 24, 2026, Kim Jong-un made it official that his country is now an unapologetic nuclear weapons power.", "source_name": "Libertarian Institute" },
+        { "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status", "url": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status", "snippet": "Kim expressed pride in the country's rapid expansion of nuclear weapons and missiles.", "source_name": "NPR" },
+        { "title": "How to Avoid an Accidental Nuclear War with North Korea", "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html", "snippet": "RAND: Shifting diplomatic focus to reduce risk of inadvertent nuclear war.", "source_name": "RAND Corporation" }
       ]
     },
     {
@@ -310,12 +244,12 @@
       "engine": "duckduckgo",
       "keyword": "North Korea nuclear 2026",
       "language": "en",
-      "timestamp": "2026-04-05T00:24:00Z",
+      "timestamp": "2026-04-05T12:18:00Z",
       "result_count": 3,
       "results": [
-        { "title": "North Korea Codifies Nuclear Statehood and Hostile 'Two-State' Relations at 9th Party Congress", "url": "https://thediplomat.com/2026/02/north-korea-codifies-nuclear-statehood-and-hostile-two-state-relations-at-9th-party-congress/", "snippet": "The Diplomat: 9차 당대회에서 핵보유국 지위 법제화, 적대적 '두 국가' 관계 공식화", "source_name": "The Diplomat" },
-        { "title": "North Korea expands its nuclear arsenal after witnessing Iran's vulnerability", "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741", "snippet": "CBC: 이란 취약성 관찰 후 핵무기고 확대", "source_name": "CBC News" },
-        { "title": "Kim Jong Un Says North Korea's Nuclear Status is Irreversible", "url": "https://english.aawsat.com/world/5258306", "snippet": "Asharq Al-Awsat: 김정은 핵보유국 지위 불가역 선언", "source_name": "Asharq Al-Awsat" }
+        { "title": "North Korea's Nuclear Submarine Sprint Could Be the 2026 Flashpoint Nobody Saw Coming", "url": "https://www.19fortyfive.com/2026/02/north-koreas-nuclear-submarine-sprint-could-be-the-2026-flashpoint-nobody-saw-coming/", "snippet": "19FortyFive: North Korea's push for nuclear missiles at sea could destabilize deterrence.", "source_name": "19FortyFive" },
+        { "title": "North's ramped-up construction of third destroyer suggests bid to build nuclear-armed navy", "url": "https://koreajoongangdaily.joins.com/news/2026-04-02/national/northKorea/Norths-rampedup-construction-of-third-destroyer-suggests-bid-to-build-nucleararmed-navy-lawmaker-says-/2559714", "snippet": "Korea JoongAng Daily: 3번함 건조 가속화, 핵무장 해군 구축 시도.", "source_name": "Korea JoongAng Daily" },
+        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "ACA: North Korea seeks nuclear recognition for bilateral talks.", "source_name": "Arms Control Association" }
       ]
     }
   ]
