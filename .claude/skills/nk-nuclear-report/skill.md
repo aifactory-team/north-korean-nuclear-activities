@@ -1,129 +1,158 @@
 ---
 name: nk-nuclear-report
-description: "북한 핵활동 일일 보고서를 자동 생성하는 오케스트레이터 스킬. 다국어 웹검색(한/영/일/중), 이전 7일 보고서 대비 중복제거, Markdown 보고서 작성, git 자동커밋을 수행한다. '북한 핵 보고서', 'NK nuclear report', '일일 보고서 생성', 'daily report' 요청 시 사용."
+description: "북한 핵활동 일일 보고서를 자동 생성하는 파이프라인 오케스트레이터. 4단계(수집→태깅→분석→보고서)로 구성되며, 각 단계의 산출물을 sources/ 폴더에 파일로 저장하여 전 과정을 추적할 수 있다. '북한 핵 보고서', 'NK nuclear report', '일일 보고서 생성', 'daily report' 요청 시 사용."
 ---
 
-# NK Nuclear Report — 일일 보고서 생성 오케스트레이터
+# NK Nuclear Report — 4단계 파이프라인 오케스트레이터
+
+## 아키텍처
+
+파이프라인 패턴. 각 단계는 이전 단계의 파일 산출물을 읽고, 자신의 산출물을 파일로 저장한다.
+
+```
+Phase 1        Phase 2        Phase 3         Phase 4
+수집(Collect) → 태깅(Tag)   → 분석(Analyze) → 보고서(Report)
+    │              │              │               │
+    ▼              ▼              ▼               ▼
+search-        sources.       analysis.md     reports/YYYY/MM/
+results.json   json           report-         YYYY-MM-DD.md
+                              basis.md        + Wiki 발행
+```
+
+모든 중간 산출물은 `sources/YYYY-MM-DD/` 에 저장된다.
 
 ## 실행 흐름
 
-### Phase 1: 준비
+### Phase 0: 준비
 1. 대상 날짜 결정 (입력값 또는 오늘 날짜)
-2. `reports/YYYY/MM/` 디렉토리 생성 (mkdir -p)
-3. 이전 7일 보고서 파일 목록 조회 (Glob)
-4. 이전 보고서 내용 읽기 (Read) → 이미 보고된 사건/출처 URL 목록 추출
+2. `mkdir -p sources/YYYY-MM-DD/`
+3. `mkdir -p reports/YYYY/MM/`
+4. 이전 7일의 `sources/*/sources.json` 파일 목록 조회
+5. 이전 7일의 `reports/YYYY/MM/*.md` 파일 목록 조회
 
-### Phase 2A: WebSearch (빌트인)
-최소 다음 키워드 그룹별 1회 이상 WebSearch 수행:
+### Phase 1: 수집 (Collect)
+**에이전트:** nk-collector
+**산출물:** `sources/YYYY-MM-DD/search-results.json`
 
-**필수 검색 (4개 언어):**
-1. `북핵 최신 뉴스` / `북한 핵실험` / `북한 미사일 발사`
-2. `North Korean nuclear news today` / `DPRK missile launch` / `North Korea sanctions`
-3. `北朝鮮 核実験 最新` / `北朝鮮 ミサイル`
-4. `朝鲜核试验 最新` / `朝鲜导弹`
+1. `config/search-sites.json` 읽기
+2. WebSearch(빌트인)로 다국어 검색 수행:
+   - 한국어 (최소 3회): "북핵 최신 뉴스", "북한 핵실험", "북한 미사일 발사"
+   - 영어 (최소 3회): "North Korean nuclear news today", "DPRK missile launch", "North Korea sanctions update"
+   - 일본어 (최소 1회): "北朝鮮 核実験 最新ニュース"
+   - 중국어 (최소 1회): "朝鲜核试验 最新消息"
+3. Cheliped Browser로 사이트별 검색:
+   - 검색 엔진: `search` 커맨드 (Google, Naver, Bing, Baidu, Yahoo Japan, DuckDuckGo)
+   - 커스텀 사이트: `goto` + `extract` (38 North, NK News, Reuters, 연합뉴스, NHK, ACA)
+4. 수집된 URL 단위로 1차 중복 제거
+5. **결과를 `sources/YYYY-MM-DD/search-results.json`에 저장**
 
-### Phase 2B: Cheliped Browser (사이트별 검색)
-`config/search-sites.json` 파일을 읽고 Cheliped CLI로 추가 검색 수행:
+### Phase 2: 태깅 (Tag)
+**에이전트:** nk-tagger
+**입력:** `search-results.json` + 이전 7일 `sources.json`
+**산출물:** `sources/YYYY-MM-DD/sources.json`
 
-**검색 엔진 (search 커맨드):**
-```bash
-node $CHELIPED_CLI '[{"cmd":"search","args":["북핵","google"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
-node $CHELIPED_CLI '[{"cmd":"search","args":["북한 핵실험","naver"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
-node $CHELIPED_CLI '[{"cmd":"search","args":["朝鲜核试验","baidu"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
-node $CHELIPED_CLI '[{"cmd":"search","args":["北朝鮮 核実験","yahoo_japan"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
+1. `search-results.json` 읽기
+2. 이전 7일의 `sources/*/sources.json` 읽기
+3. 각 소스에 태그 부여:
+   - `new`: 이전 소스에 없는 완전 신규
+   - `reported`: 이전에 이미 보고된 동일 내용
+   - `update`: 기존 사건의 후속 보도 (유의미한 새 정보 포함)
+4. 각 태그에 근거(tag_reason) 기록
+5. `reported`/`update` 태그에는 관련 보고서 날짜와 항목명 기록
+6. **결과를 `sources/YYYY-MM-DD/sources.json`에 저장**
+
+### Phase 3: 분석 (Analyze)
+**에이전트:** nk-analyst
+**입력:** `sources.json` + 이전 보고서(`reports/`)
+**산출물:** `sources/YYYY-MM-DD/analysis.md`, `sources/YYYY-MM-DD/report-basis.md`
+
+1. `sources.json`의 태깅 결과 읽기
+2. 이전 7일 보고서 읽기
+3. 연관관계 분석:
+   - 신규 소스의 중요도 평가 (높음/중간/낮음)
+   - 카테고리 분류 (핵실험/미사일/우라늄농축/외교·제재/군사력/기타)
+   - 기존 보도 추적 가치 판단
+   - 주제별 흐름 분석 (최근 7일 동향 + 오늘 새 정보)
+4. **`sources/YYYY-MM-DD/analysis.md`에 연관관계 분석 저장**
+5. 보고서 포함/제외 결정:
+   - 포함 항목: 소스 ID, 제목, 태그, 카테고리, 포함 근거
+   - 제외 항목: 소스 ID, 제목, 제외 근거
+   - 보고서 구성 방향: 요약 방향, 분석 초점, 추적 항목
+6. **`sources/YYYY-MM-DD/report-basis.md`에 작성 근거 저장**
+
+### Phase 4: 보고서 (Report)
+**에이전트:** nk-reporter
+**입력:** `sources.json` + `analysis.md` + `report-basis.md`
+**산출물:** `reports/YYYY/MM/YYYY-MM-DD.md` + Wiki 페이지
+
+1. `report-basis.md`의 포함 결정에 따라 보고서 작성
+2. `analysis.md`의 연관관계로 추적 항목 표기
+3. `sources.json`에서 정확한 출처 정보 인용
+4. 보고서 형식 (CLAUDE.md 표준):
+   - YAML frontmatter (title, date, sources_count, new_items, updated_items)
+   - 요약 (3-5문장)
+   - 주요 뉴스 (출처 URL, 일시, 내용, 상태: 신규/업데이트)
+   - 분석 및 평가
+   - 국제 반응
+   - 동향 요약 테이블
+   - 출처 목록
+5. **`reports/YYYY/MM/YYYY-MM-DD.md`에 보고서 저장**
+6. 메인 리포 커밋:
+   ```bash
+   git add sources/ reports/
+   git commit -m "report: daily NK nuclear update (YYYY-MM-DD)"
+   git push
+   ```
+7. Wiki 발행:
+   - Wiki 리포 clone
+   - 보고서 복사 (YAML frontmatter 제거)
+   - Home.md, _Sidebar.md, Monthly 인덱스 업데이트
+   - Wiki push
+
+## 데이터 흐름 요약
+
 ```
+sources/YYYY-MM-DD/
+├── search-results.json   ← Phase 1 산출물 (검색 원본)
+├── sources.json           ← Phase 2 산출물 (태깅 결과)
+├── analysis.md            ← Phase 3 산출물 (연관관계)
+└── report-basis.md        ← Phase 3 산출물 (작성 근거)
 
-**커스텀 사이트 (goto + extract):**
-- `config/search-sites.json`의 `custom_sites`에서 `enabled: true`인 사이트 순회
-- `search_url`의 `{query}`를 URL-인코딩된 키워드로 치환
-- goto → wait(2000) → extract(all) → close 순서로 실행
-
-**검색 전략:**
-- WebSearch와 Cheliped 결과를 병합하여 더 넓은 범위의 소스 확보
-- 각 언어별 최소 2개 키워드 검색
-- 검색 결과에서 최근 24~48시간 내 뉴스에 집중
-- 전문 사이트(38 North, NK News) 결과를 우선 활용
-
-### Phase 3: 중복 제거
-1. Phase 1에서 추출한 기존 보고 사건 목록과 비교
-2. 제목 유사도 + 출처 URL 일치로 중복 판단
-3. 동일 사건의 후속 보도는 "업데이트"로 표시하여 포함
-4. 완전 중복은 제외
-
-### Phase 4: 보고서 생성
-`reports/YYYY/MM/YYYY-MM-DD.md` 형식으로 작성:
-
-```markdown
----
-title: "YYYY-MM-DD 북한 핵활동 일일 보고서"
-date: YYYY-MM-DD
-sources_count: N
-new_items: N
-updated_items: N
----
-
-# YYYY-MM-DD 북한 핵활동 일일 보고서
-
-## 요약
-(3-5문장 핵심 요약. 특이사항 없으면 "금일 북한 핵활동 관련 특이사항 없음" 기재)
-
-## 주요 뉴스
-### 1. [뉴스 제목]
-- **출처:** [매체명](URL)
-- **일시:** YYYY-MM-DD
-- **내용:** 상세 내용 2-3문장 요약
-- **상태:** 신규 / 업데이트
-
-(뉴스별 반복)
-
-## 분석 및 평가
-(수집된 뉴스 기반 종합 분석. 핵 프로그램 진전, 군사적 함의, 외교적 맥락 등)
-
-## 국제 반응
-(각국 정부/기관/전문가 반응. 출처 명시)
-
-## 동향 요약
-| 분류 | 상태 | 비고 |
-|------|------|------|
-| 핵실험 | 상태 | 설명 |
-| 미사일 | 상태 | 설명 |
-| 우라늄 농축 | 상태 | 설명 |
-| 외교/제재 | 상태 | 설명 |
-
-## 출처 목록
-1. [제목](URL) - 매체명, 날짜
-```
-
-### Phase 5: 커밋
-```bash
-git add reports/
-git commit -m "report: daily NK nuclear update (YYYY-MM-DD)"
+reports/YYYY/MM/
+└── YYYY-MM-DD.md          ← Phase 4 산출물 (최종 보고서)
 ```
 
 ## 에러 핸들링
 
-| 에러 | 전략 |
-|------|------|
-| 검색 결과 전무 | "특이사항 없음" 보고서 생성 후 정상 커밋 |
-| 일부 언어 검색 실패 | 성공한 언어 결과로 진행, 보고서에 누락 언어 표기 |
-| 이전 보고서 없음 | 중복 제거 스킵, 전체 결과 사용 |
-| 디렉토리 미존재 | mkdir -p로 자동 생성 |
+| Phase | 에러 | 전략 |
+|-------|------|------|
+| 1 | 검색 전체 실패 | 빈 search-results.json 생성, Phase 2~4 계속 진행 |
+| 1 | 일부 검색 실패 | 성공한 결과만으로 진행, search-results.json에 에러 기록 |
+| 2 | 이전 sources.json 없음 (첫 실행) | 전체 결과를 `new`로 태깅 |
+| 3 | 이전 보고서 없음 | 연관관계 없이 신규 소스만으로 분석 |
+| 4 | 포함 항목 0건 | "특이사항 없음" 보고서 생성 |
+| 4 | Wiki clone 실패 | 메인 리포 커밋은 유지, Wiki 발행만 스킵 |
 
 ## 테스트 시나리오
 
 ### 정상 흐름
 1. workflow_dispatch로 수동 트리거
-2. 보고서 생성 확인: `reports/2026/04/2026-04-01.md` 존재
-3. frontmatter 형식 검증
-4. 출처 URL 최소 1개 포함 확인
-5. git commit 메시지 형식 확인
+2. `sources/YYYY-MM-DD/` 디렉토리에 4개 파일 생성 확인
+3. `search-results.json`에 최소 8개 검색 기록 존재
+4. `sources.json`에 태그와 tag_reason이 모든 항목에 존재
+5. `analysis.md`에 신규/추적/제외 섹션 존재
+6. `report-basis.md`에 포함/제외 테이블 존재
+7. 보고서에 출처 URL 최소 1개 포함
+8. git commit 메시지 형식 확인
 
-### 에러 흐름 — 검색 결과 없음
-1. 모든 WebSearch가 결과 0건 반환
-2. "특이사항 없음" 보고서가 생성되는지 확인
-3. 보고서 구조(frontmatter, 섹션)는 동일하게 유지되는지 확인
+### 2일 연속 실행 (중복 제거 검증)
+1. 첫째날: 모든 소스가 `new` 태그
+2. 둘째날: 첫째날과 동일한 소스는 `reported` 태그
+3. 둘째날 보고서에 첫째날 뉴스 반복 없음
+4. 후속 보도만 `update` 태그로 보고서에 포함
 
-### 중복 제거 흐름
-1. 2일 연속 실행
-2. 첫날 보고서의 주요 뉴스가 둘째날에 반복되지 않는지 확인
-3. 후속 보도만 "업데이트" 태그로 포함되는지 확인
+### 검색 결과 없음
+1. 모든 검색 0건 반환
+2. `search-results.json`에 빈 results 배열
+3. `sources.json`에 items 0건
+4. "특이사항 없음" 보고서 정상 생성
