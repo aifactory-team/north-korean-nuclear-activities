@@ -1,8 +1,8 @@
 {
   "date": "2026-04-06",
-  "total": 35,
-  "new": 12,
-  "reported": 19,
+  "total": 40,
+  "new": 15,
+  "reported": 21,
   "update": 4,
   "items": [
     { "id": "src-001", "title": "\"대북특사, 한미 역할 분담 중요하지만…최근 여건 녹록지 않아\"", "url": "https://www.news1.kr/nk/politics-diplomacy/6126394", "tag": "new", "related_report": null },
@@ -39,6 +39,11 @@
     { "id": "src-032", "title": "19FortyFive: 북한 핵전쟁의 안개 문제", "url": "https://www.19fortyfive.com/2026/02/north-korea-has-a-fog-of-nuclear-war-problem/", "tag": "update", "related_report": null },
     { "id": "src-033", "title": "CSIS: 북한 수정주의적 야망과 변화하는 국제질서", "url": "https://www.csis.org/analysis/north-korea-revisionist-ambitions-and-changing-international-order", "tag": "reported", "related_report": "2026-04-03" },
     { "id": "src-034", "title": "38 North: 이란 분쟁에서의 8가지 교훈", "url": "https://www.38north.org/2026/03/eight-lessons-for-north-koreas-nuclear-and-missile-forces-from-the-ongoing-iran-conflict/", "tag": "reported", "related_report": "2026-04-03" },
-    { "id": "src-035", "title": "한반도 방어 태세 공백 우려 — 주한미군 전력 차출", "url": "https://www.reportera.co.kr/military/rok-us-combined-forces-drawdown-concerns-amid-iran-crisis/comment-page-1/", "tag": "reported", "related_report": "2026-04-03" }
+    { "id": "src-035", "title": "한반도 방어 태세 공백 우려 — 주한미군 전력 차출", "url": "https://www.reportera.co.kr/military/rok-us-combined-forces-drawdown-concerns-amid-iran-crisis/comment-page-1/", "tag": "reported", "related_report": "2026-04-03" },
+    { "id": "src-036", "title": "Stimson: 전술핵 '상정전투' 시나리오의 해양 차원 분석", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "tag": "reported", "related_report": "2026-04-03" },
+    { "id": "src-037", "title": "VERTIC: 북한 우라늄 농축 능력 이해", "url": "https://www.vertic.org/2026/03/understanding-north-korean-uranium-enrichment/", "tag": "new", "related_report": null },
+    { "id": "src-038", "title": "Legal Insurrection: 외교의 실패가 핵무장 북한을 낳았다", "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/", "tag": "new", "related_report": null },
+    { "id": "src-039", "title": "세종연구소: 한중정상회담과 이재명 정부의 전략적 선택", "url": "https://sejong.org/web/boad/1/egoread.php?bd=1&seq=12593", "tag": "reported", "related_report": "2026-04-04" },
+    { "id": "src-040", "title": "SPN: 2026년 북한 핵 실전화 리뷰", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "tag": "new", "related_report": null }
   ]
 }
