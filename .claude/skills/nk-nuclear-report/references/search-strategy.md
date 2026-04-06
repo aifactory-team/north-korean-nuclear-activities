@@ -27,19 +27,21 @@ North Korean nuclear, DPRK nuclear test, North Korea missile launch, DPRK ICBM, 
 Claude Code의 WebSearch 도구를 직접 호출한다.
 
 ### Method 2: Cheliped Browser (사이트별)
-`config/search-sites.json`에서 `enabled: true`인 사이트만 검색한다.
+`config/search-sites.json`을 읽어 검색 대상 사이트 목록을 확인한다.
+`enabled: true`인 사이트만 검색한다.
 
-**검색 엔진 (search 커맨드):**
+**검색 엔진** — `search_engines` 배열의 사이트:
 ```bash
 node $CHELIPED_CLI '[{"cmd":"search","args":["검색어","엔진명"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
 ```
 
-**커스텀 사이트 (goto + extract):**
+**커스텀 사이트** — `custom_sites` 배열의 사이트 (`search_url`의 `{query}`를 키워드로 치환):
 ```bash
 node $CHELIPED_CLI '[{"cmd":"goto","args":["URL"]},{"cmd":"wait","args":["2000"]},{"cmd":"extract","args":["all"]},{"cmd":"close"}]'
 ```
 
 - 각 검색 후 반드시 `close` 커맨드로 세션을 종료한다
+- 사이트 추가/제거는 `config/search-sites.json`만 편집하면 된다
 
 ## 출력 스키마: search-results.json
 
