@@ -20,6 +20,8 @@ results.json   json           report-         YYYY-MM-DD.md
 ```
 
 모든 중간 산출물은 `sources/YYYY-MM-DD/` 에 저장된다.
+개별 소스는 `items/` 하위에 파일별로 분리하여 토큰 효율을 확보한다.
+이전 소스 비교 시 경량 `index.json`만 읽고, 필요한 항목만 개별 열람한다.
 
 ## 실행 흐름
 
@@ -27,7 +29,7 @@ results.json   json           report-         YYYY-MM-DD.md
 1. 대상 날짜 결정 (입력값 또는 오늘 날짜)
 2. `mkdir -p sources/YYYY-MM-DD/`
 3. `mkdir -p reports/YYYY/MM/`
-4. 이전 7일의 `sources/*/sources.json` 파일 목록 조회
+4. 이전 7일의 `sources/*/index.json` 파일 목록 조회
 5. 이전 7일의 `reports/YYYY/MM/*.md` 파일 목록 조회
 
 ### Phase 1: 수집 (Collect)
@@ -48,37 +50,39 @@ results.json   json           report-         YYYY-MM-DD.md
 
 ### Phase 2: 태깅 (Tag)
 **에이전트:** nk-tagger
-**입력:** `search-results.json` + 이전 7일 `sources.json`
-**산출물:** `sources/YYYY-MM-DD/sources.json`
+**입력:** `search-results.json` + 이전 7일 `index.json`
+**산출물:** `sources/YYYY-MM-DD/index.json` + `sources/YYYY-MM-DD/items/src-XXX.json`
 
 1. `search-results.json` 읽기
-2. 이전 7일의 `sources/*/sources.json` 읽기
+2. 이전 7일의 `sources/*/index.json`만 읽기 (경량 — 토큰 절약)
 3. 각 소스에 태그 부여:
    - `new`: 이전 소스에 없는 완전 신규
    - `reported`: 이전에 이미 보고된 동일 내용
    - `update`: 기존 사건의 후속 보도 (유의미한 새 정보 포함)
-4. 각 태그에 근거(tag_reason) 기록
+4. 각 태그에 근거(tag_reason) 기록 → 개별 items 파일에 저장
 5. `reported`/`update` 태그에는 관련 보고서 날짜와 항목명 기록
-6. **결과를 `sources/YYYY-MM-DD/sources.json`에 저장**
+6. **`sources/YYYY-MM-DD/index.json`에 경량 인덱스 저장** (id, title, url, tag, related_report만)
+7. **`sources/YYYY-MM-DD/items/src-XXX.json`에 개별 소스 상세 저장** (snippet, tag_reason 등 포함)
 
 ### Phase 3: 분석 (Analyze)
 **에이전트:** nk-analyst
-**입력:** `sources.json` + 이전 보고서(`reports/`)
+**입력:** `index.json` + `new`/`update` 항목의 개별 `items/src-XXX.json` + 이전 보고서(`reports/`)
 **산출물:** `sources/YYYY-MM-DD/analysis.md`, `sources/YYYY-MM-DD/report-basis.md`
 
-1. `sources.json`의 태깅 결과 읽기
-2. 이전 7일 보고서 읽기
-3. 연관관계 분석:
+1. `index.json`에서 전체 태깅 현황 파악
+2. `new`/`update` 태그 항목만 `items/src-XXX.json` 개별 열람 (`reported` 항목은 읽지 않음)
+3. 이전 7일 보고서 읽기
+4. 연관관계 분석:
    - 신규 소스의 중요도 평가 (높음/중간/낮음)
    - 카테고리 분류 (핵실험/미사일/우라늄농축/외교·제재/군사력/기타)
    - 기존 보도 추적 가치 판단
    - 주제별 흐름 분석 (최근 7일 동향 + 오늘 새 정보)
-4. **`sources/YYYY-MM-DD/analysis.md`에 연관관계 분석 저장**
-5. 보고서 포함/제외 결정:
+5. **`sources/YYYY-MM-DD/analysis.md`에 연관관계 분석 저장**
+6. 보고서 포함/제외 결정:
    - 포함 항목: 소스 ID, 제목, 태그, 카테고리, 포함 근거
    - 제외 항목: 소스 ID, 제목, 제외 근거
    - 보고서 구성 방향: 요약 방향, 분석 초점, 추적 항목
-6. **`sources/YYYY-MM-DD/report-basis.md`에 작성 근거 저장**
+7. **`sources/YYYY-MM-DD/report-basis.md`에 작성 근거 저장**
 
 ### Phase 4: 보고서 (Report)
 **에이전트:** nk-reporter
@@ -113,14 +117,23 @@ results.json   json           report-         YYYY-MM-DD.md
 
 ```
 sources/YYYY-MM-DD/
-├── search-results.json   ← Phase 1 산출물 (검색 원본)
-├── sources.json           ← Phase 2 산출물 (태깅 결과)
-├── analysis.md            ← Phase 3 산출물 (연관관계)
-└── report-basis.md        ← Phase 3 산출물 (작성 근거)
+├── search-results.json   ← Phase 1 (write-only, 이후 재읽기 않음)
+├── index.json             ← Phase 2 (경량 인덱스 ~2KB, 비교용)
+├── items/                 ← Phase 2 (개별 소스 상세)
+│   ├── src-001.json
+│   ├── src-002.json
+│   └── ...
+├── analysis.md            ← Phase 3 (연관관계)
+└── report-basis.md        ← Phase 3 (작성 근거)
 
 reports/YYYY/MM/
-└── YYYY-MM-DD.md          ← Phase 4 산출물 (최종 보고서)
+└── YYYY-MM-DD.md          ← Phase 4 (최종 보고서)
 ```
+
+### 토큰 효율
+- Phase 2: 이전 7일 `index.json`만 읽음 (~14KB) ← 기존 sources.json 7일치 대비 1/10
+- Phase 3: `new`/`update` 항목만 개별 `items/` 파일 열람 ← `reported` 항목은 읽지 않음
+- Phase 4: report-basis.md의 포함 항목만 `items/` 파일 열람
 
 ## 에러 핸들링
 

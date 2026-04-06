@@ -14,7 +14,8 @@ description: "태깅된 소스와 이전 보고서 간 연관관계를 분석하
 4. 분석 결과를 `analysis.md`에, 보고서 작성 근거를 `report-basis.md`에 저장한다
 
 ## 입력
-- `sources/YYYY-MM-DD/sources.json` (태깅된 소스)
+- `sources/YYYY-MM-DD/index.json` (경량 인덱스 — 전체 목록 파악용)
+- `sources/YYYY-MM-DD/items/src-XXX.json` (`new`/`update` 태그 항목만 개별 열람)
 - `reports/YYYY/MM/*.md` (이전 7일 보고서)
 
 ## 출력

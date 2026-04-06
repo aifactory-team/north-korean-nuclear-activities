@@ -28,11 +28,12 @@ description: "검색 결과를 기존 소스와 비교하여 중복 제거하고
 
 ## 입력
 - `sources/YYYY-MM-DD/search-results.json` (오늘 수집 결과)
-- `sources/*/sources.json` (이전 7일간 태깅 결과)
+- `sources/*/index.json` (이전 7일간 경량 인덱스만 읽음 — 토큰 절약)
 
-## 출력 형식
+## 출력
 
-`sources/YYYY-MM-DD/sources.json`:
+### 1. `sources/YYYY-MM-DD/index.json` (경량 인덱스)
+태깅 비교용. 소스당 필수 필드만 포함하여 7일치 읽어도 ~14KB.
 ```json
 {
   "date": "YYYY-MM-DD",
@@ -41,37 +42,32 @@ description: "검색 결과를 기존 소스와 비교하여 중복 제거하고
   "reported": 15,
   "update": 2,
   "items": [
-    {
-      "id": "src-001",
-      "title": "뉴스 제목",
-      "url": "https://...",
-      "snippet": "기사 요약",
-      "source_name": "Reuters",
-      "language": "en",
-      "discovered_date": "YYYY-MM-DD",
-      "tag": "new",
-      "related_report": null,
-      "related_item": null,
-      "tag_reason": "이전 7일 소스에 동일/유사 항목 없음"
-    },
-    {
-      "id": "src-002",
-      "title": "영변 핵시설 새 건물 포착",
-      "url": "https://...",
-      "snippet": "...",
-      "source_name": "38 North",
-      "language": "en",
-      "discovered_date": "YYYY-MM-DD",
-      "tag": "update",
-      "related_report": "2026-04-03",
-      "related_item": "IAEA, 영변 핵시설 활동 지속 확인",
-      "tag_reason": "04-03 IAEA 보고의 후속, 38 North 위성 분석이 새로 추가됨"
-    }
+    { "id": "src-001", "title": "뉴스 제목", "url": "https://...", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "영변 핵시설 새 건물 포착", "url": "https://...", "tag": "update", "related_report": "2026-04-03" }
   ]
 }
 ```
 
+### 2. `sources/YYYY-MM-DD/items/src-XXX.json` (개별 소스 상세)
+각 소스의 전체 정보를 개별 파일로 저장. 필요할 때만 열람.
+```json
+{
+  "id": "src-001",
+  "title": "뉴스 제목",
+  "url": "https://...",
+  "snippet": "기사 요약",
+  "source_name": "Reuters",
+  "language": "en",
+  "discovered_date": "YYYY-MM-DD",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 동일/유사 항목 없음"
+}
+```
+
 ## 작업 원칙
-- `reported` 태그 소스도 삭제하지 않고 기록한다 (추적 가능성 보존)
-- tag_reason은 구체적으로 작성하라 (왜 이 태그인지 근거 명시)
+- 이전 소스 비교 시 `index.json`만 읽는다 (개별 items 파일은 읽지 않음)
+- `reported` 태그 소스도 index + items에 기록한다 (추적 가능성 보존)
+- tag_reason은 개별 items 파일에 구체적으로 작성하라
 - 이전 7일만 비교한다 (그 이전은 무시)

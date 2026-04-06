@@ -19,8 +19,12 @@ results.json   json           report-basis.md + Wiki
 ```
 sources/
   YYYY-MM-DD/
-    search-results.json   # Phase 1: 검색 원본
-    sources.json           # Phase 2: 중복제거 + 태깅
+    search-results.json   # Phase 1: 검색 원본 (write-only, 이후 Phase에서 재읽기 않음)
+    index.json             # Phase 2: 경량 인덱스 (id, title, url, tag만 포함)
+    items/                 # Phase 2: 개별 소스 상세 파일
+      src-001.json
+      src-002.json
+      ...
     analysis.md            # Phase 3: 연관관계 분석
     report-basis.md        # Phase 3: 보고서 작성 근거
 
@@ -28,6 +32,11 @@ reports/
   YYYY/MM/
     YYYY-MM-DD.md          # Phase 4: 최종 보고서
 ```
+
+### 토큰 효율 설계
+- **index.json**은 소스당 ~1줄 요약만 포함 (~2KB). 7일치 읽어도 ~14KB
+- 이전 소스 비교 시 `index.json`만 읽고, 필요한 항목만 `items/src-XXX.json` 개별 열람
+- `search-results.json`은 Phase 1에서 쓰고 이후 재읽기 않음 (디버깅/추적용)
 
 ## Phase 1: 수집 (Collect)
 
@@ -67,7 +76,7 @@ North Korean nuclear, DPRK nuclear test, North Korea missile launch, DPRK ICBM, 
 #### Chinese (中文)
 朝鲜核试验, 朝鲜核武器, 朝鲜导弹, 朝鲜半岛核问题, 朝鲜铀浓缩, 朝鲜制裁
 
-### 산출물: search-results.json
+### 산출물: search-results.json (write-only)
 ```json
 {
   "date": "YYYY-MM-DD",
@@ -89,10 +98,11 @@ North Korean nuclear, DPRK nuclear test, North Korea missile launch, DPRK ICBM, 
   ]
 }
 ```
+이 파일은 Phase 1에서 쓰고 이후 Phase에서 재읽기 않는다. 디버깅/추적 전용.
 
 ## Phase 2: 태깅 (Tag)
 
-이전 7일의 `sources/*/sources.json`과 비교하여 각 소스에 태그를 부여한다.
+이전 7일의 `sources/*/index.json`만 읽어 URL·제목을 비교하고, 각 소스에 태그를 부여한다.
 
 ### 태그 정의
 | 태그 | 의미 | 조건 |
@@ -106,7 +116,8 @@ North Korean nuclear, DPRK nuclear test, North Korea missile launch, DPRK ICBM, 
 2. 제목 핵심 키워드 80%+ 일치 → `reported`
 3. 동일 사건 + 새로운 수치/성명/결과 → `update`
 
-### 산출물: sources.json
+### 산출물 1: index.json (경량 인덱스)
+태깅 시 이전 소스 비교용. 소스당 1줄 요약만 포함하여 7일치 읽어도 토큰 부담 최소화.
 ```json
 {
   "date": "YYYY-MM-DD",
@@ -117,18 +128,30 @@ North Korean nuclear, DPRK nuclear test, North Korea missile launch, DPRK ICBM, 
   "items": [
     {
       "id": "src-001",
-      "title": "...",
-      "url": "...",
-      "snippet": "...",
-      "source_name": "...",
-      "language": "ko|en|ja|zh",
-      "discovered_date": "YYYY-MM-DD",
-      "tag": "new|reported|update",
-      "related_report": null | "YYYY-MM-DD",
-      "related_item": null | "이전 보고서 항목명",
-      "tag_reason": "태그 부여 근거"
+      "title": "뉴스 제목",
+      "url": "https://...",
+      "tag": "new",
+      "related_report": null
     }
   ]
+}
+```
+
+### 산출물 2: items/src-XXX.json (개별 소스 상세)
+각 소스의 전체 정보를 개별 파일로 저장. 필요할 때만 열람.
+```json
+{
+  "id": "src-001",
+  "title": "뉴스 제목",
+  "url": "https://...",
+  "snippet": "기사 요약 또는 발췌",
+  "source_name": "연합뉴스",
+  "language": "ko",
+  "discovered_date": "YYYY-MM-DD",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 동일/유사 항목 없음"
 }
 ```
 
