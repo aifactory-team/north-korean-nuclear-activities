@@ -1,47 +1,49 @@
 {
   "date": "2026-04-06",
-  "collected_at": "2026-04-06T14:00:00Z",
-  "search_count": 12,
-  "total_results": 98,
+  "collected_at": "2026-04-06T18:00:00Z",
+  "search_count": 14,
+  "total_results": 112,
   "searches": [
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "북핵 북한 핵활동 2026년 4월",
+      "keyword": "북한 핵활동 2026년 4월",
       "language": "ko",
-      "timestamp": "2026-04-06T14:00:01Z",
+      "timestamp": "2026-04-06T18:00:01Z",
       "result_count": 10,
       "results": [
         { "title": "북한 미사일 개발, 한미 방어 체계 시험대", "url": "https://www.kjob.news/news/478649", "snippet": "북한의 무기 개발 속도와 기술적 진보가 기존 균형을 불안정하게 만들고 있다", "source_name": "전국인력신문" },
         { "title": "[리뷰] 2026년 北, '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 초, 김정은 총비서는 핵무력의 실용화·실전화를 진행하고 있다고 주장", "source_name": "SPN 서울평양뉴스" },
-        { "title": "트럼프의 중동 정책: 희망인가 혼란인가 - 2026년 4월 엇갈린 평가", "url": "https://www.itinsight.kr/news/444215", "snippet": "미중 갈등, 북한 핵 문제, 공급망 재편이라는 다중 도전에 직면", "source_name": "아이티인사이트" },
         { "title": "\"대북특사, 한미 역할 분담 중요하지만…최근 여건 녹록지 않아\"", "url": "https://www.news1.kr/nk/politics-diplomacy/6126394", "snippet": "대북특사 논의 재부상, 북한의 핵보유국 지위 불가역 선언으로 여건 녹록지 않아", "source_name": "뉴스1" },
-        { "title": "볼턴도 \"한국 설득·이란 강공하라\"…WSJ 사설 '북핵'", "url": "https://news.nate.com/view/20260406n11449", "snippet": "WSJ 논설실 사설에서 북한 비핵화 실패를 이란 강공 정당화 논거로 활용", "source_name": "네이트뉴스/WSJ" }
+        { "title": "볼턴도 \"한국 설득·이란 강공하라\"…WSJ 사설 '북핵'", "url": "https://news.nate.com/view/20260406n11449", "snippet": "WSJ 논설실 사설에서 북한 비핵화 실패를 이란 강공 정당화 논거로 활용", "source_name": "네이트뉴스/WSJ" },
+        { "title": "트럼프의 중동 정책: 희망인가 혼란인가 - 2026년 4월 엇갈린 평가", "url": "https://www.itinsight.kr/news/444215", "snippet": "미중 갈등, 북한 핵 문제, 공급망 재편이라는 다중 도전에 직면", "source_name": "아이티인사이트" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "북한 미사일 ICBM 2026년 4월",
+      "keyword": "북한 미사일 핵무기 2026년 4월",
       "language": "ko",
-      "timestamp": "2026-04-06T14:00:02Z",
+      "timestamp": "2026-04-06T18:00:02Z",
       "result_count": 10,
       "results": [
-        { "title": "北 신규 고체 로켓 엔진 등장에 ICBM 전력 전망 더욱 불투명", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105981", "snippet": "신형 고체연료 엔진 시험으로 ICBM 전력 전망이 불투명해졌다", "source_name": "SPN 서울평양뉴스" },
-        { "title": "북한이 미국 본토에 도달할 수 있는 ICBM용 대형 엔진을 시험 발사했다", "url": "https://korea.news-pravda.com/dprk/2026/03/29/61278.html", "snippet": "탄소 복합재 고체연료 로켓 엔진 지상 시험", "source_name": "Pravda Korea" },
-        { "title": "미국 본토 타격 시동 걸었다…히로시마 150배 2,500kt 폭발력", "url": "https://car.withnews.kr/military/north-korea-icbm-test-us-threat", "snippet": "화성-20 ICBM의 2500kt 폭발력 분석", "source_name": "위드뉴스" },
-        { "title": "갑자기 무기가 '0대'로…北에서 터진 이례적 사태", "url": "https://www.reportera.co.kr/military/north-korea-military-parade-without-weapons-february-2026/comment-page-1/", "snippet": "2월 열병식에서 무기 전시 생략한 이례적 사태", "source_name": "리포르테라" }
+        { "title": "\"북한, 5년간 13개 핵·미사일 체계 개발…4개는 실전 배치 완료\"", "url": "https://www.news1.kr/nk/military/6058717", "snippet": "38 North 분석: 13개 신규 핵·미사일 체계 중 4개 실전 배치", "source_name": "뉴스1" },
+        { "title": "[리뷰] 2026년 北, '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "향후 전술핵·정밀타격 중심 군사활동 가능성", "source_name": "SPN 서울평양뉴스" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "북한 핵무기 우라늄 농축 2026",
+      "keyword": "북핵 비핵화 대북정책 2026",
       "language": "ko",
-      "timestamp": "2026-04-06T14:00:03Z",
-      "result_count": 3,
+      "timestamp": "2026-04-06T18:00:03Z",
+      "result_count": 10,
       "results": [
-        { "title": "[조주형] 미국이 보는 북한 핵문제: '핵태세' 분석", "url": "https://www.pennmike.com/news/articleView.html?idxno=118130", "snippet": "Vipin Narang의 핵태세 프레임을 적용해 북한 핵전략 비교 분석", "source_name": "펜앤드마이크" }
+        { "title": "\"'비핵화 원칙' 포기해야 북미 대화 가능성\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=102880", "snippet": "북미 정상 간 대화는 비핵화 원칙을 포기하지 않으면 성사 가능성 낮아", "source_name": "SPN 서울평양뉴스" },
+        { "title": "북핵 불가역성 선언, 한국의 대응 전략은", "url": "https://www.kjob.news/news/470658", "snippet": "김정은 핵 프로그램 영구적·불가역적 선언에 대한 한국 대응", "source_name": "전국인력신문" },
+        { "title": "북핵 위협 둘러싼 美-中 이견, 한국의 선택은?", "url": "https://www.kjob.news/news/475204", "snippet": "북핵 위협에 대한 미중 이견과 한국의 전략적 선택", "source_name": "전국인력신문" },
+        { "title": "\"핵강국? 꿈도 꾸지 마\"… 북핵 대표가 김정은 말에 '전면 부인'", "url": "https://www.reportera.co.kr/military/north-korea-cannot-be-nuclear-state-npt-diplomacy/comment-page-1/", "snippet": "북핵 대표 정연두 한국 입장: 북한의 핵보유국 지위 인정 불가", "source_name": "리포르테라" },
+        { "title": "북핵 정세 평가와 2026년 전망", "url": "https://www.kinu.or.kr/main/module/report/view.do?idx=129821&nav_code=mai1674786581", "snippet": "통일연구원 2026년 북핵 정세 전망 보고서", "source_name": "통일연구원" }
       ]
     },
     {
@@ -49,40 +51,40 @@
       "engine": "built-in",
       "keyword": "North Korea nuclear April 2026",
       "language": "en",
-      "timestamp": "2026-04-06T14:00:04Z",
+      "timestamp": "2026-04-06T18:00:04Z",
       "result_count": 10,
       "results": [
-        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "Kim's position as nuclear-weapon state permanently fixed", "source_name": "Arms Control Association" },
-        { "title": "A Reminder for Trump's Critics: Years of Diplomacy Ended in a Nuclear North Korea", "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/", "snippet": "Years of diplomacy failed to prevent North Korea's nuclear advancement", "source_name": "Legal Insurrection" },
-        { "title": "Addressing the Tactical Nukes Challenge in North Korea's 'Assumed Battles' Scenario", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "snippet": "NK attempting to deter escalation by threatening tactical nuclear use, assumed naval battles scenario", "source_name": "Stimson Center" },
-        { "title": "Korean Peninsula Update, March 31, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-march-31-2026/", "snippet": "Weekly Korean Peninsula security update", "source_name": "AEI" },
-        { "title": "Assessing North Korea's Five-Year Effort to Develop 13 New Nuclear and Missile Systems", "url": "https://www.38north.org/2026/01/assessing-north-koreas-five-year-effort-to-develop-13-new-nuclear-and-missile-systems/", "snippet": "Assessment of DPRK's 5-year plan for 13 new weapon systems", "source_name": "38 North" },
-        { "title": "Korea Herald: A new paradigm for nuclear-free Korean Peninsula", "url": "https://www.koreaherald.com/article/10710242", "snippet": "New paradigm for denuclearization needed", "source_name": "Korea Herald" }
+        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "North Korea demands recognition as nuclear-armed state for bilateral talks", "source_name": "Arms Control Association" },
+        { "title": "A Reminder for Trump's Critics: Years of Diplomacy Ended in a Nuclear North Korea", "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/", "snippet": "Years of diplomatic engagement failed to prevent North Korea's nuclearization", "source_name": "Legal Insurrection" },
+        { "title": "[Lee Kyong-hee] A new paradigm for nuclear-free Korean Peninsula", "url": "https://www.koreaherald.com/article/10710242", "snippet": "Lee Kyong-hee calls for new paradigm for denuclearization", "source_name": "Korea Herald" },
+        { "title": "Korean Peninsula Update, March 31, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-march-31-2026/", "snippet": "AEI analysis of Korean Peninsula developments", "source_name": "AEI" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "DPRK missile launch sanctions 2026",
+      "keyword": "DPRK missile launch nuclear weapons 2026",
       "language": "en",
-      "timestamp": "2026-04-06T14:00:05Z",
+      "timestamp": "2026-04-06T18:00:05Z",
       "result_count": 10,
       "results": [
-        { "title": "DPRK (North Korea), February 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-02/dprk-north-korea-33.php", "snippet": "China and Russia blocked sanctions enforcement attempts", "source_name": "Security Council Report" },
-        { "title": "Sanctions to Disrupt DPRK IT Worker Schemes Defrauding U.S. Businesses", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctions-to-disrupt-dprk-it-worker-schemes-defrauding-u-s-businesses/", "snippet": "State Dept sanctions on DPRK IT worker fraud networks", "source_name": "U.S. State Department" }
+        { "title": "Assessing North Korea's Five-Year Effort to Develop 13 New Nuclear and Missile Systems", "url": "https://www.38north.org/2026/01/assessing-north-koreas-five-year-effort-to-develop-13-new-nuclear-and-missile-systems/", "snippet": "38 North analysis of North Korea's 13 new weapons systems", "source_name": "38 North" },
+        { "title": "North Korea conducts test of nuclear-capable rocket launchers", "url": "https://www.euronews.com/2026/03/15/north-korea-conducts-test-of-nuclear-capable-rocket-launchers", "snippet": "March 2026 test of nuclear-capable KN-25 rocket launchers", "source_name": "Euronews" },
+        { "title": "North Korea Fires 10 Missiles Over Sea of Japan in Latest MLRS Test", "url": "https://news.usni.org/2026/03/16/north-korea-fires-10-missiles-over-sea-of-japan-in-latest-multiple-rocket-launcher-system-test", "snippet": "10 ballistic missiles from upgraded large-caliber MLRS, third launch of 2026", "source_name": "USNI News" },
+        { "title": "North Korea Launches Massive Ballistic Missile Barrage Amid South Korea-US Drills", "url": "https://thediplomat.com/2026/03/north-korea-launches-massive-ballistic-missile-barrage-amid-south-korea-us-drills/", "snippet": "Massive barrage during allied military exercises", "source_name": "The Diplomat" },
+        { "title": "North Korea links missile launch to 'recent geopolitical crisis'", "url": "https://www.spacewar.com/reports/North_Korea_links_missile_launch_to_recent_geopolitical_crisis_999.html", "snippet": "Kim stated nuclear deterrence necessary due to geopolitical crisis", "source_name": "SpaceWar" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "North Korea nuclear weapons uranium enrichment 2026",
+      "keyword": "North Korea sanctions nuclear program April 2026",
       "language": "en",
-      "timestamp": "2026-04-06T14:00:06Z",
+      "timestamp": "2026-04-06T18:00:06Z",
       "result_count": 10,
       "results": [
-        { "title": "Understanding North Korean Uranium Enrichment", "url": "https://www.vertic.org/2026/03/understanding-north-korean-uranium-enrichment/", "snippet": "VERTIC analysis of NK uranium enrichment capabilities", "source_name": "VERTIC" },
-        { "title": "Nuclear Arsenal of North Korea (2026)", "url": "https://www.globalmilitary.net/nuclear/prk/", "snippet": "50 nuclear warheads, fissile material for up to 90", "source_name": "Global Military" },
-        { "title": "South Korea says the North has 4 uranium enrichment facilities", "url": "https://www.nbcnews.com/world/asia/south-korea-says-north-4-uranium-enrichment-facilities-nuclear-weapons-rcna233607", "snippet": "South Korea confirms 4 uranium enrichment facilities", "source_name": "NBC News" }
+        { "title": "What to Know About Sanctions on North Korea", "url": "https://www.cfr.org/backgrounders/north-korea-sanctions-un-nuclear-weapons", "snippet": "CFR overview of North Korea sanctions regime", "source_name": "CFR" },
+        { "title": "North Korea Sanctions | OFAC", "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/north-korea-sanctions", "snippet": "OFAC sanctions programs on North Korea", "source_name": "US Treasury OFAC" }
       ]
     },
     {
@@ -90,11 +92,11 @@
       "engine": "built-in",
       "keyword": "北朝鮮 核実験 ミサイル 2026年4月",
       "language": "ja",
-      "timestamp": "2026-04-06T14:00:07Z",
+      "timestamp": "2026-04-06T18:00:07Z",
       "result_count": 10,
       "results": [
-        { "title": "北朝鮮の核・ミサイル問題", "url": "https://www.mofa.go.jp/mofaj/area/n_korea/kakumondai/index.html", "snippet": "日本外務省の北朝鮮核・ミサイル問題概要", "source_name": "外務省" },
-        { "title": "国防5か年計画完遂に邁進する北朝鮮の核・ミサイルリスク", "url": "https://www.jiia.or.jp/research-report/missile-fy2024-04.html", "snippet": "北朝鮮の国防5か年計画における核・ミサイル開発リスク分析", "source_name": "JIIA" }
+        { "title": "北朝鮮の核・ミサイル問題", "url": "https://www.mofa.go.jp/mofaj/area/n_korea/kakumondai/index.html", "snippet": "日本外務省: 北朝鮮の核・ミサイル問題の概要", "source_name": "外務省" },
+        { "title": "『国防5か年計画』完遂に邁進する北朝鮮の核・ミサイルリスク", "url": "https://www.jiia.or.jp/research-report/missile-fy2024-04.html", "snippet": "日本国際問題研究所: 北朝鮮の核・ミサイルリスク分析", "source_name": "JIIA" }
       ]
     },
     {
@@ -102,61 +104,94 @@
       "engine": "built-in",
       "keyword": "朝鲜核试验 朝鲜导弹 2026年4月",
       "language": "zh",
-      "timestamp": "2026-04-06T14:00:08Z",
+      "timestamp": "2026-04-06T18:00:08Z",
       "result_count": 10,
       "results": [
-        { "title": "安理会朝鲜制裁委员会解散 — 美各方对朝制裁博弈", "url": "https://fddi.fudan.edu.cn/_t2515/63/a0/c21253a680864/page.htm", "snippet": "안보리 북한제재위 해산과 미국 대북제재 전략 변화", "source_name": "复旦大学" }
+        { "title": "朝鲜民主主义人民共和国与大规模杀伤性武器", "url": "https://zh.wikipedia.org/zh-hans/%E6%9C%9D%E9%B2%9C%E4%B8%8E%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8", "snippet": "朝鲜核武器与大规模杀伤性武器概述", "source_name": "维基百科" },
+        { "title": "美国观察｜安理会朝鲜制裁委员会解散", "url": "https://fddi.fudan.edu.cn/_t2515/63/a0/c21253a680864/page.htm", "snippet": "安理会北韩制裁委员会解散后的制裁博弈分析", "source_name": "复旦大学" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "North Korea nuclear command control test April 2026",
+      "keyword": "North Korea distancing Iran US talks Seoul 2026",
       "language": "en",
-      "timestamp": "2026-04-06T14:00:09Z",
+      "timestamp": "2026-04-06T18:00:09Z",
       "result_count": 10,
       "results": [
-        { "title": "North Korea Launches Massive Ballistic Missile Barrage Amid South Korea-US Drills", "url": "https://thediplomat.com/2026/03/north-korea-launches-massive-ballistic-missile-barrage-amid-south-korea-us-drills/", "snippet": "NK fired massive ballistic missile barrage during SK-US drills in March 2026", "source_name": "The Diplomat" },
-        { "title": "North Korea conducts test of nuclear-capable rocket launchers", "url": "https://www.euronews.com/2026/03/15/north-korea-conducts-test-of-nuclear-capable-rocket-launchers", "snippet": "NK tested nuclear-capable rocket launchers", "source_name": "Euronews" },
-        { "title": "Revisiting North Korea's Nuclear Tests", "url": "https://www.38north.org/2026/02/revisiting-north-koreas-nuclear-tests/", "snippet": "38 North revisiting NK nuclear testing history and future prospects", "source_name": "38 North" }
+        { "title": "North Korea distancing itself from Iran to leave door open for US talks, Seoul says", "url": "https://www.japantimes.co.jp/news/2026/04/06/asia-pacific/politics/north-korea-iran-trump-us/", "snippet": "NIS says NK has not sent weapons to Iran since Feb 28, no condolences for Khamenei death", "source_name": "Japan Times" },
+        { "title": "North Korea distancing itself from Iran to leave door open for US talks, Seoul says", "url": "https://www.al-monitor.com/originals/2026/04/north-korea-distancing-itself-iran-leave-door-open-us-talks-seoul-says", "snippet": "Seoul's NIS: NK managing messaging to preserve US relationship possibility", "source_name": "Al-Monitor" },
+        { "title": "Seoul says N. Korea distances from Iran to pave way for US talks", "url": "https://www.freemalaysiatoday.com/category/world/2026/04/06/seoul-says-n-korea-distances-from-iran-to-pave-way-for-us-talks/", "snippet": "North Korea carefully managing public messaging on Iran", "source_name": "Free Malaysia Today" },
+        { "title": "North Korean silence on Iran signals openness to US talks: Seoul's spy agency", "url": "https://www.scmp.com/news/asia/east-asia/article/3349136/north-korean-silence-iran-signals-openness-us-talks-seouls-spy-agency", "snippet": "SCMP: NIS assesses Kim's 9th Party Congress remarks as deliberate signal to Trump", "source_name": "South China Morning Post" },
+        { "title": "North Korea Distancing Itself From Iran to Leave Door Open for US Talks, Seoul Says", "url": "https://www.usnews.com/news/world/articles/2026-04-06/north-korea-distancing-itself-from-iran-to-leave-door-open-for-us-talks-seoul-says", "snippet": "NIS: no weapons to Iran, no condolences for Khamenei, toned-down statements", "source_name": "US News" },
+        { "title": "North Korea Distancing Itself from Iran to Leave Door Open for US Talks, Seoul Says", "url": "https://english.aawsat.com/world/5259229-north-korea-distancing-itself-iran-leave-door-open-us-talks-seoul-says", "snippet": "North Korea also trying to secure Russian oil supplies", "source_name": "Asharq Al-Awsat" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "북한 대북특사 이재명 2026년 4월",
+      "keyword": "North Korea nuclear posture Iran war 2026",
+      "language": "en",
+      "timestamp": "2026-04-06T18:00:10Z",
+      "result_count": 10,
+      "results": [
+        { "title": "Eight Lessons for North Korea's Nuclear and Missile Forces From the Ongoing Iran Conflict", "url": "https://www.38north.org/2026/03/eight-lessons-for-north-koreas-nuclear-and-missile-forces-from-the-ongoing-iran-conflict/", "snippet": "Key lessons including value of retaining nuclear weapons, C2 vulnerabilities", "source_name": "38 North" },
+        { "title": "Iran conflict hardens North Korea's nuclear posture", "url": "https://asiatimes.com/2026/03/iran-conflict-hardens-north-koreas-nuclear-posture/", "snippet": "Iran war terrifies NK into further entrenching nuclear posture", "source_name": "Asia Times" },
+        { "title": "Kim Jong Un uses Iran war to justify North Korea's decision to keep nuclear weapons", "url": "https://edition.cnn.com/2026/03/25/asia/north-korea-nuclear-weapons-justified-iran-war-intl-hnk", "snippet": "Kim says US war on Iran proves NK was right to keep nuclear arsenal", "source_name": "CNN" },
+        { "title": "The Iran war will provoke a new nuclear age", "url": "https://www.newstatesman.com/international-content/2026/03/iran-and-the-new-nuclear-arms-race", "snippet": "Iran war will provoke new nuclear arms race globally", "source_name": "New Statesman" },
+        { "title": "North Koreans fear possible deployment as Iran war...", "url": "https://www.iranintl.com/en/202603259187", "snippet": "North Koreans fear potential deployment to Iran conflict", "source_name": "Iran International" },
+        { "title": "The Iran Conflict: Implications for U.S.-North Korea Diplomacy Moving Forward", "url": "https://www.peninsuladispatch.com/p/the-iran-conflict-implications-for", "snippet": "How Iran conflict reshapes US-NK diplomatic landscape", "source_name": "Peninsula Dispatch" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Bulletin Atomic Scientists Iran war nuclear nonproliferation 2026",
+      "language": "en",
+      "timestamp": "2026-04-06T18:00:11Z",
+      "result_count": 10,
+      "results": [
+        { "title": "How the Iran War undermines the nuclear nonproliferation regime", "url": "https://thebulletin.org/2026/04/how-the-iran-war-undermines-the-nuclear-nonproliferation-regime/", "snippet": "War raises doubts NPT can hold as central pillar of international security", "source_name": "Bulletin of the Atomic Scientists" },
+        { "title": "Trump's war on Iran: grave dangers and, at best, limited benefits", "url": "https://thebulletin.org/2026/02/trumps-war-on-iran-grave-dangers-and-at-best-limited-benefits/", "snippet": "Analysis of grave dangers from Iran war", "source_name": "Bulletin of the Atomic Scientists" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK uranium enrichment Yongbyon 2026",
+      "language": "en",
+      "timestamp": "2026-04-06T18:00:12Z",
+      "result_count": 10,
+      "results": [
+        { "title": "Understanding North Korean Uranium Enrichment", "url": "https://www.vertic.org/2026/03/understanding-north-korean-uranium-enrichment/", "snippet": "4 enrichment facilities, 230kg weapon-grade uranium annually", "source_name": "VERTIC" },
+        { "title": "South Korea says the North has 4 uranium enrichment facilities", "url": "https://www.nbcnews.com/world/asia/south-korea-says-north-4-uranium-enrichment-facilities-nuclear-weapons-rcna233607", "snippet": "South Korea confirms 4 enrichment facilities including Yongbyon and Kangson", "source_name": "NBC News" },
+        { "title": "IAEA chief says N. Korea continues uranium enrichment, voices 'serious concern'", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260303/iaea-chief-says-n-korea-continues-uranium-enrichment-voices-serious-concern", "snippet": "IAEA: Yongbyon 5MW reactor in 7th irradiation cycle, Kangson operating", "source_name": "Korea Times" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "한국 자체 핵무장 여론 2026년",
       "language": "ko",
-      "timestamp": "2026-04-06T14:00:10Z",
+      "timestamp": "2026-04-06T18:00:13Z",
       "result_count": 10,
       "results": [
-        { "title": "2026년 한중정상회담과 이재명 정부의 전략적 선택", "url": "https://sejong.org/web/boad/1/egoread.php?bd=1&seq=12593", "snippet": "트럼프 방중 시 미북·남북 정상회담 성사 가능성 분석", "source_name": "세종연구소" },
-        { "title": "북한의 2026 대외관계 전망", "url": "https://sejong.org/web/boad/1/egoread.php?bd=1&itm=4&pg=2&seq=12603", "snippet": "2026년 북한 대외관계 전망 분석", "source_name": "세종연구소" },
-        { "title": "이재명 정부 대북정책 주요 쟁점과 정책적 고려사항", "url": "https://nsp.nanet.go.kr/plan/main/detail.do?nationalPlanControlNo=PLAN0000058279", "snippet": "이재명 정부 대북정책 쟁점 및 정책 고려사항", "source_name": "국회입법조사처" },
-        { "title": "대북특사 카드 다시 부상…남북관계 돌파구 되나", "url": "https://www.daenews.co.kr/24714", "snippet": "대북특사 파견 논의 재부상", "source_name": "동아경제신문" }
+        { "title": "한국 국방장관, 미 의회에 '핵잠 건조' 지지 요청", "url": "https://www.rfa.org/korean/in-focus/2026/04/02/south-korea-us-nuclear-submarines/", "snippet": "조현 국방장관이 미 의회에 핵잠수함 건조 지지를 요청", "source_name": "RFA" },
+        { "title": "\"이러다 한국도 핵개발\" 충격 전망…이란전이 흔든 '핵 금기'", "url": "https://m.go.seoul.co.kr/news/2026/04/01/20260401500001", "snippet": "이란전이 핵 금기를 흔들고 한국 내 자체 핵무장 여론 확산", "source_name": "서울신문" },
+        { "title": "조현 장관 \"핵잠 보유 못하면, 국내 핵무장 여론 커질 것\"", "url": "https://www.khan.co.kr/article/202512121838001/", "snippet": "핵잠 미보유시 국내 핵무장 여론 확대 경고", "source_name": "경향신문" }
       ]
     },
     {
       "method": "websearch",
       "engine": "built-in",
-      "keyword": "North Korea tactical nuclear warheads deployment 2026",
+      "keyword": "Kim Jong Un nuclear irreversible 2026 parliament",
       "language": "en",
-      "timestamp": "2026-04-06T14:00:11Z",
+      "timestamp": "2026-04-06T18:00:14Z",
       "result_count": 10,
       "results": [
-        { "title": "N Korea's Kim unveils 50 rocket launchers ahead of key congress", "url": "https://www.aljazeera.com/news/2026/2/19/n-koreas-kim-unveils-50-rocket-launchers-ahead-of-key-congress", "snippet": "Kim unveils 50 new rocket launchers before party congress", "source_name": "Al Jazeera" },
-        { "title": "North Korea's Irreversible Nuclear Doctrine: From Deterrence to Dominant Strategy in 2026", "url": "https://www.defensemagazine.com/article/north-koreas-irreversible-nuclear-doctrine-from-deterrence-to-dominant-strategy-in-2026", "snippet": "Analysis of NK's evolving nuclear doctrine from deterrence to dominance", "source_name": "Defense Magazine" }
-      ]
-    },
-    {
-      "method": "websearch",
-      "engine": "built-in",
-      "keyword": "Stimson Center North Korea tactical nukes assumed battles 2026",
-      "language": "en",
-      "timestamp": "2026-04-06T14:00:12Z",
-      "result_count": 10,
-      "results": [
-        { "title": "Addressing the Tactical Nukes Challenge in North Korea's 'Assumed Battles' Scenario", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "snippet": "NK deterring escalation by threatening tactical nuclear use in assumed naval battles", "source_name": "Stimson Center" },
-        { "title": "Pursuing Both Denuclearization and Risk Reduction in North Korea Engagement", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "snippet": "Both denuclearization and risk reduction should be pursued", "source_name": "Stimson Center" }
+        { "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status", "url": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status", "snippet": "Kim pledges to irreversibly cement nuclear power status at SPA session", "source_name": "NPR" },
+        { "title": "Kim Jong Un vows to 'irreversibly' cement North Korea's nuclear status", "url": "https://www.nbcnews.com/world/asia/kim-jong-un-vows-irreversibly-cement-north-korea-nuclear-status-rcna264848", "snippet": "SPA adopted constitutional amendments, defence spending raised to 15.8%", "source_name": "NBC News" },
+        { "title": "Kim Jong Un says North Korea's nuclear status is irreversible, threatens South", "url": "https://www.rnz.co.nz/news/world/590483/kim-jong-un-says-north-korea-s-nuclear-status-is-irreversible-threatens-south", "snippet": "Nuclear status is irreversible, threatens South Korea", "source_name": "RNZ" }
       ]
     }
   ]

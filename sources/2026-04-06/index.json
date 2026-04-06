@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "total": 40,
-  "new": 15,
+  "total": 43,
+  "new": 18,
   "reported": 21,
   "update": 4,
   "items": [
@@ -44,6 +44,9 @@
     { "id": "src-037", "title": "VERTIC: 북한 우라늄 농축 능력 이해", "url": "https://www.vertic.org/2026/03/understanding-north-korean-uranium-enrichment/", "tag": "new", "related_report": null },
     { "id": "src-038", "title": "Legal Insurrection: 외교의 실패가 핵무장 북한을 낳았다", "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/", "tag": "new", "related_report": null },
     { "id": "src-039", "title": "세종연구소: 한중정상회담과 이재명 정부의 전략적 선택", "url": "https://sejong.org/web/boad/1/egoread.php?bd=1&seq=12593", "tag": "reported", "related_report": "2026-04-04" },
-    { "id": "src-040", "title": "SPN: 2026년 북한 핵 실전화 리뷰", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "tag": "new", "related_report": null }
+    { "id": "src-040", "title": "SPN: 2026년 북한 핵 실전화 리뷰", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "tag": "new", "related_report": null },
+    { "id": "src-041", "title": "NIS: 북한, 이란과 거리두기 — 대미 대화 문 열어두려는 전략", "url": "https://www.japantimes.co.jp/news/2026/04/06/asia-pacific/politics/north-korea-iran-trump-us/", "tag": "new", "related_report": null },
+    { "id": "src-042", "title": "Bulletin of the Atomic Scientists: 이란 전쟁이 핵비확산 체제를 약화시키는 방법", "url": "https://thebulletin.org/2026/04/how-the-iran-war-undermines-the-nuclear-nonproliferation-regime/", "tag": "new", "related_report": null },
+    { "id": "src-043", "title": "RFA: 한국 국방장관, 미 의회에 핵잠 건조 지지 요청", "url": "https://www.rfa.org/korean/in-focus/2026/04/02/south-korea-us-nuclear-submarines/", "tag": "new", "related_report": null }
   ]
 }
