@@ -48,12 +48,14 @@ jobs:
         id: date
         run: |
           if [ -n "${{ github.event.inputs.target_date }}" ]; then
-            echo "target=${{ github.event.inputs.target_date }}" >> $GITHUB_OUTPUT
+            TARGET="${{ github.event.inputs.target_date }}"
           else
-            echo "target=$(date -u +%Y-%m-%d)" >> $GITHUB_OUTPUT
+            # KST (UTC+9) 기준 날짜 사용 — cron이 UTC 23:00(=KST 08:00)에 실행되므로
+            TARGET=$(TZ=Asia/Seoul date +%Y-%m-%d)
           fi
-          echo "year=$(date -u +%Y -d "${{ github.event.inputs.target_date || '$(date -u +%Y-%m-%d)' }}" 2>/dev/null || date -u +%Y)" >> $GITHUB_OUTPUT
-          echo "month=$(date -u +%m -d "${{ github.event.inputs.target_date || '$(date -u +%Y-%m-%d)' }}" 2>/dev/null || date -u +%m)" >> $GITHUB_OUTPUT
+          echo "target=$TARGET" >> $GITHUB_OUTPUT
+          echo "year=$(echo $TARGET | cut -d- -f1)" >> $GITHUB_OUTPUT
+          echo "month=$(echo $TARGET | cut -d- -f2)" >> $GITHUB_OUTPUT
 
       - name: Generate report with Claude Code
         env:
