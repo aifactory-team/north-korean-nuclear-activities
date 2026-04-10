@@ -1,0 +1,231 @@
+{
+  "date": "2026-04-11",
+  "collected_at": "2026-04-11T00:00:00Z",
+  "search_count": 16,
+  "total_results": 78,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 북한 핵활동 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-11T00:01:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "[뉴스분석] EMP·정전탄·집속탄… 北, 한국 방공망 무력화 '3단계 시나리오'", "url": "https://www.newspim.com/news/view/20260410000006", "snippet": "EMP·정전탄·집속탄 3종 탄두 패키지로 한국 미사일 방어망 단계적 무력화 시나리오 분석", "source_name": "뉴스핌" },
+        { "title": "[오늘의 NK 미디어 브리핑] 2026년 4월 10일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106225", "snippet": "2026년 4월 10일자 NK 미디어 브리핑", "source_name": "SPN 서울평양뉴스" },
+        { "title": "[리뷰] 2026년 北, '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 북한 핵 실전화 리뷰, 전술핵 정밀타격 중심 군사활동 가능성 분석", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 ICBM 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-11T00:02:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "북한, 미사일로 흔드는 외교 지렛대", "url": "https://www.kjob.news/news/479060", "snippet": "북한 미사일 발사의 외교적 지렛대 활용 분석", "source_name": "전국인력신문" },
+        { "title": "북한이 미국 본토에 도달할 수 있는 ICBM용 신형 엔진을 시험", "url": "https://korea.news-pravda.com/dprk/2026/03/29/61278.html", "snippet": "북한 신형 고체연료 ICBM 엔진 시험 발사 보도", "source_name": "Pravda 한국" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 집속탄 탄두 미사일 시험 4월 2026",
+      "language": "ko",
+      "timestamp": "2026-04-11T00:03:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "북한 '악마의 강철비' 집속탄 시험...한미일 \"유엔 안보리 결의 위반\"", "url": "https://www.mt.co.kr/politics/2026/04/09/2026040911322868596", "snippet": "한미일 외교당국 북한 탄도미사일 발사 유엔 안보리 결의 위반 재확인, 도발 중단 촉구", "source_name": "머니투데이" },
+        { "title": "北, SRBM에 집속탄 탑재해 시험발사…축구장 10개 초토화 주장", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260409010002739", "snippet": "화성-11가에 집속탄 장착 시험발사, 6.5~7ha 지역 초토화 주장", "source_name": "아시아투데이" },
+        { "title": "'악마의 무기' 집속탄 시험 공개한 北… \"축구장 10개 초토화\"", "url": "https://www.seoul.co.kr/news/politics/north/2026/04/10/20260410008004", "snippet": "북한 집속탄 시험 공개, 축구장 10개 면적 초토화 주장", "source_name": "서울신문" },
+        { "title": "北, SRBM에 '집속탄' 장착 시험발사…'축구장 10개 초토화' 주장(종합)", "url": "https://www.newsis.com/view/NISX20260409_0003583902", "snippet": "북한 단거리탄도미사일에 집속탄 장착 시험발사 종합", "source_name": "뉴시스" },
+        { "title": "軍 \"北 미사일 집속탄두 실험 여부 분석 중\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106189", "snippet": "한국군 합참 북한 미사일 집속탄두 실험 분석 중 브리핑", "source_name": "SPN 서울평양뉴스" },
+        { "title": "축구장 10개 면적 '초토화'...북한 '집속탄' 탄도미사일 성능 시험", "url": "https://www.mt.co.kr/politics/2026/04/09/2026040909100725307", "snippet": "북한 집속탄 탄도미사일 성능 시험 상세 분석", "source_name": "머니투데이" },
+        { "title": "北 \"탄도미사일 집속탄두 실험…표적지역 초강력 밀도로 초토화\"", "url": "https://segye.com/newsView/20260409502524", "snippet": "조선중앙통신 보도 인용 집속탄두 실험 결과", "source_name": "세계일보" },
+        { "title": "북한, 단거리 미사일에 '집속탄' 탑재 시험…국방발전 계획 이행? 대남 경고?", "url": "https://www.khan.co.kr/article/202604091135001/", "snippet": "집속탄 시험의 군사적 의미 분석 — 국방발전 계획 이행 vs 대남 경고 메시지", "source_name": "경향신문" },
+        { "title": "북, '비인도적 무기' 집속탄까지 쐈다", "url": "https://www.khan.co.kr/article/202604092048005/", "snippet": "집속탄의 비인도적 무기 성격 분석", "source_name": "경향신문" },
+        { "title": "美中 정상회담 앞두고…北 '악마의 무기' 집속탄 시험", "url": "https://www.sedaily.com/article/20030638", "snippet": "미중 정상회담 앞둔 시점의 북한 집속탄 시험 의미 분석", "source_name": "서울경제" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 전자기무기 EMP 정전탄 방공망 무력화 2026",
+      "language": "ko",
+      "timestamp": "2026-04-11T00:04:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "북, 3종 탄두로 한국 방공망 무력화… 전술핵급 대량살상 '완전한 위협'", "url": "https://www.munhwa.com/article/11581048", "snippet": "EMP·정전탄·집속탄 3종 탄두로 한국 방공망 무력화, 전술핵급 대량살상 '완전한 위협' 분석", "source_name": "문화일보" },
+        { "title": "北 \"EMP탄·정전폭탄 등 시험 진행...표적지역 초강력 밀도로 초토화 확증\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106183", "snippet": "조선중앙통신 보도 인용 EMP탄 정전폭탄 시험 결과", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "한국 외교부 대변인 브리핑 북한 미사일 4월 9일 2026",
+      "language": "ko",
+      "timestamp": "2026-04-11T00:05:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "미한일, 북한 탄도미사일 발사 공동 규탄…\"유엔 안보리 결의 위반\"", "url": "https://www.voakorea.com/a/u-s-south-korea-japan-condemn-north-korean-ballistic-missile-launch-as-u-n-security-council-violation-040926/8136100.html", "snippet": "한미일 외교당국 유선협의, 탄도미사일 발사 유엔 안보리 결의 위반 재확인, 도발 중단 촉구", "source_name": "VOA 코리아" },
+        { "title": "한미일, 北 탄도미사일 발사 유선협의...\"도발 중단 촉구\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106191", "snippet": "백용진 한반도정책국장 미일 당국자 유선협의, 정보공유 및 대응방안 논의", "source_name": "SPN 서울평양뉴스" },
+        { "title": "정부, 北 미사일 도발에 \"한미일 정보공유…대응방안 논의\"", "url": "https://www.sedaily.com/article/20030293", "snippet": "정부 북한 미사일 도발 관련 한미일 정보공유 및 대응방안 논의", "source_name": "서울경제" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear April 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:06:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "North Korea Conducts Three-Day Weapons Tests", "url": "https://www.naturalnews.com/2026-04-10-north-korea-conducts-three-day-weapons-tests.html", "snippet": "North Korea conducted three-day weapons tests April 6-8 including cluster-bomb warheads, electromagnetic weapons, carbon fiber bombs", "source_name": "NaturalNews" },
+        { "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "snippet": "KCNA reports Hwasong-11 missiles with cluster-bomb warheads can reduce to ashes 6.5-7 hectares", "source_name": "NPR" },
+        { "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads", "url": "https://www.washingtonpost.com/world/2026/04/08/north-korea-missiles-clusterbomb-nuclear/c5763cfa-33a7-11f1-b85b-2cd751275c1d_story.html", "snippet": "Washington Post report on North Korea cluster-bomb warhead missile tests", "source_name": "Washington Post" },
+        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "North Korea seeks nuclear state recognition as precondition for US talks", "source_name": "Arms Control Association" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea cluster bomb warhead missile test April 8 9 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:07:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "North Korea Holds 3 Days of Major Weapon Tests, Missile Launches", "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches", "snippet": "USNI News comprehensive report on 3-day weapon tests including Hwasong-11 cluster munitions", "source_name": "USNI News" },
+        { "title": "N. Korea says test-fired tactical ballistic missile tipped with cluster bomb warhead", "url": "https://www.koreaherald.com/article/10713142", "snippet": "Korea Herald report on cluster bomb warhead tactical ballistic missile test", "source_name": "Korea Herald" },
+        { "title": "North Korea Conducts Tests of Coordinated Strike Systems Including Hwasong-11 Cluster Missile, Blackout Munition and Electromagnetic Weapon", "url": "https://www.thedefensenews.com/news-details/North-Korea-Conducts-Tests-of-Coordinated-Strike-Systems-Including-Hwasong-11-Cluster-Missile-Blackout-Munition-and-Electromagnetic-Weapon/", "snippet": "Analysis of coordinated strike systems: cluster missile + blackout munition + EMP weapon", "source_name": "The Defense News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK KCNA electromagnetic weapon carbon fiber April 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:08:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "DPRK Defence Science Research Institutes Conduct Tests of Important Weapon Systems", "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260409-kcna01.htm", "snippet": "Full KCNA text on April 6-8 weapons tests: EMP, carbon fiber bombs, cluster warheads, mobile AA missiles", "source_name": "GlobalSecurity.org (KCNA)" },
+        { "title": "Carbon Fibre Bomb: What Is This Newly Tested Weapon That North Korea Calls Its 'Special Asset'?", "url": "https://www.newsx.com/world/carbon-fibre-bomb-what-is-this-newly-tested-weapon-that-north-korea-calls-its-special-asset-all-you-need-to-know-196396/", "snippet": "Carbon fiber bomb explainer — graphite-filled filaments to short-circuit power grids, called 'special asset'", "source_name": "NewsX" },
+        { "title": "DPRK conducts multiple weapon system tests", "url": "https://english.news.cn/asiapacific/20260409/d237c578bc944b2e9d9fb8de81794555/c.html", "snippet": "Xinhua report on DPRK multiple weapon system tests April 6-8", "source_name": "Xinhua" },
+        { "title": "North Korea Tests Latest Weapons as World Focuses on Iran", "url": "https://www.bloomberg.com/news/articles/2026-04-08/n-korea-conducted-test-of-electromagnetic-weapon-system-kcna-mnqne094", "snippet": "Bloomberg: North Korea tests weapons while world attention on Iran conflict", "source_name": "Bloomberg" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch sanctions 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:09:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "FCDO statement on DPRK ballistic missile launches: 8 April", "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260408-ukfcdo01.htm", "snippet": "UK FCDO condemns DPRK ballistic missile launches on April 8 as UNSCR violation", "source_name": "UK FCDO" },
+        { "title": "Sanctions to Disrupt DPRK IT Worker Schemes Defrauding U.S. Businesses", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctions-to-disrupt-dprk-it-worker-schemes-defrauding-u-s-businesses/", "snippet": "March 2026 US sanctions on DPRK IT worker schemes funding WMD programs", "source_name": "U.S. State Department" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Kim Jong Un diplomacy Trump April 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:10:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Ex-Trump official predicts Trump-Kim summit could take place this fall", "url": "https://www.upi.com/Top_News/World-News/2026/04/08/Trump-Kim-Jong-Un-summit-fall-Fled-Fleitz-former-NSC-chief/3981775640983/", "snippet": "Fred Fleitz predicts Trump-Kim summit this fall, more than 50% chance after Beijing visit", "source_name": "UPI" },
+        { "title": "Trump could meet Kim Jong Un for summit this fall: Former US official", "url": "https://www.nknews.org/2026/04/trump-could-meet-kim-jong-un-for-summit-this-fall-former-us-official/", "snippet": "NK News report on Fleitz prediction of Trump-Kim summit in fall 2026", "source_name": "NK News" },
+        { "title": "Why North Korea's Kim may shake hands with Trump again despite missile tests", "url": "https://www.scmp.com/week-asia/politics/article/3349499/why-north-koreas-kim-may-shake-hands-trump-again-despite-missile-tests", "snippet": "SCMP analysis: missile tests don't preclude diplomatic engagement", "source_name": "South China Morning Post" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea uranium enrichment nuclear weapons April 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:11:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "Nuclear Arsenal of North Korea (2026)", "url": "https://www.globalmilitary.net/nuclear/prk/", "snippet": "~50 deployable warheads, fissile material for up to 90, rapid expansion driven by HEU output", "source_name": "Global Military" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Japan Australia security vacuum Iran North Korea Bloomberg April 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:12:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "North Korea Missile Launch Draws Warnings from Japan, Australia on Asia Security", "url": "https://www.bloomberg.com/news/articles/2026-04-08/japan-australia-warn-of-asia-security-vacuum-with-focus-on-iran", "snippet": "Japan-Australia defense ministers warn of Indo-Pacific security vacuum as focus on Iran", "source_name": "Bloomberg" },
+        { "title": "Japan-Australia Defense Ministerial Meeting (Summary)", "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260408-jp-mod01.htm", "snippet": "Japan-Australia defense ministerial meeting summary April 8, discussed NK missile launch and Middle East", "source_name": "Japan MOD" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "38 North Sohae satellite launching station villages razed 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:13:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Villages Bordering Sohae Satellite Launching Station Razed", "url": "https://www.38north.org/2026/04/villages-bordering-sohae-satellite-launching-station-razed/", "snippet": "38 North: two small communities demolished near Sohae station in March, several hundred buildings razed", "source_name": "38 North" },
+        { "title": "North Korea Demolishes Villages Near Missile Site", "url": "https://www.bloomberg.com/news/articles/2026-04-03/north-korea-reportedly-razes-towns-near-main-missile-launch-site", "snippet": "Bloomberg: North Korea razes towns near main missile launch site for expansion", "source_name": "Bloomberg" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea 38north analysis April 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:14:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Over Three Decades of North Korea Policy Divide: South Korea Should Give Bipartisanship a Chance", "url": "https://www.38north.org/2026/04/over-three-decades-of-north-korea-policy-divide-south-korea-should-give-bipartisanship-a-chance/", "snippet": "38 North: South Korea's North Korea policy lacks bipartisan coherence and durability", "source_name": "38 North" },
+        { "title": "Quick Take: Kim Yo Jong's Evolving Messaging", "url": "https://www.38north.org/2026/04/quick-take-kim-yo-jongs-evolving-messaging/", "snippet": "38 North: Kim Yo Jong first time explicitly attributed new opinion to Kim Jong Un in April 6 communiqué", "source_name": "38 North" },
+        { "title": "A Probable New Hospital at Wonsan-Kalma Beach Resort", "url": "https://www.38north.org/2026/04/a-probable-new-hospital-at-wonsan-kalma-beach-resort/", "snippet": "38 North: satellite imagery shows new hospital at Wonsan-Kalma resort", "source_name": "38 North" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核実験 ミサイル 2026年4月",
+      "language": "ja",
+      "timestamp": "2026-04-11T00:15:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "北朝鮮、日本海上に弾道ミサイル数発を発射 韓国軍発表", "url": "https://www.nikkei.com/article/DGXZQOGM080VC0Y6A400C2000000/", "snippet": "韓国軍合参は8日、北朝鮮が元山一帯から弾道ミサイル数発を発射と発表", "source_name": "日本経済新聞" },
+        { "title": "北朝鮮が短距離弾道ミサイル数発を発射 韓国軍発表", "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015094581000", "snippet": "NHK: 北朝鮮の短距離弾道ミサイル数発発射を韓国軍が発表", "source_name": "NHK" },
+        { "title": "Instructions by the Prime Minister in Response to the Suspected Ballistic Missile Launch by North Korea", "url": "https://japan.kantei.go.jp/105/statement/202604/08shiji.html", "snippet": "首相、北朝鮮弾道ミサイル発射に対する指示", "source_name": "首相官邸" },
+        { "title": "北朝鮮によるミサイル発射実験 - Wikipedia", "url": "https://ja.wikipedia.org/wiki/北朝鮮によるミサイル発射実験", "snippet": "北朝鮮は2026年に計3回（少なくとも6発）弾道ミサイルを発射", "source_name": "Wikipedia (ja)" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 朝鲜导弹 2026年4月",
+      "language": "zh",
+      "timestamp": "2026-04-11T00:16:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "朝鲜向东部海域发射数枚弹道导弹", "url": "https://sputniknews.cn/20260408/1070670422.html", "snippet": "4月8日朝鲜向东部海域发射数枚弹道导弹, 飞行距离240公里", "source_name": "俄罗斯卫星通讯社" },
+        { "title": "连续三天，朝鲜进行重要武器系统试验", "url": "https://finance.sina.com.cn/wm/2026-04-09/doc-inhtwain1067243.shtml", "snippet": "朝鲜国防科学院和导弹总局4月6-8日进行重要武器系统试验", "source_name": "新浪财经" },
+        { "title": "DPRK conducts multiple weapon system tests", "url": "https://english.news.cn/asiapacific/20260409/d237c578bc944b2e9d9fb8de81794555/c.html", "snippet": "新华社: 朝鲜进行多种武器系统试验", "source_name": "新华社" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Fred Fleitz Trump Kim summit fall 2026",
+      "language": "en",
+      "timestamp": "2026-04-11T00:17:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Ex-Trump official predicts Trump-Kim summit could take place this fall", "url": "https://www.upi.com/Top_News/World-News/2026/04/08/Trump-Kim-Jong-Un-summit-fall-Fled-Fleitz-former-NSC-chief/3981775640983/", "snippet": "Fred Fleitz, former NSC chief of staff, predicts Trump-Kim summit this fall with more than 50% probability", "source_name": "UPI" },
+        { "title": "Trump could meet Kim Jong Un for summit this fall: Former US official", "url": "https://www.nknews.org/2026/04/trump-could-meet-kim-jong-un-for-summit-this-fall-former-us-official/", "snippet": "NK News: Fleitz optimistic about Trump-Kim summit after Beijing visit", "source_name": "NK News" }
+      ]
+    }
+  ]
+}
