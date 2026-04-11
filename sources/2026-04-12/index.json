@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-12",
+  "total": 24,
+  "new": 10,
+  "reported": 10,
+  "update": 4,
+  "items": [
+    { "id": "src-001", "title": "왕이 중국 외교부장 6년 7개월 만에 방북, 김정은 접견 — 북중 전략적 소통 강화 합의", "url": "https://www.fnnews.com/news/202604110849531470", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Washington Times: 김정은, 왕이에게 '다극화 세계' 지지·하나의 중국 원칙 지지 표명", "url": "https://www.washingtontimes.com/news/2026/apr/11/kim-jong-un-backs-chinas-push-multipolar-world-talks-foreign-minister/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "UPI: 중국·북한, 왕이 방북 후 '긴밀한 관계' 서약 — 최선희와 전략적 소통 강화", "url": "https://www.upi.com/Top_News/World-News/2026/04/10/Wang-Yi-visit-North-Korea-Choe-Son-Hui-closer-ties/1891775813155/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "서울신문: 北의 '대미 메시지' 들고 간 왕이…미중 회담 계기 북미 대화 촉각", "url": "https://seoul.co.kr/news/plan/diplomacy-national-security/2026/04/10/20260410500228", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "뉴스핌: 中외교부장 만난 김정은 '북중관계 최우선'...베이징으로 유턴하나", "url": "https://www.newspim.com/news/view/20260411000020", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "VOA: 북·중 외교장관 회담…'전략적 소통 강화·협력 확대'", "url": "https://www.voakorea.com/a/north-korea-china-agree-to-strengthen-ties-041026/8136491.html", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "Army Recognition: 북한 화성-11 EMP 타격 체계 분석 — 미한 공군력 겨냥 통합 타격 패키지", "url": "https://www.armyrecognition.com/news/aerospace-news/2026/north-korea-tests-hwasong-11-electromagnetic-emp-strike-system-targeting-us-south-korea-airpower", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "The Defense News: 북한 통합 타격 시스템 시험 — 화성-11 집속탄·블랙아웃탄·전자기무기 조합", "url": "https://www.thedefensenews.com/news-details/North-Korea-Conducts-Tests-of-Coordinated-Strike-Systems-Including-Hwasong-11-Cluster-Missile-Blackout-Munition-and-Electromagnetic-Weapon/", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "Korea Times: 김일성 생일 114돌 맞아 북한 문화행사 개막", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260410/n-korea-celebrates-late-founder-kim-il-sungs-birth-anniv-with-cultural-events", "tag": "new", "related_report": null },
+    { "id": "src-010", "title": "NK News: 우크라이나 전사자 4월 중순 장례식 — 쿠르스크 작전 1주년 계기", "url": "https://www.nknews.org/2026/04/north-korea-to-bury-soldiers-from-ukraine-war-at-new-cemetery-mid-april/", "tag": "update", "related_report": "2026-04-06" },
+    { "id": "src-011", "title": "뉴스핌: EMP·정전탄·집속탄… 北, 한국 방공망 무력화 '3단계 시나리오'", "url": "https://www.newspim.com/news/view/20260410000006", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-012", "title": "NPR: 북한, 3일간 무기 시험 — 집속탄 탄두 장착 탄도미사일 포함", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-013", "title": "USNI News: 북한, 3일간 주요 무기 시험·미사일 발사", "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-014", "title": "The Diplomat: 2일 연속 북한 동해상 탄도미사일 발사", "url": "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea", "tag": "update", "related_report": "2026-04-11" },
+    { "id": "src-015", "title": "Bloomberg: 김정은-이재명 드론 유감 후 미사일 발사", "url": "https://www.bloomberg.com/news/articles/2026-04-08/north-korea-fires-projectile-after-south-korean-leader-s-apology", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-016", "title": "플라이츠: 트럼프-김 올가을 정상회담 가능", "url": "https://www.upi.com/Top_News/World-News/2026/04/08/Trump-Kim-Jong-Un-summit-fall-Fled-Fleitz-former-NSC-chief/3981775640983/", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-017", "title": "38 North: 소해 위성발사장 인근 마을 철거", "url": "https://www.38north.org/2026/04/villages-bordering-sohae-satellite-launching-station-razed/", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-018", "title": "Chatham House: NPT 검토회의가 핵군비 경쟁을 막을 수 있을까?", "url": "https://www.chathamhouse.org/publications/the-world-today/2026-03/can-npt-review-conference-stop-new-nuclear-arms-race", "tag": "reported", "related_report": "2026-04-07" },
+    { "id": "src-019", "title": "ACA: NPT 검토회의 'Waiting for Godot'", "url": "https://www.armscontrol.org/act/2025-09/features/waiting-godot-2026-npt-review-conference", "tag": "reported", "related_report": "2026-04-08" },
+    { "id": "src-020", "title": "AEI: Korean Peninsula Update, April 7 — 해군 확장·최현호급 구축함", "url": "https://www.aei.org/articles/korean-peninsula-update-april-7-2026/", "tag": "new", "related_report": null },
+    { "id": "src-021", "title": "SIPRI 웨비나: Beyond Deadlock on the Korean Peninsula (4/15)", "url": "https://www.sipri.org/events/2026/sipri-webinar-pathways-dialogue-and-regional-stability-korean-peninsula", "tag": "update", "related_report": "2026-04-07" },
+    { "id": "src-022", "title": "Atlantic Council: 트럼프의 북한 제재 완화는 위험한 신호", "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/trump-s-reversal-of-north-korea-sanctions-sends-a-dangerous-signal/", "tag": "reported", "related_report": "2026-04-07" },
+    { "id": "src-023", "title": "38 North: 김여정 메시징 진화 — 김정은 의견 최초 직접 전달", "url": "https://www.38north.org/2026/04/quick-take-kim-yo-jongs-evolving-messaging/", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-024", "title": "문화일보: 왕이-최선희 회담, '전략적 소통·협력 강화' + '하나의 중국 원칙 지지'", "url": "https://www.munhwa.com/article/11581381", "tag": "update", "related_report": null }
+  ]
+}

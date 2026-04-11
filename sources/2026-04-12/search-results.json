@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-12",
+  "collected_at": "2026-04-12T09:00:00Z",
+  "search_count": 16,
+  "total_results": 78,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 북한 핵활동 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-12T09:01:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "북한 미사일 개발, 한미 방어 체계 시험대", "url": "https://www.kjob.news/news/478649", "snippet": "북한의 무기 개발 속도와 기술적 진보는 기존 균형을 심각하게 불안정하게 만들고 있다", "source_name": "전국인력신문" },
+        { "title": "[리뷰] 2026년 北, '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 북한의 핵 실전화 리뷰", "source_name": "SPN 서울평양뉴스" },
+        { "title": "트럼프의 중동 정책: 희망인가 혼란인가 — 2026년 4월 엇갈린 평가", "url": "https://www.itinsight.kr/news/444215", "snippet": "트럼프 중동 정책과 한반도 영향", "source_name": "아이티인사이트" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 발사 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-12T09:02:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "EMP·정전탄·집속탄… 北, 한국 방공망 무력화 '3단계 시나리오'", "url": "https://www.newspim.com/news/view/20260410000006", "snippet": "북한 3단계 방공망 무력화 시나리오 분석", "source_name": "뉴스핌" },
+        { "title": "북, 오전·오후 잇단 탄도미사일...이틀 연속 무력시위", "url": "https://www.rfa.org/korean/in-focus/2026/04/08/north-korea-fire-ballistic-missile/", "snippet": "북한이 8일 오전과 오후 동해상으로 탄도미사일 발사", "source_name": "RFA" },
+        { "title": "북한, 미사일로 흔드는 외교 지렛대", "url": "https://www.kjob.news/news/479060", "snippet": "미사일 발사의 외교적 함의 분석", "source_name": "전국인력신문" },
+        { "title": "北, 하루 두 번 탄도미사일 쐈다…합참 '동해상 단거리 수 발 발사'", "url": "https://www.seoul.co.kr/news/politics/north/2026/04/08/20260408500160", "snippet": "북한 하루 두 번 미사일 발사", "source_name": "서울신문" },
+        { "title": "북 탄도미사일 발사에 대한 외교부 성명", "url": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=363899", "snippet": "외교부 공식 규탄 성명", "source_name": "외교부" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵무기 제재 2026",
+      "language": "ko",
+      "timestamp": "2026-04-12T09:03:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "군비 통제로의 복귀 전망", "url": "https://korea.news-pravda.com/dprk/2026/04/11/62623.html", "snippet": "군비통제 복귀 전망 분석", "source_name": "Pravda 한국" },
+        { "title": "북한 '핵 영구화' 선언, 2026년까지 군사력 확장 로드맵 공개", "url": "https://www.kjob.news/news/473580", "snippet": "김정은의 핵무기 불가역적 영구화 선언", "source_name": "전국인력신문" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear April 2026",
+      "language": "en",
+      "timestamp": "2026-04-12T09:04:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "North Korea Conducts Three-Day Weapons Tests", "url": "https://www.naturalnews.com/2026-04-10-north-korea-conducts-three-day-weapons-tests.html", "snippet": "Three-day weapons test series overview", "source_name": "NaturalNews" },
+        { "title": "Korean Peninsula Update, March 31, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-march-31-2026/", "snippet": "AEI periodic Korean Peninsula update", "source_name": "AEI" },
+        { "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "snippet": "NPR coverage of cluster-bomb warhead tests", "source_name": "NPR" },
+        { "title": "North Korea's Nuclear Weapons and Missile Programs (CRS)", "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10472/IF10472.40.pdf", "snippet": "Congressional Research Service report on North Korea nuclear programs", "source_name": "CRS/Congress.gov" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch cluster bomb April 2026",
+      "language": "en",
+      "timestamp": "2026-04-12T09:05:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Over 2 Consecutive Days, North Korea Fires Ballistic Missiles Toward East Sea", "url": "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea", "snippet": "The Diplomat analysis of consecutive missile launches", "source_name": "The Diplomat" },
+        { "title": "North Korea Says Its Latest Weapons Tests Included Missiles with Cluster-Bomb Warheads", "url": "https://www.military.com/daily-news/2026/04/09/north-korea-says-its-latest-weapons-tests-included-missiles-cluster-bomb-warheads.html", "snippet": "Military.com coverage of cluster bomb warhead tests", "source_name": "Military.com" },
+        { "title": "North Korea says newly tested warhead can reduce targets to 'ashes'", "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-09/north-korea-cluster-bomb-missile-21322589.html", "snippet": "Stars and Stripes coverage of KCNA 'ashes' claim", "source_name": "Stars and Stripes" },
+        { "title": "North Korea Holds 3 Days of Major Weapon Tests, Missile Launches", "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches", "snippet": "USNI News coverage of 3-day weapon tests", "source_name": "USNI News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea sanctions diplomacy Trump Kim 2026",
+      "language": "en",
+      "timestamp": "2026-04-12T09:06:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "North Korea in 2026: Will the US and South Korean push for talks succeed?", "url": "https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed", "snippet": "Chatham House analysis of 2026 diplomacy prospects", "source_name": "Chatham House" },
+        { "title": "Trump's reversal of North Korea sanctions sends a dangerous signal", "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/trump-s-reversal-of-north-korea-sanctions-sends-a-dangerous-signal/", "snippet": "Atlantic Council analysis of Trump sanctions reversal", "source_name": "Atlantic Council" },
+        { "title": "Trump Could Get a Win with North Korea This Time", "url": "https://quincyinst.org/research/trump-could-get-a-win-with-north-korea-this-time-by-taking-lessons-from-his-first-term/", "snippet": "Quincy Institute analysis of Trump-North Korea prospects", "source_name": "Quincy Institute" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核実験 ミサイル 2026年4月",
+      "language": "ja",
+      "timestamp": "2026-04-12T09:07:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "北朝鮮の金正恩氏「中国の内外政策を全面的に支持」 中国外相と面会", "url": "https://www.nikkei.com/article/DGXZQOGM110C70R10C26A4000000/", "snippet": "김정은, 왕이 만나 중국 내외정책 전면 지지 표명", "source_name": "日本経済新聞" },
+        { "title": "2026年4月における北朝鮮のミサイル発射事案の現状", "url": "https://kokuminanzen.com/japan/4089/", "snippet": "2026年4月 북한 미사일 발사 사태 현황 분석", "source_name": "国民生活安全課" },
+        { "title": "北朝鮮、日本海上に弾道ミサイル数発を発射", "url": "https://www.nikkei.com/article/DGXZQOGM080VC0Y6A400C2000000/", "snippet": "북한 동해상 탄도미사일 수발 발사", "source_name": "日本経済新聞" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核武器 导弹 2026年4月",
+      "language": "zh",
+      "timestamp": "2026-04-12T09:08:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "朝鲜向东部海域发射数枚弹道导弹", "url": "https://sputniknews.cn/20260408/1070670422.html", "snippet": "4월 8일 동부 해역 탄도미사일 발사", "source_name": "俄罗斯卫星通讯社" },
+        { "title": "连续三天，朝鲜进行重要武器系统试验", "url": "https://finance.sina.com.cn/wm/2026-04-09/doc-inhtwain1067243.shtml", "snippet": "3일간 무기체계 시험 보도", "source_name": "新浪财经" },
+        { "title": "朝鲜劳动党九大闭幕 金正恩阐明新五年计划", "url": "https://www.news.cn/world/20260226/a7e8cbde91314f5d9faf73ce85ca480d/c.html", "snippet": "9차 당대회 폐막, 5개년 계획", "source_name": "新华网" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea latest news April 10 11 12 2026",
+      "language": "en",
+      "timestamp": "2026-04-12T09:09:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "North Korea Tests Hwasong-11 Electromagnetic (EMP) Strike System Targeting US–South Korea Airpower", "url": "https://www.armyrecognition.com/news/aerospace-news/2026/north-korea-tests-hwasong-11-electromagnetic-emp-strike-system-targeting-us-south-korea-airpower", "snippet": "Army Recognition detailed EMP strike system analysis", "source_name": "Army Recognition" },
+        { "title": "Korean Peninsula Update, April 7, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-april-7-2026/", "snippet": "AEI Korean Peninsula update with naval expansion analysis", "source_name": "AEI" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "왕이 북한 방문 평양 김정은 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-12T09:10:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "김정은, 중국 왕이 만나 '세계 평화에 기여하고 싶다'", "url": "https://www.newspim.com/news/view/20260410001225", "snippet": "김정은-왕이 면담 주요 내용", "source_name": "뉴스핌" },
+        { "title": "김정은, 中 왕이 외교부장 접견…'북중관계, 가장 귀중·최우선 중시'", "url": "https://www.fnnews.com/news/202604110849531470", "snippet": "김정은 '북중관계 최우선 중시' 강조", "source_name": "파이낸셜뉴스" },
+        { "title": "김정은, 中왕이 만나 '中과 고위급 교류·전략적 소통 강화'", "url": "https://www.seoul.co.kr/news/politics/north/2026/04/10/20260410500288", "snippet": "고위급 교류 및 전략적 소통 강화 합의", "source_name": "서울신문" },
+        { "title": "中 왕이 외교부장 9~10일 방북…6년 7개월 만", "url": "https://www.seoul.co.kr/news/politics/north/2026/04/08/20260408500204", "snippet": "왕이 6년 7개월 만에 방북", "source_name": "서울신문" },
+        { "title": "中왕이 만난 北김정은 '북중관계 발전, 양국에 이익…전략 소통 강화'", "url": "https://www.mt.co.kr/world/2026/04/10/2026041020475763701", "snippet": "김정은-왕이 전략 소통 강화 합의", "source_name": "머니투데이" },
+        { "title": "北의 '대미 메시지' 들고 간 왕이…미중 회담 계기 북미 대화 촉각", "url": "https://seoul.co.kr/news/plan/diplomacy-national-security/2026/04/10/20260410500228", "snippet": "왕이의 대미 메시지 전달 역할 분석", "source_name": "서울신문" },
+        { "title": "왕이 '전략적 소통·협력 강화'… 최선희 '하나의 중국 원칙 지지'", "url": "https://www.munhwa.com/article/11581381", "snippet": "왕이-최선희 회담, 하나의 중국 원칙 지지", "source_name": "문화일보" },
+        { "title": "김정은 '中과 고위급 교류·전략적 소통 강화… 세계평화에 역할'", "url": "https://segye.com/newsView/20260410514747", "snippet": "김정은 세계평화 역할 강조", "source_name": "세계일보" },
+        { "title": "中외교부장 만난 김정은 '북중관계 최우선'...베이징으로 유턴하나", "url": "https://www.newspim.com/news/view/20260411000020", "snippet": "북한의 베이징 유턴 가능성 분석", "source_name": "뉴스핌" },
+        { "title": "북·중 외교장관 회담…'전략적 소통 강화·협력 확대'", "url": "https://www.voakorea.com/a/north-korea-china-agree-to-strengthen-ties-041026/8136491.html", "snippet": "VOA 한국어 북중 외교장관 회담 보도", "source_name": "VOA 코리아" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Wang Yi North Korea Pyongyang visit April 2026 Kim Jong Un",
+      "language": "en",
+      "timestamp": "2026-04-12T09:11:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "North Korean leader Kim backs China's push for 'multipolar world' in talks with foreign minister", "url": "https://www.washingtontimes.com/news/2026/apr/11/kim-jong-un-backs-chinas-push-multipolar-world-talks-foreign-minister/", "snippet": "Kim backs China multipolar world push during Wang Yi meeting", "source_name": "Washington Times" },
+        { "title": "China, North Korea pledge closer ties after Wang visit", "url": "https://www.upi.com/Top_News/World-News/2026/04/10/Wang-Yi-visit-North-Korea-Choe-Son-Hui-closer-ties/1891775813155/", "snippet": "UPI: China and North Korea pledge closer ties", "source_name": "UPI" },
+        { "title": "China's top diplomat meets North Korea's Kim, calls for closer coordination", "url": "https://www.yahoo.com/news/articles/foreign-minister-says-china-willing-105520556.html", "snippet": "China's top diplomat meets Kim calls for coordination", "source_name": "Yahoo News/Reuters" },
+        { "title": "China–North Korea Pledge Deeper Strategic Ties", "url": "https://www.pakistantoday.com.pk/2026/04/11/china-north-korea-pledge-deeper-strategic-ties-amid-shifting-global-dynamics", "snippet": "China-DPRK deeper strategic ties amid shifting dynamics", "source_name": "Pakistan Today" },
+        { "title": "China's Foreign Minister Wang Yi visits Pyongyang to bolster ties with North Korea", "url": "https://www.ir-ia.com/news/chinas-foreign-minister-wang-yi-visits-pyongyang-to-bolster-ties-with-north-korea/", "snippet": "Wang Yi Pyongyang visit analysis", "source_name": "IRIA News" },
+        { "title": "China and North Korea Pledge Deeper Ties as Wang Yi Praises Pyongyang's Resilience", "url": "https://yournews.com/2026/04/10/6781270/china-and-north-korea-pledge-deeper-ties-as-wang-yi/", "snippet": "Wang Yi praises Pyongyang resilience", "source_name": "YourNews" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "China Wang Yi DPRK visit April 10 2026 strategic",
+      "language": "en",
+      "timestamp": "2026-04-12T09:12:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "China willing to work with DPRK to promote practical cooperation: Chinese FM", "url": "http://en.people.cn/n3/2026/0411/c90000-20445619.html", "snippet": "People's Daily: China willing to promote practical cooperation with DPRK", "source_name": "People's Daily" },
+        { "title": "Wang Yi calls for consolidating positive momentum of China-DPRK ties", "url": "https://news.cgtn.com/news/2026-04-09/Wang-Yi-calls-for-consolidating-positive-momentum-of-China-DPRK-ties-1McUoLqLrX2/p.html", "snippet": "CGTN: Wang Yi calls for consolidating positive ties", "source_name": "CGTN" },
+        { "title": "China, DPRK pledge deeper strategic ties at treaty anniversary", "url": "https://www.pakistantoday.com.pk/2026/04/09/china-dprk-pledge-to-deepen-strategic-ties-mark-treaty-anniversary", "snippet": "65th anniversary of China-DPRK friendship treaty", "source_name": "Pakistan Today" },
+        { "title": "China, DPRK to discuss issues of mutual concern", "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260409-globaltimes03.htm", "snippet": "Global Times report on mutual concern discussions", "source_name": "GlobalSecurity/Global Times" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea EMP weapon carbon fiber bomb defense implications 2026",
+      "language": "en",
+      "timestamp": "2026-04-12T09:13:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "North Korea Tests 'Devil's Weapon' Cluster Munitions, EMP and Blackout Bombs", "url": "https://www.pegasusreporters.com/2026/04/10/north-korea-tests-devils-weapon-cluster-munitions-emp-and-blackout-bombs/", "snippet": "Devil's Weapon analysis of cluster munitions, EMP and blackout bombs", "source_name": "Pegasus Reporters" },
+        { "title": "North Korea Conducts Tests of Coordinated Strike Systems Including Hwasong-11 Cluster Missile, Blackout Munition and Electromagnetic Weapon", "url": "https://www.thedefensenews.com/news-details/North-Korea-Conducts-Tests-of-Coordinated-Strike-Systems-Including-Hwasong-11-Cluster-Missile-Blackout-Munition-and-Electromagnetic-Weapon/", "snippet": "The Defense News: coordinated strike systems analysis", "source_name": "The Defense News" },
+        { "title": "North Korea showcases new electromagnetic and 'blackout' weapons in latest tests", "url": "https://weeklyblitz.net/2026/04/11/north-korea-showcases-new-electromagnetic-and-blackout-weapons-in-latest-tests/", "snippet": "Weekly Blitz: blackout weapons analysis", "source_name": "Weekly Blitz" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Kim Jong Un Trump summit fall 2026 diplomacy",
+      "language": "en",
+      "timestamp": "2026-04-12T09:14:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Trump-Kim Summit 2026? Why North Korea Fired Missiles Anyway", "url": "https://www.collegesimplified.in/post/trump-kim-summit-2026-missile-test-analysis", "snippet": "Analysis of missile tests despite summit prospects", "source_name": "College Simplified" },
+        { "title": "Ex-Trump official predicts Trump-Kim summit could take place this fall", "url": "https://www.upi.com/Top_News/World-News/2026/04/08/Trump-Kim-Jong-Un-summit-fall-Fled-Fleitz-former-NSC-chief/3981775640983/", "snippet": "Fleitz predicts fall 2026 Trump-Kim summit", "source_name": "UPI" },
+        { "title": "Trump could meet Kim Jong Un for summit this fall: Former US official", "url": "https://www.nknews.org/2026/04/trump-could-meet-kim-jong-un-for-summit-this-fall-former-us-official/", "snippet": "NK News coverage of fall summit prediction", "source_name": "NK News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 우크라이나 전사자 장례식 4월 2026",
+      "language": "ko",
+      "timestamp": "2026-04-12T09:15:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "北 러시아 참전 전사자 유가족, 평양 '새별거리' 거주단지 입주 시작", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105368", "snippet": "전사자 유가족 평양 새별거리 입주", "source_name": "SPN 서울평양뉴스" },
+        { "title": "North Korea to bury soldiers from Ukraine war at new cemetery in mid-April", "url": "https://www.nknews.org/2026/04/north-korea-to-bury-soldiers-from-ukraine-war-at-new-cemetery-mid-april/", "snippet": "4월 중순 전사자 장례식 예정", "source_name": "NK News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "SIPRI webinar Korean peninsula April 15 2026",
+      "language": "en",
+      "timestamp": "2026-04-12T09:16:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "SIPRI webinar on pathways for dialogue and regional stability on the Korean Peninsula", "url": "https://www.sipri.org/events/2026/sipri-webinar-pathways-dialogue-and-regional-stability-korean-peninsula", "snippet": "April 15 SIPRI webinar on Korean Peninsula pathways", "source_name": "SIPRI" }
+      ]
+    }
+  ]
+}
