@@ -1,0 +1,222 @@
+{
+  "date": "2026-04-13",
+  "collected_at": "2026-04-13T00:00:00Z",
+  "search_count": 15,
+  "total_results": 58,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 4월 13일",
+      "language": "ko",
+      "timestamp": "2026-04-13T00:01:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "세종연구소: 2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "2026년 북한 전술유도무기 정밀도 향상 및 기동성 강화 전망", "source_name": "세종연구소" },
+        { "title": "SPN: 2026년 북한 핵 실전화 리뷰", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "전술핵·정밀타격 중심 군사활동 가능성", "source_name": "SPN 서울평양뉴스" },
+        { "title": "아산정책연구원: 2023년 북한 동향 분석", "url": "https://www.asaninst.org/contents/2023%EB%85%84-%EB%B6%81%ED%95%9C-%EB%8F%99%ED%96%A5-%EB%B6%84%EC%84%9D-%ED%95%B5%EC%A7%91%EC%B0%A9%EC%9D%98-%EC%A7%80%EC%86%8D%EA%B3%BC-%EA%B2%BD%EB%A1%9C%EC%A2%85%EC%86%8D%EC%84%B1/", "snippet": "핵집착의 지속과 경로종속성", "source_name": "아산정책연구원" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-13T00:02:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "뉴스핌: EMP·정전탄·집속탄… 北, 한국 방공망 무력화 '3단계 시나리오'", "url": "https://www.newspim.com/news/view/20260410000006", "snippet": "4/6~8 무기체계 시험 분석", "source_name": "뉴스핌" },
+        { "title": "RFA: 북, 오전·오후 잇단 탄도미사일...이틀 연속 무력시위", "url": "https://www.rfa.org/korean/in-focus/2026/04/08/north-korea-fire-ballistic-missile/", "snippet": "4/7~8 연속 탄도미사일 발사", "source_name": "자유아시아방송(RFA)" },
+        { "title": "서울신문: 北, 하루 두 번 탄도미사일 쐈다", "url": "https://www.seoul.co.kr/news/politics/north/2026/04/08/20260408500160", "snippet": "합참 동해상 단거리 수 발 발사", "source_name": "서울신문" },
+        { "title": "전국인력신문: 북한, 미사일로 흔드는 외교 지렛대", "url": "https://www.kjob.news/news/479060", "snippet": "미사일 발사와 외교적 의미 분석", "source_name": "전국인력신문" },
+        { "title": "비즈한국: 북한 탄도미사일 도발, 서울 겨냥한 전술핵 타격 훈련 가능성 제기", "url": "https://www.bizhankook.com/bk/article/27308", "snippet": "서울 겨냥 전술핵 가능성 분석", "source_name": "비즈한국" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 왕이 방북 후속 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-13T00:03:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "뉴스1: 혈맹과 전우 챙기는 北, 5월 미중 정상회담 앞두고 '우군 다지기'", "url": "https://www.news1.kr/nk/politics-diplomacy/6130928", "snippet": "5월 미중 정상회담 앞두고 북한 우군 다지기 분석", "source_name": "뉴스1" },
+        { "title": "아시아엔: [북한 브리핑 4.5~4.11] 태양절 앞두고 내부 결속…외교·군사 메시지 병행", "url": "https://kor.theasian.asia/archives/404209", "snippet": "태양절 앞두고 내부 결속, 외교·군사 메시지 병행", "source_name": "아시아엔(THE AsiaN)" },
+        { "title": "아주경제: 행사 키우고 '태양절' 뺐다…김일성 생일 앞둔 北의 이중 메시지", "url": "https://www.ajunews.com/view/20260410141741452", "snippet": "태양절 명칭 미사용, 이중 메시지 분석", "source_name": "아주경제" },
+        { "title": "서울경제: 北, 김일성 생일 앞두고 연일 행사…'태양절' 명칭 사용은 빠졌다", "url": "https://www.sedaily.com/article/20030779", "snippet": "태양절 명칭 삭제, 김정은 권위 부각", "source_name": "서울경제" },
+        { "title": "TBS: 북한, '김일성 생일' 축제 분위기…도발 징후는 없어", "url": "http://m.tbs.seoul.kr/news/newsView.do?seq_800=20424391&typ_800=9", "snippet": "축제 분위기이나 도발 징후 미포착", "source_name": "TBS" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear April 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:04:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "NPR: North Korea says its latest weapons tests included missiles with cluster-bomb warheads", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "snippet": "Three-day weapons test April 6-8", "source_name": "NPR" },
+        { "title": "Washington Post: North Korea says its latest weapons tests included missiles with cluster-bomb warheads", "url": "https://www.washingtonpost.com/world/2026/04/08/north-korea-missiles-clusterbomb-nuclear/c5763cfa-33a7-11f1-b85b-2cd751275c1d_story.html", "snippet": "Cluster-bomb warhead tests", "source_name": "Washington Post" },
+        { "title": "AEI: Korean Peninsula Update, April 7, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-april-7-2026/", "snippet": "Choe Hyon-class destroyer, South Korea SSN program", "source_name": "AEI" },
+        { "title": "38 North: Assessing North Korea's Five-Year Effort to Develop 13 New Nuclear and Missile Systems", "url": "https://www.38north.org/2026/01/assessing-north-koreas-five-year-effort-to-develop-13-new-nuclear-and-missile-systems/", "snippet": "Five-year plan assessment", "source_name": "38 North" },
+        { "title": "CRS: North Korea's Nuclear Weapons and Missile Programs", "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10472/IF10472.40.pdf", "snippet": "Updated CRS report on NK nuclear/missile programs", "source_name": "Congressional Research Service" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch April 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:05:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "USINDOPACOM Statement on DPRK Missile Launches", "url": "https://www.pacom.mil/Media/News/News-Articles/Article/4453944/usindopacom-statement-on-dprk-missile-launches/", "snippet": "Official statement on DPRK missile launches", "source_name": "USINDOPACOM" },
+        { "title": "USNI News: North Korea Holds 3 Days of Major Weapon Tests, Missile Launches", "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches", "snippet": "3-day weapons test summary", "source_name": "USNI News" },
+        { "title": "Bloomberg: North Korea Fires Multiple Rounds of Missiles After Lee Apology", "url": "https://www.bloomberg.com/news/articles/2026-04-08/north-korea-fires-projectile-after-south-korean-leader-s-apology", "snippet": "Missiles after Lee apology", "source_name": "Bloomberg" },
+        { "title": "The Diplomat: Over 2 Consecutive Days, North Korea Fires Ballistic Missiles Toward East Sea", "url": "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea", "snippet": "2 consecutive days missile launches", "source_name": "The Diplomat" },
+        { "title": "Euronews: North Korea launches ballistic missiles after declaring South 'most hostile enemy'", "url": "https://www.euronews.com/2026/04/08/north-korea-launches-ballistic-missiles-after-declaring-south-most-hostile-enemy", "snippet": "Missiles after 'most hostile enemy' declaration", "source_name": "Euronews" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea sanctions diplomacy April 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:06:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "CFR: What to Know About Sanctions on North Korea", "url": "https://www.cfr.org/backgrounders/north-korea-sanctions-un-nuclear-weapons", "snippet": "Background on NK sanctions", "source_name": "Council on Foreign Relations" },
+        { "title": "The Diplomat: Previewing North Korea's Grand Strategy for 2026", "url": "https://thediplomat.com/2025/12/previewing-north-koreas-grand-strategy-for-2026/", "snippet": "NK 2026 strategy dual-track approach", "source_name": "The Diplomat" },
+        { "title": "Wikipedia: International sanctions against North Korea", "url": "https://en.wikipedia.org/wiki/International_sanctions_against_North_Korea", "snippet": "Sanctions overview", "source_name": "Wikipedia" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核実験 ミサイル 2026年4月",
+      "language": "ja",
+      "timestamp": "2026-04-13T00:07:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "国民生活安全課: 2026年4月における北朝鮮のミサイル発射事案の現状", "url": "https://kokuminanzen.com/japan/4089/", "snippet": "2026年4月ミサイル発射現状分析", "source_name": "国民生活安全課" },
+        { "title": "日経: 北朝鮮、日本海上に弾道ミサイル数発を発射 韓国軍発表", "url": "https://www.nikkei.com/article/DGXZQOGM080VC0Y6A400C2000000/", "snippet": "4/8弾道ミサイル発射", "source_name": "日本経済新聞" },
+        { "title": "JIIA: 国防5か年計画完遂に邁進する北朝鮮の核・ミサイルリスク", "url": "https://www.jiia.or.jp/research-report/missile-fy2024-04.html", "snippet": "5カ年計画核ミサイルリスク分析", "source_name": "日本国際問題研究所(JIIA)" },
+        { "title": "新浪财经: 连续三天，朝鲜进行重要武器系统试验", "url": "https://finance.sina.com.cn/wm/2026-04-09/doc-inhtwain1067243.shtml", "snippet": "朝鲜连续三天武器试验", "source_name": "新浪财经" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 导弹 2026年4月",
+      "language": "zh",
+      "timestamp": "2026-04-13T00:08:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "俄罗斯卫星通讯社: 朝鲜向东部海域发射数枚弹道导弹", "url": "https://sputniknews.cn/20260408/1070670422.html", "snippet": "4月8日弾道ミサイル発射", "source_name": "Sputnik中文" },
+        { "title": "新浪财经: 连续三天，朝鲜进行重要武器系统试验", "url": "https://finance.sina.com.cn/wm/2026-04-09/doc-inhtwain1067243.shtml", "snippet": "3日间武器试验含集束弹头", "source_name": "新浪财经" },
+        { "title": "百度百科: 朝鲜核试验", "url": "https://baike.baidu.com/item/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%AF%95%E9%AA%8C/6029201", "snippet": "朝鲜核试验概述", "source_name": "百度百科" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Wang Yi visit aftermath China DPRK April 12 13 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:09:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Pakistan Today: China–North Korea Pledge Deeper Strategic Ties", "url": "https://www.pakistantoday.com.pk/2026/04/11/china-north-korea-pledge-deeper-strategic-ties-amid-shifting-global-dynamics", "snippet": "Deeper strategic ties amid shifting dynamics", "source_name": "Pakistan Today" },
+        { "title": "SCMP: Chinese top envoy Wang Yi set for North Korea trip", "url": "https://www.scmp.com/news/china/diplomacy/article/3349369/chinese-top-envoy-wang-yi-set-north-korea-trip-first-pyongyang-visit-2019", "snippet": "Wang Yi visit analysis", "source_name": "South China Morning Post" },
+        { "title": "Bloomberg: China's Top Envoy Says Ties With North Korea to Strengthen", "url": "https://www.bloomberg.com/news/articles/2026-04-10/china-s-top-envoy-says-ties-with-north-korea-to-strengthen", "snippet": "Ties to strengthen", "source_name": "Bloomberg" },
+        { "title": "IRIA News: China's Foreign Minister Wang Yi visits Pyongyang to bolster ties", "url": "https://www.ir-ia.com/news/chinas-foreign-minister-wang-yi-visits-pyongyang-to-bolster-ties-with-north-korea/", "snippet": "Bolstering ties analysis", "source_name": "IRIA News" },
+        { "title": "PRC UN Mission: Wang Yi Holds Talks with DPRK Foreign Minister Choe Son Hui", "url": "https://un.china-mission.gov.cn/eng/zgyw/202604/t20260410_11889710.htm", "snippet": "Official Chinese readout of meeting", "source_name": "PRC Mission to UN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Kim Il Sung birthday April 15 2026 parade preparations",
+      "language": "en",
+      "timestamp": "2026-04-13T00:10:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Daily NK: North Korea changed the scheduled date for its military parade in early April", "url": "https://www.dailynk.com/english/north-korea-changed-scheduled-date-for-military-parade-early-april/", "snippet": "Military parade date changed from April 15", "source_name": "Daily NK" },
+        { "title": "NK News: North Korea holds post-congress military parade with no weapons procession", "url": "https://www.nknews.org/?p=968136", "snippet": "Feb 25 parade had no weapons procession", "source_name": "NK News" },
+        { "title": "Korea Times: N. Korea celebrates late founder Kim Il-sung's birth anniv. with cultural events", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260410/n-korea-celebrates-late-founder-kim-il-sungs-birth-anniv-with-cultural-events", "snippet": "Cultural events for 114th birthday", "source_name": "Korea Times" },
+        { "title": "CNN: Kim Jong Un vows to strengthen nuclear program, watches military parade with daughter", "url": "https://www.cnn.com/2026/02/26/asia/north-korea-kim-parade-nuclear-intl-hnk", "snippet": "Feb 25 parade nuclear vow", "source_name": "CNN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Ukraine soldiers funeral cemetery museum April 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:11:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "NK News: Kim Jong Un sets April opening for Ukraine war cemetery and museum", "url": "https://www.nknews.org/2026/03/kim-jong-un-sets-april-opening-for-ukraine-war-cemetery-and-museum/", "snippet": "Cemetery/museum to open mid-April for Kursk anniversary", "source_name": "NK News" },
+        { "title": "NK News: North Korea reveals over 400 graves for soldiers killed in 'sacred' Ukraine war", "url": "https://www.nknews.org/?p=966229", "snippet": "400+ graves at new cemetery", "source_name": "NK News" },
+        { "title": "NK News: North Korea to bury soldiers from Ukraine war at new cemetery in mid-April", "url": "https://www.nknews.org/2026/04/north-korea-to-bury-soldiers-from-ukraine-war-at-new-cemetery-mid-april/", "snippet": "Mid-April burial ceremony", "source_name": "NK News" },
+        { "title": "Korea Herald: N. Korea's Kim inspects memorial museum for troops sent to Russia", "url": "https://www.koreaherald.com/article/10709520", "snippet": "Kim inspects memorial museum", "source_name": "Korea Herald" },
+        { "title": "Arab News: North Korea to hold burial ceremony for troops killed in Ukraine war", "url": "https://www.arabnews.pk/node/2638621/world", "snippet": "Burial ceremony announcement", "source_name": "Arab News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Trump Kim Jong Un summit 2026 diplomacy latest",
+      "language": "en",
+      "timestamp": "2026-04-13T00:12:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "UPI: Ex-Trump official predicts Trump-Kim summit could take place this fall", "url": "https://www.upi.com/Top_News/World-News/2026/04/08/Trump-Kim-Jong-Un-summit-fall-Fled-Fleitz-former-NSC-chief/3981775640983/", "snippet": "Fall summit 50%+ chance", "source_name": "UPI" },
+        { "title": "38 North: The 2026 Window — Can the Ember of US-North Korea Diplomacy Still Catch Fire?", "url": "https://www.38north.org/2026/02/the-2026-window-can-the-ember-of-us-north-korea-diplomacy-still-catch-fire/", "snippet": "2026 diplomatic window analysis", "source_name": "38 North" },
+        { "title": "Carnegie: If Trump Wants to Meet Kim Again, He's Got One Big Opportunity", "url": "https://carnegieendowment.org/emissary/2025/12/trump-kim-north-korea-meeting-formal-outreach-sotu", "snippet": "2026 meeting opportunity", "source_name": "Carnegie Endowment" },
+        { "title": "The Diplomat: Revisiting Donald Trump and Kim Jong Un's Last Meeting", "url": "https://thediplomat.com/2026/04/revisiting-donald-trump-and-kim-jong-uns-last-meeting/", "snippet": "Trump-Kim last meeting revisited", "source_name": "The Diplomat" }
+      ]
+    },
+    {
+      "method": "cheliped",
+      "engine": "google",
+      "keyword": "North Korea nuclear April 2026 latest",
+      "language": "en",
+      "timestamp": "2026-04-13T00:13:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "UPI: Debate grows in Korea, Japan over nuclear capability amid U.S. doubts", "url": "https://www.upi.com/Top_News/World-News/2026/04/12/japan-independent-nuclear-capabilities/5351776031540/", "snippet": "Debate over independent nuclear capability growing in Korea and Japan amid US doubts. April 12, 2026", "source_name": "UPI (Asia Today translated)" },
+        { "title": "Caliber.az: Tokyo flags escalating risk from North Korea's expanding arsenal", "url": "https://caliber.az/en/post/tokyo-flags-escalating-risk-from-north-korea-s-expanding-arsenal", "snippet": "Japan warns NK weapons development poses urgent threat", "source_name": "Caliber.az" },
+        { "title": "NPR: North Korea says its latest weapons tests included missiles with cluster-bomb warheads", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "snippet": "Cluster-bomb warhead tests", "source_name": "NPR" },
+        { "title": "ACA: North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "Nuclear recognition for US talks", "source_name": "Arms Control Association" },
+        { "title": "AEI: Korean Peninsula Update, April 7, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-april-7-2026/", "snippet": "Destroyer construction, SSN program", "source_name": "AEI" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Japan Takaichi skip NPT nuclear deterrence April 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:14:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "UPI: Japan's Takaichi to skip NPT meeting, shift toward U.S. deterrence", "url": "https://www.upi.com/Top_News/World-News/2026/04/07/japan-nuclear-non-proliferation-treaty-review-conference/4321775602206/", "snippet": "Japan PM skipping NPT review conference, signaling deterrence-first approach", "source_name": "UPI" },
+        { "title": "The Diplomat: Takaichi Draws a Red Line on Nuclear Sharing Amid Japan's Security Review", "url": "https://thediplomat.com/2026/02/takaichi-draws-a-red-line-on-nuclear-sharing-amid-japans-security-review/", "snippet": "Takaichi nuclear sharing red line", "source_name": "The Diplomat" },
+        { "title": "Carnegie: Revisiting Japan's Non-Nuclear Principles", "url": "https://carnegieendowment.org/research/2026/03/revisiting-japans-non-nuclear-principles-between-a-nuclear-allergy-and-umbrella", "snippet": "Non-nuclear principles reassessment", "source_name": "Carnegie Endowment" },
+        { "title": "Stimson: When Denuclearization Fades, Japan Holds the Line", "url": "https://www.stimson.org/2026/when-denuclearization-fades-japan-holds-the-line/", "snippet": "Japan's deterrence approach as denuclearization fades", "source_name": "Stimson Center" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea wholesale complex Chinese Switzerland Pyongyang 2026",
+      "language": "en",
+      "timestamp": "2026-04-13T00:15:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "NK News: North Korea building giant wholesale complex with Chinese help, businessman says", "url": "https://www.nknews.org/2026/04/north-korea-building-giant-wholesale-complex-with-chinese-help-businessman-says/", "snippet": "68,000 sqm wholesale hub in Hwasong district", "source_name": "NK News" },
+        { "title": "Daily NK: North Korea courts Chinese investors for Pyongyang complex", "url": "https://www.dailynk.com/english/north-korea-courts-chinese-private-investors-for-pyongyang-commercial-complex/", "snippet": "Chinese private investor recruitment", "source_name": "Daily NK" },
+        { "title": "CNN: How Chinese investment may be fueling North Korea's 'Pyonghattan'", "url": "https://edition.cnn.com/2026/04/08/world/video/chinese-investment-in-north-korea-shopping-complex-will-ripley-hnk-vrtc-digvid", "snippet": "Chinese investment in NK commercial complex", "source_name": "CNN" },
+        { "title": "NK News: Switzerland to reopen cooperation office in North Korea after 6 years", "url": "https://www.nknews.org/2026/04/switzerland-to-reopen-cooperation-office-in-north-korea-after-6-years/", "snippet": "Switzerland reopening Pyongyang cooperation office", "source_name": "NK News" }
+      ]
+    }
+  ]
+}

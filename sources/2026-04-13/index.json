@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-13",
+  "total": 24,
+  "new": 8,
+  "reported": 15,
+  "update": 1,
+  "items": [
+    { "id": "src-001", "title": "UPI: 한·일, 미국 핵우산 불신 속 독자 핵능력 논의 확산", "url": "https://www.upi.com/Top_News/World-News/2026/04/12/japan-independent-nuclear-capabilities/5351776031540/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Daily NK: 북한, 태양절(4/15) 열병식 일정 변경 — 김정은 '국방 업적' 부각 전략", "url": "https://www.dailynk.com/english/north-korea-changed-scheduled-date-for-military-parade-early-april/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "NK News: 북한, 중국 자본으로 평양 화성지구 6만8천㎡ 도매유통 단지 건설 중", "url": "https://www.nknews.org/2026/04/north-korea-building-giant-wholesale-complex-with-chinese-help-businessman-says/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "NK News: 스위스, 6년 만에 평양 협력사무소 재개 — 세 번째 서방국가 복귀", "url": "https://www.nknews.org/2026/04/switzerland-to-reopen-cooperation-office-in-north-korea-after-6-years/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "UPI: 일본 다카이치 총리, NPT 검토회의 불참 — 미국 억지력 우선 전략 전환 신호", "url": "https://www.upi.com/Top_News/World-News/2026/04/07/japan-nuclear-non-proliferation-treaty-review-conference/4321775602206/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "아시아엔: [북한 브리핑 4.5~4.11] 태양절 앞두고 내부 결속, 외교·군사 메시지 병행", "url": "https://kor.theasian.asia/archives/404209", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "아주경제: '태양절' 명칭 삭제하고 행사 키운 北 — 김일성 생일 앞둔 이중 메시지", "url": "https://www.ajunews.com/view/20260410141741452", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "뉴스1: 혈맹과 전우 챙기는 北, 5월 미중 정상회담 앞두고 '우군 다지기'", "url": "https://www.news1.kr/nk/politics-diplomacy/6130928", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "TBS: 북한, '김일성 생일' 축제 분위기…군사적 도발 징후는 미포착", "url": "http://m.tbs.seoul.kr/news/newsView.do?seq_800=20424391&typ_800=9", "tag": "update", "related_report": "2026-04-12" },
+    { "id": "src-010", "title": "NPR: 북한, 3일간 무기 시험 — 집속탄 탄두 장착 탄도미사일 포함", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-011", "title": "Washington Post: 북한 최신 무기 시험에 집속탄 탄두 미사일 포함", "url": "https://www.washingtonpost.com/world/2026/04/08/north-korea-missiles-clusterbomb-nuclear/c5763cfa-33a7-11f1-b85b-2cd751275c1d_story.html", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-012", "title": "USNI News: 북한, 3일간 주요 무기 시험·미사일 발사", "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-013", "title": "Bloomberg: 김정은-이재명 드론 유감 후 미사일 발사", "url": "https://www.bloomberg.com/news/articles/2026-04-08/north-korea-fires-projectile-after-south-korean-leader-s-apology", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-014", "title": "The Diplomat: 2일 연속 북한 동해상 탄도미사일 발사", "url": "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-015", "title": "AEI: Korean Peninsula Update, April 7 — 해군 확장·최현호급 구축함", "url": "https://www.aei.org/articles/korean-peninsula-update-april-7-2026/", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-016", "title": "Korea Times: 김일성 생일 114돌 맞아 북한 문화행사 개막", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260410/n-korea-celebrates-late-founder-kim-il-sungs-birth-anniv-with-cultural-events", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-017", "title": "UPI: 플라이츠 전 NSC, 트럼프-김 올가을 정상회담 가능 전망", "url": "https://www.upi.com/Top_News/World-News/2026/04/08/Trump-Kim-Jong-Un-summit-fall-Fled-Fleitz-former-NSC-chief/3981775640983/", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-018", "title": "ACA: 북한 핵무장국 인정 요구 — 미국과의 대화 전제", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-019", "title": "Army Recognition: 북한 화성-11 EMP 타격 체계 분석", "url": "https://www.armyrecognition.com/news/aerospace-news/2026/north-korea-tests-hwasong-11-electromagnetic-emp-strike-system-targeting-us-south-korea-airpower", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-020", "title": "NK News: 우크라이나 전사자 4월 중순 장례식", "url": "https://www.nknews.org/2026/04/north-korea-to-bury-soldiers-from-ukraine-war-at-new-cemetery-mid-april/", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-021", "title": "Chatham House: NPT 검토회의가 핵군비 경쟁을 막을 수 있을까?", "url": "https://www.chathamhouse.org/publications/the-world-today/2026-03/can-npt-review-conference-stop-new-nuclear-arms-race", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-022", "title": "뉴스핌: EMP·정전탄·집속탄… 北, 한국 방공망 무력화 '3단계 시나리오'", "url": "https://www.newspim.com/news/view/20260410000006", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-023", "title": "RFA: 북, 오전·오후 잇단 탄도미사일…이틀 연속 무력시위", "url": "https://www.rfa.org/korean/in-focus/2026/04/08/north-korea-fire-ballistic-missile/", "tag": "reported", "related_report": "2026-04-08" },
+    { "id": "src-024", "title": "PRC 유엔 대표부: 왕이-최선희 회담 공식 보도문", "url": "https://un.china-mission.gov.cn/eng/zgyw/202604/t20260410_11889710.htm", "tag": "reported", "related_report": "2026-04-12" }
+  ]
+}
