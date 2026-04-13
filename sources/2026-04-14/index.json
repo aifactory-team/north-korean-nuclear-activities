@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-14",
+  "total": 22,
+  "new": 8,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "CSIS Beyond Parallel: 영변 신규 우라늄 농축 건물 위성 분석 — 48×120m, 강선 시설과 유사", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "SPN: 영변 우라늄 농축 시설 추정 건물 위성사진 포착", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106326", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "withnews: '올해 안에 100개 넘긴다' — 영변 새 건물로 핵분열물질 생산 2배 확대 우려", "url": "https://car.withnews.kr/military/yongbyon-new-uranium-enrichment-facility", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Daily NK: 영변 핵단지 현대화 — 원자로 7차 가동·농축시설 확장 위성분석", "url": "https://www.dailynk.com/20260407-3/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Korea Herald: KIDA 분석 — 북한 핵탄두 127~150개 보유 추정, 2040년 400개 전망", "url": "https://www.koreaherald.com/article/10625110", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "파이낸셜뉴스: IAEA 사무총장 방한 가능성 — 이재명 대통령과 북핵·핵잠수함 논의", "url": "https://www.fnnews.com/news/202604130941088199", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "Japan Times: Kim Jong Un, 트럼프 방중 앞두고 동맹·무기 과시 — 전략적 포석 분석", "url": "https://www.japantimes.co.jp/news/2026/04/11/asia-pacific/politics/north-korea-kim-friends/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "SPN/KCTV: 제34차 4월의 봄 친선예술축전 — 26개국 67개 단체 약 3000명 참가", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106322", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "국민일보: 태양절 전야 불꽃놀이·댄스파티 — 주민 위로 행사 본격화", "url": "https://www.kmib.co.kr/article/view.asp?arcid=0016980174", "tag": "update", "related_report": "2026-04-13" },
+    { "id": "src-010", "title": "SIPRI: 'Beyond Deadlock' 웨비나 4/15 개최 확정 — 한반도 대화 경로 모색", "url": "https://www.sipri.org/events/2026/sipri-webinar-pathways-dialogue-and-regional-stability-korean-peninsula", "tag": "update", "related_report": "2026-04-12" },
+    { "id": "src-011", "title": "UPI: 한·일, 미국 핵우산 불신 속 독자 핵능력 논의 확산", "url": "https://www.upi.com/Top_News/World-News/2026/04/12/japan-independent-nuclear-capabilities/5351776031540/", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-012", "title": "UPI: 다카이치 총리 NPT 검토회의 불참", "url": "https://www.upi.com/Top_News/World-News/2026/04/07/japan-nuclear-non-proliferation-treaty-review-conference/4321775602206/", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-013", "title": "Daily NK: 열병식 일정 변경", "url": "https://www.dailynk.com/english/north-korea-changed-scheduled-date-for-military-parade-early-april/", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-014", "title": "아주경제: '태양절' 명칭 삭제", "url": "https://www.ajunews.com/view/20260410141741452", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-015", "title": "NK News: 화성지구 도매유통 단지 건설", "url": "https://www.nknews.org/2026/04/north-korea-building-giant-wholesale-complex-with-chinese-help-businessman-says/", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-016", "title": "NK News: 스위스 평양 사무소 재개", "url": "https://www.nknews.org/2026/04/switzerland-to-reopen-cooperation-office-in-north-korea-after-6-years/", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-017", "title": "NPR: 3일간 무기 시험 — 집속탄 탄두 장착 탄도미사일", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-018", "title": "뉴스1: 혈맹 챙기는 北, 우군 다지기", "url": "https://www.news1.kr/nk/politics-diplomacy/6130928", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-019", "title": "ACA: 북한 핵무장국 인정 요구", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-020", "title": "RAND: 우발적 핵전쟁 위험 감소 접근법", "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html", "tag": "reported", "related_report": "2026-04-08" },
+    { "id": "src-021", "title": "Korea Times: 김일성 문화행사 개막", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260410/n-korea-celebrates-late-founder-kim-il-sungs-birth-anniv-with-cultural-events", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-022", "title": "Euronews: NK 탄도미사일 발사", "url": "https://www.euronews.com/2026/04/08/north-korea-launches-ballistic-missiles-after-declaring-south-most-hostile-enemy", "tag": "reported", "related_report": "2026-04-11" }
+  ]
+}
