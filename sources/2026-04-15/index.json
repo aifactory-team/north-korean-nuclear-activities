@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-15",
+  "total": 20,
+  "new": 5,
+  "reported": 12,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "구축함 최현호 전략순항미사일·반함선미사일 시험발사 — 김정은 참관, '핵전쟁 억제력 무한 강화' 선언", "url": "https://www.reuters.com/world/asia-pacific/north-korea-tests-cruise-anti-ship-missiles-naval-destroyer-2026-04-13/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "뉴스핌 분석: 구축함까지 핵플랫폼화 — 해군을 전략적 핵무기 투사 체계로 전환", "url": "https://www.newspim.com/news/view/20260414001067", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Army Recognition: 북한 2030년까지 핵무장 구축함 12척 계획 — 연 2척 건조, 3·4호함 건조 심의", "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-12-nuclear-armed-destroyers-by-2030-after-choe-hyon-missile-test", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "연합뉴스: 북한, 일본 외교청서 핵·미사일 비판에 반박 — '자위적 국방력 강화 합리적' 주장", "url": "https://en.yna.co.kr/view/AEN20260415000800315?section=nk/nk", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "AEI/ISW: Korean Peninsula Update, April 14 — 구축함 시험·태양절·핵지위 분석", "url": "https://www.aei.org/articles/korean-peninsula-update-april-14-2026/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "SIPRI 웨비나 'Beyond Deadlock on the Korean Peninsula' — 4/15 오늘 개최", "url": "https://www.sipri.org/events/2026/sipri-webinar-pathways-dialogue-and-regional-stability-korean-peninsula", "tag": "update", "related_report": "2026-04-14" },
+    { "id": "src-007", "title": "태양절(4/15) 당일: 김일성 114돌 생일 — 열병식 없이 문화행사·축제 중심 기념", "url": "https://www.kmib.co.kr/article/view.asp?arcid=0016980174", "tag": "update", "related_report": "2026-04-14" },
+    { "id": "src-008", "title": "SPN 서울평양뉴스: 오늘의 NK 미디어 브리핑 4/14 — 최현호 미사일 발사·태양절 행사 종합", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106338", "tag": "update", "related_report": "2026-04-14" },
+    { "id": "src-009", "title": "CSIS Beyond Parallel: 영변 신규 우라늄 농축 건물 위성 분석", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon/", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-010", "title": "Korea Herald: KIDA 분석 — 북한 핵탄두 127~150개 보유 추정", "url": "https://www.koreaherald.com/article/10625110", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-011", "title": "NPR: 3일간 무기 시험 — 집속탄 탄두 장착 탄도미사일", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-012", "title": "USNI News: 북한, 3일간 주요 무기 시험·미사일 발사", "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-013", "title": "The Diplomat: 2일 연속 북한 동해상 탄도미사일 발사", "url": "https://thediplomat.com/2026/04/over-2-consecutive-days-north-korea-fires-ballistic-missiles-toward-east-sea", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-014", "title": "서울경제: 北 '태양절' 명칭 사용 소극적 — 김일성 생일 앞둔 이중 메시지", "url": "https://www.sedaily.com/article/20030779", "tag": "reported", "related_report": "2026-04-13" },
+    { "id": "src-015", "title": "ACA: 북한 핵무장국 인정 요구 — 미국과의 대화 전제", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-016", "title": "Chatham House: NPT 검토회의 전망", "url": "https://www.chathamhouse.org/publications/the-world-today/2026-03/can-npt-review-conference-stop-new-nuclear-arms-race", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-017", "title": "UN: NPT 제11차 검토회의 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-018", "title": "VERTIC: 북한 우라늄 농축 이해", "url": "https://www.vertic.org/2026/03/understanding-north-korean-uranium-enrichment/", "tag": "reported", "related_report": "2026-04-08" },
+    { "id": "src-019", "title": "Japan Times: Kim Jong Un, 트럼프 방중 앞두고 동맹·무기 과시", "url": "https://www.japantimes.co.jp/news/2026/04/11/asia-pacific/politics/north-korea-kim-friends/", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-020", "title": "파이낸셜뉴스: IAEA 사무총장 방한 가능성 — 북핵·핵잠 논의", "url": "https://www.fnnews.com/news/202604130941088199", "tag": "reported", "related_report": "2026-04-14" }
+  ]
+}
