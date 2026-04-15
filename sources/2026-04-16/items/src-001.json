@@ -1,0 +1,24 @@
+{
+  "id": "src-001",
+  "title": "IAEA 그로시 사무총장, 서울에서 북한 핵무기 생산능력 '매우 심각한 증대' 경고 — 영변 5MW 원자로·재처리·경수로·신규 농축시설 전면 활동 확인",
+  "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea",
+  "snippet": "라파엘 그로시 IAEA 사무총장이 4월 15일 서울 방한 중 기자간담회에서 북한의 핵무기 생산능력이 '매우 심각하게 증대(very serious increase)'됐다고 경고. 영변 5MW 원자로, 재처리시설, 경수로, 신규 농축시설 등 전면 가동 확인. 핵탄두 수십 개(a few dozen) 생산 가능 수준으로 평가. 강선 농축시설과 유사한 신규 건물 모니터링 중. 러시아의 북한 핵개발 지원에 대해서는 '특별히 확인된 것은 없다'고 답변.",
+  "source_name": "Al Jazeera / AFP",
+  "language": "en",
+  "discovered_date": "2026-04-16",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 동일/유사 항목 없음. IAEA 사무총장이 서울에서 직접 발표한 공식 평가로, 북한 핵능력에 대한 IAEA 최신 공식 입장. 4/14 보고서의 '방한 가능성' 논의와 달리 실제 방한 후 구체적 평가 내용이 포함된 신규 뉴스.",
+  "additional_sources": [
+    { "name": "Washington Times", "url": "https://www.washingtontimes.com/news/2026/apr/15/north-korea-rapidly-advances-nuclear-arms-beyond-dozen-warheads-un/" },
+    { "name": "Taipei Times", "url": "https://www.taipeitimes.com/News/front/archives/2026/04/16/2003855688" },
+    { "name": "Manila Times", "url": "https://www.manilatimes.net/2026/04/16/world/asia-oceania/north-korea-boosting-ability-to-make-nuclear-arms-un-watchdog/2321020" },
+    { "name": "Reuters/Investing.com", "url": "https://www.investing.com/news/world-news/north-korea-sharply-boosting-nuclear-weapons-capacity-iaea-chief-says-4614188" },
+    { "name": "Daily Sabah", "url": "https://www.dailysabah.com/world/asia-pacific/north-korea-expanding-ability-to-build-nuclear-weapons-un" },
+    { "name": "RTE", "url": "https://www.rte.ie/news/world/2026/0415/1568292-north-korea/" },
+    { "name": "이투데이", "url": "https://www.etoday.co.kr/news/view/2561163" },
+    { "name": "파이낸셜뉴스", "url": "https://www.fnnews.com/news/202604151536138399" },
+    { "name": "VOA", "url": "https://www.voakorea.com/a/8124688.html" }
+  ]
+}

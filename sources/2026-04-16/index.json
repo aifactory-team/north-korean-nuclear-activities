@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-16",
+  "total": 18,
+  "new": 3,
+  "reported": 12,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "IAEA 그로시 사무총장, 서울에서 북한 핵무기 생산능력 '매우 심각한 증대' 경고 — 영변 5MW 원자로·재처리·경수로·신규 농축시설 전면 활동 확인", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "NK News 분석: 미-이란 전쟁이 북미 대화 전망을 '생명유지 장치'에 놓다 — 핵협상 중 이란 공격이 평양에 경종", "url": "https://www.nknews.org/2026/04/trumps-war-with-iran-has-left-prospects-for-north-korea-talks-on-life-support/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "조현 외교장관-IAEA 사무총장 면담 — 한-IAEA 협력·글로벌 현안·한반도 정세·북핵 논의", "url": "https://www.newspim.com/news/view/20260415001278", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "IAEA-한국, 핵잠수함 안전조치 협의 정식 시작 — 그로시 '철통같은 비확산 보장 필수'", "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20260415/s-korea-required-to-make-ironclad-nonproliferation-guarantee-over-nuclear-submarine-plan-iaea-chief", "tag": "update", "related_report": "2026-04-14" },
+    { "id": "src-005", "title": "영변 신규 우라늄 농축시설 완공 — IAEA 그로시 공식 확인, 농축능력 '현저한 증가' 전망", "url": "https://www.fnnews.com/news/202604151536138399", "tag": "update", "related_report": "2026-04-14" },
+    { "id": "src-006", "title": "SPN 조선중앙TV 태양절 보도 분석 — 만수대 헌화·관광 기념품 전시회 종료(4/16)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106383", "tag": "update", "related_report": "2026-04-15" },
+    { "id": "src-007", "title": "Reuters: 구축함 최현호 전략순항미사일·반함선미사일 시험발사", "url": "https://www.reuters.com/world/asia-pacific/north-korea-tests-cruise-anti-ship-missiles-naval-destroyer-2026-04-13/", "tag": "reported", "related_report": "2026-04-15" },
+    { "id": "src-008", "title": "CSIS Beyond Parallel: 영변 신규 우라늄 농축 건물 위성 분석", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon/", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-009", "title": "Korea Herald: KIDA 분석 — 북한 핵탄두 127~150개 보유 추정", "url": "https://www.koreaherald.com/article/10625110", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-010", "title": "NPR: 3일간 무기 시험 — 집속탄 탄두 장착 탄도미사일", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-011", "title": "Fox News: Kim Jong Un oversees cruise missile launches from destroyer Choe Hyon", "url": "https://www.foxnews.com/world/kim-jong-un-oversees-cruise-missile-launches-from-prized-new-north-korean-warship", "tag": "reported", "related_report": "2026-04-15" },
+    { "id": "src-012", "title": "UPI: Kim oversees cruise, anti-ship missile tests from warship", "url": "https://www.upi.com/Top_News/World-News/2026/04/14/North-Korea-destroyer-cruise-anti-ship-missile-test-Choe-Hyon/7811776146385/", "tag": "reported", "related_report": "2026-04-15" },
+    { "id": "src-013", "title": "ACA: 북한 핵무장국 인정 요구 — 미국과의 대화 전제", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-014", "title": "UN: NPT 제11차 검토회의 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-015", "title": "USINDOPACOM: Statement on DPRK Missile Launches", "url": "https://www.pacom.mil/Media/News/News-Articles/Article/4453944/usindopacom-statement-on-dprk-missile-launches/", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-016", "title": "SPN: 영변 우라늄 농축 시설 추정 건물 위성사진 포착", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106326", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-017", "title": "위드뉴스: 핵탄두 '2배' 찍어내는 영변의 새 건물, 안보 '초비상'", "url": "https://car.withnews.kr/military/yongbyon-new-uranium-enrichment-facility", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-018", "title": "이데일리: 북한, 영변에 새 우라늄 농축 시설 완공한 듯", "url": "https://www.edaily.co.kr/News/Read?newsId=04077046645416120&mediaCodeNo=257", "tag": "reported", "related_report": "2026-04-14" }
+  ]
+}
