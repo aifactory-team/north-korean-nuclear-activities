@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-17",
+  "total": 20,
+  "new": 7,
+  "reported": 10,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "김정은, 태양절 맞아 서부지구 대련합부대 포병구분대 포사격경기 참관 — '포병이 전쟁 승패 결정' 강조, 수도방어군단 1위", "url": "https://www.koreaherald.com/article/10718365", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Bloomberg 분석: 'Why North Korea's Nuclear Weapons Arsenal Is a Growing Worry' — IAEA 경고 후속 심층 분석", "url": "https://www.bloomberg.com/news/articles/2026-04-16/why-north-korea-s-nuclear-weapons-arsenal-is-a-growing-worry", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "NK News: 러시아 점령 우크라이나 지역(돈바스), 북한과 관계 심화 논의 — DPRK 최고 특사 면담", "url": "https://www.nknews.org/2026/04/russian-occupied-ukrainian-region-discusses-deepening-ties-with-north-korea/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Bulletin of Atomic Scientists: 한국인 76.2% 독자 핵무장 지지 — 역대 최고, 제재·주한미군 철수에도 불구", "url": "https://thebulletin.org/2026/04/three-quarters-of-south-koreans-want-nuclear-weapons-one-variable-could-decide-the-rest/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "ACA: 'The NPT System Hangs in the Balance' — NPT 검토회의 10일 전, 비확산 체제 위기 분석", "url": "https://www.armscontrol.org/act/2026-04/focus/npt-system-hangs-balance", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "ACA: 'States Gather for 11th NPT Review Conference' — 참가국 준비 현황, 북한·이란·우크라이나 쟁점", "url": "https://www.armscontrol.org/act/2026-04/news/states-gather-11th-npt-review-conference", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "38 North: 'NK Tests New Theater Launch Platforms as Party Congress Continues Nuclear/Missile Buildup' — 9차 당대회 결정의 군사적 이행 종합 분석", "url": "https://www.38north.org/2026/04/north-korea-tests-new-theater-launch-platforms-as-party-congress-continues-nuclear-missile-buildup/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "NK News: IAEA 사무총장, 한국에 북핵 위협 대응 지지 요청 — 외교적 관여 재개 필요성 강조", "url": "https://www.nknews.org/2026/04/un-nuclear-watchdog-chief-seeks-rok-support-in-tackling-north-korean-nuke-threat/", "tag": "update", "related_report": "2026-04-16" },
+    { "id": "src-009", "title": "Korea Herald: IAEA 그로시, 이란 농축 동결은 '정치적 결정' — 검증 없는 합의는 '종이 한 장'", "url": "https://www.koreaherald.com/article/10717934", "tag": "update", "related_report": "2026-04-16" },
+    { "id": "src-010", "title": "SPN: 오늘의 NK 미디어 브리핑 4/16 — 포병 사격경기 상세·여자축구 U-20 AFC 준결승 3-0 승리", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106398", "tag": "update", "related_report": "2026-04-16" },
+    { "id": "src-011", "title": "Al Jazeera: IAEA 사무총장, 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-012", "title": "Euronews: 북한 핵무기 능력 'serious increase' — IAEA", "url": "https://www.euronews.com/2026/04/15/north-korea-showing-serious-increase-in-ability-to-make-nuclear-weapons-iaea-says", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-013", "title": "UPI: IAEA 사무총장, 북한 우라늄 농축 확대 확인", "url": "https://www.upi.com/Top_News/World-News/2026/04/15/iaea-nkorea-nuclear-new-uranium-facility/8301776295767/", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-014", "title": "CSIS Beyond Parallel: 영변 신규 우라늄 농축 건물 위성 분석", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon/", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-015", "title": "NPR: 3일간 무기 시험 — 집속탄 탄두 장착 탄도미사일", "url": "https://www.npr.org/2026/04/09/g-s1-116848/north-korea-says-its-latest-weapons-tests-included-missiles-with-cluster-bomb-warheads", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-016", "title": "Korea Herald: KIDA 분석 — 북한 핵탄두 127~150개 보유 추정", "url": "https://www.koreaherald.com/article/10625110", "tag": "reported", "related_report": "2026-04-14" },
+    { "id": "src-017", "title": "ACA: 북한 핵무장국 인정 요구 — 미국과의 대화 전제", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-018", "title": "Reuters: 구축함 최현호 전략순항미사일·반함선미사일 시험발사", "url": "https://www.reuters.com/world/asia-pacific/north-korea-tests-cruise-anti-ship-missiles-naval-destroyer-2026-04-13/", "tag": "reported", "related_report": "2026-04-15" },
+    { "id": "src-019", "title": "UN: NPT 제11차 검토회의 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-020", "title": "USINDOPACOM: Statement on DPRK Missile Launches", "url": "https://www.pacom.mil/Media/News/News-Articles/Article/4453944/usindopacom-statement-on-dprk-missile-launches/", "tag": "reported", "related_report": "2026-04-11" }
+  ]
+}
