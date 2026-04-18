@@ -1,0 +1,277 @@
+{
+  "date": "2026-04-19",
+  "collected_at": "2026-04-19T00:00:00Z",
+  "search_count": 20,
+  "total_results": 58,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:01:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "통일부 "'핵 없는 한반도' 목표...북핵 개발 중단 노력"", "url": "https://www.rfa.org/korean/in-focus/2026/04/15/korea-peninsula-denuclearized-north-korea/", "snippet": "통일부 대변인, 비핵화 목표 재확인. 이재명 정부 출범 이후 북핵 관련 입장 종합", "source_name": "RFA" },
+        { "title": "[오늘의 NK 미디어 브리핑] 2026년 4월 16일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106398", "snippet": "포병 사격경기 상세·여자축구 U-20 AFC 준결승 3-0 승리", "source_name": "SPN" },
+        { "title": "[북한 경제산업 동향] 2026년 4월 18일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106469", "snippet": "북한 경제산업 동향 분석", "source_name": "SPN" },
+        { "title": "[ 조선중앙TV 보도 분석 ] 2026년 4월 18일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106470", "snippet": "조선중앙TV 4/18 보도 내용 분석", "source_name": "SPN" },
+        { "title": "사회진보연대: 북한 핵무기 2026 — 2021년 이후 핵개발 5년 총결", "url": "https://www.pssp.org/bbs/view.php?board=j2021&nid=10591&page=1&category1=431", "snippet": "2021년 이후 5년간 북한 핵무기 개발 총정리", "source_name": "사회진보연대" },
+        { "title": "美 국방정보국장 \"北, 美 본토에 도전하는 ICBM 개발 지속\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106462", "snippet": "미국 DIA 국장이 북한의 미 본토 도달 가능 ICBM 개발 지속을 경고", "source_name": "SPN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 ICBM 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:02:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "美 국방정보국장 \"北, 美 본토에 도전하는 ICBM 개발 지속\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106462", "snippet": "DIA 국장 의회 증언에서 북한 ICBM 능력 경고", "source_name": "SPN" },
+        { "title": "북한이 미국 본토에 도달할 수 있는 ICBM용 대형 엔진을 시험 발사", "url": "https://korea.news-pravda.com/dprk/2026/03/29/61278.html", "snippet": "북한 신형 고체연료 엔진 추진력 2,500kN 달성", "source_name": "Pravda 한국" },
+        { "title": "2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "세종연구소 분석보고서", "source_name": "세종연구소" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 이란 핵합의 트럼프 2026",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:03:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "트럼프 대통령, 미-이란 '1~2일 내' 합의 가능\"", "url": "https://korean.cri.cn/2026/04/18/ARTI1776478892998837", "snippet": "트럼프 이란과 합의 임박 주장", "source_name": "CRI 한국어" },
+        { "title": "이란 부인했지만…트럼프 \"대가없이 핵물질 확보할것\" 거듭 주장", "url": "https://www.fnnews.com/news/202604180746169679", "snippet": "트럼프, 이란의 부인에도 농축우라늄 확보 주장 반복", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프 \"이란 핵포기 합의…'초토화' 5일 유예\"", "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1328735", "snippet": "트럼프, 이란 핵포기 합의 발표 및 군사행동 유예", "source_name": "한국센터" },
+        { "title": "트럼프 \"이란 핵프로그램 무기한 중단 합의…동결자금 해제 없다\"", "url": "https://www.edaily.co.kr/News/Read?newsId=01298886645417432&mediaCodeNo=257", "snippet": "트럼프 이란 핵프로그램 무기한 중단 합의 주장, 동결자금 해제 부정", "source_name": "이데일리" },
+        { "title": "[속보] 트럼프 \"이란, 농축 우라늄 넘기기로 합의\"…핵 협상 중대 전환점", "url": "https://www.newsly.co.kr/2883", "snippet": "트럼프 농축우라늄 인도 합의 발표", "source_name": "Newsly" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear April 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:04:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "North Korea boosting ability to manufacture nuclear arms, IAEA chief warns", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "snippet": "IAEA chief warns of 'very serious increase' in NK nuclear capacity", "source_name": "Al Jazeera" },
+        { "title": "Why North Korea's Nuclear Weapons Arsenal Is a Growing Worry", "url": "https://www.bloomberg.com/news/articles/2026-04-16/why-north-korea-s-nuclear-weapons-arsenal-is-a-growing-worry", "snippet": "Bloomberg in-depth analysis of NK nuclear arsenal growth", "source_name": "Bloomberg" },
+        { "title": "North Korea shows 'serious increase' in nuclear enrichment capacity", "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-17/north-korea-nuclear-weapons-activity-21403849.html", "snippet": "Stars and Stripes covers IAEA warning for US military audience", "source_name": "Stars and Stripes" },
+        { "title": "Seoul says it is unaware of U.S. protest over minister's remarks on North Korea nuclear site", "url": "https://www.japantimes.co.jp/news/2026/04/18/asia-pacific/politics/north-korea-nuclear-site-us-south-korea/", "snippet": "South Korea's Unification Ministry says unaware of US protest over Kusong nuclear site disclosure", "source_name": "Japan Times" },
+        { "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production", "url": "https://www.breitbart.com/politics/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/", "snippet": "Breitbart coverage of IAEA warning", "source_name": "Breitbart" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch sanctions April 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:05:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Kim Jong Un formally deploys 50 new tactical nuke launchers at ceremony", "url": "https://www.nknews.org/?p=967801", "snippet": "Kim Jong Un deployed 50 new launch vehicles for 600mm rocket system", "source_name": "NK News" },
+        { "title": "DPRK (North Korea), February 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-02/dprk-north-korea-33.php", "snippet": "Security Council Report on DPRK monthly forecast", "source_name": "Security Council Report" },
+        { "title": "FCDO statement on DPRK ballistic missile launches: 8 April", "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260408-ukfcdo01.htm", "snippet": "UK condemns DPRK April 8 missile launches", "source_name": "GlobalSecurity" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Iran nuclear deal Trump 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:06:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Trump Could Get a Win with North Korea This Time", "url": "https://quincyinst.org/research/trump-could-get-a-win-with-north-korea-this-time-by-taking-lessons-from-his-first-term/", "snippet": "Quincy Institute analysis on Trump-NK diplomacy prospects", "source_name": "Quincy Institute" },
+        { "title": "Iran Strikes Spotlight Chances for North Korea to Resume Nuclear Talks With Trump", "url": "https://www.usnews.com/news/world/articles/2026-03-02/iran-strikes-spotlight-chances-for-north-korea-to-resume-nuclear-talks-with-trump", "snippet": "Iran war impact on NK nuclear talk prospects", "source_name": "US News" },
+        { "title": "Trump's Chaotic and Reckless Iran Nuclear Policy", "url": "https://www.armscontrol.org/act/2026-03/focus/trumps-chaotic-and-reckless-iran-nuclear-policy", "snippet": "ACA analysis of Trump Iran nuclear policy", "source_name": "Arms Control Association" },
+        { "title": "Between Maximum Pressure and Engagement: US Policy Toward North Korea Under Trump", "url": "https://www.tandfonline.com/doi/full/10.1080/25751654.2025.2603718", "snippet": "Academic analysis of Trump NK policy", "source_name": "Taylor & Francis" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年4月",
+      "language": "ja",
+      "timestamp": "2026-04-19T00:07:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "2026年4月における北朝鮮のミサイル発射事案の現状と影響", "url": "https://kokuminanzen.com/japan/4089/", "snippet": "4月の北朝鮮ミサイル発射事案分析、HW-11Aクラスター弾頭テスト含む", "source_name": "国民生活安全課" },
+        { "title": "防衛省・自衛隊：北朝鮮のミサイル等関連情報", "url": "https://www.mod.go.jp/j/surround/northKorea/index.html", "snippet": "日本防衛省による北朝鮮ミサイル情報一覧", "source_name": "防衛省" },
+        { "title": "北朝鮮 少なくとも2発の弾道ミサイル発射 EEZ外に落下と推定", "url": "https://news.web.nhk.or.jp/", "snippet": "NHK速報：4月8日北朝鮮弾道ミサイル発射", "source_name": "NHK" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 朝鲜导弹 2026年4月",
+      "language": "zh",
+      "timestamp": "2026-04-19T00:08:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "朝鲜国防科学院和导弹总局称进行重要武器系统试验", "url": "https://www.chinanews.com.cn/gj/2026/04-09/10600690.shtml", "snippet": "中新网报道朝鲜4月6-8日武器试验详情", "source_name": "中新网" },
+        { "title": "韓日防長討論朝鮮彈道導彈發射", "url": "https://big5.sputniknews.cn/20260408/1070678882.html", "snippet": "韩日防长讨论朝鲜弹道导弹发射问题", "source_name": "俄罗斯卫星通讯社" },
+        { "title": "中方如何评价朝鲜连日发射弹道导弹？外交部回应", "url": "https://m.thepaper.cn/newsDetail_forward_32925626", "snippet": "中国外交部回应朝鲜连续导弹发射", "source_name": "澎湃新闻" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "이란 핵협상 이슬라마바드 회담 2026년 4월 19일",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:09:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "미·이란, 20일 파키스탄서 2차 회담 유력…핵심 쟁점은 핵농축", "url": "https://www.fnnews.com/news/202604181810018266", "snippet": "미-이란 2차 종전협상 4/20 이슬라마바드 개최 유력, 핵농축·우라늄 반출 핵심 쟁점", "source_name": "파이낸셜뉴스" },
+        { "title": "미국-이란 이슬라마바드 종전협상 합의없이 끝나", "url": "https://www.mindlenews.com/news/articleView.html?idxno=19642", "snippet": "1차 이슬라마바드 협상 21시간 만에 합의 없이 결렬", "source_name": "민들레" },
+        { "title": "결국은 '핵'… 美·이란, 종전협상 노딜", "url": "https://www.seoul.co.kr/news/international/2026/04/13/20260413001005", "snippet": "핵 문제가 종전협상 최대 걸림돌", "source_name": "서울신문" },
+        { "title": "美-이란 '2차 종전 협상', 20일 파키스탄서 개최 전망", "url": "https://www.newdaily.co.kr/site/data/html/2026/04/18/2026041800022.html", "snippet": "뉴데일리: 2차 회담 4/20 개최 전망", "source_name": "뉴데일리" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Iran nuclear deal Islamabad talks weekend April 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:10:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Mediators rush to revive U.S.-Iran nuclear talks before ceasefire expires", "url": "https://www.axios.com/2026/04/13/us-iran-nuclear-talks-ceasefire-deal", "snippet": "Mediators working to revive talks before April 21 ceasefire expiry", "source_name": "Axios" },
+        { "title": "Officials Considering Second Round of U.S.-Iran Talks As Sticking Points Remain", "url": "https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/", "snippet": "Time: second round of talks being considered, nuclear enrichment key sticking point", "source_name": "Time" },
+        { "title": "'Very good' chance of a deal: Trump says Iran agreed to nuclear curbs", "url": "https://www.businesstoday.in/world/story/very-good-chance-of-a-deal-trump-on-how-iran-has-agreed-to-no-nuclear-weapons-says-he-may-go-to-islamabad-526075-2026-04-17", "snippet": "Trump claims Iran agreed to nuclear curbs, weekend talks likely", "source_name": "BusinessToday" },
+        { "title": "Why the Iran-U.S. Peace Talks Failed", "url": "https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/", "snippet": "Time analysis of why first round failed — nuclear issue was key", "source_name": "Time" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear news today April 18 19 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:11:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "Seoul says it is unaware of U.S. protest over minister's remarks on North Korea nuclear site", "url": "https://www.japantimes.co.jp/news/2026/04/18/asia-pacific/politics/north-korea-nuclear-site-us-south-korea/", "snippet": "South Korea denies knowledge of US protest over Kusong nuclear site disclosure by unification minister", "source_name": "Japan Times" },
+        { "title": "South Korea Denies U.S. Intelligence Restrictions Over North Korean Nuclear Site Disclosure", "url": "http://www.econotimes.com/South-Korea-Denies-US-Intelligence-Restrictions-Over-North-Korean-Nuclear-Site-Disclosure-1739345", "snippet": "Seoul denies US restricted intelligence sharing over Kusong disclosure", "source_name": "EconoTimes" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 건군절 4월 25일 2026 열병식",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:12:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "열병식/북한 — 건군절 열병식 이력", "url": "https://namu.wiki/w/%EC%97%B4%EB%B3%91%EC%8B%9D/%EB%B6%81%ED%95%9C", "snippet": "2026년 건군절(4/25) 열병식 가능성 분석, 5로 나눈 나머지 2인 연도 해당", "source_name": "나무위키" },
+        { "title": "\"갑자기 무기가 '0대'로\"… 北 2월 열병식 무기 없는 이례적 사태", "url": "https://www.reportera.co.kr/military/north-korea-military-parade-without-weapons-february-2026/comment-page-1/", "snippet": "2월 열병식에서 무기 미공개 이례적 사태, 4월 25일 공개 가능성", "source_name": "리포트에라" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT review conference 2026 April nuclear",
+      "language": "en",
+      "timestamp": "2026-04-19T00:13:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "NPT Conference 2026 — Review conference (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "snippet": "NPT 11th Review Conference, April 27 - May 22, 2026, UN HQ New York", "source_name": "United Nations" },
+        { "title": "States Gather for 11th NPT Review Conference", "url": "https://www.armscontrol.org/act/2026-04/news/states-gather-11th-npt-review-conference", "snippet": "ACA coverage of states preparing for NPT RevCon", "source_name": "Arms Control Association" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "\"North Korea\" \"Kusong\" nuclear site minister April 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:14:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Seoul says explained to U.S. background of minister's remarks on N. Korea's Kusong nuclear facility", "url": "https://www.upi.com/Top_News/World-News/2026/04/17/Unification-Minister-Chung-Dong-young-Kusong-North-Korea-nuclear-enrichment-US-protest/8541776413295/", "snippet": "Seoul explains Chung Dong-young's Kusong remarks to US; minister cited public info", "source_name": "UPI" },
+        { "title": "Seoul says explained to US background of minister's remarks on N. Korea's Kusong nuclear facility", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260417/seoul-says-explained-to-us-background-of-ministers-remarks-on-n-koreas-kusong-nuclear-facility", "snippet": "Korea Times: Seoul explains to US that Kusong remarks based on public info", "source_name": "Korea Times" },
+        { "title": "Song Eon-seok Demands Unification Minister's Dismissal Over Nuclear Site Remarks", "url": "https://en.sedaily.com/finance/2026/04/18/song-eon-seok-demands-unification-ministers-dismissal-over", "snippet": "PPP floor leader demands minister dismissal for disclosing Kusong nuclear facility", "source_name": "Seoul Economic Daily" },
+        { "title": "Seoul says it is unaware of U.S. protest over minister's remarks on North Korea nuclear site", "url": "https://www.japantimes.co.jp/news/2026/04/18/asia-pacific/politics/north-korea-nuclear-site-us-south-korea/", "snippet": "South Korea says unaware of US protest; remarks based on public info", "source_name": "Japan Times" },
+        { "title": "South Korea Downplays Reported U.S. Friction Over Disclosure of Suspected North Korean Nuclear Site", "url": "https://yournews.com/2026/04/17/6804442/south-korea-downplays-reported-u-s-friction-over-disclosure-of-suspected/", "snippet": "South Korea downplays US friction over Kusong disclosure", "source_name": "YourNews" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "미이란 2차회담 4월 20일 이슬라마바드 핵 2026",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:15:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "미·이란, 20일 파키스탄서 2차 회담 유력…핵심 쟁점은 핵농축", "url": "https://www.fnnews.com/news/202604181810018266", "snippet": "2차 종전협상 4/20 이슬라마바드 개최 유력", "source_name": "파이낸셜뉴스" },
+        { "title": "美-이란 '2차 종전 협상', 20일 파키스탄서 개최 전망", "url": "https://www.newdaily.co.kr/site/data/html/2026/04/18/2026041800022.html", "snippet": "뉴데일리 2차 회담 전망", "source_name": "뉴데일리" },
+        { "title": "미-이란 2차 종전 협상, 20일 이슬라마바드에서 열릴 듯", "url": "https://www.womennews.co.kr/news/articleView.html?idxno=276460", "snippet": "여성신문 2차 협상 전망", "source_name": "여성신문" },
+        { "title": "20일 美·이란 2차 종전 '담판' 협상 전망...핵 반출 이견 좁힐까", "url": "https://www.fnnews.com/news/202604180857240452", "snippet": "핵 반출 이견 좁힐 수 있을지 전망", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Kim Jong Un April 18 19 2026 North Korea",
+      "language": "en",
+      "timestamp": "2026-04-19T00:16:00Z",
+      "result_count": 1,
+      "results": [
+        { "title": "2026 in North Korea", "url": "https://en.wikipedia.org/wiki/2026_in_North_Korea", "snippet": "Wikipedia timeline of 2026 events in North Korea", "source_name": "Wikipedia" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 이란 핵 농축우라늄 합의 부인 2026년 4월 18일",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:17:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "이란 \"우라늄 이전 불가\" vs 트럼프 \"봉쇄 유지\"…긴장 재점화", "url": "https://www.blockmedia.co.kr/archives/1080332", "snippet": "이란 '우라늄 이전 불가' 입장 vs 트럼프 봉쇄 유지 주장, 긴장 재점화", "source_name": "블록미디어" },
+        { "title": "트럼프 \"이란, 합의 없으면 '비우호적 방식'으로 우라늄 확보\"(종합)", "url": "https://www.fnnews.com/news/202604181336254223", "snippet": "트럼프, 합의 실패 시 '비우호적 방식' 우라늄 확보 위협", "source_name": "파이낸셜뉴스" },
+        { "title": "핵우라늄 놓고 이견 팽팽…미 \"반출 합의\" vs 이란 \"절대 불가\"", "url": "https://www.etoday.co.kr/news/view/2576895", "snippet": "핵우라늄 반출 놓고 미-이란 이견 팽팽", "source_name": "이투데이" },
+        { "title": "트럼프 \"22일까지 이란과 합의 안되면 폭탄 투하 재개\"", "url": "https://www.fnnews.com/news/202604181431350760", "snippet": "트럼프, 4/22까지 합의 안되면 이란 폭격 재개 위협", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "통일부장관 정동영 구성 핵시설 해임 요구 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:18:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "정동영 '北 구성 핵시설' 발언 논란 확산…野 \"즉각 경질\" vs 與 \"침소봉대\"(종합)", "url": "https://www.fnnews.com/news/202604182021254358", "snippet": "정동영 구성 핵시설 발언 여야 공방 확산", "source_name": "파이낸셜뉴스" },
+        { "title": "통일부 \"'구성시 핵시설' 정동영 장관 발언, 미국에 충분히 설명\"", "url": "https://www.mt.co.kr/politics/2026/04/17/2026041721575496813", "snippet": "통일부 미국 측에 설명 완료 입장", "source_name": "머니투데이" },
+        { "title": "통일부 \"정동영 '구성 핵시설' 발언 배경, 미국 측에 충분히 설명\"", "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225502&PAGE_CD=N0002&CMPT_CD=M0112", "snippet": "오마이뉴스 통일부 입장 보도", "source_name": "오마이뉴스" },
+        { "title": "송언석 \"정동영 경질해야…가벼운 입이 한미 공조 훼손\"", "url": "https://www.sedaily.com/article/20034083", "snippet": "국민의힘 원내대표 정동영 장관 경질 요구", "source_name": "서울경제" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea tactical nuclear launcher deployment April 2026",
+      "language": "en",
+      "timestamp": "2026-04-19T00:19:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "Kim Jong Un formally deploys 50 new tactical nuke launchers at ceremony", "url": "https://www.nknews.org/?p=967801", "snippet": "Kim deploys 50 new 600mm rocket launch vehicles in February ceremony", "source_name": "NK News" },
+        { "title": "North Korea Tests New Theater Launch Platforms as Party Congress Continues Nuclear/Missile Buildup", "url": "https://www.38north.org/2026/04/north-korea-tests-new-theater-launch-platforms-as-party-congress-continues-nuclear-missile-buildup/", "snippet": "38 North analysis of new theater launch platforms tested in April", "source_name": "38 North" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 이란 합의 실패시 비우호적 방식 우라늄 확보 2026",
+      "language": "ko",
+      "timestamp": "2026-04-19T00:20:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "트럼프 \"이란, 합의 없으면 '비우호적 방식'으로 우라늄 확보\"(종합)", "url": "https://www.fnnews.com/news/202604181336254223", "snippet": "4/18 트럼프 비우호적 방식 위협", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프 \"22일까지 이란과 합의 안되면 폭탄 투하 재개\"", "url": "https://www.fnnews.com/news/202604181431350760", "snippet": "4/22 시한부 폭격 재개 위협", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프 22일까지 합의 안 되면 이란 다시 폭격할 수도", "url": "https://www.hankyung.com/article/2026041896867", "snippet": "한국경제 트럼프 폭격 재개 위협 보도", "source_name": "한국경제" }
+      ]
+    }
+  ]
+}
