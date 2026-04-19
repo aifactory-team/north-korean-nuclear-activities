@@ -1,0 +1,13 @@
+{
+  "id": "src-007",
+  "title": "東京新聞: 北 SLBM 추정, 변칙궤도 신형 — 약 2년 만 잠수함발사탄도미사일, EEZ 바깥 낙하",
+  "url": "https://www.tokyo-np.co.jp/article/137730",
+  "snippet": "東京新聞 보도. 한국군이 4/19 발사된 미사일을 약 2년 만의 SLBM으로 추정. 종래와 다른 변칙궤도(irregular trajectory)로 비행하여 신형 가능성. 일본 EEZ 바깥 낙하, 피해 보고 없음.",
+  "source_name": "東京新聞 / 時事通信 / NHK",
+  "language": "ja",
+  "discovered_date": "2026-04-20",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "src-001 동일 사건의 일본 측 보도. '변칙궤도 신형' 정보가 한국 측 보도에 없는 독자적 정보."
+}
