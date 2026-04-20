@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-21",
+  "total": 22,
+  "new": 6,
+  "reported": 13,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "KCNA: 4/19 발사는 화성포-11라 집속탄두 위력 시험 — SLBM 아닌 집속탄·파편지뢰 전투부 5발, 김정은·주애 참관", "url": "https://www.fnnews.com/news/202604201012353868", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "트럼프: 휴전 만료 시 '폭탄이 쏟아진다(lots of bombs start going off)' — 연장 '매우 불가능', 4/22 수요일 저녁 만료", "url": "https://www.pbs.org/newshour/politics/trump-tells-pbs-news-that-lots-of-bombs-start-going-off-if-iran-ceasefire-expires", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "이란, 파키스탄 2차 회담 불참 선언 — 미 해군 선박 나포에 보복 예고, 미국 '휴전 위반' 비난", "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "이재명 대통령: '구성 핵시설 존재 알려져, 기밀 누설 주장은 잘못' — 정동영 방어, 미 정보 공유 복원 협의 시사", "url": "https://www.mt.co.kr/politics/2026/04/20/2026042021055089673", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "CNBC: 북한, 이란전쟁 속 무력과시 — '이란과 달리 자위력 보유' 시그널, 미·한 대화 전 레버리지 극대화", "url": "https://www.cnbc.com/2026/04/19/north-korea-fires-ballistic-missiles-flexing-muscle-amid-iran-war.html", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "CBC 분석: 북한, 이란 취약성 목격 후 핵무기 확대 가속 — '핵 포기=군사공격' 교훈 체화", "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "위성정보 공유 제한 지속 — 하루 50~100장 위성사진 공유 중단 1주일 이상, 야당 '안보 공백' 경고", "url": "https://www.newspim.com/news/view/20260420000068", "tag": "update", "related_report": "2026-04-20" },
+    { "id": "src-008", "title": "이란 휴전 만료 임박 — CNBC: '적대행위 재개(resumption of hostilities)', 미 선박 나포·이란 보복 예고로 시나리오 C 가능성 상승", "url": "https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html", "tag": "update", "related_report": "2026-04-20" },
+    { "id": "src-009", "title": "4/19 신포 발사 SLBM 아닌 것으로 판명 — KCNA 화성포-11라 확인, 집속탄 시험으로 최종 결론", "url": "https://www.military.com/daily-news/2026/04/20/north-korea-again-tests-cluster-munitions-launch-observed-kim-and-his-daughter.html", "tag": "update", "related_report": "2026-04-20" },
+    { "id": "src-010", "title": "38 North: 2,500kN 고체연료 모터 분석", "url": "https://www.38north.org/2026/04/a-new-rocket-motor-further-muddles-north-koreas-solid-propellant-icbm-outlook/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-011", "title": "38 North: 미국 관여 유인 부재 속 북한 러·중 관계 심화", "url": "https://www.38north.org/2026/04/with-little-incentive-to-engage-the-us-north-korea-deepens-russia-and-china-ties/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-012", "title": "Washington Times: NK launches multiple SRBM", "url": "https://www.washingtontimes.com/news/2026/apr/19/south-korea-says-north-korea-launched-multiple-short-range-ballistic/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-013", "title": "Al Jazeera: NK launches ballistic missiles towards sea", "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-014", "title": "조선일보 영문: NK launches SLBM near Sinpo", "url": "https://www.chosun.com/english/national-en/2026/04/20/QDZPQW63IJFDBMXJWELWIBZMRI/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-015", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-016", "title": "NPT RevCon 2026 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-017", "title": "UPI: NK fires missiles signaling broader nuclear delivery push", "url": "https://www.upi.com/Top_News/World-News/2026/04/19/missile-launched/2011776646593/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-018", "title": "서울신문: 北 집속탄 미사일 '축구장 18개 면적 초토화'", "url": "https://www.seoul.co.kr/news/politics/2026/04/20/20260420500017", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-019", "title": "NHK: 北朝鮮 日本海へ短距離弾道ミサイル数発発射", "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015102781000", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-020", "title": "38 North: Eight Lessons for NK Forces From Iran Conflict", "url": "https://www.38north.org/2026/03/eight-lessons-for-north-koreas-nuclear-and-missile-forces-from-the-ongoing-iran-conflict/", "tag": "reported", "related_report": "2026-04-18" },
+    { "id": "src-021", "title": "Janes: New DPRK submarine reshapes underwater warfare", "url": "https://www.janes.com/osint-insights/defence-and-national-security-analysis/new-dprk-submarine-reshapes-underwater-warfare-in-northeast-asia", "tag": "reported", "related_report": "2026-04-15" },
+    { "id": "src-022", "title": "CNN Live: Iran war updates, Trump ceasefire comments", "url": "https://www.cnn.com/2026/04/20/world/live-news/iran-war-us-trump-israel", "tag": "reported", "related_report": "2026-04-20" }
+  ]
+}
