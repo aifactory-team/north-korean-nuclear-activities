@@ -1,0 +1,13 @@
+{
+  "id": "src-009",
+  "title": "Bloomberg: 이재명 대통령, 북한 핵시설 미국 정보 유출 부인 (영문 보도)",
+  "url": "https://www.bloomberg.com/news/articles/2026-04-21/korea-s-lee-denies-us-intel-leak-on-kim-jong-un-s-nuclear-site",
+  "snippet": "Bloomberg가 4/21 이재명 대통령의 구성 핵시설 정보 유출 부인을 영문으로 보도. 한미 정보동맹 갈등이 국제 경제 매체에서도 다뤄지는 수준으로 확대됨을 시사.",
+  "source_name": "Bloomberg",
+  "language": "en",
+  "discovered_date": "2026-04-22",
+  "tag": "update",
+  "related_report": "2026-04-21",
+  "related_item": "src-004",
+  "tag_reason": "4/21 보고서 항목의 영문 보도. 국제 경제 매체(Bloomberg)가 다루었다는 점에서 사안의 국제적 파급 확인."
+}

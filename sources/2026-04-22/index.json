@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-22",
+  "total": 20,
+  "new": 7,
+  "reported": 10,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "트럼프, 이란 휴전 연장 전격 선언 — '이란 정부 심각하게 분열(seriously fractured)', 파키스탄 요청 수용, 통일된 제안 나올 때까지 공격 보류", "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "이란, 휴전 연장 '일방적'이라고 비난 — '걸프국 미국 지원 시 석유생산에 작별', 2차 회담 불참 유지", "url": "https://www.asiae.co.kr/article/2026042207250996021", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Al Jazeera: 미-이란 전쟁 4가지 시나리오 분석 — 협상 교착 속 향후 전망", "url": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "국방부: '한미 정보 공유 체계 유지 중' — 19일 北 탄도미사일도 공유·분석, 기밀유출 정황 없어", "url": "https://www.pressian.com/pages/articles/2026042111280296035", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "한병도 국가안보실장 '정동영 발언은 정보 유출 아냐' — 정부·야당 공방 확산, 성일종 '주한미군사령관 항의' vs 국방부 '사실무근'", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260421010006537", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "Daily NK: 북한, 건군절(4/25) 앞두고 군 내 백두혈통 충성 특강 지시 — 사격·포병·전술 경기대회 준비", "url": "https://www.dailynk.com/english/north-korea-orders-military-loyalty-lectures-ahead-of-april-25-army-anniversary/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "유가, 다시 100달러 눈앞 — 미·이란 협상 지연에 상승 압박, 호르무즈 봉쇄 지속", "url": "https://www.fnnews.com/news/202604220512534337", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "정동영 '구성 핵시설' 발언 파장 지속 — 한미 정보공유 균열 논란 확산, 위성정보 공유 제한 관련 정부·야당 공방", "url": "https://www.newspim.com/news/view/20260421001110", "tag": "update", "related_report": "2026-04-21" },
+    { "id": "src-009", "title": "Bloomberg: 이재명 대통령, 북한 핵시설 미국 정보 유출 부인 (영문 보도)", "url": "https://www.bloomberg.com/news/articles/2026-04-21/korea-s-lee-denies-us-intel-leak-on-kim-jong-un-s-nuclear-site", "tag": "update", "related_report": "2026-04-21" },
+    { "id": "src-010", "title": "DEFCON Warning System: 핵전쟁 위험 브리핑 4/20 — 이란·북한 핵 위협 동시 고조, 호르무즈 교착", "url": "https://defconwarningsystem.com/2026/04/20/nuclear-war-risk-stability-briefing-april-20-2026/", "tag": "update", "related_report": "2026-04-21" },
+    { "id": "src-011", "title": "KCNA: 화성포-11라 집속탄두 위력 시험 — SLBM 아닌 집속탄 확정", "url": "https://www.fnnews.com/news/202604201012353868", "tag": "reported", "related_report": "2026-04-21" },
+    { "id": "src-012", "title": "CNBC: 북한, 이란전쟁 속 무력과시", "url": "https://www.cnbc.com/2026/04/19/north-korea-fires-ballistic-missiles-flexing-muscle-amid-iran-war.html", "tag": "reported", "related_report": "2026-04-21" },
+    { "id": "src-013", "title": "CBC: 북한, 이란 취약성 목격 후 핵무기 확대 가속", "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741", "tag": "reported", "related_report": "2026-04-21" },
+    { "id": "src-014", "title": "38 North: 2,500kN 고체연료 모터 분석", "url": "https://www.38north.org/2026/04/a-new-rocket-motor-further-muddles-north-koreas-solid-propellant-icbm-outlook/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-015", "title": "38 North: 미국 관여 유인 부재 속 북한 러·중 관계 심화", "url": "https://www.38north.org/2026/04/with-little-incentive-to-engage-the-us-north-korea-deepens-russia-and-china-ties/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-016", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-017", "title": "NPT RevCon 2026 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-018", "title": "NHK: 北朝鮮 弾道ミサイル発射 EEZ外に落下", "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015018571000", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-019", "title": "Stars and Stripes: 북한 핵 농축 능력 'serious increase'", "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-17/north-korea-nuclear-weapons-activity-21403849.html", "tag": "reported", "related_report": "2026-04-18" },
+    { "id": "src-020", "title": "Bloomberg: Why North Korea's Nuclear Weapons Arsenal Is a Growing Worry", "url": "https://www.bloomberg.com/news/articles/2026-04-16/why-north-korea-s-nuclear-weapons-arsenal-is-a-growing-worry", "tag": "reported", "related_report": "2026-04-17" }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-22",
+  "collected_at": "2026-04-22T00:00:00Z",
+  "search_count": 12,
+  "total_results": 68,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 4월 22일",
+      "language": "ko",
+      "timestamp": "2026-04-22T00:01:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "북한 핵문제 외교부 개요", "url": "https://www.mofa.go.kr/www/wpge/m_3972/contents.do", "snippet": "북한 핵문제 관련 외교부 공식 페이지", "source_name": "외교부" },
+        { "title": "북한 핵무기 2026 총결", "url": "https://www.pssp.org/bbs/view.php?board=j2021&nid=10591&page=1&category1=431", "snippet": "2021년 이후 북한의 핵무기 개발 5년 총결", "source_name": "사회진보연대" },
+        { "title": "오늘의 NK 미디어 브리핑 2026년 4월 16일", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106398", "snippet": "포병 사격경기 상세·여자축구 U-20 AFC 준결승 3-0 승리", "source_name": "SPN 서울평양뉴스" },
+        { "title": "일요신문 제1770호 2026년 4월 22일", "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=510391", "snippet": "2026년 4월 22일 발행", "source_name": "일요신문" },
+        { "title": "북한 미사일 개발, 한미 방어 체계 시험대", "url": "https://www.kjob.news/news/478649", "snippet": "북한 미사일 개발 현황과 한미 방어 체계 분석", "source_name": "전국인력신문" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 발사 2026년 4월",
+      "language": "ko",
+      "timestamp": "2026-04-22T00:02:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "탄도미사일 북한 발사 경위와 SLBM 가능성, 2026년 4월 19일 안보 위기 분석", "url": "https://aboda.kr/entry/%ED%83%84%EB%8F%84%EB%AF%B8%EC%82%AC%EC%9D%BC-2", "snippet": "2026년 4월 19일 오전 6시 10분경 북한 탄도미사일 발사 분석", "source_name": "Aboda" },
+        { "title": "북한 4월 4번째 미사일 발사, 한반도 긴장 고조", "url": "https://www.kjob.news/news/482477", "snippet": "4월에만 4번째 미사일 발사로 한반도 긴장 고조", "source_name": "전국인력신문" },
+        { "title": "평양, 무기 현대화에 나서다: 북한, 집속탄 탄두 탑재 OTRK 시험 발사", "url": "https://korea.news-pravda.com/world/2026/04/21/63501.html", "snippet": "북한 집속탄 탄두 탑재 전술탄도미사일 시험발사 분석", "source_name": "Pravda Korea" },
+        { "title": "軍 '北, 발사 탄도미사일 집속탄 장착 여부 정밀 분석 중'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106502", "snippet": "합참, 북한 발사 탄도미사일 집속탄 장착 여부 정밀 분석", "source_name": "SPN 서울평양뉴스" },
+        { "title": "北 탄도미사일 수 발 도발 '내달 트럼프 방중·중동전 겨냥 포석'", "url": "https://www.fnnews.com/news/202604190709127222", "snippet": "북한 탄도미사일 수 발 도발, 트럼프 방중·중동전 겨냥 포석 종합", "source_name": "파이낸셜뉴스" },
+        { "title": "북, 오전·오후 잇단 탄도미사일...이틀 연속 무력시위", "url": "https://www.rfa.org/korean/in-focus/2026/04/08/north-korea-fire-ballistic-missile/", "snippet": "북한 오전·오후 잇단 탄도미사일 이틀 연속 무력시위", "source_name": "RFA" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 건군절 열병식 2026",
+      "language": "ko",
+      "timestamp": "2026-04-22T00:03:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "\"미국에 달렸다\" 대화 여지 두고 이례적 열병식", "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6803624_37012.html", "snippet": "2026년 2월 열병식에서 대화 여지 남긴 이례적 메시지", "source_name": "MBC" },
+        { "title": "VOA: 북한 '열병식 준비' 정황 포착…4월 건군절 가능성", "url": "https://www.voakorea.com/a/7549430.html", "snippet": "미림비행장 등에서 열병식 준비 정황 포착", "source_name": "VOA" },
+        { "title": "北 대규모 열병식 준비 포착… '적대적 두 국가' 명문화 촉각", "url": "https://www.seoul.co.kr/news/politics/north/2026/02/04/20260204006004", "snippet": "평양 미림비행장에서 대규모 열병식 준비 포착", "source_name": "서울신문" },
+        { "title": "북한 열병식 앞두고 병력 1만 2천여 명 연습중…장비 집결은 아직", "url": "https://imnews.imbc.com/news/2026/politics/article/6802071_36911.html", "snippet": "열병식 앞두고 병력 1만 2천여 명 연습 중", "source_name": "MBC" },
+        { "title": "軍, 북한 열병식 포착…세부내용 분석 중", "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6083305", "snippet": "군 당국, 북한 열병식 포착 세부내용 분석 중", "source_name": "뉴스1" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear April 2026",
+      "language": "en",
+      "timestamp": "2026-04-22T00:04:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "North Korea launches ballistic missiles toward sea", "url": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles", "snippet": "North Korea fired ballistic missiles toward the sea off its eastern coast", "source_name": "NPR" },
+        { "title": "South Korea President Denies US Intel Leak on North Korean Nuclear Facility", "url": "https://www.bloomberg.com/news/articles/2026-04-21/korea-s-lee-denies-us-intel-leak-on-kim-jong-un-s-nuclear-site", "snippet": "South Korea's President Lee denied US intelligence leak on North Korean nuclear facility location", "source_name": "Bloomberg" },
+        { "title": "Nuclear War Risk & Stability Briefing - 20 April 2026", "url": "https://defconwarningsystem.com/2026/04/20/nuclear-war-risk-stability-briefing-april-20-2026/", "snippet": "DEFCON Warning System nuclear risk assessment April 20 2026", "source_name": "DEFCON Warning System" },
+        { "title": "North Korea shows 'serious increase' in nuclear enrichment capacity", "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-17/north-korea-nuclear-weapons-activity-21403849.html", "snippet": "IAEA warns of serious increase in NK nuclear enrichment capacity", "source_name": "Stars and Stripes" },
+        { "title": "North Korea fires missiles, signaling broader nuclear delivery push", "url": "https://www.upi.com/Top_News/World-News/2026/04/19/missile-launched/2011776646593/", "snippet": "NK fires missiles signaling broader nuclear delivery push", "source_name": "UPI" },
+        { "title": "North Korea fires ballistic missiles again, flexing muscle amid Iran war", "url": "https://www.cnbc.com/2026/04/19/north-korea-fires-ballistic-missiles-flexing-muscle-amid-iran-war.html", "snippet": "North Korea fires ballistic missiles, flexing muscle amid Iran war", "source_name": "CNBC" },
+        { "title": "Why North Korea's Nuclear Weapons Arsenal Is a Growing Worry", "url": "https://www.bloomberg.com/news/articles/2026-04-16/why-north-korea-s-nuclear-weapons-arsenal-is-a-growing-worry", "snippet": "Bloomberg analysis on North Korea's growing nuclear weapons arsenal", "source_name": "Bloomberg" },
+        { "title": "UN Watchdog Says North Korea Is Boosting Nuclear Weapons Capacity", "url": "https://www.usnews.com/news/world/articles/2026-04-14/north-korea-sharply-boosting-nuclear-weapons-capacity-iaea-chief-says", "snippet": "IAEA says North Korea sharply boosting nuclear weapons capacity", "source_name": "US News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch ceasefire Iran 2026",
+      "language": "en",
+      "timestamp": "2026-04-22T00:05:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "North Korea fires ballistic missiles again, flexing muscle amid Iran war", "url": "https://www.cnbc.com/2026/04/19/north-korea-fires-ballistic-missiles-flexing-muscle-amid-iran-war.html", "snippet": "Experts say Iran war reinforces Pyongyang's nuclear ambitions", "source_name": "CNBC" },
+        { "title": "2026 Iran war ceasefire", "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire", "snippet": "Wikipedia article on 2026 Iran war ceasefire", "source_name": "Wikipedia" },
+        { "title": "How North Korea Armed Iran's Missile Forces Over Two Decades", "url": "https://www.visiontimes.com/2026/04/02/how-north-korea-armed-irans-missile-forces-over-two-decades.html", "snippet": "North Korea's long-term role in arming Iran's missile forces", "source_name": "Vision Times" },
+        { "title": "North Korea's Rogue Strategic Pipeline Arming Iran's War Effort", "url": "https://www.military.com/feature/2026/03/24/north-koreas-rogue-strategic-pipeline-arming-irans-war-effort.html", "snippet": "North Korea's pipeline arming Iran's war effort", "source_name": "Military.com" },
+        { "title": "Iran's war against the US and Israel is being fueled by North Korean weapons", "url": "https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns", "snippet": "Iran war fueled by North Korean weapons expert warns", "source_name": "Fox News" },
+        { "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire", "url": "https://www.cnbc.com/2026/04/08/iran-missile-attacks-after-us-ceasefire-gulf-air-defenses.html", "snippet": "Gulf countries scramble to intercept missiles after ceasefire", "source_name": "CNBC" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea military parade April 25 2026",
+      "language": "en",
+      "timestamp": "2026-04-22T00:06:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "North Korea holds post-congress military parade with no weapons procession", "url": "https://www.nknews.org/?p=968136", "snippet": "NK News analysis of February 2026 military parade without weapons procession", "source_name": "NK News" },
+        { "title": "N. Korea military drilled on Paektu bloodline", "url": "https://www.dailynk.com/english/north-korea-orders-military-loyalty-lectures-ahead-of-april-25-army-anniversary/", "snippet": "North Korea orders military loyalty lectures ahead of April 25 army anniversary", "source_name": "Daily NK" },
+        { "title": "Kim Jong Un vows to strengthen nuclear program, watches military parade with daughter", "url": "https://edition.cnn.com/2026/02/26/asia/north-korea-kim-parade-nuclear-intl-hnk", "snippet": "Kim Jong Un vows to strengthen nuclear program at 2026 parade", "source_name": "CNN" },
+        { "title": "What North Korea's 2026 calendar reveals about its plans for the year ahead", "url": "https://www.nknews.org/?p=966282", "snippet": "NK News analysis of North Korea's 2026 calendar and plans", "source_name": "NK News" },
+        { "title": "North Korea set to 'flaunt' its growing arsenal at massive military parade", "url": "https://www.scmp.com/week-asia/politics/article/3327973/north-korea-set-flaunt-its-growing-arsenal-massive-military-parade", "snippet": "North Korea set to flaunt growing arsenal at military parade", "source_name": "SCMP" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Trump extends Iran ceasefire April 21 2026 Pakistan fractured",
+      "language": "en",
+      "timestamp": "2026-04-22T00:07:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government", "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html", "snippet": "Trump extended ceasefire citing Iran's seriously fractured government", "source_name": "CNBC" },
+        { "title": "Live updates: Trump extends Iran ceasefire, offering time for its leadership to unify", "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-peace-talks-vance-ceasefire-ship-hormuz-rcna341149", "snippet": "NBC live updates on Trump extending Iran ceasefire", "source_name": "NBC News" },
+        { "title": "Live updates: Trump says he will extend ceasefire with Iran until negotiations conclude", "url": "https://www.cnn.com/2026/04/21/world/live-news/iran-war-us-trump-israel", "snippet": "CNN live updates on Trump extending Iran ceasefire", "source_name": "CNN" },
+        { "title": "Trump Says U.S. Will Extend Ceasefire With Iran", "url": "https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/", "snippet": "Trump extends US ceasefire with Iran amid stalemate", "source_name": "Time" },
+        { "title": "Trump extends U.S. ceasefire with Iran at Pakistan's request", "url": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates", "snippet": "Trump extends ceasefire at Pakistan's request", "source_name": "NPR" },
+        { "title": "Trump extends Iran ceasefire, citing 'fractured' Iranian government", "url": "https://www.axios.com/2026/04/21/trump-iran-war-ceasefire-extension", "snippet": "Axios: Trump extends Iran ceasefire citing fractured Iranian government", "source_name": "Axios" },
+        { "title": "Iran-US war: Four scenarios for what's next as talks stumble", "url": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble", "snippet": "Al Jazeera four scenarios as Iran-US talks stumble", "source_name": "Al Jazeera" },
+        { "title": "US and Iran exchange threats as fragile ceasefire set to expire", "url": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire", "snippet": "US and Iran exchange threats as ceasefire set to expire", "source_name": "Al Jazeera" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "이란 휴전 연장 트럼프 4월 21일 2026",
+      "language": "ko",
+      "timestamp": "2026-04-22T00:08:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "이란 2차 회담 불참에 트럼프 \"휴전 연장\"", "url": "https://www.seoul.co.kr/news/international/2026/04/22/20260422500008", "snippet": "이란 2차 회담 불참에도 트럼프 휴전 연장 결정", "source_name": "서울신문" },
+        { "title": "트럼프 \"이란과의 휴전 연장\"…파키스탄 중재 수용·공격 보류", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260422010006783", "snippet": "트럼프, 파키스탄 중재 수용하여 이란 공격 보류", "source_name": "아시아투데이" },
+        { "title": "휴전 만료 D-1, '연장' 선 그은 트럼프 \"훌륭한 합의 할 것\"", "url": "https://www.mt.co.kr/world/2026/04/21/2026042122025952476", "snippet": "트럼프, 휴전 만료 D-1에 연장 선언", "source_name": "머니투데이" },
+        { "title": "트럼프 \"이란이 협상안 제출하고 논의될 때까지 휴전 연장\"", "url": "https://www.newspim.com/news/view/20260422000018", "snippet": "이란 통일된 협상안 제출 때까지 무기한 휴전 연장", "source_name": "뉴스핌" },
+        { "title": "이란 \"휴전연장 일방적…걸프국 美지원시 석유생산 작별\"", "url": "https://www.asiae.co.kr/article/2026042207250996021", "snippet": "이란, 휴전 연장 일방적이라고 비난. 걸프국 미국 지원 시 석유 생산 위협", "source_name": "아시아경제" },
+        { "title": "트럼프 \"이란이 통일된 안 낼 때까지 휴전 연장\"", "url": "https://www.khan.co.kr/article/202604220546001", "snippet": "이란 정부가 통일된 안 낼 때까지 휴전 연장", "source_name": "경향신문" },
+        { "title": "트럼프, 결국 휴전 연장…2차 회담 여부는 여전히 안갯속", "url": "https://www.asiae.co.kr/article/2026042206290074069", "snippet": "트럼프 결국 휴전 연장 결정, 2차 회담 여부 불투명", "source_name": "아시아경제" },
+        { "title": "유가, 다시 100달러 눈앞…미·이란 협상 지연에 상승 압박", "url": "https://www.fnnews.com/news/202604220512534337", "snippet": "미이란 협상 지연에 유가 100달러 눈앞으로 상승 압박", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "정동영 위성정보 공유 미국 북한 2026년 4월 21일",
+      "language": "ko",
+      "timestamp": "2026-04-22T00:09:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "정동영 때문에 美 정보 공유 중단? 국방부 '19일 北 탄도미사일도 한미 정보 공유·분석'", "url": "https://www.pressian.com/pages/articles/2026042111280296035", "snippet": "국방부, 19일 북한 탄도미사일도 한미 정보 공유·분석 중이라고 밝혀", "source_name": "프레시안" },
+        { "title": "'정동영 리스크' 불구 한미간 北미사일 소통 정상가동..기밀유출 정황 없어", "url": "https://www.fnnews.com/news/202604211548359262", "snippet": "정동영 리스크에도 불구 한미간 북미사일 소통 정상가동, 기밀유출 정황 없어", "source_name": "파이낸셜뉴스" },
+        { "title": "정동영 장관 '구성 핵시설' 발언 파장… 한미 정보공유 균열 논란 '확산'", "url": "https://www.newspim.com/news/view/20260421001110", "snippet": "정동영 장관 구성 핵시설 발언 파장으로 한미 정보공유 균열 논란 확산", "source_name": "뉴스핌" },
+        { "title": "한병도 '정동영 북핵 시설 발언, 정보 유출 아냐'", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260421010006537", "snippet": "한병도 국가안보실장, 정동영 발언은 정보 유출이 아니라고 부인", "source_name": "아시아투데이" },
+        { "title": "\"한·미 정보 공유 문제없다\"는데 '미국과 헤어질 결심' 몰아가는 야당···청 \"사태 파악 중\"", "url": "https://www.khan.co.kr/article/202604211702001/", "snippet": "청와대, 한미 정보 공유 문제 없다는 입장. 야당 비판 지속", "source_name": "경향신문" },
+        { "title": "성일종 '주한미군사령관, 안규백 찾아 항의' VS 국방부 '사실무근'", "url": "https://www.munhwa.com/article/11583918", "snippet": "야당 '주한미군사령관이 항의' 주장 vs 국방부 '사실무근' 반박", "source_name": "문화일보" },
+        { "title": "정동영 기밀유출 진실 공방 일파만파", "url": "https://www.munhwa.com/article/11583918", "snippet": "정동영 기밀유출 진실 공방 지속", "source_name": "문화일보" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年4月",
+      "language": "ja",
+      "timestamp": "2026-04-22T00:10:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "2026年4月における北朝鮮のミサイル発射事案の現状と影響", "url": "https://kokuminanzen.com/japan/4089/", "snippet": "2026年4月北朝鮮ミサイル発射の技術的進展および国際社会の安全保障に与える影響分析", "source_name": "国民生活安全課" },
+        { "title": "防衛省・自衛隊：北朝鮮のミサイル等関連情報", "url": "https://www.mod.go.jp/j/surround/northKorea/index.html", "snippet": "防衛省による北朝鮮ミサイル関連情報公式ページ", "source_name": "防衛省" },
+        { "title": "北朝鮮 少なくとも2発の弾道ミサイル発射 EEZ外に落下と推定", "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015018571000", "snippet": "北朝鮮が少なくとも2発の弾道ミサイルを発射、EEZ外に落下と推定", "source_name": "NHK" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 导弹 2026年4月",
+      "language": "zh",
+      "timestamp": "2026-04-22T00:11:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "朝鲜国防科学院和导弹总局称进行重要武器系统试验", "url": "https://www.chinanews.com.cn/gj/2026/04-09/10600690.shtml", "snippet": "朝鲜国防科学院和导弹总局于4月6-8日进行武器系统试验", "source_name": "中新网" },
+        { "title": "朝鲜连射多枚弹道导弹 半岛局势再度升温", "url": "https://www.secretchina.com/news/gb/2026/04/19/1097957.html", "snippet": "朝鲜4月19日连射多枚弹道导弹,半岛局势升温", "source_name": "看中国" },
+        { "title": "日本防卫省通报朝鲜发射导弹", "url": "https://sputniknews.cn/20260419/1070859720.html", "snippet": "2026年4月19日日本防卫省通报朝鲜发射导弹", "source_name": "俄罗斯卫星通讯社" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "한미 위성정보 공유 복원 4월 21일 22일 2026",
+      "language": "ko",
+      "timestamp": "2026-04-22T00:12:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "국방부 '19일 北 탄도미사일도 한미 정보 공유·분석'", "url": "https://www.pressian.com/pages/articles/2026042111280296035", "snippet": "국방부 대변인, 한미간 정보 공유 체계 유지 중이라고 밝혀", "source_name": "프레시안" },
+        { "title": "'정동영 리스크' 불구 한미간 北미사일 소통 정상가동", "url": "https://www.fnnews.com/news/202604211548359262", "snippet": "한미간 북미사일 소통 정상가동, 기밀유출 정황 없어", "source_name": "파이낸셜뉴스" },
+        { "title": "정동영 장관 '구성 핵시설' 발언 파장… 한미 정보공유 균열 논란 '확산'", "url": "https://www.newspim.com/news/view/20260421001110", "snippet": "정보공유 균열 논란 지속, 정부·야당 공방", "source_name": "뉴스핌" },
+        { "title": "한병도 '정동영 북핵 시설 발언, 정보 유출 아냐'", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260421010006537", "snippet": "국가안보실장 '정보 유출 아냐' 부인", "source_name": "아시아투데이" },
+        { "title": "\"한·미 정보 공유 문제없다\" 청와대 입장", "url": "https://www.khan.co.kr/article/202604211702001/", "snippet": "청와대 한미 정보 공유 문제 없다는 입장", "source_name": "경향신문" }
+      ]
+    }
+  ]
+}
