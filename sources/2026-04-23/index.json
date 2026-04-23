@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-23",
+  "total": 22,
+  "new": 7,
+  "reported": 12,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "Washington Times: 'Beware a nuclear North Korea aligned with China, Russia' — 북한 핵무기·미사일 고도화 + 중·러 동맹 위험 경고 분석", "url": "https://www.washingtontimes.com/news/2026/apr/22/beware-nuclear-north-korea-aligned-china-russia/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "RAND: 'How to Avoid an Accidental Nuclear War with North Korea' — 럽비오 국무장관 '새 접근법' 시사, 희토류 협상 제안", "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "이란, 호르무즈 해협에서 선박 2척 나포 — MSC Francesca(파나마)·Epaminondas(라이베리아), 휴전 연장 직후 도발", "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "38 North: 서해위성발사장 인근 장강동·장야동 마을 완전 철거 — 수백 건물 해체, 우주발사장 확장 가능성", "url": "https://www.38north.org/2026/04/villages-bordering-sohae-satellite-launching-station-razed/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NATO: NPT 제11차 검토회의 앞두고 북대서양이사회 성명 — NPT 완전 이행 약속, 러·중 핵 태세 비판", "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/04/20/north-atlantic-council-statement-on-the-occasion-of-the-11th-review-conference-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "AEI Korean Peninsula Update (4/22): 최현호 IMO 등록·한국 해군참모총장 미 태평양함대 원자력잠수함 훈련 지원 요청·안규백 중국대사 면담 '평화적 공존'", "url": "https://www.aei.org/articles/korean-peninsula-update-april-22-2026/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "이란 대통령 페제시키안: '대화 환영하나 약속 위반·봉쇄·위협이 진정한 협상의 장애물' — 휴전 연장 직후 성명", "url": "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "이란 2차 종전협상 불참 최종 확정 — '미국 과도한 요구 철회 안 해', 타스님통신 보도", "url": "https://www.fnnews.com/news/202604220644074383", "tag": "update", "related_report": "2026-04-22" },
+    { "id": "src-009", "title": "NK News: 최현호 구축함 IMO 등록 — UN 해사기구 GISIS에 5,000톤급 최대 전투함 등재, 해외 파견·중러 연합훈련 가능성", "url": "https://www.nknews.org/2026/04/north-korea-registers-its-largest-warship-with-un-maritime-watchdog/", "tag": "update", "related_report": "2026-04-22" },
+    { "id": "src-010", "title": "휴전 시한 혼선 — 이란·파키스탄 '22일 오전 9시' vs 미국 '23일 오전', 트럼프 무기한 연장 후에도 불확실성 지속", "url": "https://www.newsis.com/view/NISX20260422_0003600893", "tag": "update", "related_report": "2026-04-22" },
+    { "id": "src-011", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-012", "title": "Stars and Stripes: 북한 핵 농축 능력 'serious increase'", "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-17/north-korea-nuclear-weapons-activity-21403849.html", "tag": "reported", "related_report": "2026-04-18" },
+    { "id": "src-013", "title": "38 North: NK Tests New Theater Launch Platforms (9차 당대회 핵·미사일 증강)", "url": "https://www.38north.org/2026/04/north-korea-tests-new-theater-launch-platforms-as-party-congress-continues-nuclear-missile-buildup/", "tag": "reported", "related_report": "2026-04-17" },
+    { "id": "src-014", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-11" },
+    { "id": "src-015", "title": "NPT RevCon 2026 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-016", "title": "Bloomberg: Why North Korea's Nuclear Weapons Arsenal Is a Growing Worry", "url": "https://www.bloomberg.com/news/articles/2026-04-16/why-north-korea-s-nuclear-weapons-arsenal-is-a-growing-worry", "tag": "reported", "related_report": "2026-04-17" },
+    { "id": "src-017", "title": "38 North: 2,500kN 고체연료 모터 분석", "url": "https://www.38north.org/2026/04/a-new-rocket-motor-further-muddles-north-koreas-solid-propellant-icbm-outlook/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-018", "title": "Daily NK: 건군절(4/25) 충성 특강·경기대회 준비", "url": "https://www.dailynk.com/english/north-korea-orders-military-loyalty-lectures-ahead-of-april-25-army-anniversary/", "tag": "reported", "related_report": "2026-04-22" },
+    { "id": "src-019", "title": "4/19 화성포-11라 집속탄두 위력 시험 — 김정은·주애 참관", "url": "https://www.fnnews.com/news/202604201012353868", "tag": "reported", "related_report": "2026-04-21" },
+    { "id": "src-020", "title": "국방부 '한미 정보 공유 체계 유지 중' 반박", "url": "https://www.pressian.com/pages/articles/2026042111280296035", "tag": "reported", "related_report": "2026-04-22" },
+    { "id": "src-021", "title": "VOA: 영변 신규 농축시설 건설, 무기급 우라늄 생산 능력 대폭 확대", "url": "https://www.voakorea.com/a/experts-say-new-enrichment-facility-at-yongbyon-could-significantly-expand-north-korea-s-weapons-grade-uranium-production-041726/8138769.html", "tag": "reported", "related_report": "2026-04-18" },
+    { "id": "src-022", "title": "DEFCON Warning System: 핵전쟁 위험 브리핑 4/20", "url": "https://defconwarningsystem.com/2026/04/20/nuclear-war-risk-stability-briefing-april-20-2026/", "tag": "reported", "related_report": "2026-04-22" }
+  ]
+}
