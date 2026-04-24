@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-25",
+  "total": 24,
+  "new": 9,
+  "reported": 13,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "노동신문: 인민혁명군 창건 94주년 사설 '백두산정신을 만대에 이어나가자' — 건군절 기념, 내부 결속·사회주의 건설 강조", "url": "https://www.fnnews.com/news/202604250714477798", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "38 North: 신포 B급(고래급) 탄도미사일 잠수함 건독 입거 확인 — 4/15·4/22 위성사진, 4년 만 건독 이동, 수리·개조 추정", "url": "https://www.38north.org/2026/04/quick-take-north-koreas-sinpo-b-class-submarine-drydocked/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "38 North: 신포남 조선소 화물선 해체·용도 변경 — 96m 화물선 건설홀 반입, 잠수함 부품 전용 가능성", "url": "https://www.38north.org/2026/04/sinpho-south-shipyard-unusual-ship-repurposing-effort/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "38 North: 집속탄두 시험이 보여주는 북한 SRBM의 재래식 역할 — 화성포-11라 이중용도(핵·재래식) 전략 분석", "url": "https://www.38north.org/2026/04/cluster-warhead-tests-underscore-the-important-conventional-role-of-north-koreas-srbms/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NK News: 중국 기관차, 북한 연결 철도 2개 노선에서 시험 운행 — 팬데믹 이후 교통 재개 가속", "url": "https://www.nknews.org/2026/04/chinese-locomotives-run-on-rail-lines-to-north-korea-in-apparent-test/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "Daily NK: 북한 노동자 약 1,000명 단둥 통해 중국 입국(4/12~16) — 단기비자로 UN 제재 우회, 10,000명 규모 확대 전망", "url": "https://www.dailynk.com/english/north-korea-workers-china-sanctions-evasion-dandong/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "NK News: 북한 장기 가뭄 경고 — KCTV 평양·평남·남포 등 6개 지역 가뭄 경보, 밀·보리 봄 파종 위협", "url": "https://www.nknews.org/2026/04/north-korea-warns-of-prolonged-dry-spell-that-could-threaten-spring-crops/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "Stimson Center: 비핵화와 위험감축 병행 접근 제안 — NPT RevCon 직전, '장단기 목표 분리' 투트랙 전략", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "KCNA Watch: 건군절 94돌 경축 농근맹 결의모임 — 평안남도 국사봉혁명전적지, 농촌 발전 결의", "url": "https://kcnawatch.org/newstream/1776891979-679851756/", "tag": "new", "related_report": null },
+    { "id": "src-010", "title": "Pravda 한국: 미국 해군 봉쇄에도 이란, 카르그섬에서 초대형 유조선에 석유 선적 지속 — ESA 위성 4/20 확인", "url": "https://korea.news-pravda.com/dprk/2026/04/25/63883.html", "tag": "update", "related_report": "2026-04-24" },
+    { "id": "src-011", "title": "SPN: 北, '군 창건 94돌' 맞아 '백두산정신' 강조...내부결속 유도 (SPN 종합 보도)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106665", "tag": "update", "related_report": "2026-04-24" },
+    { "id": "src-012", "title": "두만강 교량 연결식 — 러-북 최초 직접 도로, 6/19 개통", "url": "https://www.themoscowtimes.com/2026/04/21/russia-and-north-korea-celebrate-joining-of-first-road-bridge-a92556", "tag": "reported", "related_report": "2026-04-24" },
+    { "id": "src-013", "title": "38 North: 9차 당대회→SPA 권력 공고화 분석", "url": "https://www.38north.org/2026/04/from-party-congress-to-supreme-peoples-assembly-kims-power-consolidation-self-reliance-strategy-and-new-five-year-plan/", "tag": "reported", "related_report": "2026-04-24" },
+    { "id": "src-014", "title": "NK News: 트럼프-김 올가을 정상회담 가능성", "url": "https://www.nknews.org/2026/04/trump-could-meet-kim-jong-un-for-summit-this-fall-former-us-official/", "tag": "reported", "related_report": "2026-04-24" },
+    { "id": "src-015", "title": "38 North: 서해위성발사장 마을 철거", "url": "https://www.38north.org/2026/04/villages-bordering-sohae-satellite-launching-station-razed/", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-016", "title": "NATO: NPT RevCon 성명 (4/20)", "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/04/20/north-atlantic-council-statement-on-the-occasion-of-the-11th-review-conference-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-017", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-018", "title": "NPT RevCon 2026 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-019", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-020", "title": "VOA: 영변 신규 농축시설 건설", "url": "https://www.voakorea.com/a/experts-say-new-enrichment-facility-at-yongbyon-could-significantly-expand-north-korea-s-weapons-grade-uranium-production-041726/8138769.html", "tag": "reported", "related_report": "2026-04-18" },
+    { "id": "src-021", "title": "화성포-11라 집속탄두 시험 (4/19)", "url": "https://www.fnnews.com/news/202604201012353868", "tag": "reported", "related_report": "2026-04-21" },
+    { "id": "src-022", "title": "38 North: 2,500kN 고체연료 모터 분석", "url": "https://www.38north.org/2026/04/a-new-rocket-motor-further-muddles-north-koreas-solid-propellant-icbm-outlook/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-023", "title": "38 North: 미국 관여 유인 부재 속 러·중 관계 심화", "url": "https://www.38north.org/2026/04/with-little-incentive-to-engage-the-us-north-korea-deepens-russia-and-china-ties/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-024", "title": "트럼프, 호르무즈 기뢰 선박 격침 명령 — 전쟁 장기화 공식 선언", "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-blockade-ceasefire-talks-lebanon-israel-rcna341571", "tag": "reported", "related_report": "2026-04-24" }
+  ]
+}
