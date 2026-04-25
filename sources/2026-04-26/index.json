@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-26",
+  "total": 24,
+  "new": 10,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "러시아 하원의장 볼로딘, 북한 방문 — 우크라이나 전사 북한군 기념 박물관 개관식 참석, 조용원 면담", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260425/russias-duma-speaker-visits-n-korea-for-opening-of-museum-honoring-soldiers-killed-in-ukraine-war", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "북한, 제1차 김정은-푸틴 정상회담 7주년 맞아 러시아와 전방위 협력 확대 서약", "url": "https://en.sedaily.com/finance/2026/04/25/north-korea-vows-expanded-cooperation-with-russia-on-7th", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "러시아 장관급 3인 평양 방문 — 콜로콜체프(내무)·코즐로프(천연자원)·무라시코(보건), 쿠르스크 1주년 앞두고 분야별 협력 회담", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/russia-kursk/4251776986604/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "38 North: 이중 우발상황(Dual-Contingency) 시나리오에서 한국의 대북 방어 전략 분석 — 미국 다전선 전쟁 역량 의문", "url": "https://www.38north.org/2026/04/how-south-korea-might-fight-a-north-korean-invasion-in-a-dual-contingency-scenario/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "38 North: 드론과 작전적 전환 — 북한군, 러시아 실전 경험 통해 무인체계·현대전 적응 가속", "url": "https://www.38north.org/2026/04/drones-and-operational-shift-north-koreas-adaptation-to-a-changing-warfare-environment/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "Stimson Center: 북한의 '상정전투(Assumed Battles)' 시나리오에서 전술핵 도전 대응 — 해상 에스컬레이션 우위 확보 필요", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "UPI: 북한 핵무기 보유량 급속 확장 보고서 — 현재 50~60개, 수년 내 100개 전망, 핵분열물질 생산 가속", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/nuclear-program-rapid-expansion/2691776988046/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "Asia Times: 북한 핵 위협의 해상화 — 최현호 구축함·SLBM 잠수함을 통한 해상 핵 투발수단 다각화 분석", "url": "https://asiatimes.com/2026/04/north-korea-taking-its-nuclear-threat-to-the-high-seas/", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "38 North: 김여정의 진화하는 메시지 — 대남 사과 수용→경고, 대일 거부, 역할 분석", "url": "https://www.38north.org/2026/04/quick-take-kim-yo-jongs-evolving-messaging/", "tag": "new", "related_report": null },
+    { "id": "src-010", "title": "SPN: 조선중앙TV 보도 분석 (2026년 4월 25일) — 건군절 당일 보도 동향, 열병식 미보도 확인", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106676", "tag": "new", "related_report": null },
+    { "id": "src-011", "title": "이란 외무장관 아라크치, 4/25 파키스탄 관리 면담 — '미국과 회담 계획 없다', 쿠시너·위트코프 방문도 취소", "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-blockade-ceasefire-talks-lebanon-israel-rcna341831", "tag": "update", "related_report": "2026-04-25" },
+    { "id": "src-012", "title": "북한 고위 외교관, 2019년 김-푸틴 정상회담 기념일 맞아 러시아와 유대 강화 재확인", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260425/senior-n-korean-diplomat-reaffirms-strengthening-ties-with-russia-on-anniversary-of-2019-kim-putin-summit", "tag": "update", "related_report": "2026-04-24" },
+    { "id": "src-013", "title": "38 North: 신포 B급 탄도미사일 잠수함 건독 입거 확인", "url": "https://www.38north.org/2026/04/quick-take-north-koreas-sinpo-b-class-submarine-drydocked/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-014", "title": "38 North: 신포남 조선소 화물선 해체·용도 변경", "url": "https://www.38north.org/2026/04/sinpho-south-shipyard-unusual-ship-repurposing-effort/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-015", "title": "38 North: 집속탄두 시험이 보여주는 SRBM의 재래식 역할", "url": "https://www.38north.org/2026/04/cluster-warhead-tests-underscore-the-important-conventional-role-of-north-koreas-srbms/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-016", "title": "Stimson Center: 비핵화와 위험감축 병행 접근 제안", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-017", "title": "NK News: 중국 기관차 북한 연결 철도 시험 운행", "url": "https://www.nknews.org/2026/04/chinese-locomotives-run-on-rail-lines-to-north-korea-in-apparent-test/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-018", "title": "건군절 94주년 노동신문 '백두산정신' 사설", "url": "https://www.fnnews.com/news/202604250714477798", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-019", "title": "두만강 교량 연결식 — 러-북 최초 직접 도로", "url": "https://www.themoscowtimes.com/2026/04/21/russia-and-north-korea-celebrate-joining-of-first-road-bridge-a92556", "tag": "reported", "related_report": "2026-04-24" },
+    { "id": "src-020", "title": "NPT RevCon 2026 (4/27~5/22)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-021", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-022", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-023", "title": "38 North: 미국 관여 유인 부재 속 러·중 관계 심화", "url": "https://www.38north.org/2026/04/with-little-incentive-to-engage-the-us-north-korea-deepens-russia-and-china-ties/", "tag": "reported", "related_report": "2026-04-20" },
+    { "id": "src-024", "title": "Washington Times: 핵 무장 북한 + 중러 동맹 경고", "url": "https://www.washingtontimes.com/news/2026/apr/22/beware-nuclear-north-korea-aligned-china-russia/", "tag": "reported", "related_report": "2026-04-23" }
+  ]
+}
