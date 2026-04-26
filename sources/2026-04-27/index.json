@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-27",
+  "total": 22,
+  "new": 7,
+  "reported": 12,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "러시아 국방장관 벨로우소프, 김정은 면담 — 2027~2031 러-북 군사협력 계획 서명 제안, 북한군에 '용기 훈장' 수여", "url": "https://www.bloomberg.com/news/articles/2026-04-26/russia-s-defense-minister-visits-north-korea-to-meet-top-leaders", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "볼로딘 하원의장, 김정은에게 '쿠르스크 해방' 감사 — '한국 군인들이 러시아 땅에서 어깨를 나란히 하고 싸웠다'", "url": "https://www.themoscowtimes.com/2026/04/26/russian-parliament-speaker-thanks-north-koreas-kim-for-liberation-of-kursk-a92607", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "NPT 제11차 검토회의 개막 (4/27~5/22) — 베트남 도훙비엣 대사 의장, 뉴욕 유엔본부", "url": "https://meetings.unoda.org/npt-revcon/treaty-on-the-non-proliferation-of-nuclear-weapons-eleventh-review-conference-2026", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "이란 외무장관 아라크치, 4/27 모스크바에서 푸틴 면담 예정 — 종전협상 교착 속 러시아 중재 모색", "url": "https://www.presstv.ir/Detail/2026/04/26/767597/Iran-s-foreign-minister-will-meet-President-Putin-in-Moscow-Ambassador", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "러 내무장관 방북 후속: 감시 카메라·사이버 감시 등 체제 통제 기술 이전 가능성 제기", "url": "https://www.reportera.co.kr/military/russia-interior-minister-pyongyang-visit-security-cooperation/comment-page-1/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "체르노빌 40주년 — 젤렌스키 '러시아는 핵 테러리즘', IAEA 그로시 체르노빌 보호쉘 즉각 수리 촉구", "url": "https://www.euronews.com/2026/04/26/on-40th-chernobyl-disaster-anniversary-zelenskyy-accuses-russia-of-committing-nuclear-terr", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "SPN 주간 NK 다이제스트 (4/20~4/26) — 건군절 무력과시, 러시아 전방위 밀착, 봄 가뭄 총력전", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106690", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "이란전쟁: 트럼프 쿠시너·위트코프 파키스탄 방문 취소, 아라크치 파키스탄 출발 후 모스크바행", "url": "https://www.washingtonpost.com/business/2026/04/26/us-iran-war-hormuz-israel-pakistan-ceasefire-april-26-2026/fa4f108a-4128-11f1-bb46-ed564688d953_story.html", "tag": "update", "related_report": "2026-04-26" },
+    { "id": "src-009", "title": "러시아 하원의장 볼로딘, 북한 방문 — 우크라이나 전사 북한군 기념 박물관 개관식 참석, 조용원 면담", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260425/russias-duma-speaker-visits-n-korea-for-opening-of-museum-honoring-soldiers-killed-in-ukraine-war", "tag": "update", "related_report": "2026-04-26" },
+    { "id": "src-010", "title": "북한, 제1차 김정은-푸틴 정상회담 7주년 맞아 러시아와 전방위 협력 확대 서약", "url": "https://en.sedaily.com/finance/2026/04/25/north-korea-vows-expanded-cooperation-with-russia-on-7th", "tag": "update", "related_report": "2026-04-26" },
+    { "id": "src-011", "title": "러시아 장관급 3인 평양 방문 — 콜로콜체프(내무)·코즐로프(천연자원)·무라시코(보건)", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/russia-kursk/4251776986604/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-012", "title": "38 North: 이중 우발상황(Dual-Contingency) 시나리오에서 한국의 대북 방어 전략 분석", "url": "https://www.38north.org/2026/04/how-south-korea-might-fight-a-north-korean-invasion-in-a-dual-contingency-scenario/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-013", "title": "38 North: 드론과 작전적 전환 — 북한군, 러시아 실전 경험 통해 현대전 적응 가속", "url": "https://www.38north.org/2026/04/drones-and-operational-shift-north-koreas-adaptation-to-a-changing-warfare-environment/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-014", "title": "Stimson Center: 전술핵 '상정전투' 시나리오 해상 대응", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-015", "title": "UPI: 북한 핵무기 보유량 급속 확장 — 50~60개, 수년 내 100개 전망", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/nuclear-program-rapid-expansion/2691776988046/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-016", "title": "Asia Times: 북한 핵 위협의 해상화 — 최현호 구축함·SLBM 잠수함", "url": "https://asiatimes.com/2026/04/north-korea-taking-its-nuclear-threat-to-the-high-seas/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-017", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-018", "title": "38 North: 신포 B급 탄도미사일 잠수함 건독 입거 확인", "url": "https://www.38north.org/2026/04/quick-take-north-koreas-sinpo-b-class-submarine-drydocked/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-019", "title": "Stimson Center: 비핵화와 위험감축 병행 접근 제안", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-020", "title": "Washington Times: 핵 무장 북한 + 중러 동맹 경고", "url": "https://www.washingtontimes.com/news/2026/apr/22/beware-nuclear-north-korea-aligned-china-russia/", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-021", "title": "NPT RevCon 2026 (4/27~5/22) UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-022", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-23" }
+  ]
+}
