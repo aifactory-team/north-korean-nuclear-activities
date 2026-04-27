@@ -26,24 +26,8 @@ sources/YYYY-MM-DD/
 └── report-basis.md        # Phase 3 (작성 근거)
 
 reports/YYYY/MM/
-└── YYYY-MM-DD.md          # Phase 4 (일일 보고서)
-
-reports/YYYY/weekly/
-├── _template.md           # 주간 노트 템플릿
-└── YYYY-WNN.md            # 주간 위키 노트 (수동 작성)
-
-reports/WEEKLY.md          # 주간 노트 전체 인덱스
+└── YYYY-MM-DD.md          # Phase 4 (최종 보고서)
 ```
-
-## Weekly Notes (주간 위키 노트)
-
-매주 월~일 기준 일일 보고서를 종합한 주간 위키 노트를 수동으로 작성한다.
-
-- **위치**: `reports/YYYY/weekly/YYYY-WNN.md`
-- **인덱스**: `reports/WEEKLY.md`
-- **템플릿**: `reports/YYYY/weekly/_template.md`
-- **주기**: 매주 수동 작성 (자동화 없음)
-- **커밋**: `docs: weekly note YYYY-WNN`
 
 ## Agents & Skills
 
