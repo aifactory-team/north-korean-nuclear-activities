@@ -1,0 +1,13 @@
+{
+  "id": "src-011",
+  "title": "이란전쟁: 아라크치 모스크바 방문, 트럼프 쿠시너·위트코프 파키스탄 방문 취소",
+  "url": "https://www.washingtonpost.com/business/2026/04/26/us-iran-war-hormuz-israel-pakistan-ceasefire-april-26-2026/fa4f108a-4128-11f1-bb46-ed564688d953_story.html",
+  "snippet": "4/27 보고서에서 보도됨. 아라크치-푸틴 실제 면담(src-005)과 이란 호르무즈 제안(src-004)으로 후속 발전.",
+  "source_name": "Washington Post",
+  "language": "en",
+  "discovered_date": "2026-04-28",
+  "tag": "update",
+  "related_report": "2026-04-27",
+  "related_item": "2026-04-27/src-004",
+  "tag_reason": "4/27 보고서에서 아라크치-푸틴 면담 '예정'으로 보도. 실제 면담 결과와 이란 호르무즈 제안은 src-004, src-005에서 신규로 분리."
+}
