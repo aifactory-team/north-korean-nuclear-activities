@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-29",
+  "total": 22,
+  "new": 7,
+  "reported": 12,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "RFA: 위성사진, 영변 핵단지 활동 증가 확인 — 4/18·20 방사화학연구소 증기, 4/25 구룡강 방류, 신규 농축동 완공", "url": "https://www.rfa.org/english/korea/2026/04/28/north-korea-satellite-yongbyon-nuclear/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Stars and Stripes: 미국, 한국에 대한 북핵 정보공유 제한 — 통일부 장관 구성 발언 후 1주일 이상 일일 정보보고 중단", "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-28/south-korea-unification-usfk-nuclear-north-korea-21509756.html", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Bloomberg: 'Why North Korea's Nuclear Expansion Has the US on Edge' — Big Take Asia 팟캐스트, 핵확장 위협 분석", "url": "https://www.bloomberg.com/news/articles/2026-04-28/why-north-korea-s-nuclear-expansion-has-the-us-on-edge-big-take-asia-podcast", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "EU, NPT RevCon 일반성명 — 북한 '모든 WMD·탄도미사일 CVID 폐기' 촉구, 러시아의 대북 비핵화 입장 변화 '심각한 우려'", "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-11th-review-conference-parties-treaty-non-proliferation-nuclear-weapons-npt-general_en", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "UPI: 한국 정연두 수석대표, NPT RevCon서 '북핵이 비확산체제 최긴급 도전' — 러시아 불법 군사협력 중단 촉구", "url": "https://www.upi.com/Top_News/World-News/2026/04/28/united-nations-conference-nkorea-nuclear-program-most-urgent-challenge/3331777408905/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "SPN: NPT 회의서 北핵 우려 '용납할 수 없는 수준' — RevCon Day 2 국제사회 북핵 비판 집중", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106743", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "Bulletin of Atomic Scientists: NPT RevCon 제안 — '비확산 어둠의 시대에 밝은 미래를 위한 제안'", "url": "https://thebulletin.org/2026/04/proposals-for-a-brighter-npt-review-conference-in-times-of-nonproliferation-darkness/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "Washington Post: 미국, 이란 제안에 냉담 — '핵 합의 없는 종전' 거부 예상, 루비오 '핵 논의 후순위 불가'", "url": "https://www.washingtonpost.com/business/2026/04/28/iran-israel-us-lebanon-latest-april-28-2026/f42d2eca-42c8-11f1-b19d-32431046b5b4_story.html", "tag": "update", "related_report": "2026-04-28" },
+    { "id": "src-009", "title": "NPR: 이란 핵프로그램·호르무즈 해협 교착 — 평화 노력 마비, 2개월 전쟁 후 협상 교착", "url": "https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates", "tag": "update", "related_report": "2026-04-28" },
+    { "id": "src-010", "title": "Korea Herald: 북한 '비확산체제 최긴급 도전' — NPT RevCon Day 2 후속 심화 보도", "url": "https://www.koreaherald.com/article/10727534", "tag": "update", "related_report": "2026-04-28" },
+    { "id": "src-011", "title": "김정은, 기념관 완공식에서 러시아 정책 지속 지원 서약", "url": "https://www.nbcnews.com/world/north-korea/kim-jong-un-vows-continue-support-russia-north-korea-opens-memorial-mu-rcna342244", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-012", "title": "NPT RevCon Day 1: 구테흐스 '군비통제가 죽어가고 있다'", "url": "https://press.un.org/en/2026/sgsm23106.doc.htm-0", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-013", "title": "NPT RevCon Day 1: 한국·프랑스 등 북핵 비판 (정연두·바로)", "url": "https://www.voakorea.com/a/criticism-of-north-korea-s-nuclear-program-continues-at-npt-review-conference-042726/8143033.html", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-014", "title": "이란 호르무즈 해협 재개방 제안 (4/27)", "url": "https://www.washingtonpost.com/business/2026/04/27/us-iran-war-hormuz-april-27-2026/9bf7dec8-4208-11f1-b19d-32431046b5b4_story.html", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-015", "title": "아라크치-푸틴 상트페테르부르크 면담", "url": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-016", "title": "Korea Herald: 5개년 군사협력 '제도적 동맹'", "url": "https://www.koreaherald.com/article/10726547", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-017", "title": "세종연구소: 2026년 1~4월 미사일 동향 평가", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106739", "tag": "reported", "related_report": "2026-04-28" },
+    { "id": "src-018", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-019", "title": "UPI: 북한 핵무기 보유량 급속 확장 — 50~60개", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/nuclear-program-rapid-expansion/2691776988046/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-020", "title": "러시아 국방장관 벨로우소프-김정은 면담, 5개년 계획", "url": "https://www.bloomberg.com/news/articles/2026-04-26/russia-s-defense-minister-visits-north-korea-to-meet-top-leaders", "tag": "reported", "related_report": "2026-04-27" },
+    { "id": "src-021", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-022", "title": "Washington Times: 핵 무장 북한 + 중러 동맹 경고", "url": "https://www.washingtontimes.com/news/2026/apr/22/beware-nuclear-north-korea-aligned-china-russia/", "tag": "reported", "related_report": "2026-04-23" }
+  ]
+}
