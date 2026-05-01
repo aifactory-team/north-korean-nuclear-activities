@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-01",
+  "total": 20,
+  "new": 7,
+  "reported": 12,
+  "update": 1,
+  "items": [
+    { "id": "src-001", "title": "UN 안보리 북핵회의 (4/30): 한국 '평화공존·비핵화 의지 확고', OSC 제재위반 증거 공개 — 5척 8항차 석탄·철광석 운반 확인, 미국 추가 제재 추진", "url": "https://www.fnnews.com/news/202605010628555503", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "러시아, UN 안보리서 대북 제재 완화 촉구 — 네벤쟈 '인도적 제재 완화가 외교 해법 분위기 조성', 북한은 '가까운 이웃이자 파트너', 전 분야 협력 강화 예고", "url": "https://www.fnnews.com/news/202605010631334502", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "UPI: 전 미 군축 관리 로버트 조셉, 비핵화→군비통제 전환 비판 — '무관한(irrelevant) 접근', 북한에 제재 완화·자원·정당성 3대 생명줄 제공 경고", "url": "https://www.upi.com/Top_News/World-News/2026/04/30/denuclearization-nonproliferation-negotiation-irrelevant/1501777590334/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "NATO, NPT RevCon서 NPT 강력 지지 재확인 (4/30) — ASG 보리스 루게 '북한은 NPT에 대한 심각한 도전', 러시아 핵 위협·중국 핵군비 확장 우려", "url": "https://nato.int/en/news-and-events/articles/news/2026/04/30/nato-reaffirms-strong-commitment-to-nuclear-non-proliferation-treaty-at-un-review-conference", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NPT RevCon 시민사회 구두발언 (5/1): 한반도 비핵화 공동성명 — SPARK 발표, 미 확장억제가 북핵 근본원인, 평화협정·불가침조약 요구", "url": "https://peoplepower21.org/english/2021784", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "CRS 보고서 업데이트 (4/30): 북한 핵무기·미사일 프로그램 종합 분석 — DIA '영변 추가 농축시설 건설', 9차 당대회 무기 업그레이드 공약 포함", "url": "https://www.eurasiareview.com/30042026-north-koreas-nuclear-weapons-and-missile-programs-analysis-2/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "Bulletin of Atomic Scientists: 이란전쟁이 핵비확산 체제를 훼손하는 방법 — 비핵국 공격이 NPT 핵심 거래 파괴, 북한 핵보유 논리 강화", "url": "https://thebulletin.org/2026/04/how-the-iran-war-undermines-the-nuclear-nonproliferation-regime/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "이란전쟁 Day 62 (4/30): 트럼프 장기 봉쇄 준비 지시, 이란 암호화폐 $5억 압류, 유가 $119/배럴, 펜타곤 총비용 $250억", "url": "https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up", "tag": "update", "related_report": "2026-04-30" },
+    { "id": "src-009", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점 접근", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-010", "title": "Daily NK: 평산 우라늄 정련소 위성사진 가동 확인", "url": "https://www.dailynk.com/english/north-korea-pyongsan-uranium-refinery-satellite-imagery-2026/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-011", "title": "The Diplomat: 북한은 결코 핵무기를 포기하지 않을 것", "url": "https://thediplomat.com/2026/04/whether-kusong-or-yongbyon-north-korea-will-never-give-up-its-nuclear-weapons-program/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-012", "title": "SPN: 외교부 NPT 회의 계기 우크라이나와 북한군 포로 논의", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106798", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-013", "title": "ACA: NPT 제11차 검토회의 개막 종합 보도", "url": "https://www.armscontrol.org/act/2026-04/news/states-gather-11th-npt-review-conference", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-014", "title": "RFA: 위성사진, 영변 핵단지 활동 증가 확인", "url": "https://www.rfa.org/english/korea/2026/04/28/north-korea-satellite-yongbyon-nuclear/", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-015", "title": "EU NPT RevCon 일반성명 — 북한 CVID 촉구", "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-11th-review-conference-parties-treaty-non-proliferation-nuclear-weapons-npt-general_en", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-016", "title": "UPI: 북한 핵무기 보유량 급속 확장 — 50~60개", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/nuclear-program-rapid-expansion/2691776988046/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-017", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-018", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-019", "title": "Stimson Center: 비핵화와 위험감축 병행 접근 제안", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "tag": "reported", "related_report": "2026-04-25" },
+    { "id": "src-020", "title": "VOA: 영변 신규 농축시설 건설", "url": "https://www.voakorea.com/a/experts-say-new-enrichment-facility-at-yongbyon-could-significantly-expand-north-korea-s-weapons-grade-uranium-production-041726/8138769.html", "tag": "reported", "related_report": "2026-04-18" }
+  ]
+}
