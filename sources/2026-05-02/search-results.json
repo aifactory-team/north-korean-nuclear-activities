@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-02",
+  "collected_at": "2026-05-02T00:00:00Z",
+  "search_count": 12,
+  "total_results": 68,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-02T00:01:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "NPT 2026: 핵 없는 세상은 가능한가?", "url": "https://www.kjob.news/news/483426", "snippet": "NPT 검토회의 분석", "source_name": "전국인력신문" },
+        { "title": "사회진보연대: 북한 핵무기 2026 — 2021년 이후 핵개발 5년 총결", "url": "https://www.pssp.org/bbs/view.php?board=j2021&nid=10591&page=1&category1=431", "snippet": "북한 핵개발 5년 총결산", "source_name": "사회진보연대" },
+        { "title": "[리뷰] 2026년 北 '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 북한 핵 실전화 전망", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 NPT 2026",
+      "language": "ko",
+      "timestamp": "2026-05-02T00:02:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "NPT 회의서 北핵 우려 '용납할 수 없는 수준'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106743", "snippet": "NPT RevCon Day 2 북핵 비판", "source_name": "SPN 서울평양뉴스" },
+        { "title": "NPT 평가회의 이틀째, 북핵·대러 군사협력 규탄", "url": "https://www.voakorea.com/a/npt-review-conference-day-two-sees-renewed-condemnation-of-north-korea-s-nuclear-program-russia-ties-20260428/8143439.html", "snippet": "NPT Day 2 북핵 규탄", "source_name": "VOA Korea" },
+        { "title": "독일, NPT 회의서 '북한의 핵 확산 위기 악화'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106867", "snippet": "독일 NPT MC-I 발언, 북한 핵 확산 위기 악화 지적", "source_name": "SPN 서울평양뉴스" },
+        { "title": "북, 오전·오후 잇단 탄도미사일 발사 — 이틀 연속 무력시위", "url": "https://www.rfa.org/korean/in-focus/2026/04/08/north-korea-fire-ballistic-missile/", "snippet": "4/8 단거리 탄도미사일 발사", "source_name": "RFA" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 안보리 제재 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-02T00:03:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "안보리 북핵회의…韓 '한반도 평화공존·비핵화 의지 확고'(종합)", "url": "https://www.fnnews.com/news/202605010628555503", "snippet": "4/30 안보리 북핵회의", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "독일 NPT 회의 북한 핵확산 위기 악화 2026",
+      "language": "ko",
+      "timestamp": "2026-05-02T00:04:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "독일 '북한의 핵 확산 위기 더욱 악화'", "url": "https://www.voakorea.com/a/germany-north-korea-s-nuclear-proliferation-crisis-has-further-worsened-043026/8145451.html", "snippet": "독일, NPT RevCon MC-I에서 북한 핵확산 위기 악화 발언", "source_name": "VOA Korea" },
+        { "title": "독일, NPT 회의서 '북한의 핵 확산 위기 악화'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106867", "snippet": "독일 NPT MC-I 발언 보도", "source_name": "SPN 서울평양뉴스" },
+        { "title": "'이러면 한국도 핵무장 명분 생긴다'…NPT 회의장 발칵 뒤집은 韓 초강수", "url": "https://car.withnews.kr/military/npt-north-korea-nuclear-south-korea-strategy", "snippet": "한국 NPT 전략 분석", "source_name": "위드뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear NPT review conference May 2026",
+      "language": "en",
+      "timestamp": "2026-05-02T00:05:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "NPT Conference 2026", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "snippet": "Official UN NPT RevCon page", "source_name": "United Nations" },
+        { "title": "2026 Review Conference", "url": "https://www.state.gov/2026-review-conference", "snippet": "US State Dept NPT RevCon page", "source_name": "US State Department" },
+        { "title": "Proposals for a brighter NPT Review Conference", "url": "https://thebulletin.org/2026/04/proposals-for-a-brighter-npt-review-conference-in-times-of-nonproliferation-darkness/", "snippet": "Bulletin proposals for NPT RevCon", "source_name": "Bulletin of Atomic Scientists" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile sanctions 2026",
+      "language": "en",
+      "timestamp": "2026-05-02T00:06:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "DPRK Korea: Continued militarisation a 'serious concern', political affairs chief warns Security Council", "url": "https://news.un.org/en/story/2026/04/1167415", "snippet": "DiCarlo UNSC briefing April 30 — DPRK militarisation serious concern", "source_name": "UN News" },
+        { "title": "Korean Peninsula Military Tensions Rising, Speakers Warn Security Council", "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260430-unsc01.htm", "snippet": "UNSC press release on Korean Peninsula tensions", "source_name": "GlobalSecurity/UN" },
+        { "title": "Russia, China back North Korea's rejection to follow UN sanctions", "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/", "snippet": "Russia China joint defense of Pyongyang at UNSC", "source_name": "NK News" },
+        { "title": "DPRK (North Korea), May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "snippet": "Security Council May forecast for DPRK", "source_name": "Security Council Report" },
+        { "title": "Russia's veto of the Panel of Experts was a calculated move — UK statement at UNSC", "url": "https://www.ukpol.co.uk/press-release-russias-veto-of-the-panel-of-experts-was-a-calculated-move-to-obscure-the-dprks-unlawful-pursuit-of-weapons-of-mass-destruction-uk-statement-at-the-un-security-coun/", "snippet": "UK: Russia's veto calculated to obscure DPRK WMD pursuit", "source_name": "UK Government" },
+        { "title": "Sanctions to Disrupt DPRK IT Worker Schemes Defrauding U.S. Businesses", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctions-to-disrupt-dprk-it-worker-schemes-defrauding-u-s-businesses/", "snippet": "March 2026 US sanctions on DPRK IT workers", "source_name": "US State Department" },
+        { "title": "Remarks at UNSC Briefing on Nonproliferation and the DPRK", "url": "https://usun.usmission.gov/remarks-at-a-un-security-council-briefing-on-nonproliferation-and-the-democratic-peoples-republic-of-korea-2/", "snippet": "US Mission to UN remarks at April 30 briefing", "source_name": "US Mission to UN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea uranium enrichment Yongbyon 2026",
+      "language": "en",
+      "timestamp": "2026-05-02T00:07:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "Suspected Uranium Enrichment Building at Yongbyon Complete", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon-complete/", "snippet": "CSIS Beyond Parallel satellite analysis", "source_name": "CSIS Beyond Parallel" },
+        { "title": "North Korea, New Nuclear Facility at Yongbyon Expands Enrichment Capacity", "url": "https://lavocedinewyork.com/en/news/2026/04/16/north-korea-new-nuclear-facility-at-yongbyon-expands-enrichment-capacity/", "snippet": "New facility expands enrichment", "source_name": "La Voce di New York" },
+        { "title": "Satellite imagery reveals increased activity at North Korean nuclear complex", "url": "https://www.rfa.org/english/korea/2026/04/28/north-korea-satellite-yongbyon-nuclear/", "snippet": "RFA satellite imagery Yongbyon", "source_name": "RFA" },
+        { "title": "Understanding North Korean Uranium Enrichment", "url": "https://www.vertic.org/2026/03/understanding-north-korean-uranium-enrichment/", "snippet": "VERTIC analysis of NK uranium enrichment", "source_name": "VERTIC" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Russia China back North Korea rejection sanctions May 2026",
+      "language": "en",
+      "timestamp": "2026-05-02T00:08:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "Russia, China back North Korea's rejection to follow UN sanctions", "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/", "snippet": "Joint defense at UNSC, attacking sanctions, dismissing violation evidence", "source_name": "NK News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "UN political affairs chief DPRK militarisation Security Council April 30 2026",
+      "language": "en",
+      "timestamp": "2026-05-02T00:09:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "DPRK Korea: Continued militarisation a 'serious concern', political affairs chief warns Security Council", "url": "https://news.un.org/en/story/2026/04/1167415", "snippet": "DiCarlo warned SC about DPRK continued militarisation", "source_name": "UN News" },
+        { "title": "Briefing the Security Council, USG DiCarlo warns of DPRK's advancing missile and nuclear capabilities", "url": "https://dppa.un.org/en/msg-sc-10147-usg-dicarlo-30-apr-2026", "snippet": "Official DPPA page of DiCarlo briefing", "source_name": "UN DPPA" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Iran war day 63 64 May 2026 nuclear",
+      "language": "en",
+      "timestamp": "2026-05-02T00:10:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Iran war: What's happening on day 63 as Trump signals possible attacks", "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks", "snippet": "Day 63: Trump signals possible attacks, not satisfied with Iran proposal", "source_name": "Al Jazeera" },
+        { "title": "Iran war live: Tehran says US ports siege intolerable, Trump mulls action", "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action", "snippet": "Day 63 liveblog: Tehran calls siege intolerable", "source_name": "Al Jazeera" },
+        { "title": "Iran War: Day 63 — The Economic Battlespace", "url": "https://blogs.timesofisrael.com/iran-war-day-63-the-economic-battlespace/", "snippet": "Analysis of economic warfare dimension", "source_name": "Times of Israel" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核開発 NPT 2026年5月",
+      "language": "ja",
+      "timestamp": "2026-05-02T00:11:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "2026年NPT再検討会議の課題", "url": "https://www.recna.nagasaki-u.ac.jp/recna/recna-analytical-blog/npt2026j/blog-02", "snippet": "長崎大RECNA: NPT RevCon 2026の課題分析", "source_name": "RECNA 長崎大学" },
+        { "title": "北朝鮮核問題 - Wikipedia", "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9C%9D%E9%AE%AE%E6%A0%B8%E5%95%8F%E9%A1%8C", "snippet": "北朝鮮核問題の概要", "source_name": "Wikipedia JP" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核武器 NPT审议大会 2026",
+      "language": "zh",
+      "timestamp": "2026-05-02T00:12:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "中国关于充分发挥NPT服务和平与发展时代作用的工作文件", "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/jks_674633/fywj_674643/202504/t20250425_11604386.shtml", "snippet": "中国NPT工作文件 — 朝鲜半岛双轨并进", "source_name": "中国外交部" },
+        { "title": "不扩散核武器条约缔约国2026年审议大会", "url": "https://docs.un.org/zh/NPT/CONF.2026/20", "snippet": "NPT审议大会中文文件", "source_name": "联合国" }
+      ]
+    }
+  ]
+}

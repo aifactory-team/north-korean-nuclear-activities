@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-02",
+  "total": 18,
+  "new": 5,
+  "reported": 11,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "UN News: DiCarlo UNSC 브리핑 — DPRK 군사화 지속 '심각한 우려', 5개년 군사계획·핵탄두 생산능력 증대·영변 활동 종합 경고 (4/30)", "url": "https://news.un.org/en/story/2026/04/1167415", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "NK News: 러·중, 안보리에서 북한의 UN 제재 거부 공동 옹호 — 제재 공격·위반 증거 일축, 3국 공동 방어 구도", "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "VOA/SPN: 독일, NPT RevCon MC-I서 '북한 핵확산 위기 더욱 악화' — 중국 핵군비 확장·이란 비밀 핵활동·러시아 핵 강압 동시 지적 (4/30)", "url": "https://www.voakorea.com/a/germany-north-korea-s-nuclear-proliferation-crisis-has-further-worsened-043026/8145451.html", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Al Jazeera: 이란전쟁 Day 63 (5/1) — 트럼프, 공격 재개 시사·이란 신규 제안 '불만족', 이란 '항구 봉쇄는 군사작전 연장·참을 수 없다'", "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks", "tag": "update", "related_report": "2026-05-01" },
+    { "id": "src-005", "title": "Security Council Report: DPRK 5월 전망 — 1718위원회 90일 보고 비공개 협의 예정, P3 vs 중·러 대립 심화", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "UK 안보리 성명: '러시아 전문가 패널 거부권은 DPRK의 불법 WMD 추구를 은폐하려는 계획된 행동'", "url": "https://www.ukpol.co.uk/press-release-russias-veto-of-the-panel-of-experts-was-a-calculated-move-to-obscure-the-dprks-unlawful-pursuit-of-weapons-of-mass-destruction-uk-statement-at-the-un-security-coun/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "이란전쟁 Day 63 라이브블로그: 이란 '봉쇄 참을 수 없다', 레바논 이스라엘 공습 15명 사망", "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action", "tag": "update", "related_report": "2026-05-01" },
+    { "id": "src-008", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점 접근", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-009", "title": "RFA: 위성사진, 영변 핵단지 활동 증가 확인", "url": "https://www.rfa.org/english/korea/2026/04/28/north-korea-satellite-yongbyon-nuclear/", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-010", "title": "CSIS Beyond Parallel: 영변 의심 농축동 완공", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon-complete/", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-011", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-012", "title": "The Diplomat: 북한은 결코 핵무기를 포기하지 않을 것", "url": "https://thediplomat.com/2026/04/whether-kusong-or-yongbyon-north-korea-will-never-give-up-its-nuclear-weapons-program/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-013", "title": "UPI: 북한 핵무기 보유량 급속 확장 — 50~60개", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/nuclear-program-rapid-expansion/2691776988046/", "tag": "reported", "related_report": "2026-04-26" },
+    { "id": "src-014", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-015", "title": "EU NPT RevCon 일반성명 — 북한 CVID 촉구", "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-11th-review-conference-parties-treaty-non-proliferation-nuclear-weapons-npt-general_en", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-016", "title": "안보리 북핵회의…韓 '한반도 평화공존·비핵화 의지 확고'", "url": "https://www.fnnews.com/news/202605010628555503", "tag": "reported", "related_report": "2026-05-01" },
+    { "id": "src-017", "title": "CRS 보고서: 북한 핵무기·미사일 프로그램 종합분석", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-01" },
+    { "id": "src-018", "title": "Bulletin: 이란전쟁이 핵비확산 체제를 훼손", "url": "https://thebulletin.org/2026/04/how-the-iran-war-undermines-the-nuclear-nonproliferation-regime/", "tag": "reported", "related_report": "2026-05-01" }
+  ]
+}
