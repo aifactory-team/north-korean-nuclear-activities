@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-03",
+  "total": 20,
+  "new": 6,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "일본 주도 115개국, NPT RevCon서 핵군축 교육 공동성명 — 피폭자 증언 계승·핵군축 교육 촉진, 영국 유일 핵보유국 참여 (5/1)", "url": "https://www.japantimes.co.jp/news/2026/05/01/japan/npt-meeting-joint-statement/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "UPI: 전 6자회담 특사 드트라니, '김정은은 핵보유국으로서 미국과 관계 정상화 원해' — 미 레버리지 약화, 군비통제 접근 반대 (5/1)", "url": "https://www.upi.com/Top_News/World-News/2026/05/01/former-us-envoy-talks/4651777684753/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "뉴스핌: '북한 핵무기 최대 90기…이미 쓸 수 있는 운용단계' — 핵탄두 수 상향 추정, 실전 운용 가능 평가 (4/30)", "url": "https://www.newspim.com/news/view/20260430000908", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "일본 외무성, 안보리 DPRK 공개 브리핑 성명 — 북한 핵·미사일 비확산 의무 이행 촉구, 납치 문제 제기 (5/1)", "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260501-jp-mofa01.htm", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "SPN: 조선중앙TV 보도 분석 (2026년 5월 2일) — 김정은 동정·당 보도 동향 (5/2)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106878", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "사회진보연대: 북한 핵무기 2026 — 2021년 이후 5년 총결, 핵무력 고도화 종합 분석", "url": "https://www.pssp.org/bbs/view.php?board=j2021&nid=10591&page=1&category1=431", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "CNN (5/2): 이란 14개항 역제안 — 트럼프 '검토 중이나 불만족', 미국 중동 $80억 무기 판매 가속, 이란 의회 호르무즈 통항법 추진", "url": "https://www.cnn.com/2026/05/02/world/live-news/iran-war-news", "tag": "update", "related_report": "2026-05-02" },
+    { "id": "src-008", "title": "Al Jazeera (5/2): 이란전쟁 Day 64 — 외교 위기, 전쟁 재개 위협 고조, 트럼프 '빠른 종전 없을 것'", "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer", "tag": "update", "related_report": "2026-05-02" },
+    { "id": "src-009", "title": "UN News: DiCarlo UNSC 브리핑 — DPRK 군사화 '심각한 우려'", "url": "https://news.un.org/en/story/2026/04/1167415", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-010", "title": "NK News: 러·중, 안보리서 북한 제재 거부 공동 옹호", "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-011", "title": "VOA: 독일, NPT MC-I서 '북한 핵확산 위기 더욱 악화'", "url": "https://www.voakorea.com/a/germany-north-korea-s-nuclear-proliferation-crisis-has-further-worsened-043026/8145451.html", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-012", "title": "Security Council Report: DPRK 5월 전망", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-013", "title": "UK 안보리 성명: 러시아 거부권 '계획된 행동'", "url": "https://www.ukpol.co.uk/press-release-russias-veto-of-the-panel-of-experts-was-a-calculated-move-to-obscure-the-dprks-unlawful-pursuit-of-weapons-of-mass-destruction-uk-statement-at-the-un-security-coun/", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-014", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-015", "title": "IAEA: 북한 핵무기 생산능력 '매우 심각한 증대' 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-016", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-017", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-018", "title": "RFA: 위성사진, 영변 핵단지 활동 증가 확인", "url": "https://www.rfa.org/english/korea/2026/04/28/north-korea-satellite-yongbyon-nuclear/", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-019", "title": "EU NPT RevCon 일반성명 — 북한 CVID 촉구", "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-11th-review-conference-parties-treaty-non-proliferation-nuclear-weapons-npt-general_en", "tag": "reported", "related_report": "2026-04-29" },
+    { "id": "src-020", "title": "UPI: 북한 핵무기 보유량 급속 확장 — 50~60개", "url": "https://www.upi.com/Top_News/World-News/2026/04/23/nuclear-program-rapid-expansion/2691776988046/", "tag": "reported", "related_report": "2026-04-26" }
+  ]
+}
