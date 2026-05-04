@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-04",
+  "total": 22,
+  "new": 7,
+  "reported": 13,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "TRM Labs: 북한, 2026년 전 세계 암호화폐 해킹 피해의 76% 차지 ($577M) — Drift $285M·KelpDAO $292M 2건으로 누적 $6B 돌파 (5/1)", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "이란전쟁 Day 65 (5/3): 트럼프 'Project Freedom' — 미 해군, 호르무즈 해협 억류 선박 호위 작전 월요일 개시 선언, 선박 피격 사건 발생", "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war", "tag": "update", "related_report": "2026-05-03" },
+    { "id": "src-003", "title": "NK News: 전 북한 외교관, 평양 외교정책 기구 내막 공개 — 김정은 보고서 작성, 당·국가 기관 간 알력, 해외공관 경화 이동 (5/3)", "url": "https://www.nknews.org/2026/05/former-dprk-diplomat-peels-back-curtain-on-pyongyangs-foreign-policy-apparatus/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "The Diplomat: 트럼프-시진핑 정상회담의 '진짜 역할' — 돌파 아닌 관리된 경쟁, 베이징의 한반도 중심성 유지 전략 (5월)", "url": "https://thediplomat.com/2026/05/the-real-role-of-a-trump-xi-meeting/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NK News: 트럼프 '이달 중 김정은과 만날 수 있다' — 한국 총리 언급, 베이징 방문(5/14~15) 계기 가능성", "url": "https://www.nknews.org/?p=968995", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "SPN: 주간 NK 정치·군사 동향 (4/27~5/3) — NPT RevCon 기간 주간 종합", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106890", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "전국인력신문/유스연합: 'NPT 2026 — 핵 없는 세상은 가능한가?' — 글로벌 제로 이상 퇴색, 한국 국민 70% 핵무장 찬성", "url": "https://www.kjob.news/news/483426", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "WithNews: '이러면 한국도 핵무장 명분 생긴다' — NPT 회의장 정연두 발언 파장, 한국 핵무장론 분석", "url": "https://car.withnews.kr/military/npt-north-korea-nuclear-south-korea-strategy", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "WashPost (5/3): 호르무즈 해협 근처 선박 피격 — 이란, 미국의 14개항 역제안 응답 검토 중", "url": "https://www.washingtonpost.com/world/2026/05/03/iran-us-war-ceasefire-negotiations-strait/0190238c-46e9-11f1-a119-857cd2bf4fd4_story.html", "tag": "update", "related_report": "2026-05-03" },
+    { "id": "src-010", "title": "SPN: 조선중앙TV 보도 분석 (5/3) — 전력공업 발전, 석탄 생산 증가 보도", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106895", "tag": "reported", "related_report": "2026-05-03" },
+    { "id": "src-011", "title": "일본 주도 115개국 NPT RevCon 핵군축 교육 공동성명", "url": "https://www.japantimes.co.jp/news/2026/05/01/japan/npt-meeting-joint-statement/", "tag": "reported", "related_report": "2026-05-03" },
+    { "id": "src-012", "title": "UPI: 드트라니 전 6자회담 특사, 핵보유국 인정 관계 정상화 분석", "url": "https://www.upi.com/Top_News/World-News/2026/05/01/former-us-envoy-talks/4651777684753/", "tag": "reported", "related_report": "2026-05-03" },
+    { "id": "src-013", "title": "뉴스핌: 북한 핵무기 최대 90기 추정", "url": "https://www.newspim.com/news/view/20260430000908", "tag": "reported", "related_report": "2026-05-03" },
+    { "id": "src-014", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-015", "title": "UN News: DiCarlo UNSC 브리핑 — DPRK 군사화 심각한 우려", "url": "https://news.un.org/en/story/2026/04/1167415", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-016", "title": "NK News: 러·중, 안보리서 북한 제재 거부 공동 옹호", "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-017", "title": "Security Council Report: DPRK 5월 전망", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-018", "title": "CRS: 북한 핵무기·미사일 프로그램 종합분석", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-01" },
+    { "id": "src-019", "title": "ACA: North Korea Seeks Nuclear Recognition for US Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "tag": "reported", "related_report": "2026-04-23" },
+    { "id": "src-020", "title": "IAEA: 북한 핵무기 생산능력 매우 심각한 증대 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-021", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-022", "title": "사회진보연대: 북한 핵무기 2026 — 5년 총결", "url": "https://www.pssp.org/bbs/view.php?board=j2021&nid=10591&page=1&category1=431", "tag": "reported", "related_report": "2026-05-03" }
+  ]
+}

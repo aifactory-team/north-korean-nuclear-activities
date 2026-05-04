@@ -1,0 +1,13 @@
+{
+  "id": "src-001",
+  "title": "TRM Labs: 북한, 2026년 전 세계 암호화폐 해킹 피해의 76% 차지 ($577M) — Drift $285M·KelpDAO $292M 2건으로 누적 $6B 돌파",
+  "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks",
+  "snippet": "TRM Labs 5/1 보고서: 북한이 2026년 4월까지 발생한 전 세계 암호화폐 해킹 피해의 76%를 차지. Drift Protocol $285M(대면 사회공학 공격), KelpDAO $292M(단일 검증자 취약점 악용) 2건으로 총 $577M 탈취. 2017년 이후 누적 $6B 돌파. NK 점유율 추이: 2020-21 10% → 2022 22% → 2023 37% → 2024 39% → 2025 64% → 2026 76%. AI 도구 활용 가능성도 언급.",
+  "source_name": "TRM Labs",
+  "language": "en",
+  "discovered_date": "2026-05-04",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 TRM Labs 암호화폐 해킹 보고서 없음. 5/1 발표된 신규 보고서"
+}
