@@ -1,0 +1,13 @@
+{
+  "id": "src-015",
+  "title": "NK News: 트럼프 '이달 중 김정은과 만날 수 있다'",
+  "url": "https://www.nknews.org/?p=968995",
+  "snippet": "한국 총리 언급, 베이징 방문 계기 가능성",
+  "source_name": "NK News",
+  "language": "en",
+  "discovered_date": "2026-05-06",
+  "tag": "reported",
+  "related_report": "2026-05-04",
+  "related_item": "2026-05-04/src-005",
+  "tag_reason": "2026-05-04 보고서에서 이미 보고됨. 5/5 백악관 '일정에 없다' 발표로 상황 변경됨(src-004로 추적)."
+}
