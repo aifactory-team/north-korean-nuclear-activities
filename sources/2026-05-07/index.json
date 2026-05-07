@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-07",
+  "total": 23,
+  "new": 3,
+  "reported": 17,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "미-이란 1페이지 MOU 합의 접근 — 전쟁 종료 선언+30일 협상, 핵 모라토리엄 12~15년, 농축 우라늄 해외 이전 (5/6)", "url": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "한-프 NPT 공동 사이드이벤트: CVID 대신 '중단-축소-폐기' 단계적·유연적 비핵화 접근 강조 (5/6)", "url": "https://www.koreaherald.com/article/10731735", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "트럼프, 이란에 '합의 불발 시 훨씬 더 높은 수준 폭격' 최후통첩 — PF 일시중단 중 강압 외교 지속 (5/6)", "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "HMM 나무호 두바이항 예인 착수 — 5/7 새벽 예인선 도착, 소방청 조사관 합류, 원인 규명 본격화 (5/7)", "url": "https://www.mt.co.kr/industry/2026/05/07/2026050707272464386", "tag": "update", "related_report": "2026-05-06" },
+    { "id": "src-005", "title": "나무호 화재 미스터리 — 전문가 '외부 충격' 무게, 기뢰 폭발 또는 미사일 공격 가능성 분석 (5/6~7)", "url": "https://www.munhwa.com/article/11587125", "tag": "update", "related_report": "2026-05-06" },
+    { "id": "src-006", "title": "이란 외교부 '미국 제안 검토 중, 파키스탄에 전달 예정' — MOU 전쟁종료+30일 협상 구조 (5/6)", "url": "https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates", "tag": "update", "related_report": "2026-05-06" },
+    { "id": "src-007", "title": "Bloomberg: 'North Korean Nuclear Weapons Show Iran What Might Have Been'", "url": "https://www.bloomberg.com/news/newsletters/2026-05-05/north-korean-nuclear-weapons-show-iran-what-might-have-been", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-008", "title": "AEI Korean Peninsula Update (5/5): 핵물질 연간 20기분, 북중 무역 $2.73B", "url": "https://www.aei.org/articles/korean-peninsula-update-may-5-2026/", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-009", "title": "HMM 나무호 호르무즈 해협 폭발·화재 — 트럼프 참전 압박", "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6820044_37012.html", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-010", "title": "트럼프 Project Freedom 일시중단 — '이란과 합의 상당한 진전'", "url": "https://www.nbcnews.com/world/iran/us-iran-war-trump-open-hormuz-attacks-ships-ceasefire-rcna343604", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-011", "title": "이란, UAE 탄도미사일·순항미사일·드론 공격 — 후자이라 정유시설 화재", "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-012", "title": "백악관: 트럼프-김정은 회담 '현재 일정에 없어'", "url": "https://www.koreaherald.com/article/10731206", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-013", "title": "EU NPT MC-I: 북한 핵보유국 지위 '절대 불인정'", "url": "https://www.voakorea.com/a/eu-says-north-korea-s-nuclear-program-a-major-proliferation-concern-rejects-any-nuclear-status-under-npt-050426/8146838.html", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-014", "title": "CBC: North Korea expands nuclear arsenal after witnessing Iran's vulnerability", "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741", "tag": "reported", "related_report": "2026-05-06" },
+    { "id": "src-015", "title": "The Diplomat: '김정은이 옳았다 — 모두가 주목하고 있다'", "url": "https://thediplomat.com/2026/05/kim-jong-un-was-right-and-everyone-else-is-taking-notes/", "tag": "reported", "related_report": "2026-05-05" },
+    { "id": "src-016", "title": "TRM Labs: 북한 암호화폐 해킹 76% $577M", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-017", "title": "Security Council Report: DPRK 5월 전망", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-018", "title": "CRS: 북한 핵무기·미사일 프로그램 종합분석", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-01" },
+    { "id": "src-019", "title": "IAEA: 북한 핵무기 생산능력 매우 심각한 증대 경고", "url": "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea", "tag": "reported", "related_report": "2026-04-16" },
+    { "id": "src-020", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-021", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-022", "title": "38 North: 이란전쟁에서 북한 핵·미사일 전력이 배우는 8가지 교훈", "url": "https://www.38north.org/2026/03/eight-lessons-for-north-koreas-nuclear-and-missile-forces-from-the-ongoing-iran-conflict/", "tag": "reported", "related_report": "2026-05-05" },
+    { "id": "src-023", "title": "헤럴드경제: 정부 NPT 연설서 'CVID' 뺐다 — '비핵화 단계적 접근 추구'", "url": "https://biz.heraldcorp.com/article/10727037", "tag": "reported", "related_report": "2026-05-06" }
+  ]
+}
