@@ -1,0 +1,16 @@
+{
+  "id": "src-006",
+  "title": "Al Jazeera (5/8) — 이란 MOU 최신 응답: 이란 '검토 중' 유지, 트럼프 '빨리 서명하라' 경고, Day 70",
+  "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+  "snippet": "이란 외교부가 미국 14개항 MOU 제안에 대해 '검토 중'을 유지하면서, 트럼프는 '빨리 서명하라(sign fast)'고 압박. 호르무즈 해협에서 교전이 지속되는 가운데 협상이 진행. 핵 농축 모라토리엄 12~15년, 우라늄 해외 이전 조건이 핵심 쟁점.",
+  "source_name": "Al Jazeera",
+  "language": "en",
+  "discovered_date": "2026-05-09",
+  "tag": "update",
+  "related_report": "2026-05-08",
+  "related_item": "2026-05-08/src-005",
+  "tag_reason": "5/8 보고서의 '미-이란 MOU 엇갈린 메시지' 후속. 5/8 Al Jazeera 신규 기사로 이란 응답 상황 최신 업데이트.",
+  "additional_sources": [
+    "https://www.cnn.com/2026/05/07/world/live-news/trump-iran-war-news"
+  ]
+}

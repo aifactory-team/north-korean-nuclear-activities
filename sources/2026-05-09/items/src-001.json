@@ -1,0 +1,24 @@
+{
+  "id": "src-001",
+  "title": "김정은, 155mm 자주포 공장 시찰 — 사정거리 60km+, 서울 사정권, 연내 남부국경 3개 대대분 배치",
+  "url": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
+  "snippet": "North Korea said it will deploy new long-range 155mm self-propelled gun-howitzers to the southern border within this year. Kim Jong Un visited a munitions factory on May 7 to inspect production. KCNA cited Kim as saying the striking range exceeds 60 kilometers, putting Seoul within range. Three battalion units of production planned within the year.",
+  "source_name": "NPR",
+  "language": "en",
+  "discovered_date": "2026-05-09",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 155mm 자주포 배치 관련 항목 없음. 5/8 KCNA 발표 신규 군사 동향.",
+  "additional_sources": [
+    "https://www.nbcnews.com/world/north-korea/north-korea-says-will-deploy-new-artillery-guns-targeting-seoul-commis-rcna344170",
+    "https://abcnews.com/International/wireStory/north-korea-deploy-new-artillery-guns-targeting-seoul-132769584",
+    "https://www.upi.com/Top_News/World-News/2026/05/08/Kim-Jong-Un-new-artillery-howitzers-border-South-Korea-destroyer-Choe-Hyon/9351778227380/",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001748",
+    "https://www.joongangenews.com/news/articleView.html?idxno=517725",
+    "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06740406645446952",
+    "https://www.khan.co.kr/article/202605081653001/",
+    "https://www.newspim.com/news/view/20260508000034",
+    "https://www.military.com/north-korea-will-deploy-new-artillery-guns-targeting-seoul-and-commission-its-1st-destroyer"
+  ]
+}
