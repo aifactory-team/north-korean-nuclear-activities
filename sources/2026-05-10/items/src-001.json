@@ -1,0 +1,21 @@
+{
+  "id": "src-001",
+  "title": "북한군, 사상 첫 러시아 전승절 열병식 행진 — 4개 부대 중 하나로 붉은광장 행진, 쿠르스크 전투 기여 상징 (5/9)",
+  "url": "https://www.nbcnews.com/world/russia/putin-hosts-scaled-back-military-parade-no-tanks-no-internet-ukrainian-rcna342637",
+  "snippet": "For the first time, Saturday's parade featured troops from North Korea, a tribute to Pyongyang that sent its soldiers to fight alongside Moscow forces to repel a Ukrainian incursion into Russia's Kursk region. Four parade units, including from North Korea, participated in the parade.",
+  "source_name": "NBC News",
+  "language": "en",
+  "discovered_date": "2026-05-10",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 동일/유사 항목 없음. 5/9 당일 발생한 사상 최초의 북한군 모스크바 열병식 참가 사건으로 완전히 새로운 뉴스.",
+  "additional_sources": [
+    { "source_name": "NPR", "url": "https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day" },
+    { "source_name": "CNN", "url": "https://www.cnn.com/2026/05/09/europe/russia-military-parade-ceasefire-intl-hnk" },
+    { "source_name": "Al Jazeera", "url": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow" },
+    { "source_name": "펜앤드마이크", "url": "https://www.pennmike.com/news/articleView.html?idxno=120209" },
+    { "source_name": "LIGA.net", "url": "https://news.liga.net/en/war/news/how-the-45-minute-military-parade-in-moscow-went-after-zelenskys-permission-photos" },
+    { "source_name": "Pravda", "url": "https://germany.news-pravda.com/en/world/2026/05/09/130408.html" }
+  ]
+}

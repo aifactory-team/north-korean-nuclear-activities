@@ -1,0 +1,19 @@
+{
+  "id": "src-002",
+  "title": "김정은, 푸틴에 전승절 축전 — '조러 동맹 최대 중시, 조약 의무 이행 확언', 모스크바 방문 무산 (5/8~9)",
+  "url": "https://www.usnews.com/news/world/articles/2026-05-08/north-korean-leader-kim-calls-ties-with-russia-top-priority-in-victory-day-message-to-putin",
+  "snippet": "North Korean leader Kim Jong Un sent a congratulatory message to Russian President Vladimir Putin for Russia's Victory Day, calling ties with Russia a top priority and reaffirming commitment to the comprehensive strategic partnership treaty. Kim stated DPRK government attaches utmost importance to the alliance and will always be responsible for treaty obligations.",
+  "source_name": "US News",
+  "language": "en",
+  "discovered_date": "2026-05-10",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 동일/유사 항목 없음. 5/9 전승절 당일 발송된 축전으로 완전히 새로운 뉴스. 모스크바 방문 무산 확인도 신규 정보.",
+  "additional_sources": [
+    { "source_name": "뉴스핌", "url": "https://www.newspim.com/news/view/20260509000021" },
+    { "source_name": "SPN 서울평양뉴스", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107055" },
+    { "source_name": "Seoul Economic Daily", "url": "https://en.sedaily.com/finance/2026/05/09/kim-jong-un-sends-victory-day-message-to-putin-touts-proud" },
+    { "source_name": "Pravda Japan", "url": "https://japan.news-pravda.com/en/russia/2026/05/09/22174.html" }
+  ]
+}

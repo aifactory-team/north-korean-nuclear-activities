@@ -1,0 +1,16 @@
+{
+  "id": "src-006",
+  "title": "미-이란 휴전 교착 심화 — 공격 교환 속 '사랑의 탭(love tap)', 미 '휴전 유지 중' 주장, MOU 공식 응답 미도출 (5/8~9)",
+  "url": "https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/",
+  "snippet": "미국과 이란이 상호 공격을 교환하면서도 미국은 '휴전이 유지되고 있다'고 주장. Time은 이를 '사랑의 탭(love tap)'으로 표현. MOU 14개항 합의에 대한 이란의 공식 응답은 여전히 나오지 않은 상태. 트럼프는 '합의 가까워' 낙관론 유지.",
+  "source_name": "Time",
+  "language": "en",
+  "discovered_date": "2026-05-10",
+  "tag": "update",
+  "related_report": "2026-05-09",
+  "related_item": "2026-05-09/src-006",
+  "tag_reason": "5/9 보고서 '이란 MOU 최신 응답'의 후속. 새 정보: 공격 교환에도 '휴전 유지' 주장, '사랑의 탭' 표현, MOU 응답 계속 미도출.",
+  "additional_sources": [
+    { "source_name": "Washington Post", "url": "https://www.washingtonpost.com/national-security/2026/05/07/us-strikes-iran-ceasefire/" }
+  ]
+}

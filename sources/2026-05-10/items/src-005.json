@@ -1,0 +1,20 @@
+{
+  "id": "src-005",
+  "title": "나무호 합동조사 이틀째(5/9) — 선원 24명 전원 하선·두바이 숙소 이동, VDR·CCTV 정밀 분석 계속, 외부공격 vs 내부결함 핵심 쟁점",
+  "url": "https://www.fnnews.com/news/202605091309350336",
+  "snippet": "합동조사단은 9일 두바이 드라이독스 월드에 접안 중인 나무호를 대상으로 이틀째 현장 조사를 실시. 선원 24명(한국인 6명, 외국인 18명) 전원 하선하여 두바이 숙소에서 휴식 중. VDR·CCTV 정밀 분석 계속 중이며, 화재 원인이 내부적 요인(기기 결함)인지 외부적 타격(이란 공격)인지 핵심 쟁점.",
+  "source_name": "파이낸셜뉴스",
+  "language": "ko",
+  "discovered_date": "2026-05-10",
+  "tag": "update",
+  "related_report": "2026-05-09",
+  "related_item": "2026-05-09/src-007",
+  "tag_reason": "5/9 보고서 '나무호 합동조사단 승선·본격 감식 착수'의 후속. 새 정보: 선원 전원 하선, 조사 이틀째 진행, 초기 판단 방향 미확정.",
+  "additional_sources": [
+    { "source_name": "YTN", "url": "https://www.ytn.co.kr/_ln/0102_202605091202297221" },
+    { "source_name": "서울경제", "url": "https://www.sedaily.com/article/20042030" },
+    { "source_name": "헤럴드경제", "url": "https://biz.heraldcorp.com/article/10734362" },
+    { "source_name": "국민일보", "url": "https://www.kmib.co.kr/article/view.asp?arcid=0029796550" },
+    { "source_name": "이투데이", "url": "https://www.etoday.co.kr/news/view/2582951" }
+  ]
+}
