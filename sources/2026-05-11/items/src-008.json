@@ -1,0 +1,13 @@
+{
+  "id": "src-008",
+  "title": "CNBC — 'Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths'",
+  "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+  "snippet": "CNBC가 5/8 트럼프-시진핑 정상회담에서 이란전쟁이 의제를 지배할 것으로 분석. 관세·희토류 등 미중 핵심 현안이 후순위로 밀릴 전망. 대북 문제도 이란 이슈에 밀려 심도 있는 논의가 어려울 수 있음. 이란 답변 '용납불가'(src-002)로 이란 집중 심화 가능성 증대.",
+  "source_name": "CNBC",
+  "language": "en",
+  "discovered_date": "2026-05-11",
+  "tag": "update",
+  "related_report": "2026-05-10",
+  "related_item": "src-006",
+  "tag_reason": "5/10 보고서의 '트럼프 방중 카운트다운' 분석 후속. CNBC의 구체적 의제 우선순위 분석(이란 > 무역 > 대북)이 새로운 정보."
+}
