@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-15",
+  "collected_at": "2026-05-15T09:00:00Z",
+  "search_count": 16,
+  "total_results": 58,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 시진핑 정상회담 결과 북한 2026년 5월 15일",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:01:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "미중 정상회담 종료...트럼프 '회담 훌륭했다'", "url": "https://www.rfa.org/korean/in-focus/2026/05/14/us-china-summit-2026/", "snippet": "시진핑과 트럼프 2시간15분 회담 후 톈탄공원 산책, 트럼프 '훌륭하다' 평가. CCTV 한반도 문제 의견 교환 전달", "source_name": "RFA" },
+        { "title": "美中, 한반도 문제도 논의했지만…백악관은 언급안해", "url": "https://www.fnnews.com/news/202605150037355435", "snippet": "중국 외교부는 한반도 문제 논의 언급, 백악관 보도자료에는 관련 언급 없음", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프, 오늘 시진핑 관저서 티타임·오찬…'빅딜'보다 '관리' 방점", "url": "https://www.fnnews.com/news/202605150641525998", "snippet": "15일 중난하이에서 차담회·업무 오찬 후 워싱턴 복귀 예정", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프 대통령 '미중 관계, 그 어느 때보다 좋아질 것'", "url": "https://www.voakorea.com/a/president-trump-holds-summit-with-china-s-xi-discusses-trade-iran-taiwan-and-other-key-issues-051326/8149899.html", "snippet": "양국의 성공은 서로에게 기회, 건설적·전략적 안정 관계 합의", "source_name": "VOA" },
+        { "title": "미중 정상 9년 전과 달랐다…시진핑 '대만 경고장' 트럼프는 '신중'", "url": "https://www.fnnews.com/news/202605150315424444", "snippet": "2017년 방중 때와 달리 공동기자회견 없이 각자 발표문 배포", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "미중 정상회담 북한 한반도 언급 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:02:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "[심층] 의제 산적한 베이징 회담…북한 문제, '전면 의제'보다 '배경 변수'", "url": "https://www.voakorea.com/a/8149300.html", "snippet": "북한 문제는 실질 의제라기보다는 배경 변수로서의 성격이 짙다", "source_name": "VOA" },
+        { "title": "공개 활동 접고 미중 정상회담에 촉각 세운 김정은", "url": "https://www.newspim.com/news/view/20260514000678", "snippet": "김정은 12일부터 공개 활동 중단, 최선희 등 측근과 사태파악·대책마련 중으로 추정", "source_name": "뉴스핌" },
+        { "title": "트럼프 베이징 오는데...'김정은과 접촉 기류 실종 상태'", "url": "https://www.newspim.com/news/view/20260513000025", "snippet": "트럼프-김정은 회동 모멘텀 사실상 소멸", "source_name": "뉴스핌" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "김정은 미중 정상회담 반응 북한 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:03:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "김정은 만난 中 왕이…'미중 정상회담 전 북미 회담 조건, 최종 조율'", "url": "https://www.mt.co.kr/politics/2026/04/12/2026041210290081703", "snippet": "왕이 4월 방북 시 북미 회담 조건 최종 조율 보도", "source_name": "머니투데이" },
+        { "title": "혈맹과 전우 챙기는 北, 5월 미중 정상회담 앞두고 '우군 다지기'", "url": "https://www.news1.kr/nk/politics-diplomacy/6130928", "snippet": "북한, 중러와 연대 강화하며 대미 대화 국면 대비", "source_name": "뉴스1" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 시진핑 베이징 워킹런치 5월 15일 결과",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:04:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "세기의 담판 돌입…세게 나온 시진핑 vs 절제한 트럼프", "url": "https://www.etoday.co.kr/news/view/2584599", "snippet": "시진핑 대만·핵무기 경고, 트럼프 신중 대응", "source_name": "이투데이" },
+        { "title": "트럼프 '중국 개방'·시진핑 '대등한 미중'…G2 동상이몽", "url": "https://www.fnnews.com/news/202605141513573065", "snippet": "트럼프 중국 시장 개방 요구, 시진핑 대등한 관계 강조", "source_name": "파이낸셜뉴스" },
+        { "title": "시진핑 'MAGA와 중국 부흥 함께 갈 수 있어'…트럼프 '우린 공통 가치 공유'", "url": "https://www.fnnews.com/news/202605142013377843", "snippet": "양국 정상 우호 메시지 교환, 국빈만찬 협력 강조", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "고위 당국자 이란 외 공격 가능성 크지 않아 나무호",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:05:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "고위 당국자 '이란 외 공격 가능성 상식적으로 크지 않아'…기술분석팀 두바이 파견", "url": "https://www.khan.co.kr/article/202605141630001/", "snippet": "외교부 고위당국자, 이란 외 주체 가능성 낮다고 첫 공식 시사", "source_name": "경향신문" },
+        { "title": "정부 고위 당국자 '나무호 피격, 이란 외 주체일 가능성 크지 않다'", "url": "https://biz.heraldcorp.com/article/10737962", "snippet": "확인 후 응분의 외교적 공세 예고", "source_name": "헤럴드경제" },
+        { "title": "정부 고위 당국자 '나무호 공격 주체, 이란 외 다른 가능성 크지 않다'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107215", "snippet": "팩트시트 후속조치 물밑 진척", "source_name": "SPN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "나무호 군 기술분석팀 두바이 공격 무기 배후",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:06:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "국방부, 나무호 피격 ADD 등 기술분석팀 10여명 두바이 파견", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260514010003749", "snippet": "ADD 소속 전문가 포함 10여명 규모 기술분석팀 두바이 급파", "source_name": "아시아투데이" },
+        { "title": "국방부, 나무호 조사 기술분석팀 두바이에 파견", "url": "https://biz.heraldcorp.com/article/10737730", "snippet": "선체 손상·탄도·폭발 분석 전문가 구성", "source_name": "헤럴드경제" },
+        { "title": "나무호 피격 사건, 군 기술분석팀 두바이 급파…공격 무기·배후 규명 '속도전'", "url": "https://www.newspim.com/news/view/20260514000586", "snippet": "탄도·금속 성분·연료 및 폭발 패턴 분석 등 절차 진행 전망", "source_name": "뉴스핌" },
+        { "title": "軍, 나무호 현장에 기술팀 파견...'정밀 조사·분석 필요'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107213", "snippet": "현장 정밀 조사와 증거 자료 분석, 유관국 공조", "source_name": "SPN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Trump Xi summit results North Korea nuclear May 2026",
+      "language": "en",
+      "timestamp": "2026-05-15T09:07:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Five takeaways from the Trump-Xi summit in Beijing so far", "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html", "snippet": "Neither Trump nor Xi made any public mention of North Korea", "source_name": "CNBC" },
+        { "title": "Trump-Xi Summit: Analysis and Updates", "url": "https://www.cfr.org/trump-xi-summit-analysis-and-updates", "snippet": "CFR live analysis and updates on the summit, NK omitted from public statements", "source_name": "CFR" },
+        { "title": "Trump-Xi Summit Leaves South Korea Navigating Familiar Pressures", "url": "https://thediplomat.com/2026/05/trump-xi-summit-leaves-south-korea-navigating-familiar-pressures/", "snippet": "Neither Trump nor Xi made any public mention of NK, implying nuclear weapons no longer pressing agenda", "source_name": "The Diplomat" },
+        { "title": "Trump-Xi 2026 Summit", "url": "https://www.csis.org/programs/trump-xi-2026-summit", "snippet": "CSIS summit tracker and analysis hub", "source_name": "CSIS" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Trump Xi Beijing summit day 2 North Korea May 15 2026",
+      "language": "en",
+      "timestamp": "2026-05-15T09:08:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "'Never mess it up': What Xi and Trump said on day one of Beijing talks", "url": "https://www.aljazeera.com/news/2026/5/14/never-mess-it-up-what-xi-and-trump-said-on-day-one-of-beijing-talks", "snippet": "Xi warns Trump over Taiwan, strategic stability framework agreed", "source_name": "Al Jazeera" },
+        { "title": "Trump and China's Xi hold opening session of two-day summit", "url": "https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/", "snippet": "Two-day summit opening session, major CEOs present", "source_name": "Washington Post" },
+        { "title": "2026 state visit by Donald Trump to China", "url": "https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China", "snippet": "First US president visit to China without stopping in allied capital since 2001", "source_name": "Wikipedia" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK nuclear missile May 15 2026",
+      "language": "en",
+      "timestamp": "2026-05-15T09:09:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "DPRK (North Korea), May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "snippet": "Security Council Report DPRK May 2026 forecast", "source_name": "Security Council Report" },
+        { "title": "Briefing the Security Council, USG DiCarlo warns of DPRK's advancing missile and nuclear capabilities", "url": "https://dppa.un.org/en/msg-sc-10147-usg-dicarlo-30-apr-2026", "snippet": "USG DiCarlo April 30 briefing on advancing capabilities", "source_name": "UN DPPA" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Russia North Korea nuclear reactor Ursa Major submarine May 2026",
+      "language": "en",
+      "timestamp": "2026-05-15T09:10:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "The Ursa Major mystery: What happened to the Russian nuclear ship bound for North Korea?", "url": "https://www.thenews.com.pk/latest/1402306-the-ursa-major-mystery-what-happened-to-the-russian-nuclear-ship-bound-for-north-korea", "snippet": "Continued coverage of Ursa Major nuclear reactor transfer attempt", "source_name": "The News International (Pakistan)" },
+        { "title": "Ukraine War, Day 1,540: Sunken Russian Ship May Have Been Carrying Nuclear Submarine Reactors for North Korea", "url": "https://eaworldview.com/2026/05/ukraine-war-russian-ship-north-korea-nuclear-submarines/", "snippet": "EA WorldView coverage linking Ukraine war context to NK nuclear cooperation", "source_name": "EA WorldView" },
+        { "title": "Tracing Russian Linkages in North Korea's Expanding Nuclear Complex", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "snippet": "38 North deep analysis of Russia-NK nuclear linkages", "source_name": "38 North" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT RevCon 2026 week three nuclear disarmament May",
+      "language": "en",
+      "timestamp": "2026-05-15T09:11:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "NPT Conference 2026", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "snippet": "Official UN page for 11th NPT RevCon, April 27 - May 22", "source_name": "UN" },
+        { "title": "U.S. Statement to the 2026 NPT Review Conference", "url": "https://geneva.usmission.gov/2026/05/06/u-s-statement-to-the-2026-npt-review-conference/", "snippet": "US statement on NPT obligations and nonproliferation", "source_name": "US Mission Geneva" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年5月",
+      "language": "ja",
+      "timestamp": "2026-05-15T09:12:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "snippet": "北朝鮮の核戦力は重要な転換点に近づいている", "source_name": "Bloomberg Japan" },
+        { "title": "NIDSコメンタリー 第294号", "url": "https://www.nids.mod.go.jp/publication/commentary/commentary294.html", "snippet": "防衛研究所の北朝鮮核ミサイル分析", "source_name": "NIDS" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 朝鲜导弹 2026年5月",
+      "language": "zh",
+      "timestamp": "2026-05-15T09:13:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "朝鲜民主主义人民共和国与大规模杀伤性武器", "url": "https://zh.wikipedia.org/zh-hans/%E6%9C%9D%E9%B2%9C%E4%B8%8E%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8", "snippet": "朝鲜核武器和大规模杀伤性武器综述", "source_name": "Wikipedia (zh)" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 북한 핵활동 2026년 5월 15일",
+      "language": "ko",
+      "timestamp": "2026-05-15T09:14:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "北 '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 북한 핵실전화 동향 종합 분석", "source_name": "SPN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "CFR Trump Xi summit analysis updates North Korea",
+      "language": "en",
+      "timestamp": "2026-05-15T09:15:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Trump-Xi Talks Are Underway in Beijing", "url": "https://www.cfr.org/articles/trump-xi-talks-are-underway-in-beijing", "snippet": "CFR live analysis: Korean Peninsula received little attention", "source_name": "CFR" },
+        { "title": "Different Objectives, Same Photo Op: How Trump and Xi Will Approach the Beijing Summit", "url": "https://www.cfr.org/articles/different-objectives-same-photo-op-how-trump-and-xi-will-approach-the-beijing-summit", "snippet": "Trump and Xi have different goals but present unified image", "source_name": "CFR" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Diplomat Trump Xi summit leaves South Korea navigating pressures",
+      "language": "en",
+      "timestamp": "2026-05-15T09:16:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Trump-Xi Summit Leaves South Korea Navigating Familiar Pressures", "url": "https://thediplomat.com/2026/05/trump-xi-summit-leaves-south-korea-navigating-familiar-pressures/", "snippet": "First US president to visit China without stopping in allied capital since 2001. Neither leader mentioned NK publicly.", "source_name": "The Diplomat" },
+        { "title": "The Real Role of a Trump-Xi Meeting", "url": "https://thediplomat.com/2026/05/the-real-role-of-a-trump-xi-meeting/", "snippet": "Summit's role in managing strategic competition under pressure", "source_name": "The Diplomat" }
+      ]
+    }
+  ]
+}
