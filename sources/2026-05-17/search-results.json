@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-17",
+  "collected_at": "2026-05-17T00:00:00Z",
+  "search_count": 12,
+  "total_results": 38,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-17T00:01:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "세종연구소 북한 무기 개발 평가 및 2026년 전망", "source_name": "세종연구소" },
+        { "title": "핵무기 제한 완전히 사라졌다… 북한은 이제 어디까지? 전문가 전망", "url": "https://v.daum.net/v/Hzh2p9d8Dg", "snippet": "북한 핵무기 제한 해제 및 전문가 전망 종합 보도", "source_name": "리포테라" },
+        { "title": "북한의 대러 파병 및 군수물자 수출의 경제적 효과", "url": "https://www.inss.re.kr/common/download.do?atchFileId=F20260313155057021&fileSn=0", "snippet": "국가안보전략연구원 대러 파병 경제적 효과 분석", "source_name": "INSS" },
+        { "title": "발간현황 - 2025년 북한 군사 정세 평가와 2026년 전망", "url": "https://www.kima.re.kr/3.html?html=3-3-2.html&uid=1588&s=2", "snippet": "한국군사문제연구원 2026년 전망", "source_name": "KIMA" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 김정은 미북 접촉 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-17T00:02:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "'번개 회동' 불발 트럼프 \"김정은과 소통중\" 밝혀..향후 접촉 여지 남겨", "url": "https://www.fnnews.com/news/202605160619483626", "snippet": "번개 회동 불발됐으나 트럼프 '김정은과 소통중' 밝혀 향후 접촉 여지 남겨", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프 대통령 '시 주석과 북한 논의…김정은과 좋은 관계, 소통도 해'", "url": "https://www.voakorea.com/a/trump-says-he-discussed-north-korea-with-xi-maintains-good-relationship-and-communication-with-kim-jong-un-051526/8150414.html", "snippet": "VOA 트럼프 발언 종합 — 시진핑과 북한 논의, 김정은과 좋은 관계 확인", "source_name": "VOA Korea" },
+        { "title": "미중 정상회담, 한반도는 후순위...중동에 시선 쏠려", "url": "https://www.rfa.org/korean/in-focus/2026/05/15/us-china-summit-agenda/", "snippet": "RFA 전문가 3인 '한반도 논의 공간 없다' 진단", "source_name": "RFA" },
+        { "title": "공개 활동 접고 미중 정상회담에 촉각 세운 김정은", "url": "https://www.newspim.com/news/view/20260514000678", "snippet": "김정은 5/12부터 공개활동 중단, 미중 정상회담 주시", "source_name": "뉴스핌" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 북한 김정은 만남 정상회담 5월 2026",
+      "language": "ko",
+      "timestamp": "2026-05-17T00:03:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "美中, 한반도 문제도 논의했지만…백악관은 언급안해", "url": "https://www.fnnews.com/news/202605150037355435", "snippet": "미중 정상회담에서 한반도 논의했으나 백악관 보도자료에 언급 없음", "source_name": "파이낸셜뉴스" },
+        { "title": "트럼프, 김정은에 '번개 회동' 제안할까..정부 고위급 '배제 못해'", "url": "https://www.fnnews.com/news/202605141251349141", "snippet": "정부 고위급 번개 회동 가능성 배제 못한다고 발언", "source_name": "파이낸셜뉴스" },
+        { "title": "\"美트럼프 전유물 된 '김정은'...북미대화, 중간선거 이후 전망\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105440", "snippet": "SPN 분석 — 북미대화 중간선거 이후 전망", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear May 2026",
+      "language": "en",
+      "timestamp": "2026-05-17T00:04:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Korean Peninsula Update, May 12, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/", "snippet": "AEI weekly update on Korean Peninsula developments", "source_name": "AEI" },
+        { "title": "Tracing Russian Linkages in North Korea's Expanding Nuclear Complex", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "snippet": "38 North analysis of Russia-NK nuclear cooperation", "source_name": "38 North" },
+        { "title": "North Korea says it is not bound by any treaty on nuclear non-proliferation", "url": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation", "snippet": "DPRK envoy declares NPT non-binding", "source_name": "Al Jazeera" },
+        { "title": "North Korea Seeks Nuclear Recognition for U.S. Talks", "url": "https://www.armscontrol.org/act/2026-04/news/north-korea-seeks-nuclear-recognition-us-talks", "snippet": "NK seeks nuclear state recognition as precondition for talks", "source_name": "Arms Control Association" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK Kim Jong Un Trump contact May 2026",
+      "language": "en",
+      "timestamp": "2026-05-17T00:05:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Trump says U.S. in contact with Kim Jong Un amid China state visit", "url": "https://www.nknews.org/2026/05/trump-says-u-s-in-contact-with-kim-jong-un-amid-china-state-visit/", "snippet": "Trump confirms contact with Kim Jong Un during Air Force One remarks", "source_name": "NK News" },
+        { "title": "Rethinking North Korea diplomacy", "url": "https://www.brookings.edu/articles/rethinking-north-korea-diplomacy/", "snippet": "Brookings 'do no harm' framework for NK diplomacy post-summit", "source_name": "Brookings" },
+        { "title": "Trump could meet Kim Jong Un for summit this fall: Former US official", "url": "https://www.nknews.org/2026/04/trump-could-meet-kim-jong-un-for-summit-this-fall-former-us-official/", "snippet": "Former official suggests fall 2026 Trump-Kim summit possible", "source_name": "NK News" },
+        { "title": "Trump says he could meet Kim Jong Un as early as this month: ROK prime minister", "url": "https://www.nknews.org/?p=968995", "snippet": "ROK PM says Trump indicated willingness to meet Kim", "source_name": "NK News" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea NPT review conference 2026",
+      "language": "en",
+      "timestamp": "2026-05-17T00:06:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Into the Final Week: Can the NPT States Come Together on a Final Document?", "url": "https://www.armscontrol.org/blog/2026-05-16/final-week-can-npt-states-come-together-final-document", "snippet": "ACA analysis of NPT RevCon final week challenges — Rev.1 draft circulated May 13, 14 pages, consensus prospects uncertain", "source_name": "Arms Control Association" },
+        { "title": "Can the NPT Survive Amid Global Disorder?", "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/", "snippet": "The Diplomat on NPT survival amid global challenges", "source_name": "The Diplomat" },
+        { "title": "NPT Conference 2026 - Review conference of the parties to the treaty on NPT", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "snippet": "UN official page for 11th NPT RevCon April 27-May 22 2026", "source_name": "United Nations" },
+        { "title": "Seoul Says North Korea's NPT Statement Targets Korea-U.S. Security Cooperation", "url": "https://en.sedaily.com/politics/2026/05/07/seoul-says-north-koreas-npt-statement-targets-korea-us", "snippet": "Seoul says NK NPT statement targets Korea-US nuclear sub cooperation", "source_name": "Seoul Economic Daily" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT 평가회의 결과문서 최종주 북한 2026 5월",
+      "language": "ko",
+      "timestamp": "2026-05-17T00:07:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "NPT 평가회의 결과문 초안 '북한 핵 개발 우려… 핵보유국 지위 불가'", "url": "https://www.voakorea.com/a/draft-outcome-document-of-npt-review-conference-concerns-over-north-korea-s-nuclear-development-no-status-as-a-nuclear-weapon-state-20260512/8149284.html", "snippet": "결과문서 초안에 북한 핵보유국 지위 부정, CVID 요구", "source_name": "VOA Korea" },
+        { "title": "NPT 평가회의 결과문서 초안, 북한 핵보유국 지위 명시적으로 부정", "url": "https://www.itinsight.kr/news/460043", "snippet": "결과문서 초안 북한 핵보유국 지위 명시 부정", "source_name": "아이티인사이트" },
+        { "title": "한-프랑스, NPT 평가회의 계기 공동 '북핵 행사' 주최", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106959", "snippet": "한국-프랑스 공동 주최 NPT 북핵 사이드이벤트", "source_name": "SPN" },
+        { "title": "한국·프랑스 공동 주최 NPT 회의서 '단계적 비핵화' 로드맵 제시", "url": "https://www.kjob.news/news/486981", "snippet": "한-프 '단계적 비핵화' 로드맵 제시, 북한 대화 거부 현실 속 실효성 논란", "source_name": "전국인력신문" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年5月",
+      "language": "ja",
+      "timestamp": "2026-05-17T00:08:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "snippet": "Bloomberg日本語版 — 北朝鮮核戦力が米ミサイル防衛を上回る水準に接近", "source_name": "Bloomberg Japan" },
+        { "title": "北朝鮮核・ミサイルリスクの総合分析 最終報告書", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "snippet": "日本国際問題研究所 北朝鮮核ミサイルリスク総合分析", "source_name": "JIIA" },
+        { "title": "北朝鮮、核・ミサイル13種を開発、4種はすでに実戦配備完了か", "url": "https://www.afpbb.com/articles/-/3620776", "snippet": "AFP通信 北朝鮮13種核ミサイル開発、4種実戦配備", "source_name": "AFP BB" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核武器 2026年5月",
+      "language": "zh",
+      "timestamp": "2026-05-17T00:09:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "联合国：朝鲜推进核导与导弹计划令人关切 呼吁通过对话实现无核化", "url": "https://news.un.org/zh/story/2026/04/1142055", "snippet": "联合国关注朝鲜核导计划进展", "source_name": "UN News (中文)" },
+        { "title": "朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位", "url": "https://c.m.163.com/news/a/KSACMIMU05198CJN.html", "snippet": "朝鲜代表金星指美国无端指责朝鲜拥核地位", "source_name": "网易新闻" },
+        { "title": "朝鲜劳动党九大闭幕 金正恩阐明新五年计划", "url": "https://www.news.cn/world/20260226/a7e8cbde91314f5d9faf73ce85ca480d/c.html", "snippet": "新华网报道朝鲜劳动党九大新五年计划", "source_name": "新华网" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 제재 안보리 중국 5월 2026",
+      "language": "ko",
+      "timestamp": "2026-05-17T00:10:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "\"5일 만에 북한 인력 1,000명이 단둥으로 쏟아졌다\"…제재 체계 균열, 중국 '묵인'", "url": "https://www.reportera.co.kr/military/north-korea-workers-dandong-china-sanctions-evasion-2026/", "snippet": "북한 인력 비자 명목 우회로 단둥 유입, 중국 묵인, 제재 균열 보도", "source_name": "리포테라" },
+        { "title": "중국, 5월 유엔 안보리 순회의장국 맡아…3대 중점 과제에 집중 계획", "url": "https://korean.cri.cn/2026/05/02/ARTI1777686715928292", "snippet": "중국 5월 안보리 의장국, 3대 중점 과제 집중", "source_name": "CRI Korean" },
+        { "title": "안보리 북핵회의…韓 '한반도 평화공존·비핵화 의지 확고'", "url": "https://www.fnnews.com/news/202605010628555503", "snippet": "5월 1일 안보리 북핵회의에서 한국 비핵화 의지 재확인", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "\"North Korea\" sanctions \"May 2026\" UN security council",
+      "language": "en",
+      "timestamp": "2026-05-17T00:11:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "DPRK (North Korea), May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "snippet": "1718 Committee 90-day report discussion scheduled, Chair not yet appointed, China as May president", "source_name": "Security Council Report" },
+        { "title": "DPRK Korea: Continued militarisation a 'serious concern', political affairs chief warns Security Council", "url": "https://news.un.org/en/story/2026/04/1167415", "snippet": "UN political affairs chief warns Security Council about DPRK continued militarization", "source_name": "UN News" },
+        { "title": "What to Know About Sanctions on North Korea", "url": "https://www.cfr.org/backgrounders/north-korea-sanctions-un-nuclear-weapons", "snippet": "CFR backgrounder on NK sanctions regime", "source_name": "CFR" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "나무호 ADD 분석 결과 이란 드론 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-17T00:12:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "나무호 타격 비행체 잔해 한국 도착…드론이냐 미사일이냐 분석 착수", "url": "https://www.wikitree.co.kr/articles/1136818", "snippet": "잔해 한국 도착, 드론/미사일 여부 분석 착수", "source_name": "위키트리" },
+        { "title": "고위당국자 '나무호 공격, 이란 아닐 가능성 낮아…美측 정보 입수해 분석'", "url": "https://www.sisajournal.com/news/articleView.html?idxno=372850", "snippet": "정부 고위당국자 이란 소행 사실상 확신, 미국 정보 입수 분석 중", "source_name": "시사저널" },
+        { "title": "'비행체' 부품 곧 한국 도착…'나무호 공격' 주체 정밀 분석", "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6163939", "snippet": "비행체 부품 한국 도착 예정, 공격 주체 정밀 분석", "source_name": "뉴스1" }
+      ]
+    }
+  ]
+}
