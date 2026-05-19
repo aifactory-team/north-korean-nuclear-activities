@@ -1,0 +1,221 @@
+{
+  "date": "2026-05-19",
+  "collected_at": "2026-05-19T00:00:00Z",
+  "search_count": 16,
+  "total_results": 48,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 5월 19일",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:01:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "세종연구소 2026년 북한 무기 개발 활동 평가", "source_name": "세종연구소" },
+        { "title": "[리뷰] 2026년 北, '핵 실전화'…"전술핵·정밀타격 중심 군사활동 가능성"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 북한 핵 실전화 전망 리뷰", "source_name": "SPN 서울평양뉴스" },
+        { "title": "북한 비핵화 협상 재개 가능성 전망과 고려사항", "url": "https://www.kida.re.kr/cmm/viewBoardImageFile.do?idx=46949", "snippet": "KIDA 비핵화 협상 재개 가능성 분석", "source_name": "KIDA" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 김정은 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:02:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "김정은, 5천톤급 구축함 미사일 발사 또 참관…\"핵전쟁 억제력 강화\" 언급", "url": "https://www.fnnews.com/news/202604140744216434", "snippet": "김정은 5천톤급 구축함 미사일 발사 참관, 핵전쟁 억제력 강화", "source_name": "파이낸셜뉴스" },
+        { "title": "2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "세종연구소 2026년 북한 무기 개발 평가", "source_name": "세종연구소" },
+        { "title": "북한 탄도미사일 도발, 5개월째 잠잠…북미대화 가능성 의식하나", "url": "https://www.newsis.com/view/NISX20251002_0003354576", "snippet": "북한 탄도미사일 발사 중단 상태", "source_name": "뉴시스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 NPT 평가회의 최종 2026",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:03:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "NPT 평가회의 결과문 초안 \"북한 핵 개발 우려… 핵보유국 지위 불가\"", "url": "https://www.voakorea.com/a/draft-outcome-document-of-npt-review-conference-concerns-over-north-korea-s-nuclear-development-no-status-as-a-nuclear-weapon-state-20260512/8149284.html", "snippet": "NPT 결과문서 초안 — 북한 핵보유국 지위 명시적 부정, CVID 재확인", "source_name": "VOA Korea" },
+        { "title": "한국·프랑스 공동 주최 NPT 회의서 '단계적 비핵화' 로드맵 제시…북한 대화 거부 현실 속 실효성 논란", "url": "https://www.kjob.news/news/486981", "snippet": "한국·프랑스 공동 NPT 회의, 3단계 비핵화 로드맵 제시", "source_name": "전국인력신문" },
+        { "title": "정부, NPT 평가회의 계기 북핵 논의...\"완전한 비핵화 목표 견지\"", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260506010000867", "snippet": "한국 정부 단계적·실용적 비핵화 접근", "source_name": "아시아투데이" },
+        { "title": "북핵 수석대표 \"북핵, NPT 완결성과 직결…단계적 비핵화 이행\"", "url": "https://www.fnnews.com/news/202604280910411127", "snippet": "북핵 수석대표 NPT 비핵화 발언", "source_name": "파이낸셜뉴스" },
+        { "title": "일본의 '실패'가 남긴 교훈... 북핵 위험 줄일 모든 통로 열어둬야", "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003230921&PAGE_CD=N0002&CMPT_CD=M0117", "snippet": "NPT와 북핵 위험 분석", "source_name": "오마이뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear May 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:04:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Korean Peninsula Update, May 5, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-may-5-2026/", "snippet": "AEI Korean Peninsula Update May 5, nuclear arsenal expansion analysis", "source_name": "AEI" },
+        { "title": "Tracing Russian Linkages in North Korea's Expanding Nuclear Complex", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "snippet": "38 North Russia-NK nuclear cooperation deep analysis", "source_name": "38 North" },
+        { "title": "North Korea's Nuclear Weapons and Missile Programs", "url": "https://www.congress.gov/crs-product/IF10472", "snippet": "CRS updated report on NK nuclear weapons and missile programs, 2026 ATA", "source_name": "Congressional Research Service" },
+        { "title": "Korean Peninsula Update, May 12, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/", "snippet": "AEI Korean Peninsula Update May 12", "source_name": "AEI" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK Kim Jong Un military May 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:05:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "North Korea's Kim calls for 'impregnable fortress' at southern border", "url": "https://www.upi.com/Top_News/World-News/2026/05/18/Kim-Jong-Un-southern-border-impregnable-fortress-military-commanders-meeting-KCNA/3491779089003/", "snippet": "Kim Jong Un convened meeting with all division and brigade commanders, called for impregnable fortress at southern border", "source_name": "UPI" },
+        { "title": "North Korea's Kim calls on military to bolster frontline defences against 'arch enemy'", "url": "https://www.euronews.com/2026/05/18/north-koreas-kim-calls-on-military-to-bolster-frontline-defences-against-arch-enemy", "snippet": "Kim outlined plans to reorganize military structure and bolster frontline units with upgraded weapons", "source_name": "Euronews" },
+        { "title": "North Korea to bolster front-line defenses against 'arch enemy'", "url": "https://www.manilatimes.net/2026/05/19/world/asia-oceania/north-korea-to-bolster-front-line-defenses-against-arch-enemy/2346016", "snippet": "Instructions reflected lessons from Ukraine war — drone warfare, precision strikes, electronic warfare", "source_name": "The Manila Times" },
+        { "title": "North Korea says it will deploy new artillery guns targeting Seoul", "url": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul", "snippet": "North Korea to deploy 155mm self-propelled howitzers to border units", "source_name": "NPR" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea sanctions China 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:06:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "North Korea Openly Defies Sanctions With Help From China", "url": "https://www.newsweek.com/china-north-korea-russia-oil-energy-trade-un-sanctions-2106998", "snippet": "North Korean oil tankers in Chinese waters openly flouting sanctions", "source_name": "Newsweek" },
+        { "title": "The End of North Korean Sanctions Enforcement…and What Comes Next", "url": "https://www.internationalaffairs.org.au/australianoutlook/the-end-of-north-korean-sanctions-enforcementand-what-comes-next/", "snippet": "Analysis of the collapse of North Korean sanctions enforcement", "source_name": "AIIA" },
+        { "title": "China's Violation of Sanctions Vis-à-Vis North Korea", "url": "https://icks.org/wp-content/uploads/2025/08/IJKS-Chang-Vol-26-No-1-Final-Uploaded.pdf", "snippet": "Academic analysis of China's sanctions violations regarding North Korea", "source_name": "IJKS" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年5月",
+      "language": "ja",
+      "timestamp": "2026-05-19T00:07:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "snippet": "Bloomberg日本語版 — 北朝鮮核戦力が米ミサイル防衛を上回る規模に", "source_name": "Bloomberg Japan" },
+        { "title": "北朝鮮の金委員長、2026年のミサイル増産を指示：国営メディア", "url": "https://www.arabnews.jp/article/japan/article_165756", "snippet": "金正恩、2026年ミサイル増産指示", "source_name": "Arab News Japan" },
+        { "title": "防衛省・自衛隊：北朝鮮のミサイル等関連情報", "url": "https://www.mod.go.jp/j/surround/northKorea/index.html", "snippet": "日本防衛省北朝鮮ミサイル情報ページ", "source_name": "防衛省" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核武器 导弹 2026年5月",
+      "language": "zh",
+      "timestamp": "2026-05-19T00:08:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "朝鲜民主主义人民共和国与大规模杀伤性武器", "url": "https://zh.wikipedia.org/zh-hans/%E6%9C%9D%E9%B2%9C%E4%B8%8E%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8", "snippet": "维基百科：朝鲜大规模杀伤性武器概述", "source_name": "Wikipedia (中文)" },
+        { "title": "朝鲜核试验", "url": "https://baike.baidu.com/item/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%AF%95%E9%AA%8C/6029201", "snippet": "百度百科：朝鲜核试验历史", "source_name": "百度百科" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT Review Conference final week May 19 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:09:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Into the Final Week: Can the NPT States Come Together on a Final Document?", "url": "https://www.armscontrol.org/blog/2026-05-16/final-week-can-npt-states-come-together-final-document", "snippet": "ACA analysis: Rev.1 draft distributed, barriers to consensus remain high", "source_name": "Arms Control Association" },
+        { "title": "NPT Conference 2026", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "snippet": "UN official page for 11th NPT Review Conference, April 27 - May 22, 2026", "source_name": "United Nations" },
+        { "title": "Waiting for Godot at the 2026 NPT Review Conference", "url": "https://www.armscontrol.org/act/2025-09/features/waiting-godot-2026-npt-review-conference", "snippet": "ACA pre-conference analysis", "source_name": "Arms Control Association" },
+        { "title": "First drafts of NPT Review Conference outcome documents are released", "url": "https://www.icanw.org/first_drafts_of_npt_review_conference_outcome_documents_are_released", "snippet": "ICAN report on zero draft and Rev.1 outcome documents", "source_name": "ICAN" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Kim Jong Un impregnable fortress military reorganization May 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:10:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "Kim Jong Un Orders North Korean Army to Fortify Border Into 'Impregnable Fortress'", "url": "https://www.commondef.com/2026/05/kim-jong-un-orders-north-korean-army-to-fortify-border-into-impregnable-fortress/", "snippet": "First known gathering of all division and brigade commanders since Kim took power in 2011", "source_name": "CommonDef" },
+        { "title": "North Korean leader orders military to reinforce southern border into 'impregnable fortress'", "url": "https://www.presstv.ir/Detail/2026/05/18/768844/north-korea-kim-orders-defense-build-up-along-border", "snippet": "Kim outlined plans to reorganize the military structure", "source_name": "PressTV" },
+        { "title": "North Korea's Kim calls for 'impregnable fortress' at southern border", "url": "https://www.timesofearth.com/2026/05/18/north-koreas-kim-calls-for-impregnable-fortress-at-southern-border/", "snippet": "Kim calls for impregnable fortress at southern border", "source_name": "Times of Earth" },
+        { "title": "North Korea's Kim calls to make border with South Korea an 'impregnable fortress'", "url": "https://www.marketscreener.com/news/north-korea-s-kim-calls-to-make-border-with-south-korea-an-impregnable-fortress-ce7f5bd3d08df627", "snippet": "Kim calls to make border with South Korea an impregnable fortress", "source_name": "MarketScreener" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "김정은 사여단장 회의 남부국경 난공불락 군사구조개편",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:11:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "김정은, 남부국경 강화 지시… 헌법 영토조항 구체화", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260519010005049", "snippet": "아시아투데이 5/19 분석 — 헌법 개정 영토조항과 군사강화 연결 분석", "source_name": "아시아투데이" },
+        { "title": "김정은 \"남부국경 최전선부대 강화\"…휴전선 연일 '국경화' 작업(종합)", "url": "https://www.edaily.co.kr/News/Read?newsId=03522726645450232&mediaCodeNo=257", "snippet": "이데일리 종합 — 휴전선 국경화 작업 분석", "source_name": "이데일리" },
+        { "title": "김정은, 전군 연합부대 지휘관 회합...\"남부국경선, 난공불락 요새로 만들라\"", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107306", "snippet": "서울평양뉴스 — 전군 연합부대 지휘관 회합 상세", "source_name": "SPN 서울평양뉴스" },
+        { "title": "김정은 \"남부국경, 난공불락의 요새로 만들 것\"", "url": "https://www.ngonews.kr/news/articleView.html?idxno=229915", "snippet": "한국NGO신문 — 김정은 남부국경 난공불락 요새 발언", "source_name": "한국NGO신문" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "트럼프 김정은 만나고 싶다 이재명 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:12:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "[단독]트럼프, 李대통령에 \"김정은 날 좋아해, 만나고 싶다\" 언급", "url": "https://www.kmib.co.kr/article/view.asp?arcid=0029835865&code=61111111&sid1=pol", "snippet": "트럼프 이재명 대통령에 '김정은 만나고 싶다' 발언", "source_name": "국민일보" },
+        { "title": "트럼프, 김정은에 '번개 회동' 제안할까..정부 고위급 \"배제 못해\"", "url": "https://www.fnnews.com/news/202605141251349141", "snippet": "미북 번개 회동 가능성 분석", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "나무호 ADD 분석 결과 이란 드론 미사일 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:13:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "\"나무호, 이란 외 공격 가능성 낮아\"… 정부, '스모킹건' 확보 주력", "url": "https://www.dt.co.kr/article/12062541", "snippet": "디지털타임스 — 정부 스모킹건 확보 주력, 이란 외 가능성 낮아", "source_name": "디지털타임스" },
+        { "title": "나무호 비행체 엔진 잔해 등 국내 도착…외교부 \"정밀 분석 예정\"", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564049", "snippet": "SBS — 나무호 잔해 국내 도착 정밀 분석", "source_name": "SBS" },
+        { "title": "고위당국자 \"이란 외 주체의 나무호 공격 가능성 낮아\"", "url": "https://www.koreadaily.com/article/20260513233255503", "snippet": "미주중앙일보 — 고위당국자 이란 귀인 발언", "source_name": "미주중앙일보" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea DPRK workers China Dandong sanctions 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:14:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "North Korea sends workers to China in sanctions evasion", "url": "https://www.dailynk.com/english/north-korea-workers-china-sanctions-evasion-dandong/", "snippet": "1,000 NK workers entered Dandong in April 2026, total could reach 10,000 in 2-3 months", "source_name": "DailyNK" },
+        { "title": "China's Facilitation of Sanctions and Export Control Evasion", "url": "https://www.uscc.gov/research/chinas-facilitation-sanctions-and-export-control-evasion", "snippet": "USCC report on China's facilitation of sanctions evasion", "source_name": "US-China Economic and Security Review Commission" },
+        { "title": "미 국무부, 북한 노동자 중국 입국 보도에 \"중국, 유엔 대북 제재 이행 지속적 훼손\"", "url": "https://www.voakorea.com/a/state-department-says-china-undermining-u-n-sanctions-on-north-korea-amid-reports-of-dprk-workers-entering-china-042326/8141759.html", "snippet": "State Dept: China continuously undermining UN sanctions on NK", "source_name": "VOA Korea" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "김정은 군사구조개편 우크라이나 전훈 드론전 현대전 2026",
+      "language": "ko",
+      "timestamp": "2026-05-19T00:15:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "\"우크라 전장, 북한은 미리 알고 있었다\"… 김정은이 12년 전부터 준비했던 '이 무기'", "url": "https://www.reportera.co.kr/military/kim-jong-un-drone-strategy-waterslide-frp-deception/comment-page-1/", "snippet": "리포테라 — 김정은 12년 전 드론 전략 시작, 우크라이나 전훈 반영", "source_name": "리포테라" },
+        { "title": "\"군부대 없애면 북한만 좋아한다\"… 폐지 권고 '거절', 국방부 180도 뒤집은 이유", "url": "https://www.reportera.co.kr/military/drone-operations-command-reorganization-not-dissolution/comment-page-1/", "snippet": "리포테라 — 드론작전사 구조개편 관련 분석", "source_name": "리포테라" },
+        { "title": "이란에 '자폭 드론' 역수출…'어둠의 무기상' 김정은 몸값뛴다", "url": "https://v.daum.net/v/20260402050216697", "snippet": "김정은 자폭 드론 이란 역수출 분석", "source_name": "Daum" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Kim Jong Un arch enemy Ukraine lessons drone warfare 2026",
+      "language": "en",
+      "timestamp": "2026-05-19T00:16:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Drones and Operational Shift: North Korea's Adaptation to a Changing Warfare Environment", "url": "https://www.38north.org/2026/04/drones-and-operational-shift-north-koreas-adaptation-to-a-changing-warfare-environment/", "snippet": "38 North analysis: NK drone development, Ukraine war lessons, asymmetric warfare capabilities", "source_name": "38 North" },
+        { "title": "North Korea's Kim calls on military to bolster frontline defences against 'arch enemy'", "url": "https://www.euronews.com/2026/05/18/north-koreas-kim-calls-on-military-to-bolster-frontline-defences-against-arch-enemy", "snippet": "Instructions reflected lessons from Ukraine war — drone warfare, precision strikes", "source_name": "Euronews" },
+        { "title": "N Korea shows off ties, battle lessons", "url": "https://www.taipeitimes.com/News/world/archives/2026/04/12/2003855464", "snippet": "North Korea showing off ties and battle lessons from Ukraine", "source_name": "Taipei Times" }
+      ]
+    }
+  ]
+}

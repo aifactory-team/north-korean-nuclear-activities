@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-19",
+  "total": 22,
+  "new": 4,
+  "reported": 15,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "아시아투데이 — 김정은, 남부국경 강화 지시… 헌법 영토조항 구체화: 개정헌법 '적대국' 규정 → 군사강화 구체화, 사여단장 회의의 헌법적 맥락 분석 (5/19)", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260519010005049", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "38 North — 'Drones and Operational Shift: North Korea's Adaptation to a Changing Warfare Environment': 우크라이나 전훈 반영 드론 전력 구축, 비대칭 전력 확대, 러시아 기술이전 분석 (4월)", "url": "https://www.38north.org/2026/04/drones-and-operational-shift-north-koreas-adaptation-to-a-changing-warfare-environment/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "DailyNK — 'North Korea sends workers to China in sanctions evasion': 단둥 1,000명 유입 후속, 2~3개월 내 10,000명 확대 전망, 의류·식품·수산가공 배치 (5월)", "url": "https://www.dailynk.com/english/north-korea-workers-china-sanctions-evasion-dandong/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "한국·프랑스 NPT 공동회의 — 3단계 비핵화 로드맵(동결→축소→완전비핵화) 제시, 김상진 차석대사 '단계적·실용적 접근' (5/5)", "url": "https://www.kjob.news/news/486981", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NPT RevCon 최종주 D-Day — 5/19 최종 협상 개시, Rev.1 기반 결과문서 합의 시도, 4대 쟁점(핵군축·우크라이나·중동·CTBT) 미해결 (5/19)", "url": "https://www.armscontrol.org/blog/2026-05-16/final-week-can-npt-states-come-together-final-document", "tag": "update", "related_report": "2026-05-18" },
+    { "id": "src-006", "title": "김정은 '난공불락 요새' — 국제 보도 확산: UPI·Euronews·Manila Times·PressTV·CommonDef 등 전세계 보도, '우크라이나 전훈 반영' 분석 추가 (5/18~19)", "url": "https://www.euronews.com/2026/05/18/north-koreas-kim-calls-on-military-to-bolster-frontline-defences-against-arch-enemy", "tag": "update", "related_report": "2026-05-18" },
+    { "id": "src-007", "title": "미 국무부 '중국 제재 훼손' — DailyNK 후속보도로 단둥 10,000명 확대 전망 추가, USCC 보고서 연계 (5월)", "url": "https://www.voakorea.com/a/state-department-says-china-undermining-u-n-sanctions-on-north-korea-amid-reports-of-dprk-workers-entering-china-042326/8141759.html", "tag": "update", "related_report": "2026-05-18" },
+    { "id": "src-008", "title": "김정은 '남부국경 난공불락 요새로'…전군 사·여단장 회의 (뉴스핌)", "url": "https://www.newspim.com/news/view/20260518000009", "tag": "reported", "related_report": "2026-05-18" },
+    { "id": "src-009", "title": "김정은 '남부국경 난공불락 요새로'…전군 사·여단장 회의 (헤럴드경제)", "url": "https://biz.heraldcorp.com/article/10739631", "tag": "reported", "related_report": "2026-05-18" },
+    { "id": "src-010", "title": "김정은, 전군 사·여단장 회의…'남부국경 최전선 부대 강화' (파이낸셜뉴스)", "url": "https://www.fnnews.com/news/202605180621234455", "tag": "reported", "related_report": "2026-05-18" },
+    { "id": "src-011", "title": "국민일보 [단독] — 트럼프 '김정은 날 좋아해, 만나고 싶다'", "url": "https://www.kmib.co.kr/article/view.asp?arcid=0029835865&code=61111111&sid1=pol", "tag": "reported", "related_report": "2026-05-18" },
+    { "id": "src-012", "title": "위성락 국가안보실장 — '나무호 이란 단정 못해, 드론인지 미사일인지도 모른다'", "url": "https://www.fnnews.com/news/202605171206215791", "tag": "reported", "related_report": "2026-05-18" },
+    { "id": "src-013", "title": "NPT RevCon Rev.1 초안 — 북한 핵보유국 지위 부정, CVID 재확인", "url": "https://www.voakorea.com/a/draft-outcome-document-of-npt-review-conference-concerns-over-north-korea-s-nuclear-development-no-status-as-a-nuclear-weapon-state-20260512/8149284.html", "tag": "reported", "related_report": "2026-05-17" },
+    { "id": "src-014", "title": "리포테라 — 북한 인력 1,000명 단둥 유입, 제재 균열", "url": "https://www.reportera.co.kr/military/north-korea-workers-dandong-china-sanctions-evasion-2026/", "tag": "reported", "related_report": "2026-05-17" },
+    { "id": "src-015", "title": "38 North — 러시아-북한 핵 협력 심층 분석", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-14" },
+    { "id": "src-016", "title": "국정원: 북한 헌법 개정 — 김정은 핵무력 지휘권 명시", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-08" },
+    { "id": "src-017", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-018", "title": "TRM Labs: 북한 암호화폐 해킹 76% $577M, 누적 $6B", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-019", "title": "Security Council Report: DPRK 5월 전망", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-020", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-021", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 ATA 업데이트)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-12" },
+    { "id": "src-022", "title": "IAEA — 북한 핵무기 생산 능력 증대, 영변 새 농축시설 확인", "url": "https://www.euronews.com/2026/04/15/north-korea-showing-serious-increase-in-ability-to-make-nuclear-weapons-iaea-says", "tag": "reported", "related_report": "2026-04-16" }
+  ]
+}
