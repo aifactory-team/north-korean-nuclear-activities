@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-20",
+  "total": 23,
+  "new": 5,
+  "reported": 15,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "AEI Korean Peninsula Update (5/19) — 헌법 개정 '영토 분단 법제화·통일 포기', 드론 현대화 분석, OPCON 전환 2029 전 목표, 트럼프 '김정은과 소통 중' 재확인", "url": "https://www.aei.org/articles/korean-peninsula-update-may-19-2026/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Lowy Institute — 'North Korea's Battlefield Dividend': 러시아 협력 $14.4B 군사거래, 벨로우소프 국방장관 방북, 2027-31 군사협력 장기계획, 드론·탄도·핵잠 기술이전 (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "전국인력신문 — '북한의 저강도 외교 제스처: 비핵화 없이 제재 완화 가능한가': 5/12 노동신문 경제교류 논평, 전문가 '전술적 접근' 평가 (5월)", "url": "https://www.kjob.news/news/489959", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Zona Militar — 'Choe Hyon Destroyer Signals Potential Expansion of Naval Strike Capabilities Amid Nuclear Rhetoric': 핵탑재 순항미사일·전술탄도 능력 분석, 6월 취역 예정 (5/18)", "url": "https://www.zona-militar.com/en/2026/05/18/north-koreas-choe-hyon-destroyer-signals-potential-expansion-of-naval-strike-capabilities-amid-nuclear-rhetoric/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NK News — '북한 개정헌법, 영토 재정의하나 여전히 모호': 헌법 영토조항 상세 분석, 남한 영토 제외 법제화 확인 (5월)", "url": "https://www.nknews.org/2026/05/north-koreas-amended-constitution-redefines-borders-but-remains-vague-source/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "NPT RevCon Rev.2 초안(5/18) — 의장 두 번째 개정판 배포, 최종주 마라톤 협상 진행 중, 5/22 합의 시한 (5/18~20)", "url": "https://www.armscontrol.org/blog/2026-05-16/final-week-can-npt-states-come-together-final-document", "tag": "update", "related_report": "2026-05-19" },
+    { "id": "src-007", "title": "김정은 '난공불락 요새' — Japan Times 보도 추가, AEI '드론 현대화 반영' 분석 추가, Lowy '전장 배당금' 맥락 추가 (5/18~19)", "url": "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/", "tag": "update", "related_report": "2026-05-19" },
+    { "id": "src-008", "title": "러-북 군사협력 장기화 — Lowy '$14.4B + 벨로우소프 방북 + 2027-31 장기계획' 추가, 승전기념일 북한군 레드스퀨르 행진 (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "update", "related_report": "2026-05-14" },
+    { "id": "src-009", "title": "아시아투데이 — 김정은, 남부국경 강화 지시… 헌법 영토조항 구체화", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260519010005049", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-010", "title": "38 North — 'Drones and Operational Shift: North Korea's Adaptation'", "url": "https://www.38north.org/2026/04/drones-and-operational-shift-north-koreas-adaptation-to-a-changing-warfare-environment/", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-011", "title": "DailyNK — 단둥 10,000명 확대 전망", "url": "https://www.dailynk.com/english/north-korea-workers-china-sanctions-evasion-dandong/", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-012", "title": "한국·프랑스 NPT 공동회의 — 3단계 비핵화 로드맵", "url": "https://www.kjob.news/news/486981", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-013", "title": "Euronews — 김정은 'arch enemy' 남부국경 방어 강화", "url": "https://www.euronews.com/2026/05/18/north-koreas-kim-calls-on-military-to-bolster-frontline-defences-against-arch-enemy", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-014", "title": "VOA Korea — 미 국무부 '중국 제재 훼손'", "url": "https://www.voakorea.com/a/state-department-says-china-undermining-u-n-sanctions-on-north-korea-amid-reports-of-dprk-workers-entering-china-042326/8141759.html", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-015", "title": "리포테라 — 단둥 1,000명 유입", "url": "https://www.reportera.co.kr/military/north-korea-workers-dandong-china-sanctions-evasion-2026/", "tag": "reported", "related_report": "2026-05-17" },
+    { "id": "src-016", "title": "38 North — 러시아-북한 핵 협력 심층 분석", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-14" },
+    { "id": "src-017", "title": "NPR — 북한 155mm 자주포 서울 겨냥 배치 예고 (5/8)", "url": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-018", "title": "국정원: 북한 헌법 개정 — 김정은 핵무력 지휘권 명시", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-08" },
+    { "id": "src-019", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-020", "title": "TRM Labs: 북한 암호화폐 해킹 76% $577M, 누적 $6B", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-021", "title": "Security Council Report: DPRK 5월 전망", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-022", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-023", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 ATA 업데이트)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-12" }
+  ]
+}

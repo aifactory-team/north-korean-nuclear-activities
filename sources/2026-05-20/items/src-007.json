@@ -1,0 +1,13 @@
+{
+  "id": "src-007",
+  "title": "김정은 '난공불락 요새' — Japan Times 보도 추가, AEI '드론 현대화 반영' 분석 추가, Lowy '전장 배당금' 맥락 추가",
+  "url": "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/",
+  "snippet": "Japan Times 보도 추가. AEI(5/19)가 김정은의 군사 현대화를 '3월 훈련에서 소형 자폭 드론 사용 → 드론 표준화 시도'로 분석. Lowy가 러시아 전장 배당금 맥락에서 군사구조개편 해석 추가.",
+  "source_name": "Japan Times",
+  "language": "en",
+  "discovered_date": "2026-05-20",
+  "tag": "update",
+  "related_report": "2026-05-19",
+  "related_item": "2026-05-19/src-006",
+  "tag_reason": "김정은 난공불락 요새는 5/18~19 다수 보도. Japan Times 추가 보도 + AEI/Lowy의 새로운 분석적 맥락이 추가되어 update."
+}
