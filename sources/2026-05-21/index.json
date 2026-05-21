@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-21",
+  "total": 22,
+  "new": 5,
+  "reported": 14,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "NPR — 'North Korea is relieved its nuclear weapons have prevented a fate like Iran's': 김정은 '올바른 선택' 확신, 핵무기가 이란의 운명을 방지, 억지력으로서의 핵 정당화 (5/18)", "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "The Diplomat — 'Can the NPT Survive Amid Global Disorder?': NPT 체제 존속 위기, 이란전쟁·북핵확장·영불 핵증강·한일 핵론의 4대 도전, 미국 리더십 부재 (5월)", "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Stimson Center — 'The Iran War is a Big Issue Among Many at the 2026 NPT RevCon': 이란전쟁이 RevCon 최대 쟁점, Natanz·Fordow·Isfahan 폭격 후 합의문 교착 (5월)", "url": "https://www.stimson.org/2026/the-iran-war-is-a-big-issue-among-many-at-the-2026-npt-revcon/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Lowy Institute — 'Can Seoul's soft diplomacy break the Russia–North Korea alliance?': 이재명 '실용 외교' vs 윤석열 '강경', 구조적 한계 분석 — 러-북 $5.5B 무기거래·$572M 용병 수익 (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/can-seoul-s-soft-diplomacy-break-russia-north-korea-alliance", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "ACA — 'Iran Threatens to Withdraw from the NPT': 이란 의회 3/28 NPT 탈퇴 법안 발의, JCPOA 이행법 폐기·새 핵협력 국제협정 3대 축, RevCon 작업문서 5건 제출 (5월)", "url": "https://www.armscontrol.org/act/2026-05/news/iran-threatens-withdraw-npt", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "NPT RevCon D-1 (5/21) — 내일 5/22 합의 시한, Rev.2 기반 최종 협상, 이란 핵시설 폭격·우크라이나·CTBT·핵군축 4대 쟁점 미해결 (5/21)", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "update", "related_report": "2026-05-20" },
+    { "id": "src-007", "title": "북한 '핵 정당화' 내러티브 강화 — SCMP·Bloomberg 이란 교훈 분석, NPR 종합, 이란전쟁이 북핵 포기 가능성 사실상 소멸 확인 (5월)", "url": "https://www.scmp.com/week-asia/politics/article/3345084/us-strikes-iran-north-korea-sees-nuclear-vindication", "tag": "update", "related_report": "2026-05-20" },
+    { "id": "src-008", "title": "이재명 '실용 외교' — Lowy '서울 연성외교' + 러-북 $14.4B '구조적 동맹' 대비, 외교적 접근의 구조적 한계 부각 (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "update", "related_report": "2026-05-20" },
+    { "id": "src-009", "title": "Bulletin of the Atomic Scientists — 'Iran's positions at the NPT Review Conference are rational'", "url": "https://thebulletin.org/2026/05/irans-positions-at-the-npt-review-conference-are-rational-ignoring-them-would-weaken-the-treaty/", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-010", "title": "Atomic Reporters — 이란 핵시설 공격과 NPT RevCon 후퇴", "url": "https://www.atomicreporters.com/2026/05/tariq-rauf-shoring-up-the-non-proliferation-treaty-working-for-a-successful-outcome-at-the-11th-npt-review-conference-2-2/", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-011", "title": "VOA Korea — EU, 북한 NPT 구속 주장 일축 '핵보유국 지위 절대 불인정'", "url": "https://www.voakorea.com/a/eu-rejects-north-korea-s-claim-it-is-not-bound-by-npt-says-nuclear-armed-status-will-never-be-recognized-20260512/8149229.html", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-012", "title": "AEI Korean Peninsula Update (5/19)", "url": "https://www.aei.org/articles/korean-peninsula-update-may-19-2026/", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-013", "title": "Lowy Institute — 'North Korea's Battlefield Dividend'", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-014", "title": "ACA — 'Into the Final Week' NPT RevCon", "url": "https://www.armscontrol.org/blog/2026-05-16/final-week-can-npt-states-come-together-final-document", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-015", "title": "전국인력신문 — 북한의 저강도 외교 제스처", "url": "https://www.kjob.news/news/489959", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-016", "title": "38 North — 러시아-북한 핵 협력 심층 분석", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-14" },
+    { "id": "src-017", "title": "Security Council Report: DPRK 5월 전망", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-018", "title": "국정원: 북한 헌법 개정 — 김정은 핵무력 지휘권 명시", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-08" },
+    { "id": "src-019", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-020", "title": "TRM Labs: 북한 암호화폐 해킹 76% $577M, 누적 $6B", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-021", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-022", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 ATA 업데이트)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-12" }
+  ]
+}
