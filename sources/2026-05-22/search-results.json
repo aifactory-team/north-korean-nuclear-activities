@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-22",
+  "collected_at": "2026-05-22T00:00:00Z",
+  "search_count": 16,
+  "total_results": 58,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵 2026년 5월",
+      "language": "ko",
+      "timestamp": "2026-05-22T00:01:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "북한 비핵화 협상 재개 가능성 전망과 고려사항", "url": "https://www.kida.re.kr/cmm/viewBoardImageFile.do?idx=46949", "snippet": "북핵 협상 재개 가능성 분석", "source_name": "KIDA" },
+        { "title": "2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "세종연구소 북한 무기 개발 평가", "source_name": "세종연구소" },
+        { "title": "美 핵과학자협회 '北, 핵탄두 50기 보유...최대 90기 조립 가능'", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=82973", "snippet": "FAS 핵탄두 보유량 추정", "source_name": "SPN 서울평양뉴스" },
+        { "title": "전문가 '北 핵탄두 2026년 이후에는 최소 100개 보유'", "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=48081", "snippet": "2026년 이후 핵탄두 100기 이상 보유 전망", "source_name": "코리아이글뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 핵활동 2026년 5월 22일",
+      "language": "ko",
+      "timestamp": "2026-05-22T00:02:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "2026년 북한 미사일 도발 - 나무위키", "url": "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C", "snippet": "2026년 북한 미사일 발사 기록 종합", "source_name": "나무위키" },
+        { "title": "2026년 北 '핵 실전화'…전술핵·정밀타격 중심 군사활동 가능성", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105420", "snippet": "2026년 핵 실전화 및 전술핵 중심 군사활동 전망", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북핵 NPT 2026",
+      "language": "ko",
+      "timestamp": "2026-05-22T00:03:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "한국·프랑스 공동 주최 NPT 회의서 '단계적 비핵화' 로드맵 제시", "url": "https://www.kjob.news/news/486981", "snippet": "한·프 공동 주최, 3단계 비핵화 로드맵: 동결→축소→완전 비핵화", "source_name": "전국인력신문" },
+        { "title": "2026 NPT 검토회의 시민사회 구두발언", "url": "https://peoplepower21.org/peace/2021776", "snippet": "참여연대 NPT 평가회의 관련 성명", "source_name": "참여연대" },
+        { "title": "北유엔대사 'NPT 구속되지 않아… 핵보유는 주권국가 권리'", "url": "https://www.joongangenews.com/news/articleView.html?idxno=517455", "snippet": "김성 대사 NPT 탈퇴국 입장 재확인", "source_name": "중앙이코노미뉴스" },
+        { "title": "북한 유엔대사 '핵보유는 헌법상 의무…NPT 구속되지 않아'", "url": "https://www.khan.co.kr/article/202605070747001/", "snippet": "5/7 김성 대사 NPT 발언", "source_name": "경향신문" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear May 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:04:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Korean Peninsula Update, May 5, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-may-5-2026/", "snippet": "AEI weekly Korean Peninsula update", "source_name": "AEI" },
+        { "title": "North Korea says it is not bound by any treaty on nuclear non-proliferation", "url": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation", "snippet": "NK envoy declares not bound by NPT", "source_name": "Al Jazeera" },
+        { "title": "Tracing Russian Linkages in North Korea's Expanding Nuclear Complex", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "snippet": "Russian-NK nuclear cooperation deep analysis", "source_name": "38 North" },
+        { "title": "North Korea May Have Nuclear Response If Kim Jong Un Assassinated", "url": "https://www.newsweek.com/north-korea-may-have-nuclear-response-if-kim-jong-un-assassinated-11933650", "snippet": "Constitutional change for automatic nuclear retaliation", "source_name": "Newsweek" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Trump Xi Beijing summit North Korea denuclearization May 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:05:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "Trump, Xi reaffirm shared goal of denuclearizing N. Korea: White House", "url": "https://www.koreatimes.co.kr/amp/foreignaffairs/northkorea/20260518/trump-xi-reaffirm-shared-goal-of-denuclearizing-n-korea-white-house", "snippet": "White House fact sheet: Trump-Xi reaffirm NK denuclearization goal (5/18)", "source_name": "Korea Times" },
+        { "title": "China confirms U.S.-China talks touched on North Korea denuclearization", "url": "https://www.upi.com/Top_News/World-News/2026/05/19/confirmed-president-xi-discussed-north-korea-denuclearization-with-us-president-trump/1781779232874", "snippet": "China confirms but avoids 'denuclearization' wording (5/19)", "source_name": "UPI" },
+        { "title": "U.S., China reaffirm shared goal of North Korea denuclearization", "url": "https://www.upi.com/Top_News/World-News/2026/05/18/us-north-korea-denuclearization/2081779146547/", "snippet": "US-China reaffirm denuclearization goal", "source_name": "UPI" },
+        { "title": "Trump-Xi summit didn't change North Korea's strategic reality", "url": "https://asiatimes.com/2026/05/trump-xi-summit-didnt-change-north-koreas-strategic-reality/", "snippet": "Analysis: summit limited impact, NK strategic reality unchanged", "source_name": "Asia Times" },
+        { "title": "Trump Briefs South Korea's Lee After Summit in Beijing", "url": "https://www.bloomberg.com/news/articles/2026-05-18/trump-briefs-south-korea-s-lee-after-summit-in-beijing", "snippet": "Trump-Lee phone call on Beijing summit results (5/18)", "source_name": "Bloomberg" },
+        { "title": "Lee and Trump discuss US-China summit, N. Korea in phone call", "url": "https://www.koreaherald.com/article/10739582", "snippet": "30-min phone call, 'sympathetic discussion on Korean Peninsula peace'", "source_name": "Korea Herald" },
+        { "title": "Korean Peninsula Update, May 19, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-may-19-2026/", "snippet": "AEI weekly update post-Beijing summit", "source_name": "AEI" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT Review Conference result May 22 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:06:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "NPT Conference 2026 - Review conference of the parties to the treaty on NPT", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "snippet": "Official UN NPT 2026 page, April 27 - May 22", "source_name": "United Nations" },
+        { "title": "NPT nuclear talks enter final stretch in New York", "url": "https://astanatimes.com/2026/05/npt-nuclear-talks-enter-final-stretch-in-new-york/", "snippet": "Final week negotiations, 190+ countries, consensus uncertain", "source_name": "Astana Times" },
+        { "title": "NPT RevCon 2026 and the Crisis of the Global Nuclear Order", "url": "https://thediplomaticinsight.com/npt-revcon-2026-crisis-of-global-nuclear-order/", "snippet": "Crisis of global nuclear order, deep disagreements persist", "source_name": "The Diplomatic Insight" },
+        { "title": "First drafts of NPT Review Conference outcome documents are released", "url": "https://www.icanw.org/first_drafts_of_npt_review_conference_outcome_documents_are_released", "snippet": "ICAN: draft outcome documents released for RevCon", "source_name": "ICAN" },
+        { "title": "Why the 2026 NPT Review Conference – and Diplomacy – Must Not Fail", "url": "https://thediplomat.com/2026/04/why-the-2026-npt-review-conference-and-diplomacy-must-not-fail", "snippet": "The Diplomat: stakes of RevCon failure for NPT credibility", "source_name": "The Diplomat" },
+        { "title": "Waiting for Godot at the 2026 NPT Review Conference", "url": "https://www.armscontrol.org/act/2025-09/features/waiting-godot-2026-npt-review-conference", "snippet": "ACA pre-conference analysis: 'Waiting for Godot'", "source_name": "Arms Control Association" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 ミサイル 2026年5月",
+      "language": "ja",
+      "timestamp": "2026-05-22T00:07:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "snippet": "Bloomberg日本語版: NK核戦力が米ミサイル防衛を圧倒する規模に接近", "source_name": "Bloomberg Japan" },
+        { "title": "防衛省・自衛隊：北朝鮮のミサイル等関連情報", "url": "https://www.mod.go.jp/j/surround/northKorea/index.html", "snippet": "日本防衛省の北朝鮮ミサイル関連情報公式ページ", "source_name": "防衛省" },
+        { "title": "北朝鮮の金委員長、2026年のミサイル増産を指示", "url": "https://www.arabnews.jp/article/japan/article_165756", "snippet": "金正恩がミサイル増産を指示、国営メディア報道", "source_name": "Arab News Japan" },
+        { "title": "北朝鮮 少なくとも2発の弾道ミサイル発射 EEZ外に落下と推定", "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015018571000", "snippet": "NHK: 弾道ミサイル2発以上発射、EEZ外に落下", "source_name": "NHK" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜导弹 2026年5月",
+      "language": "zh",
+      "timestamp": "2026-05-22T00:08:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "韩日：朝鲜发射弹道导弹", "url": "https://www.ifnews.com/news.html?aid=664257&cid=49", "snippet": "韩日确认朝鲜发射弹道导弹", "source_name": "国际金融报" },
+        { "title": "不需中国出手，美媒：朝鲜齐射24枚核导弹，就能压垮美国反导", "url": "https://c.m.163.com/news/a/KRRQMHMG0556KZUG.html", "snippet": "朝鲜24枚核导弹齐射可压垮美国反导系统", "source_name": "网易" },
+        { "title": "今年第七次！朝鲜再射弹道导弹", "url": "https://view.inews.qq.com/a/20260419A06F0P00", "snippet": "2026年第7次弹道导弹发射(4/19)", "source_name": "腾讯新闻" },
+        { "title": "韩军称朝鲜发射弹道导弹，韩方就此举行紧急安全会议", "url": "https://m.thecover.cn/news_details.html?eid=l3FlYOjYmuaH90qSdq8Jkw%3D%3D", "snippet": "韩军确认朝鲜发射弹道导弹，召开紧急安保会议", "source_name": "封面新闻" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea reaction Trump Xi denuclearization Beijing May 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:09:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Trump-Xi summit didn't change North Korea's strategic reality", "url": "https://asiatimes.com/2026/05/trump-xi-summit-didnt-change-north-koreas-strategic-reality/", "snippet": "Dr. Patrick Cronin analysis: ceremony not strategy, NK strategic reality unchanged", "source_name": "Asia Times" },
+        { "title": "Presidents Lee, Trump discuss results of recent US summit in China", "url": "https://www.globalsecurity.org/wmd/library/news/rok/2026/rok-260518-koreanet01.htm", "snippet": "Lee-Trump phone call on summit results", "source_name": "GlobalSecurity/Koreanet" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "한국 프랑스 NPT 단계적 비핵화 로드맵 2026",
+      "language": "ko",
+      "timestamp": "2026-05-22T00:10:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "한국·프랑스 공동 주최 NPT 회의서 '단계적 비핵화' 로드맵 제시", "url": "https://www.kjob.news/news/486981", "snippet": "5/5 뉴욕 UN 본부, 70명 참석, 3단계 로드맵", "source_name": "전국인력신문" },
+        { "title": "정부, NPT 평가회의 계기 북핵 논의...'완전한 비핵화 목표 견지'", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260506010000867", "snippet": "한국 정부 '완전한 비핵화' 목표 견지하며 단계적 접근", "source_name": "아시아투데이" },
+        { "title": "한-프랑스, NPT 평가회의 계기 공동 '북핵 행사' 주최", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=106959", "snippet": "한·프 공동 NPT 부대행사 개최", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch May 22 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:11:00Z",
+      "result_count": 0,
+      "results": []
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT RevCon 2026 final outcome consensus failure",
+      "language": "en",
+      "timestamp": "2026-05-22T00:12:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "NPT Review Conference 2026: Process and Prospects in a Fragmented Nuclear Order", "url": "https://idsa.in/publisher/issuebrief/npt-review-conference-2026-process-and-prospects-in-a-fragmented-nuclear-order", "snippet": "Deep analysis of fragmented nuclear order and RevCon prospects", "source_name": "MP-IDSA" },
+        { "title": "Pillar III: the quiet success story of the NPT RevCon", "url": "https://europeanleadershipnetwork.org/commentary/pillar-iii-the-quiet-success-story-of-the-npt-revcon/", "snippet": "Pillar III peaceful uses as silver lining", "source_name": "European Leadership Network" },
+        { "title": "Achieving Success Beyond Final Documents: Recommendations for the 2026 NPT Review Conference", "url": "https://www.armscontrol.org/act/2024-05/features/achieving-success-beyond-final-documents-recommendations-2026-npt-review", "snippet": "ACA recommendations: success metrics beyond consensus documents", "source_name": "Arms Control Association" },
+        { "title": "Unpacking the challenge of consensus at the NPT Review Conference", "url": "https://unidir.org/unpacking-the-challenge-of-consensus-at-the-npt-review-conference/", "snippet": "UNIDIR analysis of consensus challenges", "source_name": "UNIDIR" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "USINDOPACOM USFK statement DPRK missile launch May 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:13:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "USINDOPACOM statement on DPRK ballistic missile launches", "url": "https://www.pacom.mil/Media/NEWS/News-Article-View/Article/4370462/usindopacom-statement-on-dprk-ballistic-missile-launches/", "snippet": "USINDOPACOM statement on latest DPRK launches", "source_name": "USINDOPACOM" },
+        { "title": "USFK Statement on DPRK Missile Launch", "url": "https://www.usfk.mil/Media/Press-Products/Press-Releases/Article/4329402/usfk-statement-on-dprk-missile-launch/", "snippet": "USFK statement on DPRK missile launch", "source_name": "USFK" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear latest news May 21 22 2026",
+      "language": "en",
+      "timestamp": "2026-05-22T00:14:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Korean Peninsula Update, May 12, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-may-12-2026/", "snippet": "AEI update: constitutional changes, nuclear response provisions", "source_name": "AEI" },
+        { "title": "North Korea's Nuclear Weapons and Missile Programs (CRS 2026 ATA)", "url": "https://www.congress.gov/crs-product/IF10472", "snippet": "CRS updated: 50+ warheads, Yongbyon expansion, new enrichment facility", "source_name": "CRS/Congress.gov" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Trump visit Seoul South Korea May June 2026 summit Lee Jae-myung",
+      "language": "en",
+      "timestamp": "2026-05-22T00:15:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "The art of the alliance: 3 takeaways from the Trump-Lee summit", "url": "https://www.brookings.edu/articles/the-art-of-the-alliance-3-takeaways-from-the-trump-lee-summit/", "snippet": "Brookings analysis of Trump-Lee alliance dynamics", "source_name": "Brookings" },
+        { "title": "Trump hosts bilateral meeting with President Lee Jae-myung", "url": "https://www.whitehouse.gov/gallery/president-donald-trump-hosts-a-bilateral-meeting-with-president-lee-jae-myung-of-the-republic-of-korea/", "snippet": "White House bilateral meeting photos", "source_name": "White House" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "NPT 2026 review conference closing nuclear talks final stretch",
+      "language": "en",
+      "timestamp": "2026-05-22T00:16:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "NPT nuclear talks enter final stretch in New York", "url": "https://astanatimes.com/2026/05/npt-nuclear-talks-enter-final-stretch-in-new-york/", "snippet": "190+ countries, final negotiations, consensus uncertain, 12,000+ warheads globally", "source_name": "Astana Times" },
+        { "title": "Conflict and exchange continue at the NPT conference in its final week", "url": "https://www.wagingpeace.org/conflict-and-exchange-continue-npt-conference-the-final-week-article-in-the-asahi-shimbun/", "snippet": "Asahi Shimbun: conflict continues in final week", "source_name": "Nuclear Age Peace Foundation/Asahi" }
+      ]
+    }
+  ]
+}
