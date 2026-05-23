@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-23",
+  "total": 22,
+  "new": 3,
+  "reported": 17,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "RFA — 위성사진으로 확인된 러-북 두만강 교량 완공 임박: 6/19 개통 예정, 일일 300대·2,850명 통행 가능, 러 교통부 발표, 양측 세관시설 건설 완료 (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "NPT RevCon 폐회(5/22) — 4주간 회기 종료, 이란전쟁·핵군축·우크라이나·CTBT·이란 탈퇴 법안 5대 쟁점 미해결, 컨센서스 결과문서 채택 실패 가능성 높음, 2005·2015·2022 이후 4차 연속 합의 실패 (5/22)", "url": "https://meetings.unoda.org/npt-revcon/treaty-on-the-non-proliferation-of-nuclear-weapons-eleventh-review-conference-2026", "tag": "update", "related_report": "2026-05-22" },
+    { "id": "src-003", "title": "Military Watch Magazine — 'North Korea to Field World's Fifth Largest Destroyer Fleet By 2032': 최현호급 구축함 대량건조, 2032년까지 러·프·영 추월 세계 5위 구축함 함대 전망 (5월)", "url": "https://militarywatchmagazine.com/article/nkorea-world-fifth-destroyer-fleet", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "ELN — 'Pillar III: the quiet success story of the NPT RevCon': NPT 제3기둥(원자력 평화적 이용) 분야 성과, 전체 합의 실패에도 개별 분야 진전 (5월)", "url": "https://europeanleadershipnetwork.org/commentary/pillar-iii-the-quiet-success-story-of-the-npt-revcon/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Newsweek — 'Russia Deepens Connections With North Korea': 두만강 교량 전략적 함의, 러-북 연결 심화, 군사물자 이동 용이, 상호방위조약 맥락 (5월)", "url": "https://www.newsweek.com/russia-north-korea-tumen-river-bridge-putin-kim-2066513", "tag": "update", "related_report": "2026-05-20" },
+    { "id": "src-006", "title": "Korea Times — 트럼프-시진핑 '북한 비핵화' 공동 목표 재확인 (5/18)", "url": "https://www.koreatimes.co.kr/amp/foreignaffairs/northkorea/20260518/trump-xi-reaffirm-shared-goal-of-denuclearizing-n-korea-white-house", "tag": "reported", "related_report": "2026-05-22" },
+    { "id": "src-007", "title": "Asia Times — 'Trump-Xi summit didn't change North Korea's strategic reality' (5월)", "url": "https://asiatimes.com/2026/05/trump-xi-summit-didnt-change-north-koreas-strategic-reality/", "tag": "reported", "related_report": "2026-05-22" },
+    { "id": "src-008", "title": "UPI — 중국 외교부 '비핵화' 표현 회피 (5/19)", "url": "https://www.upi.com/Top_News/World-News/2026/05/19/confirmed-president-xi-discussed-north-korea-denuclearization-with-us-president-trump/1781779232874", "tag": "reported", "related_report": "2026-05-22" },
+    { "id": "src-009", "title": "NPR — 'North Korea is relieved its nuclear weapons have prevented a fate like Iran's' (5/18)", "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-010", "title": "The Diplomat — 'Can the NPT Survive Amid Global Disorder?' (5월)", "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-011", "title": "Stimson Center — 이란전쟁이 RevCon 최대 쟁점 (5월)", "url": "https://www.stimson.org/2026/the-iran-war-is-a-big-issue-among-many-at-the-2026-npt-revcon/", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-012", "title": "Lowy Institute — 이재명 '연성외교', 러-북 동맹 해체 불가능 (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/can-seoul-s-soft-diplomacy-break-russia-north-korea-alliance", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-013", "title": "ACA — 이란 NPT 탈퇴 법안 (5월)", "url": "https://www.armscontrol.org/act/2026-05/news/iran-threatens-withdraw-npt", "tag": "reported", "related_report": "2026-05-21" },
+    { "id": "src-014", "title": "Lowy Institute — 'North Korea's Battlefield Dividend' $14.4B (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-015", "title": "38 North — 러시아-북한 핵 협력 심층 분석 (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-14" },
+    { "id": "src-016", "title": "국정원: 북한 헌법 개정 — 김정은 핵무력 지휘권 명시 (5/7)", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-08" },
+    { "id": "src-017", "title": "Bloomberg: 북한 핵무기고, 미국 미사일 방어체계 압도 임계점 (5/1)", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-04-30" },
+    { "id": "src-018", "title": "TRM Labs: 북한 암호화폐 해킹 76% $577M (5월)", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-019", "title": "Security Council Report: DPRK 5월 전망 (5월)", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-020", "title": "NPT RevCon 2026 UN 공식 페이지", "url": "https://www.un.org/en/conferences/treaty-on-the-non-proliferation-of-nuclear-weapons-npt-2026", "tag": "reported", "related_report": "2026-04-12" },
+    { "id": "src-021", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 ATA 업데이트)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-12" },
+    { "id": "src-022", "title": "Al Jazeera — North Korea says it is not bound by any treaty on nuclear non-proliferation (5/7)", "url": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation", "tag": "reported", "related_report": "2026-05-21" }
+  ]
+}
