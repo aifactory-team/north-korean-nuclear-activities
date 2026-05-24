@@ -1,0 +1,13 @@
+{
+  "id": "src-003",
+  "title": "North Korea's Enormous Crypto Hacks Redefine Scale and Strategy",
+  "url": "https://securityboulevard.com/2026/05/north-koreas-enormous-crypto-hacks-redefine-scale-and-strategy/",
+  "snippet": "Security Boulevard May 2026 analysis: North Korean hackers integrating AI tools into reconnaissance and social engineering operations. Operating as 'precision strike' teams with small number of high-value targets rather than high-volume campaign. Drift Protocol $285M hack involved 6-month intelligence operation with in-person social engineering. KelpDAO $292M exploited single-verifier design flaw. Cumulative theft now exceeds $6B since 2017.",
+  "source_name": "Security Boulevard",
+  "language": "en",
+  "discovered_date": "2026-05-24",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "기존 TRM Labs 보도(5/4 보고 src-018)는 $577M/76% 수치만 전달. 본 기사는 5월 신규 분석으로 (1) AI 도구 통합, (2) '정밀 타격' 전략 전환, (3) Drift 6개월 인적정보작전 상세를 새롭게 분석. 사이버 분야의 전략적 진화를 보여주는 신규 분석."
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-24",
+  "total": 20,
+  "new": 2,
+  "reported": 16,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "VOA Korea — 제11차 NPT 평가회의 최종 합의 문서 채택 실패...3회 연속 무산: 의장 Do Hung Viet '합의 도달 불가능' 선언, 한국 '북한 문구 삭제 유감', 결과문서 초안 Rev.2에서 북한 핵 관련 모든 문구 삭제됨 (5/22~23)", "url": "https://www.voakorea.com/a/th-npt-review-conference-fails-to-adopt-final-outcome-document-for-third-consecutive-time-20260522/8152868.html", "tag": "update", "related_report": "2026-05-23" },
+    { "id": "src-002", "title": "Army Recognition — 'North Korea Plans 12 Nuclear-Armed Destroyers by 2030 After Choe Hyon Missile Test': 연간 2척 건조율, 2030년까지 12척 핵무장 구축함 전력화 계획, Kim 3/3-4 시찰 시 명령 (5월)", "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-12-nuclear-armed-destroyers-by-2030-after-choe-hyon-missile-test", "tag": "update", "related_report": "2026-05-23" },
+    { "id": "src-003", "title": "Security Boulevard — 'North Korea's Enormous Crypto Hacks Redefine Scale and Strategy': NK 해킹 전략 진화, AI 도구 정찰·사회공학 통합, 소수 정밀 타격 전략 분석 (5월)", "url": "https://securityboulevard.com/2026/05/north-koreas-enormous-crypto-hacks-redefine-scale-and-strategy/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "The Diplomat — 'Kim Jong Un Convenes a Military-Wide Commander Meeting': 2011년 이래 최초 전군 지휘관 회의(5/17), 180~250명 참석, 훈련체계 전면 개편·조직기술 구조조정 지시, 우크라이나·중동전쟁 교훈 반영 (5월)", "url": "https://thediplomat.com/2026/05/kim-jong-un-convenes-a-military-wide-commander-meeting/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "KSAT/AP — 'Conference at UN to review nuclear nonproliferation treaty fails to reach agreement' (5/23)", "url": "https://www.ksat.com/news/politics/2026/05/23/conference-at-un-to-review-nuclear-nonproliferation-treaty-fails-to-reach-agreement/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-006", "title": "SBS News — '유엔 NPT 회의 또 빈손…북·이란 핵문제에 합의 불발' (5/23)", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576005", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-007", "title": "서울경제 — 'NPT 회의 또 합의 실패…北·이란 핵문제 놓고 충돌' (5/23)", "url": "https://www.sedaily.com/article/20047597", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-008", "title": "CRI — '핵확산금지조약(NPT) 제11차 평가회의, 결과 문서 합의 도출 실패' (5/23)", "url": "https://korean.cri.cn/2026/05/23/ARTI1779504615492123", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-009", "title": "RFA 한국어 — '다리 완공까지 한 달, 북·러 막바지 공사 분주' (5/21)", "url": "https://www.rfa.org/korean/in-focus/2026/05/21/north-korea-russia-tumen-river-bridge/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-010", "title": "Military Watch Magazine — 'North Korea Lays Out Plans For Future of its Fast Expanding Blue Water Destroyer Program' (5월)", "url": "https://militarywatchmagazine.com/article/nkorea-plans-future-blue-water-destroyer", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-011", "title": "Zona Militar — 'North Korea's Choe Hyon destroyer signals potential expansion of naval strike capabilities' (5/18)", "url": "https://www.zona-militar.com/en/2026/05/18/north-koreas-choe-hyon-destroyer-signals-potential-expansion-of-naval-strike-capabilities-amid-nuclear-rhetoric/", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-012", "title": "Euronews — 'North Korea's Kim calls on military to bolster frontline defences against arch enemy' (5/18)", "url": "https://www.euronews.com/2026/05/18/north-koreas-kim-calls-on-military-to-bolster-frontline-defences-against-arch-enemy", "tag": "reported", "related_report": "2026-05-19" },
+    { "id": "src-013", "title": "Indian Defence Review — 'A Historic First: Moscow Opens Direct Land Bridge Between Russia and North Korea' (5월)", "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-014", "title": "The Moscow Times — 'Russia and North Korea Celebrate Joining of First Road Bridge' (4/21)", "url": "https://www.themoscowtimes.com/2026/04/21/russia-and-north-korea-celebrate-joining-of-first-road-bridge-a92556", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-015", "title": "TASS — 'NPT Review Conference fails to agree on final document — chairman' (5/22)", "url": "https://tass.com/world/2135425", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-016", "title": "UN News — 'DPRK: Continued militarisation a serious concern' (4/30)", "url": "https://news.un.org/en/story/2026/04/1167415", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-017", "title": "AEI — 'Korean Peninsula Update, May 19, 2026' (5/19)", "url": "https://www.aei.org/articles/korean-peninsula-update-may-19-2026/", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-018", "title": "IT인사이트 — 'NPT 평가회의 결과문서 초안, 북한 핵보유국 지위 명시적으로 부정' (5월)", "url": "https://www.itinsight.kr/news/460043", "tag": "reported", "related_report": "2026-05-22" },
+    { "id": "src-019", "title": "CoinDesk — 'The long con: How North Korean spies spent months in-person to drain $285 million from Drift' (4/30)", "url": "https://www.coindesk.com/business/2026/04/30/north-korean-hackers-are-moving-faster-they-account-for-76-of-crypto-exploits-this-year-trmlabs", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-020", "title": "EEAS — 'EU Statement: 11th Review Conference NPT General Statement': EU '북한 NPT 체제 핵보유국 지위 불인정' (5월)", "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-11th-review-conference-parties-treaty-non-proliferation-nuclear-weapons-npt-general_en", "tag": "reported", "related_report": "2026-05-23" }
+  ]
+}
