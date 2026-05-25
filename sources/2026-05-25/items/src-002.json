@@ -1,0 +1,13 @@
+{
+  "id": "src-002",
+  "title": "The Hacker News / Barrack AI — 'PromptMink: How North Korea Tricked Claude Into Installing npm Malware': AI 코딩 에이전트를 기만하도록 설계된 최초의 DPRK 공급망 공격 캠페인, Famous Chollima, 60+ npm 패키지, 300+ 버전, 7개월 운영",
+  "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+  "snippet": "ReversingLabs disclosed the campaign on April 29, 2026, under the name PromptMink. It is the first documented campaign engineered specifically to deceive AI coding agents rather than human developers. Tracked more than 60 packages and over 300 versions tied to the campaign across a seven-month period from October 2025 to April 2026. Attributed to Famous Chollima, the DPRK state-sponsored group behind Contagious Interview. The commit was co-authored by Anthropic's Claude Opus LLM, allowing attackers to access users' crypto wallets and funds.",
+  "source_name": "The Hacker News",
+  "language": "en",
+  "discovered_date": "2026-05-25",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 PromptMink 캠페인 관련 보도 없음. 5/24 Security Boulevard는 AI의 정찰·사회공학 통합을 보도했으나, PromptMink는 AI 코딩 에이전트 자체를 공격 표적으로 삼는 별개의 공급망 공격 캠페인으로 기술적으로 구별됨."
+}

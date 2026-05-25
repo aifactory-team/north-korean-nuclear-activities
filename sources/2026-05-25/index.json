@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-25",
+  "total": 20,
+  "new": 2,
+  "reported": 17,
+  "update": 1,
+  "items": [
+    { "id": "src-001", "title": "Marine Insight — 'North Korea Begins Building Third 5,000-Ton-Class Destroyer For 2026 Launch': 3번함 남포조선소 착공, 10월 10일(당 창건일) 완성 목표, 연간 2척 건조율 실제 이행 확인 (5월)", "url": "https://www.marineinsight.com/shipping-news/north-korea-begins-building-third-5000-ton-class-destroyer-for-2026-launch/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "The Hacker News / Barrack AI — 'PromptMink: How North Korea Tricked Claude Into Installing npm Malware': AI 코딩 에이전트를 기만하도록 설계된 최초의 DPRK 공급망 공격 캠페인, Famous Chollima, 60+ npm 패키지, 300+ 버전, 7개월 운영 (4/29 공개)", "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "ACA / Gazette NGR / Outlook India — NPT RevCon 후속 전문가 사후 평가: Kimball 'rhetorical support strong but foundations cracking', 'missed important opportunity to reaffirm', 미-이란 충돌 상세 (5/23~25)", "url": "https://gazettengr.com/arms-control-group-condemns-lack-of-new-commitments-to-tackle-growing-nuclear-dangers/", "tag": "update", "related_report": "2026-05-24" },
+    { "id": "src-004", "title": "VOA Korea — 제11차 NPT 평가회의 최종 합의 문서 채택 실패...3회 연속 무산 (5/22~23)", "url": "https://www.voakorea.com/a/th-npt-review-conference-fails-to-adopt-final-outcome-document-for-third-consecutive-time-20260522/8152868.html", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-005", "title": "Army Recognition — North Korea Plans 12 Nuclear-Armed Destroyers by 2030 (5월)", "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-12-nuclear-armed-destroyers-by-2030-after-choe-hyon-missile-test", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-006", "title": "Security Boulevard — North Korea's Enormous Crypto Hacks Redefine Scale and Strategy (5월)", "url": "https://securityboulevard.com/2026/05/north-koreas-enormous-crypto-hacks-redefine-scale-and-strategy/", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-007", "title": "The Diplomat — Kim Jong Un Convenes a Military-Wide Commander Meeting (5월)", "url": "https://thediplomat.com/2026/05/kim-jong-un-convenes-a-military-wide-commander-meeting/", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-008", "title": "Military Watch Magazine — NK to Field World's Fifth Largest Destroyer Fleet By 2032 (5월)", "url": "https://militarywatchmagazine.com/article/nkorea-plans-future-blue-water-destroyer", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-009", "title": "RFA — 러-북 두만강 교량 완공 임박, 6/19 개통 예정 (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-010", "title": "KSAT/AP — NPT fails to reach agreement (5/23)", "url": "https://www.ksat.com/news/politics/2026/05/23/conference-at-un-to-review-nuclear-nonproliferation-treaty-fails-to-reach-agreement/", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-011", "title": "SBS News — 유엔 NPT 회의 또 빈손 (5/23)", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008576005", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-012", "title": "EEAS — EU Statement 11th Review Conference NPT (5월)", "url": "https://www.eeas.europa.eu/delegations/un-new-york/eu-statement-11th-review-conference-parties-treaty-non-proliferation-nuclear-weapons-npt-general_en", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-013", "title": "Newsweek — Kim Jong Un Doubles Down on Destroyers (5월)", "url": "https://www.newsweek.com/north-korea-news-kim-jong-un-destroyers-navy-2084972", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-014", "title": "TASS — NPT RevCon fails to agree on final document (5/22)", "url": "https://tass.com/world/2135425", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-015", "title": "TRM Labs — 북한 암호화폐 해킹 76% $577M (5월)", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-04" },
+    { "id": "src-016", "title": "Security Council Report — DPRK May 2026 Monthly Forecast (5월)", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-02" },
+    { "id": "src-017", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 ATA)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-12" },
+    { "id": "src-018", "title": "38 North — Tracing Russian Linkages in NK's Nuclear Complex (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-14" },
+    { "id": "src-019", "title": "Bloomberg — 북한 헌법 개정, 김정은 핵무력 지휘권 명시 (5/7)", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-08" },
+    { "id": "src-020", "title": "Xinhua — Top DPRK leader inspects Choe Hyon destroyer ahead of June delivery (5/8)", "url": "https://english.news.cn/asiapacific/20260508/6924bea18d764451887e0adc25aabcee/c.html", "tag": "reported", "related_report": "2026-05-24" }
+  ]
+}
