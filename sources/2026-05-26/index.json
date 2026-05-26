@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-26",
+  "total": 18,
+  "new": 2,
+  "reported": 14,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "UPI/Korea Herald/Korea Times — 북한 조선노동당 9기 중앙위 제2차 전원회의 6월 하순 소집 발표: KCNA 5/25 보도, '2026년 당·국가정책 이행 중간 점검 및 하반기 일련의 중요한 문제 토의', 시진핑 방북 가능성 관측 (5/25)", "url": "https://www.upi.com/Top_News/World-News/2026/05/25/North-Korea-plenary-meeting-Workers-Party-June-KCNA/2551779690178/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "NK News — 'Why military strikes on North Korea's nuke program would have made things worse': 미-이란 전쟁이 재점화한 군사옵션 논쟁, 북한 핵시설 타격의 역효과 분석 (5월 하순)", "url": "https://www.nknews.org/2026/05/why-military-strikes-on-north-koreas-nuke-program-would-have-made-things-worse/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "IDN-InDepthNews — 'The Bomb Wins Again: How the 2026 NPT Review Conference Became a Monument to Nuclear Complacency': NPT RevCon 종합 사후진단, NATO 핵공유·New START 만료·3차 연속 실패 분석 (5월 하���)", "url": "https://indepthnews.net/the-bomb-wins-again-how-the-2026-npt-review-conference-became-a-monument-to-nuclear-complacency/", "tag": "update", "related_report": "2026-05-25" },
+    { "id": "src-004", "title": "ICAN — 'NPT Review Conference ends with no plan for disarmament': 핵무장국 군축 저항, 인도적 결과 합의 언어 차단, 러시아 Sarmat·미국 Minuteman 시험 동시 진행 (5월 하순)", "url": "https://www.icanw.org/npt_review_conference_ends_with_no_plan_for_disarmament", "tag": "update", "related_report": "2026-05-25" },
+    { "id": "src-005", "title": "ELN — 'Reflections: 2026 NPT Review Conference': '외교 자체에 대한 신뢰가 침식되고 있다(confidence in diplomacy itself appears to be eroding)' (5월 하순)", "url": "https://europeanleadershipnetwork.org/commentary/eln-reflections-2026-npt-review-conference/", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-006", "title": "Marine Insight — 최현호급 3번함 남포조선소 착공, 10/10 완성 목표 (5월)", "url": "https://www.marineinsight.com/shipping-news/north-korea-begins-building-third-5000-ton-class-destroyer-for-2026-launch/", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-007", "title": "Army Recognition — North Korea Plans 12 Nuclear-Armed Destroyers by 2030 (5월)", "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-12-nuclear-armed-destroyers-by-2030-after-choe-hyon-missile-test", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-008", "title": "Naval News — North Korea's New Destroyer Sets Sail for the First Time, Tests Missile Systems (3월)", "url": "https://www.navalnews.com/naval-news/2026/03/north-koreas-new-destroyer-sets-sail-for-the-first-time-tests-missile-systems/", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-009", "title": "USNI News — North Korean Destroyer Tests Strategic Cruise Missile (3/6)", "url": "https://news.usni.org/2026/03/06/north-korean-destroyer-tests-strategic-cruise-missile", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-010", "title": "Seoul Economic Daily — North Korean Troops Join Russia's Victory Day Parade (5/10)", "url": "https://en.sedaily.com/politics/2026/05/10/north-korean-troops-join-russias-victory-day-parade", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-011", "title": "Beyond Parallel/CSIS — Suspected Uranium Enrichment Building at Yongbyon Complete (2026)", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon-complete/", "tag": "reported", "related_report": "2026-05-12" },
+    { "id": "src-012", "title": "Security Boulevard — North Korea's Enormous Crypto Hacks Redefine Scale and Strategy (5월)", "url": "https://securityboulevard.com/2026/05/north-koreas-enormous-crypto-hacks-redefine-scale-and-strategy/", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-013", "title": "The Hacker News — PromptMink: DPRK AI 코딩 에이전트 공급망 공격 (4/29)", "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-014", "title": "38 North — Tracing Russian Linkages in North Korea's Expanding Nuclear Complex (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-14" },
+    { "id": "src-015", "title": "Bloomberg — 북한 헌법 개정, 김정은 핵무력 지휘권 명시 (5/7)", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-08" },
+    { "id": "src-016", "title": "US State Dept — Conclusion of the 2026 Nuclear Non-Proliferation Treaty Review Conference (5월)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/conclusion-of-the-2026-nuclear-non-proliferation-treaty-review-conference", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-017", "title": "Deccan Chronicle — Russia, North Korea to Pursue Long-Term Military Cooperation: 2027-31 군사협력 계획 (5월)", "url": "https://www.deccanchronicle.com/amp/world/russia-north-korea-to-pursue-long-term-military-cooperation-1952916", "tag": "reported", "related_report": "2026-05-20" },
+    { "id": "src-018", "title": "Lowy Institute — North Korea's Battlefield Dividend $14.4B (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "reported", "related_report": "2026-05-20" }
+  ]
+}

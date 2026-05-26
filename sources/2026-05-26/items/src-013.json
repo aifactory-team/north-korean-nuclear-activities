@@ -1,0 +1,13 @@
+{
+  "id": "src-013",
+  "title": "The Hacker News — PromptMink: DPRK AI 코딩 에이전트 공급망 공격",
+  "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+  "snippet": "Famous Chollima operated PromptMink campaign targeting AI coding agents. 60+ npm packages, 300+ versions, 7 months.",
+  "source_name": "The Hacker News",
+  "language": "en",
+  "discovered_date": "2026-05-26",
+  "tag": "reported",
+  "related_report": "2026-05-25",
+  "related_item": "src-002 (2026-05-25)",
+  "tag_reason": "5/25 보고서에서 주요 뉴스 2번으로 상세 보도됨. URL 일치."
+}
