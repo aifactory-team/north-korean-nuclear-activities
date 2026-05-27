@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-27",
+  "total": 20,
+  "new": 4,
+  "reported": 14,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "Washington Post/NBC/CBS/Korea Times/파이낸셜뉴스 — 북한 5/26 전술탄도미사일·전술순항미사일·240mm 유도방사포 혼합 시험발사: 평북 정주→서해, CRBM 80km 비행, 김정은 참관, AI유도 정밀도 검증, '핵과 재래식무기 가속적 강화' 지시. 올해 8번째, 37일 만 (5/26~27)", "url": "https://www.washingtonpost.com/world/2026/05/26/koreas-launch-projectile/f4654e5c-58b9-11f1-8a9d-afb1148204e1_story.html", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "한국 국방부 — '장보고 N사업' 핵추진잠수함 개발 기본계획 발표: 이재명 대통령 주재 미래국방전략위, 2030년대 중반 1번함 진수, LEU 20% 이하, 국내 건조 원칙, 미국·IAEA 비확산 협조 (5/26)", "url": "https://www.navalnews.com/naval-news/2026/05/south-korea-unveils-historic-plan-to-build-first-nuclear-powered-submarine/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Bloomberg — 시진핑 방북 검토: 트럼프·푸틴 연속 접견 후 북한 방문 계획, 7년 만의 방북(2019년 이후), 중국 보안·의전팀 방북 확인, 5월 말~6월 초 전망 (5/21)", "url": "https://www.bloomberg.com/news/articles/2026-05-21/xi-plans-reported-north-korea-summit-after-hosting-trump-putin", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "뉴스핌/한국경제/파이낸셜뉴스 — 김정은 5/26 시험발사 참관 상세: '갱신형대구경방사포 효력검증 시험사격', 전술탄도미사일 특수임무탄두 위력, 240mm 유도방사포탄 정밀자율유도항법체계 신뢰성, 전술순항미사일 AI유도 정밀도 검증, 남부전선 장사정포 여단 배치 계획, 사격지휘체계·자동화체계 현대전 완성 (5/27 KCNA)", "url": "https://www.newspim.com/news/view/20260527000037", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "UPI/Korea Herald/Korea Times — 북한 조선노동당 9기 중앙위 제2차 전원회의 6월 하순 소집 발표 (5/25 KCNA)", "url": "https://www.upi.com/Top_News/World-News/2026/05/25/North-Korea-plenary-meeting-Workers-Party-June-KCNA/2551779690178/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-006", "title": "NK News — 군사적 비핵화의 역효과 분석: 이란 경험과 북한 핵시설 타격 비현실성 (5월)", "url": "https://www.nknews.org/2026/05/why-military-strikes-on-north-koreas-nuke-program-would-have-made-things-worse/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-007", "title": "IDN-InDepthNews — NPT RevCon '핵 안주의 기념비' (5월)", "url": "https://indepthnews.net/the-bomb-wins-again-how-the-2026-npt-review-conference-became-a-monument-to-nuclear-complacency/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-008", "title": "ICAN — NPT RevCon '군축 계획 없이 종료' (5월)", "url": "https://www.icanw.org/npt_review_conference_ends_with_no_plan_for_disarmament", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-009", "title": "ELN — NPT RevCon 사후 평가, '외교 자체에 대한 신뢰 침식' (5월)", "url": "https://europeanleadershipnetwork.org/commentary/eln-reflections-2026-npt-review-conference/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-010", "title": "Asia Times — 'Trump-Xi summit didn't change North Korea's strategic reality' (5월)", "url": "https://asiatimes.com/2026/05/trump-xi-summit-didnt-change-north-koreas-strategic-reality/", "tag": "reported", "related_report": "2026-05-22" },
+    { "id": "src-011", "title": "Security Council Report — DPRK 5월 월간 전망, 1718 제재위 90일 보고 협의 (5월)", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-012", "title": "Marine Insight — 최현호급 3번함 남포조선소 착공, 10/10 완성 목표 (5월)", "url": "https://www.marineinsight.com/shipping-news/north-korea-begins-building-third-5000-ton-class-destroyer-for-2026-launch/", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-013", "title": "38 North — 러시아-북한 핵 협력 심층 분석 (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-014", "title": "Bloomberg — 북한 헌법 개정, 김정은 핵무력 지휘권 명시 (5/7)", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-015", "title": "US State Dept — NPT RevCon 종결 성명 (5월)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/conclusion-of-the-2026-nuclear-non-proliferation-treaty-review-conference", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-016", "title": "Deccan Chronicle — Russia, North Korea 2027-31 장기 군사협력 계획 (5월)", "url": "https://www.deccanchronicle.com/amp/world/russia-north-korea-to-pursue-long-term-military-cooperation-1952916", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-017", "title": "Lowy Institute — North Korea's Battlefield Dividend $14.4B (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-018", "title": "Security Boulevard — North Korea Crypto Hacks Redefine Scale and Strategy (5월)", "url": "https://securityboulevard.com/2026/05/north-koreas-enormous-crypto-hacks-redefine-scale-and-strategy/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-019", "title": "시진핑 방북 한국 언론 분석: 7년 만 방북설에 '들썩', 북미정상회담 중재 가능성, 전원회의 전후 방북 시나리오 (5/21~22)", "url": "https://www.fnnews.com/news/202605211627514794", "tag": "update", "related_report": "2026-05-26" },
+    { "id": "src-020", "title": "War on the Rocks/SCMP — 러-북 5개년 군사협력 계획(2027-31) '제도적 동맹' 진입 분석, 기술이전·합동생산·정례훈련·공급망 통합 전망 (5월)", "url": "https://warontherocks.com/a-check-in-on-north-korea-and-russias-wartime-partnership/", "tag": "update", "related_report": "2026-05-26" }
+  ]
+}
