@@ -1,0 +1,13 @@
+{
+  "id": "src-016",
+  "title": "SCMP — 시진핑 이르면 다음 주 방북 예상, 보안의전팀 평양 확인",
+  "url": "https://www.scmp.com/news/china/diplomacy/article/3354299/chinas-xi-jinping-expected-visit-north-korea-early-next-week",
+  "snippet": "SCMP 시진핑 방북 보도",
+  "source_name": "South China Morning Post",
+  "language": "en",
+  "discovered_date": "2026-05-28",
+  "tag": "reported",
+  "related_report": "2026-05-27",
+  "related_item": "2026-05-27/src-003",
+  "tag_reason": "시진핑 방북 관련 보도로 5/27 보고서에서 Bloomberg/SCMP 기반으로 이미 다룸. 제목·내용 유사."
+}

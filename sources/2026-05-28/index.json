@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-28",
+  "total": 18,
+  "new": 4,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "Foreign Policy (5/27) — 'Xi Jinping Wants to Woo Kim Jong Un Again': 시진핑 방북 분석, 러시아에 빼앗긴 영향력 회복 시도, 경제·안보 인센티브 제공 전략, 핵보유 기정사실 수용 가능성", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "RealClearDefense/Lowy Institute (5/27) — 'Why Xi Jinping Is Going to Pyongyang': 외교 의전상 평양을 2026 첫 해외방문지로 배치, 러시아 궤도 이탈 방지, 두만강·나진선봉 경제접근 확보, 핵보유국 지위 묵시적 인정 가능성", "url": "https://www.realcleardefense.com/articles/2026/05/27/why_xi_jinping_is_going_to_pyongyang_1185076.html", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "뉴스핌 (5/26) — '김정은 8일째 모습 감춰...시진핑 방북 대비하나': 5/17 전군 지휘관 회의 이후 공개활동 중단, 왕이 외교부장 방북 확인, 북중 정상회담 준비 정황", "url": "https://www.newspim.com/news/view/20260526000013", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "SOFX/Korea Times/Aju Press — IAEA Grossi '한국 핵잠 사업에 철통같은 보장(ironclad guarantees) 필요': 4월 서울 방문 시 맞춤형 안전조치 협정 공식 협상 확인, 호주·브라질 선례 참조, LEU 전용 체계 검증 틀 개발 중 (5/26)", "url": "https://www.sofx.com/south-korea-formalizes-nuclear-submarine-program-as-iaea-pushes-for-safeguard-guarantees/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Washington Post/NBC/CBS/Korea Times — 북한 5/26 전술탄도미사일·전술순항미사일·240mm 유도방사포 혼합 시험발사 (5/26~27)", "url": "https://www.washingtonpost.com/world/2026/05/26/koreas-launch-projectile/f4654e5c-58b9-11f1-8a9d-afb1148204e1_story.html", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-006", "title": "한국 국방부 — '장보고 N사업' 핵추진잠수함 개발 기본계획 발표 (5/26)", "url": "https://www.navalnews.com/naval-news/2026/05/south-korea-unveils-historic-plan-to-build-first-nuclear-powered-submarine/", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-007", "title": "Bloomberg — 시진핑 방북 검토: 5월 말~6월 초 전망, 7년 만 (5/21)", "url": "https://www.bloomberg.com/news/articles/2026-05-21/xi-plans-reported-north-korea-summit-after-hosting-trump-putin", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-008", "title": "뉴스핌/한국경제 — 김정은 5/26 시험발사 참관 상세, KCNA 보도 (5/27)", "url": "https://www.newspim.com/news/view/20260527000037", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-009", "title": "일본경제신문/NHK — 北朝鮮 5/26 ミサイル発射実験, 韓国との境界に配備想定 (5/27)", "url": "https://www.nikkei.com/article/DGXZQOGM279ST0X20C26A5000000/", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-010", "title": "파이낸셜뉴스 (5/25) — '시진핑, 김정은과 북핵 대화하나..7년만 방북설에 기대와 우려 교차'", "url": "https://www.fnnews.com/news/202605251158567028", "tag": "update", "related_report": "2026-05-27" },
+    { "id": "src-011", "title": "문화일보 — '시진핑 내주 방북설… 북중러 위험한 연대' / '習·푸틴·金, 3각 밀착… 지정학 위기 고조'", "url": "https://www.munhwa.com/article/11590522", "tag": "update", "related_report": "2026-05-27" },
+    { "id": "src-012", "title": "War on the Rocks/SCMP — 러-북 5개년 군사협력 계획(2027-31) '제도적 동맹' 분석 (5월)", "url": "https://warontherocks.com/a-check-in-on-north-korea-and-russias-wartime-partnership/", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-013", "title": "Security Council Report — DPRK 5월 월간 전망, 1718 제재위 90일 보고 (5월)", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-014", "title": "38 North — 러시아-북한 핵 협력 심층 분석 (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-015", "title": "Bloomberg — 북한 헌법 개정, 김정은 핵무력 지휘권 명시 (5/7)", "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-016", "title": "SCMP — 시진핑 이르면 다음 주 방북 예상, 보안의전팀 평양 확인", "url": "https://www.scmp.com/news/china/diplomacy/article/3354299/chinas-xi-jinping-expected-visit-north-korea-early-next-week", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-017", "title": "국민일보 — '정부도 시진핑 방북 무게… 한반도 문제 주인은 한반도인'", "url": "https://www.kmib.co.kr/article/view.asp?arcid=1779349379&code=11121400&sid1=pol", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-018", "title": "Army Recognition — South Korea officially unveils Jangbogo-N Project (5/26)", "url": "https://www.armyrecognition.com/news/navy-news/2026/south-korea-nuclear-submarine-jangbogo-n-project", "tag": "reported", "related_report": "2026-05-27" }
+  ]
+}
