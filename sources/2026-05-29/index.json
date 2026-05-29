@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-29",
+  "total": 18,
+  "new": 4,
+  "reported": 11,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "38 North — Project Anthracite: NK 특허·학술지 분석으로 화학무기 잠재력 평가, 황겨자·신경작용제 생산 가능성 결론, RUSI/VERTIC/Global Affairs Canada 공동 (5/22~28)", "url": "https://www.38north.org/2026/05/project-anthracite-analyzing-north-korean-patents-and-academic-journals-for-evidence-of-chemical-weapons-potential/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "38 North — NK 헌법 개정 '적대적 공존(hostile coexistence)' 분석: 통일 삭제, 영토 조항, '2개 적대국가' 당규약 성문화, 전략적 온건화 아닌 전술적 적응 (5월)", "url": "https://www.38north.org/2026/05/paving-the-way-for-hostile-coexistence-what-north-koreas-constitutional-revisions-mean-for-inter-korean-ties/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "38 North/Daily NK — 신압록강대교(중-북) 세관·통관시설 건설 진전: 위성사진 분석, 7층 건물 외장 완료, 50m×320m 대형 물류창고 4동 건설 중, 가을 개통 루머 유통 (5월)", "url": "https://www.38north.org/2026/05/quick-take-progress-continues-at-new-yalu-river-bridge-crossing/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "38 North — Project Anthracite: 위성사진 기반 NK 핵·화학·생물 방어 대대 시설 탐색, 화학무기 운용 부대 존재 정황 (5월)", "url": "https://www.38north.org/2026/05/project-anthracite-imagery-search-for-possible-nuclear-chemical-and-biological-defense-battalions/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "YTN — 시진핑 방북 시기 6월로 조정: 왕이 외교부장 캐나다 G7 외교장관회의 참석 일정상 5/31 이후 가능, 파키스탄 실세 접촉으로 중재 외교 병행 (5/26)", "url": "https://www.ytn.co.kr/_ln/0104_202605261902335224", "tag": "update", "related_report": "2026-05-28" },
+    { "id": "src-006", "title": "AEI May 27 — 미 Hooker 대표단 6월 서울 방문 예정: 장보고 N 관련 우라늄 농축·사용후핵연료 재처리 협의, 통일백서 '평화적 공존' 정책 (5/27)", "url": "https://www.aei.org/articles/korean-peninsula-update-may-27-2026/", "tag": "update", "related_report": "2026-05-28" },
+    { "id": "src-007", "title": "NK News — 최현호 구축함 '6월 중순' 실전배치 발표: 서해안 첫 장거리 항해시험 완료, 핵무장 순항미사일·전술탄도미사일 탑재 (5월)", "url": "https://www.nknews.org/2026/05/north-korea-says-it-will-deploy-new-nuclear-armed-warship-in-mid-june/", "tag": "update", "related_report": "2026-05-27" },
+    { "id": "src-008", "title": "Foreign Policy/RealClearDefense/Lowy — 시진핑 방북 동기 심층 분석 3건 (5/27)", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-009", "title": "뉴스핌 — 김정은 8일째 공개활동 중단, 왕이 방북 확인 (5/26)", "url": "https://www.newspim.com/news/view/20260526000013", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-010", "title": "SOFX/Korea Times — IAEA Grossi 장보고 N 안전조치 (5/26)", "url": "https://www.sofx.com/south-korea-formalizes-nuclear-submarine-program-as-iaea-pushes-for-safeguard-guarantees/", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-011", "title": "Washington Post — 5/26 혼합 시험발사 (5/26)", "url": "https://www.washingtonpost.com/world/2026/05/26/koreas-launch-projectile/f4654e5c-58b9-11f1-8a9d-afb1148204e1_story.html", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-012", "title": "Bloomberg — 시진핑 방북 검토, 보안팀 방북 (5/21)", "url": "https://www.bloomberg.com/news/articles/2026-05-21/xi-plans-reported-north-korea-summit-after-hosting-trump-putin", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-013", "title": "USNI News — 5/26 경량발사체계·전술순항미사일 시험 (5/27)", "url": "https://news.usni.org/2026/05/27/north-korea-tests-new-lightweight-launch-system-and-tactical-cruise-missiles", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-014", "title": "Naval News — 장보고 N 기본계획 (5/26)", "url": "https://www.navalnews.com/naval-news/2026/05/south-korea-unveils-historic-plan-to-build-first-nuclear-powered-submarine/", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-015", "title": "Bloomberg — NK 핵무기고 미국 MD 압도 임계점 (5/1)", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-016", "title": "IAEA/Euronews — NK 우라늄 농축 'serious increase' (4/15)", "url": "https://www.euronews.com/2026/04/15/north-korea-showing-serious-increase-in-ability-to-make-nuclear-weapons-iaea-says", "tag": "reported", "related_report": "2026-05-12" },
+    { "id": "src-017", "title": "TRM Labs — NK 암호화폐 해킹 76% $577M (5월)", "url": "https://www.trmlabs.com/resources/blog/north-korea-stole-76-of-all-crypto-hack-value-in-2026-with-just-two-attacks", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-018", "title": "38 North — 러시아-북한 핵 협력 심층 분석 (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-26" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "src-004",
+  "title": "38 North — Project Anthracite: 위성사진 기반 NK 핵·화학·생물 방어 대대 시설 탐색",
+  "url": "https://www.38north.org/2026/05/project-anthracite-imagery-search-for-possible-nuclear-chemical-and-biological-defense-battalions/",
+  "snippet": "Project Anthracite의 후속 분석. 위성사진과 오픈소스 도구를 활용하여 북한의 핵·화학·생물(NBC) 방어 대대 시설을 탐색. 화학무기 운용 부대 존재 정황을 위성 영상을 통해 간접적으로 확인. 화학산업 네트워크와 군사 시설 간 연결 고리 분석.",
+  "source_name": "38 North",
+  "language": "en",
+  "discovered_date": "2026-05-29",
+  "tag": "new",
+  "related_report": null,
+  "related_item": "src-001",
+  "tag_reason": "src-001(Project Anthracite 특허 분석)과 동일 프로젝트의 위성사진 분석편. 이전 7일 소스에 없음"
+}
