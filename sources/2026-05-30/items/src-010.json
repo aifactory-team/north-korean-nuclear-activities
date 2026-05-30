@@ -1,0 +1,13 @@
+{
+  "id": "src-010",
+  "title": "Bloomberg — 김정은 AI유도 전술미사일 시험 참관, KCNA (5/27)",
+  "url": "https://www.bloomberg.com/news/articles/2026-05-27/kim-jong-un-tests-pyongyang-s-ai-guided-tactical-missiles-kcna",
+  "snippet": "5/26 전술순항미사일 AI유도 정밀도 검증, 경량발사체계, 240mm 유도방사포 시험.",
+  "source_name": "Bloomberg",
+  "language": "en",
+  "discovered_date": "2026-05-30",
+  "tag": "reported",
+  "related_report": "2026-05-27",
+  "related_item": "2026-05-27/src-001",
+  "tag_reason": "5/27 보고서 src-001·src-004에서 5/26 혼합 시험발사 상세 보고 완료"
+}

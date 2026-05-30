@@ -1,0 +1,26 @@
+{
+  "date": "2026-05-30",
+  "total": 17,
+  "new": 3,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "싱가포르 Balakrishnan 외교장관 평양 방문(5/26-27) — Choe Son Hui 외무상·Jo Yong Won 상임위원장 면담, 대화 채널 유지 촉구, 수교 50주년(2025) 언급, 중-북-한 3국 순방 일환", "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/working-visit-of-minister-for-foreign-affairs-dr-vivian-balakrishnan-to-pyongyang--the-democratic-people-s-republic-of-korea--26-to-27-may-2026/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "정동영 통일부 장관 공무상비밀누설 혐의 검찰 사건배당(5/28) — 구성(Kusong) 우라늄 농축시설 국회 언급(3/6)으로 미국 불만·정보공유 제한, 서울남부지검→서울중앙지검 이첩", "url": "https://www.upi.com/Top_News/World-News/2026/05/28/korea-Unification-Minister-Chung-Dong-young-investigation-allegations-leaked-North-Korea-nuclear-info/7071779961423/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "최현호 구축함 IMO 등록 완료·실전배치 준비태세 과시 — 국제해사기구 등록으로 국제항해 법적 기반 확보 (5월)", "url": "https://www.konas.net/article/article.asp?idx=64254", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "최현호 구축함 5/28 서해 남포만 기동 위성사진 포착 — NK News 보도, 김정은 참관 시험항해 가능성, 6월 중순 해군 인도 일정 유지 (5/29)", "url": "https://www.newsis.com/view/NISX20260529_0003648376", "tag": "update", "related_report": "2026-05-29" },
+    { "id": "src-005", "title": "Balakrishnan, 방북 후 '북한은 자립과 군사적 억제에 집중, 미·한·일과의 관여보다 러시아 밀착·중국 의존' 평가 (5/29)", "url": "https://www.theasiacable.com/p/asia-daily-may-29-2026", "tag": "update", "related_report": "2026-05-29" },
+    { "id": "src-006", "title": "38 North — Project Anthracite: NK 화학무기 잠재력 평가 (5월)", "url": "https://www.38north.org/2026/05/project-anthracite-analyzing-north-korean-patents-and-academic-journals-for-evidence-of-chemical-weapons-potential/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-007", "title": "38 North — NK 헌법 개정 '적대적 공존' 분석 (5월)", "url": "https://www.38north.org/2026/05/paving-the-way-for-hostile-coexistence-what-north-koreas-constitutional-revisions-mean-for-inter-korean-ties/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-008", "title": "38 North — 신압록강대교 세관시설 건설 진전 위성사진 (5월)", "url": "https://www.38north.org/2026/05/quick-take-progress-continues-at-new-yalu-river-bridge-crossing/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-009", "title": "Foreign Policy/RealClearDefense/Lowy — 시진핑 방북 동기 분석 (5/27)", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-010", "title": "Bloomberg — 김정은 AI유도 전술미사일 시험 참관, KCNA (5/27)", "url": "https://www.bloomberg.com/news/articles/2026-05-27/kim-jong-un-tests-pyongyang-s-ai-guided-tactical-missiles-kcna", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-011", "title": "USNI News — 경량발사체계·전술순항미사일 시험 (5/27)", "url": "https://news.usni.org/2026/05/27/north-korea-tests-new-lightweight-launch-system-and-tactical-cruise-missiles", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-012", "title": "RFA — 러-북 두만강 교량 6/19 개통 예정, 위성사진 확인 (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-013", "title": "Bloomberg — NK 핵무기고 미국 MD 압도 임계점 (5/1)", "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/", "tag": "reported", "related_report": "2026-05-23" },
+    { "id": "src-014", "title": "38 North — 러시아-북한 핵 협력 심층 분석 (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-015", "title": "Security Council Report — DPRK 5월 월간 전망, 1718 제재위 90일 보고 (5월)", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-016", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 ATA)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-017", "title": "Lowy Institute — North Korea's Battlefield Dividend $14.4B (5월)", "url": "https://www.lowyinstitute.org/the-interpreter/north-korea-s-battlefield-dividend", "tag": "reported", "related_report": "2026-05-26" }
+  ]
+}
