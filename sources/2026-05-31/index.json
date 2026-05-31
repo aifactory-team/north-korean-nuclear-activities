@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-31",
+  "total": 22,
+  "new": 3,
+  "reported": 17,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "Joint Statement on DPRK Sanctions Accountability — 11개국+EU, 대북 제재 위반 선박 신속 지정 촉구 (5/29 발표, 5/30 보도)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "한국 정부 대북 독자제재 — 북한 개인 7명·러시아 선박 2척 지정 (5/24)", "url": "https://www.mofa.go.kr/www/brd/m_4080/view.do?amp=&page=1&seq=375031", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "시진핑 방북 임박 — 평양 정상회담 준비 위성사진 포착, 공항·김일성광장 구조물 확인", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107651", "tag": "update", "related_report": "2026-05-29" },
+    { "id": "src-004", "title": "Lowy Institute — 'Why Xi Jinping Is Going to Pyongyang': 중국의 북한 견인·러시아 견제, 두만강·나진선봉 경제구 접근 의도 분석", "url": "https://www.lowyinstitute.org/the-interpreter/why-xi-jinping-going-pyongyang", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Korea Times — 한미 등 11개국, UN 대북 제재 위반 선박 지정 촉구 (5/30)", "url": "https://www.koreatimes.co.kr/world/20260530/s-korea-us-other-countries-call-for-designation-of-vessels-over-nk-sanctions-breaches", "tag": "update", "related_report": null },
+    { "id": "src-006", "title": "38 North — 'Tracing Russian Linkages in North Korea's Expanding Nuclear Complex' (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-007", "title": "SCMP — Xi Jinping expected to visit North Korea as early as next week (5/23)", "url": "https://www.scmp.com/news/china/diplomacy/article/3354299/chinas-xi-jinping-expected-visit-north-korea-early-next-week", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-008", "title": "Foreign Policy — Xi Jinping Wants to Woo Kim Jong Un Again (5/27)", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-009", "title": "RealClearDefense — Why Xi Jinping Is Going to Pyongyang (5/27)", "url": "https://www.realcleardefense.com/articles/2026/05/27/why_xi_jinping_is_going_to_pyongyang_1185076.html", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-010", "title": "파이낸셜뉴스 — 7년만 시진핑 방북설, 북미정상회담 중재 가능성 (5/21)", "url": "https://www.fnnews.com/news/202605211627514794", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-011", "title": "Singapore MFA — Balakrishnan 평양 방문 공식 성명 (5/26-27)", "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/working-visit-of-minister-for-foreign-affairs-dr-vivian-balakrishnan-to-pyongyang--the-democratic-people-s-republic-of-korea--26-to-27-may-2026/", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-012", "title": "UPI — 정동영 통일부 장관 검찰 사건배당 (5/28)", "url": "https://www.upi.com/Top_News/World-News/2026/05/28/korea-Unification-Minister-Chung-Dong-young-investigation-allegations-leaked-North-Korea-nuclear-info/7071779961423/", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-013", "title": "코나스넷 — 최현호 IMO 등록, 준비태세 과시 (5월)", "url": "https://www.konas.net/article/article.asp?idx=64254", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-014", "title": "뉴시스/NK News — 최현호 서해 남포만 기동 위성사진 (5/29)", "url": "https://www.newsis.com/view/NISX20260529_0003648376", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-015", "title": "38 North — Project Anthracite: NBC 방어대대 위성사진 분석 (5월)", "url": "https://www.38north.org/2026/05/project-anthracite-imagery-search-for-possible-nuclear-chemical-and-biological-defense-battalions/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-016", "title": "Security Council Report — DPRK May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-017", "title": "Bloomberg Japan — 北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近 (5/1)", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-018", "title": "Military Watch — North Korea Plans Future of Blue Water Destroyer Program", "url": "https://militarywatchmagazine.com/article/nkorea-plans-future-blue-water-destroyer", "tag": "reported", "related_report": "2026-05-24" },
+    { "id": "src-019", "title": "Daily NK — Xi Jinping NK visit stirs hope and fear among border traders", "url": "https://www.dailynk.com/english/xi-jinping-north-korea-visit-hope-fear-border-traders/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-020", "title": "Newsweek — North Korea May Have Nuclear Response If Kim Jong Un Assassinated", "url": "https://www.newsweek.com/north-korea-may-have-nuclear-response-if-kim-jong-un-assassinated-11933650", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-021", "title": "Canada.ca — Joint statement on DPRK sanctions accountability (5/29)", "url": "https://www.canada.ca/en/global-affairs/news/2026/05/joint-statement-on-dprk-sanctions-accountability.html", "tag": "reported", "related_report": null },
+    { "id": "src-022", "title": "EEAS — Sanctions: Joint Statement on DPRK-Russia", "url": "https://www.eeas.europa.eu/eeas/sanctions-joint-statement-dprk-russia_en", "tag": "reported", "related_report": null }
+  ]
+}
