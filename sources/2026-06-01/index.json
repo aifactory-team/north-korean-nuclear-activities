@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-01",
+  "total": 18,
+  "new": 4,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "SPN 서울평양뉴스 — 시진핑 방북 카드 리뷰: 북중관계 재조정·중러북 연대 향방 주목, 중국 영향력 회복 vs 러시아 채널 경쟁 분석 (5/31)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107670", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Seoul Economic Daily — 중국, 러-북 두만강 교량 완공 임박에 국경 점검 실시: 중국 세관·국경경비 당국 현장 조사, 교량 6/19 개통 대비 (5/2)", "url": "https://en.sedaily.com/finance/2026/05/02/china-inspects-border-as-north-korea-russia-bridge-nears", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "AJU Press — 북한 전원회의 소집과 '2개 적대국가' 노선 강화 가능성: 헌법 개정 후 첫 전원회의에서 대남 적대 기조 제도화 전망 (5/25)", "url": "https://www.ajupress.com/view/20260525132135895", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "아시아투데이 — 최현호 6월 해군인도 확인 + 신형 155mm 자주포 연내 남부국경 배치: 핵탑재 구축함과 재래식 전력 동시 강화 (5/8)", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001748", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "한국일보/네이트뉴스 (5/31) — 시진핑 6월 초 방북하나…평양서 '환영 행사' 준비 포착: NK뉴스 위성사진 분석, 김일성광장 연단 5/25-26 설치 시작, 공항 고려항공기 이동 확인", "url": "https://www.hankookilbo.com/news/article/A2026053113480002365", "tag": "update", "related_report": "2026-05-31" },
+    { "id": "src-006", "title": "Security Council Report (2월 전망) — 1718 제재위 7척 지정 보류 기한 6월 중순 도래: 중·러 2025/12 미국 제출 7척에 대한 보류(hold) 해제 여부 결정 시한 임박", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-02/dprk-north-korea-33.php", "tag": "update", "related_report": "2026-05-31" },
+    { "id": "src-007", "title": "U.S. State Dept — Joint Statement on DPRK Sanctions Accountability (5/29)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability", "tag": "reported", "related_report": "2026-05-31" },
+    { "id": "src-008", "title": "SCMP — Xi Jinping expected to visit North Korea as early as next week (5/23)", "url": "https://www.scmp.com/news/china/diplomacy/article/3354299/chinas-xi-jinping-expected-visit-north-korea-early-next-week", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-009", "title": "Lowy Institute — Why Xi Jinping is going to Pyongyang (5/27)", "url": "https://www.lowyinstitute.org/the-interpreter/why-xi-jinping-going-pyongyang", "tag": "reported", "related_report": "2026-05-31" },
+    { "id": "src-010", "title": "NK News — North Korea to convene major party meeting in late June (5/25)", "url": "https://www.nknews.org/2026/05/north-korea-to-convene-major-party-meeting-on-important-issues-in-late-june/", "tag": "reported", "related_report": "2026-05-26" },
+    { "id": "src-011", "title": "RFA — Satellite imagery shows new North Korea-Russia bridge nearing completion (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-012", "title": "Bloomberg Japan — 北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近 (5/1)", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-013", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 update)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-014", "title": "38 North — Tracing Russian Linkages in North Korea's Expanding Nuclear Complex (5월)", "url": "https://www.38north.org/2026/05/tracing-russian-linkages-in-north-koreas-expanding-nuclear-complex/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-015", "title": "Foreign Policy — Xi Jinping Wants to Woo Kim Jong Un Again (5/27)", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-016", "title": "Newsweek — Russia Deepens Connections With North Korea: Tumen River bridge (5월)", "url": "https://www.newsweek.com/russia-north-korea-tumen-river-bridge-putin-kim-2066513", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-017", "title": "Korea Times — S. Korea, US, other countries call for designation of vessels over NK sanctions breaches (5/30)", "url": "https://www.koreatimes.co.kr/world/20260530/s-korea-us-other-countries-call-for-designation-of-vessels-over-nk-sanctions-breaches", "tag": "reported", "related_report": "2026-05-31" },
+    { "id": "src-018", "title": "UN News — DPRK continued militarisation 'serious concern', political affairs chief warns Security Council (4/30)", "url": "https://news.un.org/en/story/2026/04/1167415", "tag": "reported", "related_report": "2026-05-31" }
+  ]
+}

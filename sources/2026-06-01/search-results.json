@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-01",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "search_count": 14,
+  "total_results": 87,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵 2026년 6월",
+      "language": "ko",
+      "timestamp": "2026-06-01T00:01:00Z",
+      "result_count": 9,
+      "results": [
+        { "title": "[안보칼럼] 북한 핵보유국 지위와 관련한 2026년 미-북 관계 전망", "url": "https://konas.net/m/article/article.asp?idx=63951", "snippet": "2026년 미-북 관계 전망", "source_name": "코나스넷" },
+        { "title": "트럼프, 북한 핵무기 보유 개수 공개 언급…미국 대통령 이례적 발언", "url": "https://www.newsnow.co.kr/article/7804", "snippet": "트럼프 대통령은 김정은이 약 45개의 핵무기를 보유하고 있다고 밝혔다", "source_name": "데일리뉴스나우" },
+        { "title": "2025년 북한의 무기 개발 활동 평가 및 2026년 전망", "url": "https://www.sejong.org/web/boad/1/egoread.php?bd=1&itm=&txt=&pg=1&seq=12806", "snippet": "북한 핵·미사일 개발 활동 평가", "source_name": "세종연구소" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 시진핑 방북 2026년 6월",
+      "language": "ko",
+      "timestamp": "2026-06-01T00:02:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "7년만 시진핑 방북설에 한국이 더 '들썩'..북미정상회담 중재할까", "url": "https://www.fnnews.com/news/202605211627514794", "snippet": "시진핑 주석이 이르면 이달 말 또는 내달 초 방북", "source_name": "파이낸셜뉴스" },
+        { "title": "시진핑, 김정은과 '북핵' 대화하나..7년만 방북설에 기대와 우려 교차", "url": "https://www.fnnews.com/news/202605251158567028", "snippet": "시진핑 방북설에 기대와 우려 교차", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 제재 2026년 6월",
+      "language": "ko",
+      "timestamp": "2026-06-01T00:03:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "동결 해제된 계약: 국가가 국방 산업 규모을 어떻게 재정비하고 있는가", "url": "https://korea.news-pravda.com/dprk/2026/05/29/66322.html", "snippet": "국방 산업 규모 재정비", "source_name": "Pravda 한국" },
+        { "title": "World Report 2026: 북한", "url": "https://www.hrw.org/ko/world-report/2026/country-chapters/north-korea", "snippet": "북한 인권 상황 보고서", "source_name": "Human Rights Watch" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear June 2026",
+      "language": "en",
+      "timestamp": "2026-06-01T00:04:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "North Korea's Nuclear Weapons and Missile Programs", "url": "https://www.congress.gov/crs-product/IF10472", "snippet": "CRS report on North Korea nuclear/missile programs updated 2026", "source_name": "Congressional Research Service" },
+        { "title": "Assessing North Korea's Five-Year Effort to Develop 13 New Nuclear and Missile Systems", "url": "https://www.38north.org/2026/01/assessing-north-koreas-five-year-effort-to-develop-13-new-nuclear-and-missile-systems/", "snippet": "38 North assessment of 9th Party Congress military plan", "source_name": "38 North" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile launch sanctions June 2026",
+      "language": "en",
+      "timestamp": "2026-06-01T00:05:00Z",
+      "result_count": 9,
+      "results": [
+        { "title": "DPRK Korea: Continued militarisation a 'serious concern', political affairs chief warns Security Council", "url": "https://news.un.org/en/story/2026/04/1167415", "snippet": "UN political affairs chief warns Security Council about DPRK militarisation", "source_name": "UN News" },
+        { "title": "DPRK (North Korea), May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "snippet": "China and Russia put hold on 7 vessel designation until mid-June", "source_name": "Security Council Report" },
+        { "title": "S. Korea, US, other countries call for designation of vessels over NK sanctions breaches", "url": "https://www.koreatimes.co.kr/world/20260530/s-korea-us-other-countries-call-for-designation-of-vessels-over-nk-sanctions-breaches", "snippet": "11 countries call for vessel designation", "source_name": "Korea Times" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Xi Jinping Pyongyang visit North Korea June 2026",
+      "language": "en",
+      "timestamp": "2026-06-01T00:06:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "Why Xi Jinping Is Going to Pyongyang", "url": "https://www.realcleardefense.com/articles/2026/05/27/why_xi_jinping_is_going_to_pyongyang_1185076.html", "snippet": "Analysis of Xi's strategic motives for Pyongyang visit", "source_name": "RealClearDefense" },
+        { "title": "Why Xi Jinping is going to Pyongyang", "url": "https://www.lowyinstitute.org/the-interpreter/why-xi-jinping-going-pyongyang", "snippet": "Lowy analysis: Russia counter, Tumen/Rajin access", "source_name": "Lowy Institute" },
+        { "title": "Xi Jinping Wants to Woo Kim Jong Un Again", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "snippet": "Xi seeks to re-engage Kim Jong Un", "source_name": "Foreign Policy" },
+        { "title": "Chinese President Xi likely to visit N. Korea as early as next week: sources", "url": "https://www.upi.com/Top_News/World-News/2026/05/21/Xi-Jinping-likely-visit-North-Korea-next-week/2371779355421/", "snippet": "Xi likely to visit NK as early as next week", "source_name": "UPI" },
+        { "title": "China's Xi Jinping expected to visit North Korea as early as next week", "url": "https://www.scmp.com/news/china/diplomacy/article/3354299/chinas-xi-jinping-expected-visit-north-korea-early-next-week", "snippet": "SCMP report on Xi's upcoming visit", "source_name": "SCMP" },
+        { "title": "Xi Weighs North Korea Visit After Meetings With Trump and Putin", "url": "https://www.bloomberg.com/news/articles/2026-05-21/xi-plans-reported-north-korea-summit-after-hosting-trump-putin", "snippet": "Bloomberg: Xi plans NK summit after Trump, Putin meetings", "source_name": "Bloomberg" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年6月",
+      "language": "ja",
+      "timestamp": "2026-06-01T00:07:00Z",
+      "result_count": 9,
+      "results": [
+        { "title": "北朝鮮の核・ミサイル問題", "url": "https://www.mofa.go.jp/mofaj/area/n_korea/kakumondai/index.html", "snippet": "日本外務省 北朝鮮核・ミサイル問題ページ", "source_name": "外務省" },
+        { "title": "北朝鮮核・ミサイルリスクの総合分析", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "snippet": "日本国際問題研究所 報告書", "source_name": "JIIA" },
+        { "title": "北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "snippet": "北朝鮮の核戦力がミサイル防衛を上回る規模に", "source_name": "Bloomberg Japan" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 导弹 2026年6月",
+      "language": "zh",
+      "timestamp": "2026-06-01T00:08:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "王毅访朝前，平壤向日本方向连射两波导弹，给中方的见面礼很特别", "url": "https://c.m.163.com/news/a/KQ2QCSCP0556C0YV.html", "snippet": "王毅访朝前 北朝鲜导弹发射", "source_name": "网易新闻" },
+        { "title": "朝鲜接连两天试射武器", "url": "https://news.qq.com/rain/a/20260129A04BQJ00", "snippet": "朝鲜连续两天试射武器", "source_name": "腾讯新闻" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "시진핑 방북 6월 2026 최신",
+      "language": "ko",
+      "timestamp": "2026-06-01T00:09:00Z",
+      "result_count": 7,
+      "results": [
+        { "title": "시진핑, 6월 초 방북하나…평양서 '환영 행사' 준비 포착", "url": "https://news.nate.com/view/20260531n10924", "snippet": "평양 김일성광장 연단 설치 등 환영 행사 준비 포착", "source_name": "네이트뉴스" },
+        { "title": "시진핑, 6월 초 방북하나… 평양서 '환영 행사' 준비 포착", "url": "https://www.hankookilbo.com/news/article/A2026053113480002365", "snippet": "NK뉴스 위성사진 분석, 연단 설치 시작", "source_name": "한국일보" },
+        { "title": "김정은 8일째 모습 감춰...시진핑 방북 대비하나", "url": "https://www.newspim.com/news/view/20260526000013", "snippet": "김정은 8일째 잠적, 시진핑 방북 대비 가능성", "source_name": "뉴스핌" },
+        { "title": "[리뷰] 시진핑 방북 카드?...북중관계 재조정·중러북 연대 향방 주목", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107670", "snippet": "북중관계 재조정·중러북 연대 향방 분석", "source_name": "SPN 서울평양뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "\"North Korea\" \"June 2026\" latest news",
+      "language": "en",
+      "timestamp": "2026-06-01T00:10:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "North Korea to convene major party meeting on 'important issues' in late June", "url": "https://www.nknews.org/2026/05/north-korea-to-convene-major-party-meeting-on-important-issues-in-late-june/", "snippet": "WPK 9th CC 2nd plenary meeting in late June", "source_name": "NK News" },
+        { "title": "N. Korea to hold key party meeting in late June: KCNA", "url": "https://www.upi.com/Top_News/World-News/2026/05/25/North-Korea-plenary-meeting-Workers-Party-June-KCNA/2551779690178/", "snippet": "KCNA announces late June plenary", "source_name": "UPI" },
+        { "title": "North Korea to hold major party plenary meeting next month", "url": "https://www.koreaherald.com/article/10755427", "snippet": "Korea Herald report on WPK plenary", "source_name": "Korea Herald" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK sanctions vessel designation 1718 committee June 2026",
+      "language": "en",
+      "timestamp": "2026-06-01T00:11:00Z",
+      "result_count": 10,
+      "results": [
+        { "title": "Joint Statement on DPRK Sanctions Accountability", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability", "snippet": "11 countries+EU joint statement on DPRK sanctions", "source_name": "U.S. State Dept" },
+        { "title": "DPRK (North Korea), May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "snippet": "China/Russia hold on 7 vessels until mid-June", "source_name": "Security Council Report" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 최현호 구축함 2026년 6월",
+      "language": "ko",
+      "timestamp": "2026-06-01T00:12:00Z",
+      "result_count": 9,
+      "results": [
+        { "title": "\"6월 중순 바다 위로 나온다\"…김정은이 꽁꽁 숨겨둔 5,000톤급 구축함", "url": "https://car.withnews.kr/military/north-korea-new-destroyer", "snippet": "최현호 구축함 6월 중순 해군 인도 예정", "source_name": "위드뉴스" },
+        { "title": "北, 최현호 6월 해군인도·신형 155mm 자주포 연내 남부국경 배치", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001748", "snippet": "최현호 6월 해군인도, 신형 자주포 배치", "source_name": "아시아투데이" },
+        { "title": "김정은, 최현호 타고 서해로…NLL 사수 의지?", "url": "https://segye.com/newsView/20260508506514", "snippet": "김정은 최현호 시험항해 참관", "source_name": "세계일보" },
+        { "title": "북한 5000t급 최신 구축함 최현함 서해에서 기동", "url": "https://www.newsis.com/view/NISX20260529_0003648376", "snippet": "최현호 서해 남포만 기동 위성사진 포착", "source_name": "뉴시스" },
+        { "title": "北, 내년까지 세 번째 최현급 구축함 구상…해군력 '속도전' 본격화", "url": "https://www.news1.kr/nk/military/5854463", "snippet": "3번함까지 구상, 해군력 속도전", "source_name": "뉴스1" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea Russia Tumen bridge June 2026",
+      "language": "en",
+      "timestamp": "2026-06-01T00:13:00Z",
+      "result_count": 8,
+      "results": [
+        { "title": "Satellite imagery shows new North Korea-Russia bridge nearing completion", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "snippet": "RFA satellite imagery analysis of Tumen bridge", "source_name": "Radio Free Asia" },
+        { "title": "A Historic First: Moscow Opens Direct Land Bridge Between Russia and North Korea", "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/", "snippet": "First direct road link between Russia and NK", "source_name": "Indian Defence Review" },
+        { "title": "China Inspects Border as North Korea-Russia Bridge Nears June Completion", "url": "https://en.sedaily.com/finance/2026/05/02/china-inspects-border-as-north-korea-russia-bridge-nears", "snippet": "China inspects border near NK-Russia bridge", "source_name": "Seoul Economic Daily" },
+        { "title": "Russia Deepens Connections With North Korea", "url": "https://www.newsweek.com/russia-north-korea-tumen-river-bridge-putin-kim-2066513", "snippet": "Newsweek analysis of Russia-NK bridge significance", "source_name": "Newsweek" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea constitution territorial clause unification removed 2026",
+      "language": "en",
+      "timestamp": "2026-06-01T00:14:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "North Korea revises constitution to drop references to unification of Korean Peninsula", "url": "https://www.nbcnews.com/world/north-korea/north-korea-revises-constitution-drop-references-unification-korean-pe-rcna343813", "snippet": "NK constitution drops unification references", "source_name": "NBC News" },
+        { "title": "North Korea's amended constitution redefines borders and rejects reunification", "url": "https://constitutionnet.org/news/north-koreas-amended-constitution-redefines-borders-and-rejects-reunification", "snippet": "Constitutional analysis of border redefinition", "source_name": "ConstitutionNet" },
+        { "title": "Coexistence over Unification: What the DPRK's New Constitution Signals", "url": "https://www.peninsuladispatch.com/p/coexistence-over-unification-what", "snippet": "Analysis of new constitutional direction", "source_name": "Peninsula Dispatch" }
+      ]
+    }
+  ]
+}
