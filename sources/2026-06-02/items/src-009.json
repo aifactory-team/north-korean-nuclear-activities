@@ -1,0 +1,13 @@
+{
+  "id": "src-009",
+  "title": "Newsweek — 'AI-Guided Missiles Feature in New North Korea Weapons Test'",
+  "url": "https://www.newsweek.com/north-korea-launches-ballistic-missiles-in-show-of-force-11992083",
+  "snippet": "5/26 미사일 시험에서 AI유도 기능이 포함된 것으로 분석. 북한의 AI 무기체계 발전 상황.",
+  "source_name": "Newsweek",
+  "language": "en",
+  "discovered_date": "2026-06-02",
+  "tag": "reported",
+  "related_report": "2026-05-30",
+  "related_item": "2026-05-30/src-010",
+  "tag_reason": "5/26 미사일 발사·AI유도 시험은 5/30 보고서에서 Bloomberg·USNI 기반으로 이미 보고됨."
+}

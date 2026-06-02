@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-02",
+  "total": 17,
+  "new": 5,
+  "reported": 10,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "헤럴드경제 — 시진핑 이달 초 방북 전망…'김일성광장에 사열대 추정 구조물 설치중' (6/1 보도)", "url": "https://biz.heraldcorp.com/article/10760678", "tag": "update", "related_report": "2026-06-01" },
+    { "id": "src-002", "title": "이데일리 — '시진핑 방북 시기 주시 중…6월초는 쉽지 않을 듯': 베이징 외교소식통, 왕이 일정 충돌·6월 초 불확실성 (6/1)", "url": "https://www.edaily.co.kr/News/Read?newsId=03919606645477456&mediaCodeNo=257", "tag": "update", "related_report": "2026-06-01" },
+    { "id": "src-003", "title": "The Diplomat — 'Amid Rumors of a Visit by China's Leader, North Korea Fires Close-Range Ballistic Missiles': 5/26 CRBM과 시진핑 방북 연계 분석 (5/27)", "url": "https://thediplomat.com/2026/05/amid-rumors-of-a-visit-by-chinas-leader-north-korea-fires-close-range-ballistic-missiles/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Al Jazeera — 'North Korea says it is not bound by any treaty on nuclear non-proliferation': UN NPT 회의에서 DPRK 핵보유국 불가역 선언 (5/7)", "url": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NPR — 'North Korea is relieved its nuclear weapons have prevented a fate like Iran's': 이란 분쟁이 북한 핵억제력 정당성 강화 (5/18)", "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "MBC/CSIS Beyond Parallel — '북한, 영변에 새 우라늄 농축 시설 완공한 듯': 2024/12 착공→2026/4 완공, 강선 복제 구조 (4/14 보도)", "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6815156_36981.html", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "RFA — '냉각수·증기 배출… 북 영변 움직임 활발': 5MWe 원자로·재처리 시설 활동 증가 위성 확인 (4/28)", "url": "https://www.rfa.org/korean/in-focus/2026/04/28/north-korea-yongbyon-nuclear-facility-weapon/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "JIIA — '北朝鮮核・ミサイルリスクの総合分析' 最終報告書: 일본국제문제연구소 연구회 종합보고서 (2026)", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "Newsweek — 'AI-Guided Missiles Feature in New North Korea Weapons Test': 5/26 AI유도 미사일 시험 분석 (5월)", "url": "https://www.newsweek.com/north-korea-launches-ballistic-missiles-in-show-of-force-11992083", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-010", "title": "파이낸셜뉴스 — 北, 근거리 탄도미사일·방사포 등 다종 발사…'섞어쏘기' 도발 (5/26)", "url": "https://www.fnnews.com/news/202605261541016141", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-011", "title": "Foreign Policy — 'Xi Jinping Wants to Woo Kim Jong Un Again' (5/27)", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "reported", "related_report": "2026-05-29" },
+    { "id": "src-012", "title": "38 North — 'Wang Yi's Pyongyang Visit: Alignment Still Lacking' (4월)", "url": "https://www.38north.org/2026/04/wang-yis-pyongyang-visit-kim-jong-un-signals-renewed-efforts-to-improve-ties-but-alignment-still-lacking/", "tag": "reported", "related_report": "2026-05-31" },
+    { "id": "src-013", "title": "U.S. State Dept — Joint Statement on DPRK Sanctions Accountability (5/29)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability", "tag": "reported", "related_report": "2026-06-01" },
+    { "id": "src-014", "title": "Bloomberg Japan — 北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近 (5/1)", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-015", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 update)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-016", "title": "UPI — 'Chinese President Xi likely to visit N. Korea as early as next week' (5/21)", "url": "https://www.upi.com/Top_News/World-News/2026/05/21/Xi-Jinping-likely-visit-North-Korea-next-week/2371779355421/", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-017", "title": "UN News — 'DPRK continued militarisation serious concern' (4/30)", "url": "https://news.un.org/en/story/2026/04/1167415", "tag": "reported", "related_report": "2026-06-01" }
+  ]
+}
