@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-03",
+  "total": 18,
+  "new": 4,
+  "reported": 12,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "Seoul Economic Daily — 'Seoul Eyes June 11 as Likely Date for Xi Jinping's North Korea Visit': 한국 외교당국, 6월 11일 북중우호조약 65주년 유력 시점으로 판단 (6/3)", "url": "https://en.sedaily.com/politics/2026/06/03/seoul-eyes-june-11-as-likely-date-for-xi-jinpings-north", "tag": "update", "related_report": "2026-06-02" },
+    { "id": "src-002", "title": "한국일보 — '시진핑 방북 임박설에도 시점은 안갯속... 이달 둘째 주? 7월 11일?': 베이징 외교가 시나리오 분석, 6월 초 방북 불가→둘째 주 또는 7/11 조약기념일 (6/2)", "url": "https://www.hankookilbo.com/news/article/A2026060209200005880", "tag": "update", "related_report": "2026-06-02" },
+    { "id": "src-003", "title": "머니투데이/파이낸셜뉴스/헤럴드경제/디지털타임스/뉴스핌 — 한미 JFS 안보분야 '킥오프' 회의 개최: 핵잠수함·우라늄 농축·재처리 권한 확대 공식 협상 시작 (6/2-3)", "url": "https://www.mt.co.kr/politics/2026/06/02/2026060210423140559", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Korea Herald — 'N. Korea rejects Quad call for denuclearization, says nuclear program will never end': 5/28 Quad 비핵화 촉구에 5/30 '비핵화 절대 불가' 거부 성명 (5/30)", "url": "https://www.koreaherald.com/article/10757913", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Foreign Policy — 'China's Quiet Retreat From North Korean Denuclearization': 중국 2025 군축백서에서 한반도 비핵화 언급 사상 첫 삭제. Quad 후 비핵화 생략 패턴 (1/9 분석)", "url": "https://foreignpolicy.com/2026/01/09/china-north-korea-denuclearization-xi-jinping-lee-kim/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "VOA Korea — '북핵 전문가들: 영변 신규 농축시설 건설, 무기급 우라늄 생산 능력 대폭 확대': 연간 100kg HEU(핵무기 5기분) 추가 생산 전망 (4/17)", "url": "https://www.voakorea.com/a/experts-say-new-enrichment-facility-at-yongbyon-could-significantly-expand-north-korea-s-weapons-grade-uranium-production-041726/8138769.html", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "AEI — 'Korean Peninsula Update, June 2, 2026': 중국 Quad 비핵화 언급 생략, ASEAN 교류 확대, 모듈형 미사일 발사대 시험 (6/2)", "url": "https://www.aei.org/articles/korean-peninsula-update-june-2-2026/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "헤럴드경제 — 시진핑 이달 초 방북 전망…김일성광장에 사열대 추정 구조물 설치중 (6/1)", "url": "https://biz.heraldcorp.com/article/10760678", "tag": "reported", "related_report": "2026-06-02" },
+    { "id": "src-009", "title": "이데일리 — 시진핑 방북 시기 주시 중…6월초는 쉽지 않을 듯 (6/1)", "url": "https://www.edaily.co.kr/News/Read?newsId=03919606645477456&mediaCodeNo=257", "tag": "reported", "related_report": "2026-06-02" },
+    { "id": "src-010", "title": "Foreign Policy — Xi Jinping Wants to Woo Kim Jong Un Again (5/27)", "url": "https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/", "tag": "reported", "related_report": "2026-05-28" },
+    { "id": "src-011", "title": "파이낸셜뉴스 — 北, 근거리 탄도미사일·방사포 등 다종 발사 (5/26)", "url": "https://www.fnnews.com/news/202605261541016141", "tag": "reported", "related_report": "2026-05-27" },
+    { "id": "src-012", "title": "U.S. State Dept — Joint Statement on DPRK Sanctions Accountability (5/29)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability", "tag": "reported", "related_report": "2026-05-31" },
+    { "id": "src-013", "title": "RFA — 냉각수·증기 배출… 북 영변 움직임 활발 (4/28)", "url": "https://www.rfa.org/korean/in-focus/2026/04/28/north-korea-yongbyon-nuclear-facility-weapon/", "tag": "reported", "related_report": "2026-06-02" },
+    { "id": "src-014", "title": "Bloomberg Japan — 北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近 (5/1)", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-015", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (2026 update)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-05-30" },
+    { "id": "src-016", "title": "JIIA — 北朝鮮核・ミサイルリスクの総合分析 最終報告書 (2026)", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "tag": "reported", "related_report": "2026-06-02" },
+    { "id": "src-017", "title": "RFA — Satellite imagery shows new North Korea-Russia bridge nearing completion (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-05-25" },
+    { "id": "src-018", "title": "Lowy Institute — Why Xi Jinping is going to Pyongyang (5/27)", "url": "https://www.lowyinstitute.org/the-interpreter/why-xi-jinping-going-pyongyang", "tag": "reported", "related_report": "2026-05-31" }
+  ]
+}
