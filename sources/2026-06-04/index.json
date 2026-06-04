@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-04",
+  "total": 22,
+  "new": 8,
+  "reported": 11,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "KCNA (via NK News/CBS/ABC/AP/뉴스핌/SPN/이데일리/한국경제/아주경제) — 김정은, 새 '핵물질생산공장' 현지지도: 무기급 핵물질 생산 5년간 2배 달성, '기하급수적 핵무력 강화' 선언. 대형 원심분리기 캐스케이드 공개, 지하시설 추정 (6/3-4)", "url": "https://www.nknews.org/2026/06/kim-jong-un-unveils-new-nuclear-plant-vows-to-boost-arsenal-exponentially/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "NK News — 중국 화물기(에어차이나 카고 B747) 베이징-평양 왕복 비행, 시진핑 방북 준비 정황 (6월 초)", "url": "https://www.nknews.org/2026/06/chinese-cargo-plane-flies-to-north-korea-amid-reports-of-imminent-xi-visit/", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "SPN 서울평양뉴스 — 베이징-평양 정기노선 대형기 교체(B737→A330, 128→237석)·B747 화물기 증편, 6/11편 247석 확대: 시진핑 방북 물류·의전 준비 정황 (6월)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107729", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "USNI News/CRS — Report to Congress: North Korea's Nuclear Weapons and Missile Programs (IF10472 v41, 5/29 갱신, 6/3 게재): DIA '명백하고 현존하는 위험', 화성-20 고체 로켓 모터·다탄두 가능성, 영변 추가 농축시설 건설 확인", "url": "https://news.usni.org/2026/06/03/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-4", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "NK News — 미국 Hooker 정무차관 서울에서 한국 외교부와 대북정책·핵잠수함 협의 (6/4 보도)", "url": "https://www.nknews.org/2026/06/top-us-diplomat-consults-with-seoul-on-north-korea-nuclear-submarines/", "tag": "update", "related_report": "2026-06-03" },
+    { "id": "src-006", "title": "Korea Herald — 한미 핵잠수함·연료주기 협상 시작: 123조 협정 개정, 농축·재처리 권한 핵심 쟁점 (6월)", "url": "https://www.koreaherald.com/article/10762362", "tag": "update", "related_report": "2026-06-03" },
+    { "id": "src-007", "title": "뉴스핌 — 한미 안보협의 이틀째 계속: 우라늄 농축·재처리 권한 본격 논의 (6/3)", "url": "https://www.newspim.com/news/view/20260603000155", "tag": "update", "related_report": "2026-06-03" },
+    { "id": "src-008", "title": "Defense News — South Korea goes full steam ahead on nuclear-powered submarines: 장보고 N 사업 본격화, 한미 실무 협상 착수 (6/1)", "url": "https://www.defensenews.com/naval/2026/06/01/south-korea-goes-full-steam-ahead-on-nuclear-powered-submarines/", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "Toda Peace Institute — 'From Complete Denuclearization to Managing Nuclear Risk': 비핵화 패러다임 동력 상실, 핵 리스크 관리로 전환 논의", "url": "https://toda.org/global-outlooks/from-complete-denuclearization-of-north-korea-to-managing-nuclear-risk/", "tag": "new", "related_report": null },
+    { "id": "src-010", "title": "Stimson Center — 'Pursuing Both Denuclearization and Risk Reduction': 이재명 대통령 3단계 접근법(동결→감축→비핵화), 한미일 공조 필요성", "url": "https://www.stimson.org/2026/pursuing-both-denuclearization-and-risk-reduction-in-north-korea-engagement/", "tag": "new", "related_report": null },
+    { "id": "src-011", "title": "Stimson Center — 'Addressing the Tactical Nukes Challenge': 북한 전술핵 배치 시나리오와 한반도 핵 위기 관리", "url": "https://www.stimson.org/2026/addressing-the-tactical-nukes-challenge-in-north-koreas-assumed-battles-scenario/", "tag": "new", "related_report": null },
+    { "id": "src-012", "title": "Seoul Economic Daily — Seoul Eyes June 11 as Likely Date for Xi Jinping's NK Visit (6/3)", "url": "https://en.sedaily.com/politics/2026/06/03/seoul-eyes-june-11-as-likely-date-for-xi-jinpings-north", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-013", "title": "한국일보 — 시진핑 방북 임박설에도 시점은 안갯속 (6/2)", "url": "https://www.hankookilbo.com/news/article/A2026060209200005880", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-014", "title": "머니투데이 — 한미 JFS 안보분야 킥오프 회의 (6/2)", "url": "https://www.mt.co.kr/politics/2026/06/02/2026060210423140559", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-015", "title": "Korea Herald — N. Korea rejects Quad call for denuclearization (5/30)", "url": "https://www.koreaherald.com/article/10757913", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-016", "title": "Foreign Policy — China's Quiet Retreat From NK Denuclearization (1/9)", "url": "https://foreignpolicy.com/2026/01/09/china-north-korea-denuclearization-xi-jinping-lee-kim/", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-017", "title": "AEI — Korean Peninsula Update, June 2, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-june-2-2026/", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-018", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (IF10472)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-019", "title": "Bloomberg Japan — 北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近 (5/1)", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-020", "title": "JIIA — 北朝鮮核・ミサイルリスクの総合分析 最終報告書 (2026)", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-021", "title": "VOA Korea — 영변 신규 농축시설, 연간 100kg HEU 추가 생산 (4/17)", "url": "https://www.voakorea.com/a/experts-say-new-enrichment-facility-at-yongbyon-could-significantly-expand-north-korea-s-weapons-grade-uranium-production-041726/8138769.html", "tag": "reported", "related_report": "2026-06-03" },
+    { "id": "src-022", "title": "Security Council Report — 1718 제재위 7척 보류 기한 6월 중순 (2월 전망)", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-02/dprk-north-korea-33.php", "tag": "reported", "related_report": "2026-06-01" }
+  ]
+}
