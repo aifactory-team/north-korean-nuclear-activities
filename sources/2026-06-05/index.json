@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-05",
+  "total": 22,
+  "new": 5,
+  "reported": 14,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "뉴스핌 분석 — '핵잠, 농축·재처리 협상 출항했지만...곳곳에 암초 수두룩해 순항 미지수': 미 의회·행정부 비확산 반대, 통상·쿠팡 변수, 크리스토퍼 여 차관보 2차 참여 예상, 중간선거 전 '돌이킬 수 없는 지점' 확보 필요 (6/4)", "url": "https://www.newspim.com/news/view/20260604000110", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "뉴스핌 — 한미, 핵잠수함·농축재처리 후속협의 속도…내달(7월) 워싱턴서 2차 회의 추진, 중간선거(11월) 전 속도 (6/3)", "url": "https://www.newspim.com/news/view/20260603000246", "tag": "update", "related_report": "2026-06-04" },
+    { "id": "src-003", "title": "파이낸셜뉴스 — '한미 핵잠·원자력 협의 일단 속도…美선거 앞둔 시간과의 싸움': 중간선거 전 돌이킬 수 없는 합의 필요, 에너지부·국무부 실무 관료 문책 우려로 소극적 (6/3)", "url": "https://www.fnnews.com/news/202606031807226862", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Wilson Center — 'Flash Analysis: Chinese President Xi Jinping's Visit to North Korea': 중국 최우선순위는 안정·충돌 회피(비핵화 아님), 3인 전문가 분석 (6월)", "url": "https://www.wilsoncenter.org/article/flash-analysis-chinese-president-xi-jinpings-visit-to-north-korea", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Carnegie Endowment/Ankit Panda (via NPR/WashPost) — 새 핵시설, IAEA가 2025년부터 감시해온 영변 추가 시설과 일치 가능성. 2층 구조로 상당한 농축 능력 확대. '북한 핵확장, 단기적 종료 전망 없음' (6/4)", "url": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "파이낸셜뉴스 — '中 시진핑, 조만간 방북 가능성...평양 준비 포착': 시진핑 방북 종합, 에어차이나 화물기·대형기 교체·6/11편 좌석 확대 정리 (6/5)", "url": "https://www.fnnews.com/news/202606050629253456", "tag": "update", "related_report": "2026-06-04" },
+    { "id": "src-007", "title": "CNN — 'Kim Jong Un inspects new nuclear plant, plans exponential weapons production ramp-up': JCS 우라늄 농축시설 평가, 3번째 공개 농축시설 (6/4)", "url": "https://www.cnn.com/2026/06/04/asia/north-korea-nuclear-plant-kim-intl-hnk-ml", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-008", "title": "Al Jazeera — 'N Korea's Kim Jong Un calls for exponential expansion of nuclear arsenal': 비핵화 협상 불가 입장 강화 분석 (6/4)", "url": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-009", "title": "France 24 — 'North Korea unveils new nuclear fuel facility, vows exponential expansion': SIPRI 추정 50탄두+40기분 핵물질 (6/4)", "url": "https://www.france24.com/en/asia-pacific/20260604-north-korea-unveils-new-nuclear-fuel-facility-vows-exponential-expansion-nuclear-arsenal", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-010", "title": "Washington Post — 'North Korea unveils a new plant to produce fuel for nuclear weapons': Ankit Panda 분석 포함 (6/3-4)", "url": "https://www.washingtonpost.com/world/2026/06/03/north-korea-kim-nuclear-uranium/1a464438-5fa3-11f1-9c46-d6211372eede_story.html", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-011", "title": "UPI — 'North Korea unveils new nuclear fuel plant, vows exponential growth' (6/4)", "url": "https://www.upi.com/Top_News/World-News/2026/06/04/North-Korea-new-nuclear-fuel-plant-Kim-Jong-Un-uranium-enrichment-Yongbyon/1481780561639/", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-012", "title": "NBC News — 'North Korea unveils a new plant to produce fuel for nuclear weapons' (6/4)", "url": "https://www.nbcnews.com/world/asia/north-korea-unveils-new-plant-produce-fuel-nuclear-weapons-rcna348411", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-013", "title": "Washington Times — 'North Korea's Kim Jong Un unveils new plant to produce fuel for nuclear weapons' (6/4)", "url": "https://www.washingtontimes.com/news/2026/jun/4/north-koreas-kim-jong-un-unveils-new-plant-produce-fuel-nuclear/", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-014", "title": "TechTimes — 'North Korea Reveals Third Uranium Enrichment Site as Kim Vows Mass Production' (6/4)", "url": "https://www.techtimes.com/articles/317755/20260604/north-korea-reveals-third-uranium-enrichment-site-kim-vows-mass-production.htm", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-015", "title": "Military.com — 'North Korea Unveils a New Plant to Produce Fuel for Nuclear Weapons' (6/4)", "url": "https://www.military.com/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-016", "title": "국민일보 — '수백기 원심분리기 보란듯 보여준 김정은… 핵 대놓고 고도화': IAEA 영변 신규 농축시설과 일치 가능성 분석 (6/4-5)", "url": "https://www.kmib.co.kr/article/view.asp?arcid=1780559841&code=11121400&sid1=pol", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-017", "title": "NHK — '北朝鮮 キム総書記 新たな核関連施設を視察': 核生産力5年で倍増 (6/4)", "url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015140751000", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-018", "title": "テレ朝NEWS — '金総書記 核物質工場を視察 北朝鮮「核生産力5年で倍増」': 韓国JCS ウラン濃縮施設評価 (6/4)", "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/world/tvasahinews-000509915", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-019", "title": "Arab News Japan — '北朝鮮、核兵器用燃料を生産する新工場を公開' (6/4)", "url": "https://www.arabnews.jp/article/japan/article_178546/", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-020", "title": "서울경제 — '시진핑 방북은 언제…외교당국, 내달 11일에 무게' (6/3)", "url": "https://www.sedaily.com/article/20051147", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-021", "title": "뉴스핌 — 한미 안보협의 이틀째 계속…우라늄 농축·재처리 권한 논의 (6/3)", "url": "https://www.newspim.com/news/view/20260603000155", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-022", "title": "한미, 핵잠수함·농축재처리 후속협의 속도…내달 워싱턴서 2차 회의 추진 — 파이낸셜뉴스 추가 확인 (6/3)", "url": "https://www.fnnews.com/news/202606031536330229", "tag": "update", "related_report": "2026-06-04" }
+  ]
+}
