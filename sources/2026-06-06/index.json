@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-06",
+  "total": 23,
+  "new": 8,
+  "reported": 14,
+  "update": 1,
+  "items": [
+    { "id": "src-001", "title": "SPN/아주경제/머니투데이/헤럴드경제/한국일보/세계일보/뉴스핌/NPR/CNN/SCMP/Bloomberg/WashPost 등 — 시진핑 6/8-9 북한 국빈 방문 공식 확인: 김정은 초청, 2019년 이후 7년 만 방북, 올해 첫 해외순방 (6/5)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107805", "tag": "update", "related_report": "2026-06-05" },
+    { "id": "src-002", "title": "VOA/뉴스핌/MBC — 미 국무부, 시진핑 방북 관련 '북한 비핵화는 미중 공동목표' 발표: 트럼프-시진핑 베이징 정상회담에서 비핵화 목표 재확인 (6/5-6)", "url": "https://www.voakorea.com/a/xi-visit-to-north-korea-060526/8157680.html", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "CSIS — 'Previewing Xi Jinping's Visit to North Korea: State of Play': CRINK 연대 시연, 트럼프·푸틴 연쇄 정상회담 후 방북, 북미대화 중재 가능성 (6/5)", "url": "https://www.csis.org/analysis/previewing-xi-jinpings-visit-north-korea-state-play", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "뉴스핌 — 시진핑 방북 4대 의제: 한반도 정세, 북중 경제협력, 북중러 동해 협력, 북미대화 견인 (6/5)", "url": "https://www.newspim.com/news/view/20260605000579", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "파이낸셜뉴스 — '시진핑 방북, 동맹 강화 포석…한미일 對 북중러 구도 고착되나': 아시아소사이어티 John Delury '메시지 대상은 러시아' (6/5)", "url": "https://www.fnnews.com/news/202606051440283855", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "한국일보 — ''북핵 묵인' 시진핑의 7년 만의 방북... 北, 핵보유국 지위 더 굳어진다': 핵시설 공개→방북 확인 순서의 시그널링 분석 (6/5)", "url": "https://www.hankookilbo.com/news/article/A2026060515390000572", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "뉴스핌 — 한국 외교부 공식 논평 '시진핑 방북, 한반도 평화·안정 기여하기를 기대' (6/5)", "url": "https://www.newspim.com/news/view/20260605000663", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "The Diplomat — 'Xi Jinping to Visit North Korea Amid Deepening Three-Way Alliance': 중·러·북 삼각 동맹 심화 속 시진핑 방북 분석 (6월)", "url": "https://thediplomat.com/2026/06/xi-jinping-to-visit-north-korea-amid-deepening-three-way-alliance/", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "헤럴드경제 — '中전문가, 시진핑 방북 앞두고…中, 동북아 비핵화에 더 관심': 중국측 전문가 비핵화 관심 표명 (6/5)", "url": "https://biz.heraldcorp.com/article/10765076", "tag": "new", "related_report": null },
+    { "id": "src-010", "title": "NPR — 'Xi Jinping will travel to North Korea next week in first visit since 2019' (6/5)", "url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-011", "title": "CNN — 'China's Xi Jinping to make rare trip to North Korea next week' (6/4-5)", "url": "https://edition.cnn.com/2026/06/04/china/china-north-korea-xi-kim-intl-hnk", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-012", "title": "SCMP — 'Chinese leader Xi Jinping visit to North Korea confirmed for next week' (6/5)", "url": "https://www.scmp.com/news/china/diplomacy/article/3356021/chinese-leader-xi-jinping-visit-north-korea-confirmed-next-week", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-013", "title": "Bloomberg — 'Xi to Visit North Korea June 8-9, for First Time Since 2019' (6/5)", "url": "https://www.bloomberg.com/news/articles/2026-06-05/xi-to-visit-north-korea-june-8-9-for-first-time-since-2019-mq0a77tt", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-014", "title": "WashPost — 'Chinese leader Xi Jinping will travel to North Korea next week' (6/4-5)", "url": "https://www.washingtonpost.com/world/2026/06/04/china-xi-north-korea-kim/832ece74-6085-11f1-9c46-d6211372eede_story.html", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-015", "title": "Washington Times — 'China's Xi to visit Kim in North Korea next week' (6/5)", "url": "https://www.washingtontimes.com/news/2026/jun/5/chinas-xi-jinping-visit-kim-jong-un-north-korea-next-week/", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-016", "title": "Bangkok Post — 'China's Xi to visit North Korea next week for 1st time in 7 years' (6/5)", "url": "https://www.bangkokpost.com/world/3266369/chinas-xi-to-visit-north-korea-next-week-for-1st-time-in-7-years", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-017", "title": "문화일보 사설 — '시진핑 방북 앞서 김정은 核 과시… 엄중해야 할 정부 대응' (6/5)", "url": "https://www.munhwa.com/article/11593521", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-018", "title": "경향신문 사설 — '시진핑 방북, 한반도 평화에 기여토록 외교 대응을' (6/5)", "url": "https://www.khan.co.kr/article/202606051830001/", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-019", "title": "한국일보 사설 — '시진핑 7년 만의 방북, 한반도 정세 안정에 기여해야' (6/5)", "url": "https://www.hankookilbo.com/news/article/A2026060515560001289", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-020", "title": "파이낸셜뉴스 — '시진핑 7년 만의 방북에 외신도 주목...러시아 견제·대북 영향력 회복' (6/5)", "url": "https://www.fnnews.com/news/202606051756208660", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-021", "title": "서울경제 — '시진핑, 7년 만에 방북...북중 밀착 본격화 전망' (6/5)", "url": "https://www.sedaily.com/article/20052262", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-022", "title": "日経 — '習近平氏、近く北朝鮮訪問と報道 韓国「建設的役割を期待」' (5-6月)", "url": "https://www.nikkei.com/article/DGXZQOCB214Q60R20C26A5000000/", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-023", "title": "Wilson Center — 'Flash Analysis: Chinese President Xi Jinping's Visit to North Korea' (6월)", "url": "https://www.wilsoncenter.org/article/flash-analysis-chinese-president-xi-jinpings-visit-to-north-korea", "tag": "reported", "related_report": "2026-06-05" }
+  ]
+}
