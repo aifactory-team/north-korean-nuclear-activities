@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-07",
+  "total": 20,
+  "new": 5,
+  "reported": 13,
+  "update": 2,
+  "items": [
+    { "id": "src-001", "title": "파이낸셜뉴스/헤럴드경제/US News — 김여정 담화: '핵보유국 지위는 절대불퇴의 한계선', 미국 '비핵화 공동목표' 주장 '거짓 유포 놀음'으로 일축. 트럼프 직접 비난은 자제 (6/6-7)", "url": "https://www.fnnews.com/news/202606070646297393", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "통일뉴스/머니투데이/SPN/파이낸셜뉴스/한국일보/Al Jazeera/Business Recorder — 김정은, 구축함 '강건'호 항해시험 참관(6/4): 1만톤급 신형 구축함 건조 계획·수중비밀병기 개발 첫 공개. 딸 주애 동행. 해군무력으로 핵전쟁 억제 담당 강조 (6/6 보도)", "url": "https://www.fnnews.com/news/202606061032466429", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "38 North — 'North Korea's Posturing Toward China Ahead of Xi's Visit': 북한 이중전략 분석 — 대만·일본 이슈에서 중국 지지 + 핵 지위 비협상 경고. 시진핑 방북에서 비핵화 진전 불가 전망 (6월)", "url": "https://www.38north.org/2026/06/north-koreas-posturing-toward-china-ahead-of-xis-visit/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Modern Diplomacy — 'Xi Jinping's North Korea Visit Signals China's Push to Reassert Influence': 중국 영향력 재확보 의도 분석 (6/5)", "url": "https://moderndiplomacy.eu/2026/06/05/xi-jinpings-north-korea-visit-signals-chinas-push-to-reassert-influence/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "중국 외교부 毛宁 대변인 정례브리핑(6/5) — 시진핑 방북 관련 '한반도 문제에서 건설적 역할' 공식 표명. 비핵화 직접 언급 없음", "url": "https://www.fmprc.gov.cn/fyrbt_673021/202606/t20260605_11938293.shtml", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "시진핑 방북 6/8-9 공식 확인 — 다수 매체 후속 보도 (NPR/CNN/SCMP/Bloomberg 등)", "url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-007", "title": "VOA — 미 국무부 '비핵화 공동목표' 발표", "url": "https://www.voakorea.com/a/xi-visit-to-north-korea-060526/8157680.html", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-008", "title": "CSIS — 시진핑 방북 프리뷰: CRINK 연대·북미대화 중재", "url": "https://www.csis.org/analysis/previewing-xi-jinpings-visit-north-korea-state-play", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-009", "title": "뉴스핌 — 시진핑 방북 4대 의제", "url": "https://www.newspim.com/news/view/20260605000579", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-010", "title": "파이낸셜뉴스 — 한미일 vs 북중러 구도 고착 우려, John Delury 분석", "url": "https://www.fnnews.com/news/202606051440283855", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-011", "title": "한국일보 — '북핵 묵인' 시진핑 방북, 핵보유국 지위 고착", "url": "https://www.hankookilbo.com/news/article/A2026060515390000572", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-012", "title": "The Diplomat — 삼각동맹 심화 속 시진핑 방북", "url": "https://thediplomat.com/2026/06/xi-jinping-to-visit-north-korea-amid-deepening-three-way-alliance/", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-013", "title": "헤럴드경제 — 중국 전문가 '동북아 비핵화' 발언", "url": "https://biz.heraldcorp.com/article/10765076", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-014", "title": "뉴스핌 — 한국 외교부 '한반도 평화·안정 기여 기대'", "url": "https://www.newspim.com/news/view/20260605000663", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-015", "title": "아시아투데이 — 시진핑 7년여 만에 방북, 정부 건설적 역할 기대", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260605010001861", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-016", "title": "Japan Times — China's Xi to visit NK next week", "url": "https://www.japantimes.co.jp/news/2026/06/05/asia-pacific/china-north-korea-xi-visit/", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-017", "title": "Wilson Center — Flash Analysis: Xi's Visit to NK", "url": "https://www.wilsoncenter.org/article/flash-analysis-chinese-president-xi-jinpings-visit-to-north-korea", "tag": "reported", "related_report": "2026-06-05" },
+    { "id": "src-018", "title": "김정은 강건호 항해시험 — 지난해 좌초 사고 복구 확인", "url": "https://www.hankookilbo.com/news/article/A2026060609140000983", "tag": "update", "related_report": "2026-06-01" },
+    { "id": "src-019", "title": "SPN — 강건호 항해시험, 김주애 동행, 핵전쟁억제력 해군 역할", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107830", "tag": "update", "related_report": "2026-06-01" },
+    { "id": "src-020", "title": "Sputnik中文 — 习近平将访问朝鲜 (6/5)", "url": "https://sputniknews.cn/20260605/1071710280.html", "tag": "reported", "related_report": "2026-06-06" }
+  ]
+}
