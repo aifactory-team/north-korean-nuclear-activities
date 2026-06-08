@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-08",
+  "total": 17,
+  "new": 3,
+  "reported": 13,
+  "update": 1,
+  "items": [
+    { "id": "src-001", "title": "머니투데이/뉴스핌/인사이트/파이낸셜뉴스/SPN/아시아투데이/SBS — 김정은, 군수공업기업소 방문: 탄도·순항미사일 생산능력 5년 내 2.5배 확대 지시. 화성-11 계열 고생산율 확인. 9기 2차 전원회의 안건 심의 지시. '미사일 정량 수요 대폭 증대' (6/6 활동, 6/7 보도)", "url": "https://www.mt.co.kr/politics/2026/06/07/2026060709241536741", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Korea Herald 사설 — 'Pyongyang Equilibrium': 시진핑 방북은 새 블록 형성이 아닌 '불안정한 균형(delicate equilibrium)' 유지 시도. 러시아 영향력 확대 속 중국의 한반도 관문 역할 재확인 의도. 두만강·동해 접근권 논의로 경제 통합 심화 전망 (6/8)", "url": "https://www.koreaherald.com/article/10765464", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Korea Herald — 'Xi calls for multipolarity, inclusive globalization ahead of Pyongyang visit': 시진핑, 방북 직전 다극체제·포용적 세계화 메시지 (6/8)", "url": "https://www.koreaherald.com/article/10765588", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "파이낸셜뉴스/뉴스핌/이투데이/전자신문/외교저널 — 시진핑 평양 도착 D-Day: 순안공항 영접, '친척처럼 오가겠다' 밀착 수사. 7년 만 올해 첫 해외순방. 경제협력·안보 심도 논의 예상 (6/8)", "url": "https://www.fnnews.com/news/202606080644585983", "tag": "update", "related_report": "2026-06-06" },
+    { "id": "src-005", "title": "시진핑 6/8-9 북한 국빈 방문 — 다수 글로벌 매체 후속보도 (Al Jazeera/Bloomberg/SCMP/CGTN/Korea Times/Crypto Briefing/Informed Clearly 등)", "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-006", "title": "김여정 '핵보유국 지위 절대불퇴' 담화 — Korea Herald/Indian News Network 후속보도", "url": "https://www.koreaherald.com/article/10765282", "tag": "reported", "related_report": "2026-06-07" },
+    { "id": "src-007", "title": "38 North — 북한 이중전략: 중국 핵보유국 인정이 전략 목표", "url": "https://www.38north.org/2026/06/north-koreas-posturing-toward-china-ahead-of-xis-visit/", "tag": "reported", "related_report": "2026-06-07" },
+    { "id": "src-008", "title": "VOA — 미 국무부 '비핵화 공동목표' 발표", "url": "https://www.voakorea.com/a/xi-visit-to-north-korea-060526/8157680.html", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-009", "title": "CSIS — 시진핑 방북 프리뷰: CRINK 연대·북미대화 중재", "url": "https://www.csis.org/analysis/previewing-xi-jinpings-visit-north-korea-state-play", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-010", "title": "CRS — North Korea's Nuclear Weapons and Missile Programs (IF10472 v41, 5/29)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-06-04" },
+    { "id": "src-011", "title": "日経 — 習近平氏、北朝鮮訪問. 韓国「建設的役割を期待」", "url": "https://www.nikkei.com/article/DGXZQOCB214Q60R20C26A5000000/", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-012", "title": "テレビ朝日/J-CAST — 習近平7年ぶり訪朝, ロシア接近けん制か/北朝鮮の天秤外交", "url": "https://www.j-cast.com/2026/06/02515269.html?p=all", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-013", "title": "澎湃新闻/新浪 — 朝鲜称绝不放弃核武器，中方表态", "url": "https://m.thepaper.cn/newsDetail_forward_33254780", "tag": "reported", "related_report": "2026-06-07" },
+    { "id": "src-014", "title": "VOA中文 — 韩媒称习近平可能最早下周访问朝鲜", "url": "https://www.voachinese.com/a/xi-may-visit-north-korea-next-week-20260521/8152404.html", "tag": "reported", "related_report": "2026-06-06" },
+    { "id": "src-015", "title": "NPR — North Korea unveils a new plant to produce fuel for nuclear weapons (6/4)", "url": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons", "tag": "reported", "related_report": "2026-06-05" },
+    { "id": "src-016", "title": "미한일 등 10개국·EU, 북한 석탄 밀수 선박 제재 지정 촉구 공동성명 (6/1)", "url": "https://www.voakorea.com/a/u-s-south-korea-and-eu-join-joint-statement-calling-for-sanctions-designations-on-vessels-involved-in-north-korean-coal-smuggling-060126/8156096.html", "tag": "reported", "related_report": "2026-06-01" },
+    { "id": "src-017", "title": "Inquirer — What to watch as Xi Jinping heads to Pyongyang for summit with Kim", "url": "https://globalnation.inquirer.net/326459/what-to-watch-as-xi-jinping-heads-to-pyongyang-for-summit-with-kim", "tag": "reported", "related_report": "2026-06-06" }
+  ]
+}
