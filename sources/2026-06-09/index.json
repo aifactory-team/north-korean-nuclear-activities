@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-09",
+  "total": 20,
+  "new": 7,
+  "reported": 10,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "파이낸셜뉴스 — 北中 정상, '윈윈' 회담 마치고 '화려한 작별'…'강력한 밀착' 복원. 공동성명 없이 마무리. 시진핑 9일 귀국 (6/9)", "url": "https://www.fnnews.com/news/202606090502016891", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "오마이뉴스 — 북중, '전략적 동반자' 선언…경제·외교·군사협력 강화 추진. 둥쥔 국방부장·노광철 국방상 배석. 국경통상구 전면 재개통·민항·열차 재개 합의 (6/8-9)", "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003241525&PAGE_CD=N0002&CMPT_CD=M0112", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "뉴스핌 — 방북 시진핑 오늘 귀국...김정은 공항 영접부터 환송까지 전일정 동행 예상. 중조우호탑 방문 (6/9)", "url": "https://www.newspim.com/news/view/20260609000039", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "NBC News — 'Kim Jong Un hosts Xi Jinping from a position of rare strength': 핵보유국 지위 공고, 러시아 협력 성과, 경제 반등으로 강한 위치에서 시진핑 영접 (6/8-9)", "url": "https://www.nbcnews.com/world/asia/kim-jong-un-xi-jinping-north-korea-china-rcna348930", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "뉴스핌 — [뉴스분석] 중국 정상이 '핵보유국' 자처하는 북한을 국빈방문하는 것의 함의: 비핵화 회피가 핵보유국 지위 강화에 미치는 정치·외교적 효과 (6/8)", "url": "https://www.newspim.com/news/view/20260608000003", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "서울경제 — 물류·단체관광 등 실질적 경협 복원…北中 관계회복 속도: 신압록강대교 세관 신설, 원산갈마 관광·평양 관광 재개 전망 (6/9)", "url": "https://www.sedaily.com/article/20052391", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "The Standard (HK) — 'Nuclear standoff, economic dreams: what the Xi-Kim summit means for N Korea and the world': 핵 교착과 경제 꿈의 이중구조 분석 (6/9)", "url": "https://www.thestandard.com.hk/editorial/article/334017/Nuclear-standoff-economic-dreams-what-the-Xi-Kim-summit-means-for-N-Korea-and-the-world", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "파이낸셜뉴스 — 시진핑-김정은, 軍·민간항공·열차 교류 강화 논의...비핵화 언급 없어: 8일 정상회담 상세 내용 (6/8)", "url": "https://www.fnnews.com/news/202606081922329085", "tag": "update", "related_report": "2026-06-08" },
+    { "id": "src-009", "title": "日経 — '習近平氏「中朝の軍隊交流強化を」金正恩氏と首脳会談、平壌で': 중조 군대교류 강화 제기 상세 (6/8)", "url": "https://www.nikkei.com/article/DGXZQOGM086MH0Y6A600C2000000/", "tag": "update", "related_report": "2026-06-08" },
+    { "id": "src-010", "title": "東京新聞 — '習近平主席、金正恩氏と会談 ７年ぶり訪朝、戦略的連携強化': 전략적 연계 강화 합의 (6/8-9)", "url": "https://www.tokyo-np.co.jp/article/493595", "tag": "update", "related_report": "2026-06-08" },
+    { "id": "src-011", "title": "CNN — 'Xi calls for strengthened strategic cooperation with NK in rare summit with Kim' (6/7-8)", "url": "https://www.cnn.com/2026/06/07/asia/china-xi-jinping-north-korea-kim-jong-un-intl-hnk", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-012", "title": "CNBC — 'China's Xi visits NK for first time in seven years as Beijing tests its influence over Kim' (6/8)", "url": "https://www.cnbc.com/2026/06/08/china-xi-jinping-visits-north-korea-trump-summit-nuclear-program-.html", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-013", "title": "Korea Herald — 'Xi arrives in Pyongyang amid renewed focus on China-North Korea relations' (6/8)", "url": "https://www.koreaherald.com/article/10766199", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-014", "title": "Korea Herald — 'China's Xi visits NK for first time in seven years' (6/8)", "url": "https://www.koreaherald.com/article/10766110", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-015", "title": "IBTimes — 'Xi And Kim Push For Increased Cooperation As Beijing And Pyongyang Get Closer' (6/8-9)", "url": "https://www.ibtimes.com/xi-kim-push-increased-cooperation-beijing-pyongyang-get-closer-3803823", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-016", "title": "Washington Times — 'Chinese President Xi arrives in North Korea for rare visit with Kim' (6/8)", "url": "https://www.washingtontimes.com/news/2026/jun/8/chinese-president-xi-jinping-north-korea-rare-visit-kim-jong-un/", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-017", "title": "Korea Times — 'Xi's planned Pyongyang visit reflects China's influence bid, NK's nuclear ambitions' (6/7)", "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260607/xis-planned-pyongyang-visit-reflects-chinas-influence-bid-nks-nuclear-ambitions", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-018", "title": "中国外交部 — 习近平同金正恩举行会谈 (6/8)", "url": "https://www.mfa.gov.cn/zyxw/202606/t20260608_11939783.shtml", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-019", "title": "Al Jazeera — 'China's Xi arrives in North Korea on rare state visit' (6/8)", "url": "https://www.aljazeera.com/news/2026/6/8/chinas-xi-jinping-arrives-in-north-korea-on-rare-state-visit", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-020", "title": "NK News — 'Chinese leader Xi Jinping arrives in North Korea for summit with Kim Jong Un' (6/8)", "url": "https://www.nknews.org/2026/06/chinese-leader-xi-jinping-arrives-in-north-korea-for-summit-with-kim-jong-un/", "tag": "reported", "related_report": "2026-06-08" }
+  ]
+}
