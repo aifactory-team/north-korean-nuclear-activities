@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-10",
+  "total": 23,
+  "new": 9,
+  "reported": 11,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "Korea Herald — 'Xi thanks Kim for fruitful summit': KCNA 보도, 시진핑이 김정은에게 감사 서한 전달. '새로운 역사적 여정' 진입, '심도 있는 의견 교환과 중요한 공동인식' 도달 (6/10)", "url": "https://www.koreaherald.com/article/10767799", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "Korea Herald — 'Summit shows China more focused on countering US influence than curbing N. Korean nukes: experts': 중국의 대북정책이 비핵화 중재자에서 대미 전략적 파트너로 근본적 전환. 양국 발표문에 비핵화 언급 전무 (6/10)", "url": "https://www.koreaherald.com/article/10767793", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "한국일보 — '시진핑 방북, 김정은에 핵 보유 자신감 줬다… 美전문가들 분석': 시드니 사일러 CSIS 선임고문 '중국 대북 영향력 약화', BBC '우정 아닌 레버리지 확보 목적' 분석 (6/9-10)", "url": "https://www.hankookilbo.com/news/article/A2026060909100001068", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "한국일보 — '中 전략적 동반자로 위상 바뀐 김정은... 핵보유 묵인에 안보·경제 협력까지 얻었다': 정상회담 결산 분석, 김정은이 핵보유 묵인+안보+경제 3대 성과 확보 (6/9-10)", "url": "https://www.hankookilbo.com/news/article/A2026060915440000842", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "헤럴드경제/SCMP — '시진핑 방북, 北 군사력 증강 간접적으로 촉진할 것': 임을출 경남대 교수 '중국이 북한 군사력을 대미·대일 전략적으로 활용 결론'. 최현급 구축함에 러시아 기술 지원 가능성 (6/9-10)", "url": "https://biz.heraldcorp.com/article/10767463", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "VOA Korean — '유엔 제재 권고 선박, 한국에 정박…억류 가능성': 대북제재 위반 혐의 PRADA호(SOPHIA호), 3월 13일 이후 평택항 정박 중. 10개국+EU 공동성명 7척 지정 촉구 관련 (6/9)", "url": "https://www.voakorea.com/a/sanction-nominated-vessel-in-korea-20260609/8158984.html", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "VOA Korean/문화일보 — '북한, 중국 유조선 취득 정황 포착…안보리 결의 위반 가능성': 후항유8호 958t 유조선, 북한 선적 전환 후 남포 방향 이동. 안보리 결의 2321·2397호 위반 (6/9)", "url": "https://www.voakorea.com/a/north-korea-suspected-of-acquiring-chinese-oil-tanker-raising-questions-of-u-n-sanctions-violations-20260604/8157378.html", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "CSMonitor — 'What Xi and Kim gained from their summit in North Korea': 시진핑은 안정, 김정은은 영향력 추구. 중국 비핵화 용어 공식 회담 요약에서 삭제. 핵보유국 지위 수용 추구 (6/9)", "url": "https://www.csmonitor.com/World/Asia-Pacific/2026/0609/xi-jinping-pyongyang-kim-jong-un-summit", "tag": "new", "related_report": null },
+    { "id": "src-009", "title": "서울경제 — '美 전문가들 시진핑 방북, 북핵 성과 기대 낮아': 미국 전문가들 중국의 비핵화 중재 가능성 낮다고 평가 (6/10)", "url": "https://www.sedaily.com/article/20052730", "tag": "new", "related_report": null },
+    { "id": "src-010", "title": "파이낸셜뉴스 — '시진핑 북핵 침묵속 양국 군사 밀착… 항미원조 부활하나': 국방장관 배석 회담의 군사적 함의, 항미원조(援朝) 프레임 분석, 3국군 가능성 (6/9)", "url": "https://www.fnnews.com/news/202606091853442148", "tag": "update", "related_report": "2026-06-09" },
+    { "id": "src-011", "title": "파이낸셜뉴스 — '비핵화 빠진 북중 회담…북미대화서 김정은, 강경 태도 우려': 요미우리 분석 인용, 향후 북미대화 시 김정은 강경 태도 전망 (6/9)", "url": "https://www.fnnews.com/news/202606091109333462", "tag": "update", "related_report": "2026-06-09" },
+    { "id": "src-012", "title": "파이낸셜뉴스 — '외교부, 북핵 빠진 북중 정상회담에 비핵화는 일관된 목표…中측과 긴밀 소통': 한국 외교부 공식 대응 (6/9)", "url": "https://www.fnnews.com/news/202606091548160555", "tag": "update", "related_report": "2026-06-09" },
+    { "id": "src-013", "title": "파이낸셜뉴스 — '中, 핵 한마디도 없이 北 핵보유국 묵인…날개 단 북한' (6/9)", "url": "https://www.fnnews.com/news/202606091439442548", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-014", "title": "한국일보 사설 — '북핵 묵인, 국제 제재 무력화 우려 높인 시진핑 방북' (6/10)", "url": "https://www.hankookilbo.com/news/article/A2026060915570002870", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-015", "title": "서울경제 사설 — '비핵화 빠진 북중 정상회담… 한미 북핵 공조 흔들림 없어야' (6/10)", "url": "https://www.sedaily.com/article/20053740", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-016", "title": "VOA Korean — '시진핑, 7년 만의 방북 마무리… 비핵화 언급 없이 북중 전략적 협력 재확인' (6/9)", "url": "https://www.voakorea.com/a/xi-jinping-north-korea-20260609/8158982.html", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-017", "title": "Korea Herald — 'Kim, Xi vow stronger North Korea-China ties, silent on denuclearization' (6/9)", "url": "https://www.koreaherald.com/article/10767475", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-018", "title": "UPI — 'Xi, Kim pledge deeper ties as North Korea visit ends' (6/9)", "url": "https://www.upi.com/Top_News/World-News/2026/06/09/China-Xi-Jinping-visit-North-Korea-Kim-Jong-Un-summit/7451780998315/", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-019", "title": "日経 — '習近平氏の訪朝は「歴史的な契機」 北朝鮮メディア、大々的に報道' (6/9)", "url": "https://www.nikkei.com/article/DGXZQOGM090MC0Z00C26A6000000/", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-020", "title": "VOA中文 — '中朝关系果真牢不可破？习近平到底为什么访问朝鲜？' (6/9)", "url": "https://www.voachinese.com/amp/are-the-ties-between-china-and-north-korea-really-unbreakable-20260609/8158983.html", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-021", "title": "UPI — 'South Korean lawmaker says North Korea evaded U.N. sanctions': 석탄 150만t 불법수출, 정제유 상한 7배 초과 (6/7)", "url": "https://www.upi.com/Top_News/World-News/2026/06/07/north-korea-sanction-un-mineral-export/4201780871223/", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-022", "title": "NPR — 'Xi and Kim express hopes for greater ties between China and North Korea' (6/8)", "url": "https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-023", "title": "헤럴드경제 — '中, 北 전략적 가치 재평가 대미견제카드 활용' (6/9-10)", "url": "https://biz.heraldcorp.com/article/10767177", "tag": "reported", "related_report": "2026-06-09" }
+  ]
+}
