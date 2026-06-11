@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-11",
+  "total": 18,
+  "new": 7,
+  "reported": 8,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "Korea Times — 'S. Korean, EU leaders condemn illegal military cooperation between N. Korea, Russia': 이재명-EU 정상 공동성명, 북러 불법 군사협력 규탄·NPT상 핵보유국 인정 불가·IAEA 안전조치 준수 촉구 (6/11)", "url": "https://www.koreatimes.co.kr/world/20260611/s-korean-eu-leaders-condemn-illegal-military-cooperation-between-n-korea-russia", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "한국일보 — '이 대통령-EU 정상 \"北, 핵보유국 결코 인정 안 돼... 북러 불법 군사협력 강력 규탄\"': 제11차 한-EU 정상회담 공동성명 상세 (6/10)", "url": "https://www.hankookilbo.com/news/article/A2026061021360001846", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "NPR — 'China re-centers North Korea ties as nuclear silence reshapes balance': 시진핑 방북 종합 분석, 핵 침묵이 균형을 재편, 중국 대북관계 재중심화 (6/10)", "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "Seoul Economic Daily (EN) — 'With China and Russia at Its Back, North Korea Pushes Nuclear-Economy Dual Track': 북한 핵-경제 병진 노선 재가동, 중러 배경으로 핵 강화+경제 발전 동시 추구 (6/10)", "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "KEIA — 'Why the Prospect of a U.S.-North Korea Summit in November Is Uncertain': 11월 APEC 계기 북미 정상회담 불투명, 이란 핵협상 변수, 중국 비핵화 사실상 포기 (6월)", "url": "https://keia.org/analysis/why-the-prospect-of-a-u-s-north-korea-summit-in-november-is-uncertain/", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "KEIA — 'Xi's North Korea Visit Puts a Trump-Kim Summit Back in Play': 시진핑 방북이 트럼프-김정은 정상회담 가능성 재부상시킴 (6월)", "url": "https://keia.org/analysis/xis-north-korea-visit-puts-a-trump-kim-summit-back-in-play/", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "Indo-Pacific Defense Forum — 'New road bridge gives North Korea, Russia leverage over China': 두만강 교량 6/19 개통 예정, 러-북 최초 직접 도로 연결, 대중 레버리지 확보. Edward Howell '군사물자 이동 경로' (6월)", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/", "tag": "new", "related_report": null },
+    { "id": "src-008", "title": "Seoul Economic Daily (EN) — 'Korea, EU Condemn North Korea's Support for Russia, Reject Nuclear State Status': 한-EU 정상회담 공동성명 영문 보도 (6/10)", "url": "https://en.sedaily.com/finance/2026/06/10/korea-eu-condemn-north-koreas-support-for-russia-reject", "tag": "update", "related_report": "2026-06-11" },
+    { "id": "src-009", "title": "AP/Military.com — 'Analysis: Chinese President Xi's Silence on Nuclear Arms Is a Gift to North Korea's Kim Jong Un': AP 통신 종합 분석, 2019년 비핵화 언급과 2026년 침묵 대비 (6/10)", "url": "https://www.military.com/analysis-chinese-president-xis-silence-on-nuclear-arms-is-a-gift-to-north-koreas-kim-jong-un", "tag": "update", "related_report": "2026-06-10" },
+    { "id": "src-010", "title": "Japan Times — 'What was left unsaid may be biggest takeaway from Xi-Kim summit': 비핵화 미언급이 정상회담 최대 시사점, 2019년 대비 구조적 변화 (6/9)", "url": "https://www.japantimes.co.jp/news/2026/06/09/asia-pacific/politics/north-korea-china-xi-kim-nukes-analysis/", "tag": "update", "related_report": "2026-06-10" },
+    { "id": "src-011", "title": "파이낸셜뉴스 — '최대 무역블록 EU와 밀착… 공급망·디지털·안보 파트너십': 이재명 유럽순방 종합 (6/10)", "url": "https://www.fnnews.com/news/202606102131067342", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-012", "title": "Korea Herald — 'Summit shows China more focused on countering US influence than curbing NK nukes: experts' (후속 기사 10767883) (6/10)", "url": "https://www.koreaherald.com/article/10767883", "tag": "reported", "related_report": "2026-06-10" },
+    { "id": "src-013", "title": "AEI — 'Korean Peninsula Update, June 9, 2026': 시진핑 방북 종합, 핵물질공장, 북미외교 전망 (6/9)", "url": "https://www.aei.org/articles/korean-peninsula-update-june-9-2026/", "tag": "reported", "related_report": "2026-06-10" },
+    { "id": "src-014", "title": "Seoul Economic Daily (EN) — 'After Russia, North Korea Gains China as Backer for Nuclear, Economic Safeguard' (6/9)", "url": "https://en.sedaily.com/finance/2026/06/09/after-russia-north-korea-gains-china-as-backer-for-nuclear", "tag": "reported", "related_report": "2026-06-10" },
+    { "id": "src-015", "title": "Bush Center — 'Chances of a U.S.-North Korea summit fade as Kim Jong Un doubles down on Russia, China alliances'", "url": "https://www.bushcenter.org/publications/chances-of-a-u-s-north-korea-summit-fade-as-kim-jong-un-doubles-down-on-russia-china-alliances", "tag": "reported", "related_report": "2026-06-10" },
+    { "id": "src-016", "title": "VOA中文 — '中朝关系果真牢不可破？习近平到底为什么访问朝鲜？' (6/9)", "url": "https://www.voachinese.com/amp/are-the-ties-between-china-and-north-korea-really-unbreakable-20260609/8158983.html", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-017", "title": "RFA — 'Satellite imagery shows new North Korea-Russia bridge nearing completion' (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-06-09" },
+    { "id": "src-018", "title": "전국인력신문 — '중러, 대북 공동 성명서 비핵화 언급 삭제… 한반도 비핵화 공동 전선 균열 우려' (6/1)", "url": "https://www.kjob.news/news/494756", "tag": "reported", "related_report": "2026-06-09" }
+  ]
+}

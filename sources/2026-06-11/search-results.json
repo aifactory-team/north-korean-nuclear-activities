@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-11",
+  "collected_at": "2026-06-11T00:00:00Z",
+  "search_count": 12,
+  "total_results": 38,
+  "searches": [
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 핵활동 2026년 6월 11일",
+      "language": "ko",
+      "timestamp": "2026-06-11T00:01:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "이 대통령-EU 정상 \"北, 핵보유국 결코 인정 안 돼... 북러 불법 군사협력 강력 규탄\"", "url": "https://www.hankookilbo.com/news/article/A2026061021360001846", "snippet": "이재명 대통령이 10일(현지시간) 벨기에 브뤼셀에서 제11차 한-EU 정상회담을 열고 공동성명 발표. 북한을 NPT상 핵보유국으로 인정 불가, 북러 불법 군사협력 강력 규탄", "source_name": "한국일보" },
+        { "title": "유럽에서 북한에 톤 높인 정부…당장 실익은 '대북 접촉보다 외교' 판단", "url": "https://v.daum.net/v/20260610225948107", "snippet": "이재명 대통령 유럽 순방 중 한-EU 정상회담에서 북한 문제에 강경한 메시지 전달. 북러 군사협력 규탄 및 비핵화 의지 재확인", "source_name": "다음뉴스" },
+        { "title": "최대 무역블록 EU와 밀착… 공급망·디지털·안보 파트너십 [李대통령 유럽 순방]", "url": "https://www.fnnews.com/news/202606102131067342", "snippet": "이재명 대통령 유럽 순방에서 EU와 안보 파트너십 강화. 한-EU 공동성명에서 북한 핵보유국 지위 인정 불가, 북러 군사협력 규탄 명시", "source_name": "파이낸셜뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 제재 비핵화 2026년 6월",
+      "language": "ko",
+      "timestamp": "2026-06-11T00:02:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "중러, 대북 공동 성명서 비핵화 언급 삭제… 한반도 비핵화 공동 전선 균열 우려", "url": "https://www.kjob.news/news/494756", "snippet": "시진핑-푸틴 정상회담 공동성명에서 한반도 비핵화 단 한 차례도 언급하지 않음. KINU 이재영 연구위원 분석 포함", "source_name": "전국인력신문" },
+        { "title": "\"5년 안에 2.5배로 늘려라\"...김정은이 지시한 '미사일 폭풍 증산' 속셈 보니", "url": "https://car.withnews.kr/military/north-korea-missile-output", "snippet": "김정은의 미사일 생산 2.5배 확대 지시의 전략적 분석. 비대칭적 비용 압박과 요격체계 무력화 의도", "source_name": "위드뉴스" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "북한 미사일 핵무기 2026년 6월",
+      "language": "ko",
+      "timestamp": "2026-06-11T00:03:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "북한 핵무기 2026 — 2021년 이후 북한의 핵무기 개발 5년 총결", "url": "https://www.pssp.org/bbs/view.php?board=j2021&nid=10591&page=1&category1=431", "snippet": "사회진보연대 기관지의 북한 핵무기 5년 총결 분석", "source_name": "사회진보연대" },
+        { "title": "2026년 북한 미사일 도발", "url": "https://namu.wiki/w/2026%EB%85%84%20%EB%B6%81%ED%95%9C%20%EB%AF%B8%EC%82%AC%EC%9D%BC%20%EB%8F%84%EB%B0%9C", "snippet": "2026년 북한 미사일 도발 종합 기록", "source_name": "나무위키" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea nuclear June 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:04:00Z",
+      "result_count": 5,
+      "results": [
+        { "title": "Korean Peninsula Update, June 9, 2026", "url": "https://www.aei.org/articles/korean-peninsula-update-june-9-2026/", "snippet": "AEI 한반도 업데이트: 시진핑 방북 6/8-9 요약, 핵물질생산공장 공개, 북미 외교 전망", "source_name": "AEI" },
+        { "title": "With China and Russia at Its Back, North Korea Pushes Nuclear-Economy Dual Track", "url": "https://en.sedaily.com/politics/2026/06/10/with-china-and-russia-at-its-back-north-korea-pushes", "snippet": "North Korea focuses on dual-track policy of strengthening nuclear forces and pursuing economic development. China's tacit acceptance of nuclear arsenal", "source_name": "Seoul Economic Daily (English)" },
+        { "title": "After Russia, North Korea Gains China as Backer for Nuclear, Economic Safeguard", "url": "https://en.sedaily.com/finance/2026/06/09/after-russia-north-korea-gains-china-as-backer-for-nuclear", "snippet": "North Korea secured 'strategic backer' in China following Russia. Focus on nuclear forces and economic development as core goals", "source_name": "Seoul Economic Daily (English)" },
+        { "title": "Korea, EU Condemn North Korea's Support for Russia, Reject Nuclear State Status", "url": "https://en.sedaily.com/finance/2026/06/10/korea-eu-condemn-north-koreas-support-for-russia-reject", "snippet": "Korea-EU 11th summit: condemn North Korea's support for Russia, reject nuclear state status under NPT, urge full compliance with IAEA safeguards", "source_name": "Seoul Economic Daily (English)" },
+        { "title": "Summit shows China more focused on countering US influence than curbing NK nukes: experts", "url": "https://www.koreaherald.com/article/10767883", "snippet": "Korea Herald follow-up analysis on China's summit focus: countering US influence rather than curbing NK nukes", "source_name": "Korea Herald" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "DPRK missile sanctions June 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:05:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "DPRK (North Korea), May 2026 Monthly Forecast", "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-05/dprk-north-korea-34.php", "snippet": "Security Council Report monthly forecast on DPRK sanctions", "source_name": "Security Council Report" },
+        { "title": "Joint Statement on DPRK Sanctions Accountability", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability/", "snippet": "10개국+EU 공동성명 7척 제재 지정 촉구 (5/29)", "source_name": "US State Department" },
+        { "title": "S. Korea, US, other countries call for designation of vessels over NK sanctions breaches", "url": "https://www.koreatimes.co.kr/world/20260530/s-korea-us-other-countries-call-for-designation-of-vessels-over-nk-sanctions-breaches", "snippet": "한미 등 다수국, 북한 제재 위반 선박 지정 촉구", "source_name": "Korea Times" },
+        { "title": "Sanctions to Disrupt DPRK IT Worker Schemes Defrauding U.S. Businesses", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctions-to-disrupt-dprk-it-worker-schemes-defrauding-u-s-businesses", "snippet": "미국, 북한 IT노동자 사기 적발 제재 부과 (3월)", "source_name": "US State Department" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "North Korea denuclearization China summit aftermath 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:06:00Z",
+      "result_count": 6,
+      "results": [
+        { "title": "China re‑centers North Korea ties as nuclear silence reshapes balance", "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties", "snippet": "NPR comprehensive analysis: Xi's nuclear silence, Kim's strategic success, China re-centering NK ties amid US competition", "source_name": "NPR" },
+        { "title": "What was left unsaid may be biggest takeaway from Xi-Kim summit", "url": "https://www.japantimes.co.jp/news/2026/06/09/asia-pacific/politics/north-korea-china-xi-kim-nukes-analysis/", "snippet": "Japan Times analysis: 비핵화 미언급이 정상회담의 최대 시사점. 2019년과 2026년 대비", "source_name": "Japan Times" },
+        { "title": "Analysis: Chinese President Xi's Silence on Nuclear Arms Is a Gift to North Korea's Kim Jong Un", "url": "https://www.military.com/analysis-chinese-president-xis-silence-on-nuclear-arms-is-a-gift-to-north-koreas-kim-jong-un", "snippet": "AP analysis distributed via Military.com: Xi's silence is a gift to Kim. 2019년 비핵화 언급과 2026년 침묵 대비", "source_name": "Military.com/AP" },
+        { "title": "Why the Prospect of a U.S.-North Korea Summit in November Is Uncertain", "url": "https://keia.org/analysis/why-the-prospect-of-a-u-s-north-korea-summit-in-november-is-uncertain/", "snippet": "KEIA analysis: APEC 11월 계기 북미 정상회담 전망 불투명. 중국 비핵화 포기, 이란 핵협상 변수", "source_name": "KEIA" },
+        { "title": "Xi's North Korea Visit Puts a Trump-Kim Summit Back in Play", "url": "https://keia.org/analysis/xis-north-korea-visit-puts-a-trump-kim-summit-back-in-play/", "snippet": "KEIA: 시진핑 방북이 트럼프-김정은 정상회담 가능성을 재부상시킴", "source_name": "KEIA" },
+        { "title": "Chances of a U.S.-North Korea summit fade as Kim Jong Un doubles down on Russia, China alliances", "url": "https://www.bushcenter.org/publications/chances-of-a-u-s-north-korea-summit-fade-as-kim-jong-un-doubles-down-on-russia-china-alliances", "snippet": "Bush Center: 북미 정상회담 전망 약화. 김정은 러시아·중국 동맹에 집중", "source_name": "Bush Center" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "北朝鮮 核 ミサイル 2026年6月",
+      "language": "ja",
+      "timestamp": "2026-06-11T00:07:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "北朝鮮核・ミサイルリスクの総合分析 最終報告書", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "snippet": "日本国際問題研究所(JIIA) 北朝鮮核・ミサイルリスク総合分析最終報告書", "source_name": "JIIA" },
+        { "title": "What was left unsaid may be biggest takeaway from Xi-Kim summit", "url": "https://www.japantimes.co.jp/news/2026/06/09/asia-pacific/politics/north-korea-china-xi-kim-nukes-analysis/", "snippet": "Japan Times: 習近平氏の沈黙が最大の収穫. 非核化言及なしが定着", "source_name": "Japan Times" },
+        { "title": "北朝鮮の核戦力、米ミサイル防衛網を上回る規模に接近", "url": "https://www.bloomberg.com/jp/news/features/2026-05-01/TEC616KGCTGR00", "snippet": "Bloomberg: 北朝鮮の核戦力が米ミサイル防衛を上回る規模に接近", "source_name": "Bloomberg Japan" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "朝鲜核试验 朝鲜导弹 2026年6月",
+      "language": "zh",
+      "timestamp": "2026-06-11T00:08:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "联合国：朝鲜推进核导与导弹计划令人关切 呼吁通过对话实现无核化", "url": "https://news.un.org/zh/story/2026/04/1142055", "snippet": "联合国关注朝鲜核与导弹计划推进, 呼吁对话实现无核化", "source_name": "联合国新闻" },
+        { "title": "中朝关系果真牢不可破？习近平到底为什么访问朝鲜？", "url": "https://www.voachinese.com/amp/are-the-ties-between-china-and-north-korea-really-unbreakable-20260609/8158983.html", "snippet": "VOA中文: 中朝关系分析, 习近平访朝原因深度解读", "source_name": "VOA中文" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Korea EU condemn North Korea reject nuclear state June 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:09:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "S. Korean, EU leaders condemn illegal military cooperation between N. Korea, Russia", "url": "https://www.koreatimes.co.kr/world/20260611/s-korean-eu-leaders-condemn-illegal-military-cooperation-between-n-korea-russia", "snippet": "Korea Times 6/11: 한-EU 정상 북러 불법 군사협력 강력 규탄. 공동성명 채택", "source_name": "Korea Times" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Russia North Korea Tuman River bridge opening June 19 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:10:00Z",
+      "result_count": 4,
+      "results": [
+        { "title": "New road bridge gives North Korea, Russia leverage over China", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/", "snippet": "Indo-Pacific Defense Forum: 두만강 교량이 북러에 대중 레버리지 제공. 6/19 개통 예정. 일 300대 2850명 처리 가능", "source_name": "Indo-Pacific Defense Forum" },
+        { "title": "Satellite imagery shows new North Korea-Russia bridge nearing completion", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "snippet": "RFA: 위성사진으로 확인된 북러 두만강 교량 완공 임박 (5/21)", "source_name": "RFA" },
+        { "title": "A Historic First: Moscow Opens Direct Land Bridge Between Russia and North Korea in Major Post-Ukraine Power Move", "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/", "snippet": "Indian Defence Review: 역사적 최초 러-북 직접 도로 연결. $120M+ 투자", "source_name": "Indian Defence Review" },
+        { "title": "Russia and North Korea complete connection of 1st cross-border bridge", "url": "https://www.plataformamedia.com/en/2026/04/23/russia-north-korea-road-bridge-completione/", "snippet": "Plataforma: 러-북 최초 국경 교량 연결 완료 (4/23)", "source_name": "Plataforma" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "KEIA Xi North Korea visit Trump Kim summit 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:11:00Z",
+      "result_count": 3,
+      "results": [
+        { "title": "Xi's North Korea Visit Puts a Trump-Kim Summit Back in Play", "url": "https://keia.org/analysis/xis-north-korea-visit-puts-a-trump-kim-summit-back-in-play/", "snippet": "KEIA: 시진핑 방북으로 트럼프-김정은 정상회담 가능성 재부상", "source_name": "KEIA" },
+        { "title": "Why the Prospect of a U.S.-North Korea Summit in November Is Uncertain", "url": "https://keia.org/analysis/why-the-prospect-of-a-u-s-north-korea-summit-in-november-is-uncertain/", "snippet": "KEIA: 11월 북미 정상회담 전망 불투명. 이란 핵협상 변수, 중국 비핵화 포기", "source_name": "KEIA" },
+        { "title": "Chances of a U.S.-North Korea summit fade as Kim Jong Un doubles down on Russia, China alliances", "url": "https://www.bushcenter.org/publications/chances-of-a-u-s-north-korea-summit-fade-as-kim-jong-un-doubles-down-on-russia-china-alliances", "snippet": "Bush Center: 러시아·중국 동맹 강화로 북미 정상회담 전망 약화", "source_name": "Bush Center" }
+      ]
+    },
+    {
+      "method": "websearch",
+      "engine": "built-in",
+      "keyword": "Indo-Pacific Defense Forum road bridge North Korea Russia leverage China 2026",
+      "language": "en",
+      "timestamp": "2026-06-11T00:12:00Z",
+      "result_count": 2,
+      "results": [
+        { "title": "New road bridge gives North Korea, Russia leverage over China", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/", "snippet": "두만강 자동차 교량 6/19 개통. 러-북 최초 직접 도로 연결. 일 300대·2850명 처리. Edward Howell Chatham House '군사물자 이동 경로'", "source_name": "Indo-Pacific Defense Forum" },
+        { "title": "Satellite imagery shows new North Korea-Russia bridge nearing completion", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "snippet": "위성사진으로 확인된 두만강 교량 완공 임박. 하산-두만강 연결", "source_name": "RFA" }
+      ]
+    }
+  ]
+}
