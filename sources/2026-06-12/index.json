@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-12",
+  "total": 17,
+  "new": 6,
+  "reported": 8,
+  "update": 3,
+  "items": [
+    { "id": "src-001", "title": "뉴스핌 — '한미, 제6차 NCG서 핵·재래식 통합 고도화… 북핵 억제 실행력 끌어올린다': 6/11 서울 NCG 회의, NCG 보안지침 서명, 핵·재래식 통합(CNI) 고도화, 비핵화 공동목표 확인 (6/11)", "url": "https://www.newspim.com/news/view/20260611001200", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "US News — 'US, South Korea Hold Nuclear Deterrence Talks as North Korea Expands Arms Push': 제6차 NCG 영문 보도, Kim Hong-cheol·Robert Soofer 공동주관, 핵억제·대비태세 강화 논의 (6/11)", "url": "https://www.usnews.com/news/world/articles/2026-06-11/us-south-korea-hold-nuclear-deterrence-talks-as-north-korea-expands-arms-push", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "IAEA — 'Director General's Introductory Statement to the Board of Governors (8 June 2026)': 그로시 사무총장 이사회 발언, 영변 5MW 원자로 7차 조사주기 운전, 경수로 재가동, 강선·영변 농축 '심각한 우려', 신규 건물 관측 (6/8)", "url": "https://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-board-of-governors-8-june-2026", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "서울경제 — '北, 보란 듯 영변 한가운데 핵시설 확장…우라늄 농축 능력 75% 확대': WSJ/Vertic 인용, 영변 신설 시설 원심분리기 9000기, 연간 HEU 160kg 추가 생산 가능, 현재 215kg에서 75% 증가 (6/11)", "url": "https://www.sedaily.com/article/20054516", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "아주경제 — '北, 영변 신규 핵시설로 우라늄 농축 능력 75% 확대 가능성': Vertic 분석 인용, 18개월 건설, 최대규모 농축시설 전망 (6/11)", "url": "https://www.ajunews.com/view/20260611131417465", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "SIPRI — 'From deadlock to dialogue on the Korean Peninsula: It is time to revisit the idea of North East Asian regional security talks': 동북아 지역안보회담 재추진 제안, 비핵화 교착 돌파 대안 모색 (6월)", "url": "https://www.sipri.org/commentary/topical-backgrounder/2026/deadlock-dialogue-korean-peninsula-it-time-revisit-idea-north-east-asian-regional-security-talks", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "VOA Korean — '미한 핵협의그룹, 북한 비핵화 목표 재확인': NCG 공동언론성명 한국어 보도 (6/11)", "url": "https://www.voakorea.com/a/8159858.html", "tag": "update", "related_report": "2026-06-11" },
+    { "id": "src-008", "title": "헤럴드경제 — '한미 NCG 개최…北 비핵화 공동목표 확인': NCG 결과 한국어 보도 (6/11)", "url": "https://biz.heraldcorp.com/article/10769971", "tag": "update", "related_report": "2026-06-11" },
+    { "id": "src-009", "title": "US Mission Vienna — 'U.S. Statement – Agenda Item 5d – IAEA Board of Governors Meeting – June 2026': 미국 대표부 IAEA 이사회 성명, DPRK 안전조치 관련 (6/8-12)", "url": "https://vienna.usmission.gov/u-s-statement-agenda-item-5d-iaea-board-of-governors-meeting-june-2026/", "tag": "update", "related_report": "2026-06-12" },
+    { "id": "src-010", "title": "Bloomberg — 'North Korea Will Never Get Nuclear Recognition, EU, Seoul Say': 한-EU 핵보유국 인정 불가 영문 보도 (6/11)", "url": "https://www.bloomberg.com/news/articles/2026-06-11/north-korea-will-never-get-nuclear-recognition-eu-seoul-say", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-011", "title": "서울경제 — '시진핑 묵인속, 영변 핵시설 당당히 공개한 김정은...우라늄 농축 75% 늘렸다' (6/11)", "url": "https://www.sedaily.com/article/20054443", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-012", "title": "NK News — 'IAEA chief voices serious concern about North Korea's new nuclear facility' (6월)", "url": "https://www.nknews.org/2026/06/iaea-chief-voices-serious-concern-about-north-koreas-new-nuclear-facility/", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-013", "title": "Indian Defence Review — 'A Historic First: Moscow Opens Direct Land Bridge Between Russia and North Korea' (6월)", "url": "https://indiandefencereview.com/russia-north-korea-road-bridge-tumen-river-2026/", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-014", "title": "Indo-Pacific Defense Forum — 'New road bridge gives North Korea, Russia leverage over China' (6월)", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-015", "title": "US State Department — 'Joint Statement on DPRK Sanctions Accountability': 10개국+EU 공동성명, 해양 제재 위반 (5/29)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability/", "tag": "reported", "related_report": "2026-06-10" },
+    { "id": "src-016", "title": "NPR — 'China re-centers North Korea ties as nuclear silence reshapes balance' (6/10)", "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-017", "title": "KEIA — 'Why the Prospect of a U.S.-North Korea Summit in November Is Uncertain' (6월)", "url": "https://keia.org/analysis/why-the-prospect-of-a-u-s-north-korea-summit-in-november-is-uncertain/", "tag": "reported", "related_report": "2026-06-11" }
+  ]
+}
