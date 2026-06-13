@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-13",
+  "total": 19,
+  "new": 5,
+  "reported": 10,
+  "update": 4,
+  "items": [
+    { "id": "src-001", "title": "VOA Korean — '핵 전문가들 \"북한, 5년 내 핵탄두 최대 110기 가능...연간 최대 10기 생산 역량 보유\"': 올리 하이노넨(Stimson)·데이비드 올브라이트(ISIS) 분석, 현재 약 60기, 연간 5~10기 추가 생산, 5년 내 85~110기 가능 (6/10)", "url": "https://www.voakorea.com/a/nuclear-experts-north-korea-could-have-up-to-110-nuclear-warheads-within-5-years-061026/8159324.html", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "오마이뉴스 — '비핵화는 왜 다시 한미 핵협의그룹에 등장했나': NCG 공동성명에 비핵화가 재등장한 배경 분석, 한-EU 선언·NCG 보안지침 서명의 연계 (6/12)", "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003242632&PAGE_CD=N0002&CMPT_CD=M0117", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "VERTIC — 'Analysis of a New DPRK Enrichment Facility': Yongbyon-J 시설 상세 분석, 원심분리기 9000기, HEU 160kg/년 추가, 66 cascades, 누적 HEU 2.4~2.5톤(2026년 말), 2026년 내 생산 개시 전망 (6월)", "url": "https://www.vertic.org/2026/06/analysis-of-a-new-dprk-enrichment-facility/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "SIPRI Yearbook 2026 — 'Increasing focus on nuclear weapons amid heightened escalation risks': 전세계 12,187 핵탄두, 북한 약 60기 핵탄두 + 90기분 핵물질, 핵무장국 현대화 가속 (6/8 발간)", "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "Army Recognition — 'North Korea Plans 12 Nuclear-Armed Destroyers by 2030 After Choe Hyon Missile Test': 최현호급 핵무장 구축함 12척 2030년까지 건조 계획, 3·4번함 건조 중 확인 (6월)", "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-12-nuclear-armed-destroyers-by-2030-after-choe-hyon-missile-test", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "SPN 서울평양뉴스 — '美전문가들 \"北, 핵탄두 보유량 5년 이내 110기 가능\"': VOA 보도 인용, 하이노넨·올브라이트 분석 (6/10)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=107976", "tag": "update", "related_report": "2026-06-13" },
+    { "id": "src-007", "title": "아주경제 — '제6차 한미 핵협의그룹 회의…美 모든 능력 활용해 북핵 억제': NCG 상세 후속보도, 미국 확장억제 공약 강조 (6/11)", "url": "https://www.ajunews.com/view/20260611185016221", "tag": "update", "related_report": "2026-06-12" },
+    { "id": "src-008", "title": "한국일보 — '제6차 한미 핵협의그룹 회의 개최… 북한 비핵화 공동목표 명시': NCG 공동언론성명 상세 (6/11)", "url": "https://www.hankookilbo.com/news/article/A2026061118360001000", "tag": "update", "related_report": "2026-06-12" },
+    { "id": "src-009", "title": "Worthy Christian News — 'North Korea's Uranium Capacity Could Jump 75% With New Yongbyon Facility': Vertic 분석 영문 보도 (6월)", "url": "https://www.worthynews.com/114968-north-koreas-uranium-capacity-could-jump-75-with-new-yongbyon-facility", "tag": "update", "related_report": "2026-06-12" },
+    { "id": "src-010", "title": "뉴스핌 — '한미, 제6차 NCG서 핵·재래식 통합 고도화… 북핵 억제 실행력 끌어올린다' (6/11)", "url": "https://www.newspim.com/news/view/20260611001200", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-011", "title": "US News — 'US, South Korea Hold Nuclear Deterrence Talks as North Korea Expands Arms Push' (6/11)", "url": "https://www.usnews.com/news/world/articles/2026-06-11/us-south-korea-hold-nuclear-deterrence-talks-as-north-korea-expands-arms-push", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-012", "title": "IAEA — 'Director General's Introductory Statement to the Board of Governors (8 June 2026)' (6/8)", "url": "https://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-board-of-governors-8-june-2026", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-013", "title": "서울경제 — '北, 보란 듯 영변 한가운데 핵시설 확장…우라늄 농축 능력 75% 확대' (6/11)", "url": "https://www.sedaily.com/article/20054516", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-014", "title": "SIPRI — 'From deadlock to dialogue on the Korean Peninsula' (6월)", "url": "https://www.sipri.org/commentary/topical-backgrounder/2026/deadlock-dialogue-korean-peninsula-it-time-revisit-idea-north-east-asian-regional-security-talks", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-015", "title": "Bloomberg — 'North Korea Will Never Get Nuclear Recognition, EU, Seoul Say' (6/11)", "url": "https://www.bloomberg.com/news/articles/2026-06-11/north-korea-will-never-get-nuclear-recognition-eu-seoul-say", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-016", "title": "VOA Korean — '미한 핵협의그룹, 북한 비핵화 목표 재확인' (6/11)", "url": "https://www.voakorea.com/a/8159858.html", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-017", "title": "헤럴드경제 — '한미 NCG 개최…北 비핵화 공동목표 확인' (6/11)", "url": "https://biz.heraldcorp.com/article/10769971", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-018", "title": "Defense Magazine — 'North Korea's Irreversible Nuclear Doctrine: From Deterrence to Dominant Strategy in 2026' (6월)", "url": "https://www.defensemagazine.com/article/north-koreas-irreversible-nuclear-doctrine-from-deterrence-to-dominant-strategy-in-2026", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-019", "title": "US Mission Vienna — 'U.S. Statement – Agenda Item 5d – IAEA Board of Governors Meeting – June 2026' (6/9)", "url": "https://vienna.usmission.gov/u-s-statement-agenda-item-5d-iaea-board-of-governors-meeting-june-2026/", "tag": "reported", "related_report": "2026-06-12" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "src-003",
+  "title": "Analysis of a New DPRK Enrichment Facility",
+  "url": "https://www.vertic.org/2026/06/analysis-of-a-new-dprk-enrichment-facility/",
+  "snippet": "VERTIC의 Yongbyon-J 신규 농축시설 직접 분석 보고서. 원심분리기 약 9,000기 설치 추정, 연간 HEU 약 160kg 추가 생산 가능. 기존 연간 약 215kg에 추가 시 75% 증가. 2층 구조 해석 시 총 66 cascades. 2026년 내 생산 개시 전망. 2026년 말 누적 HEU 비축량 약 2.4~2.5톤 도달 가능. 2024년 12월 착공, 약 18개월 건설.",
+  "source_name": "VERTIC",
+  "language": "en",
+  "discovered_date": "2026-06-13",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에서 VERTIC 분석이 WSJ/서울경제/아주경제를 통해 간접 인용되었으나(src-004/005 in 6/12), VERTIC 직접 보고서 URL은 신규. HEU 누적 비축량 2.4~2.5톤, cascades 수 등 추가 상세 정보 포함."
+}
