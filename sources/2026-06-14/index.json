@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-14",
+  "total": 21,
+  "new": 6,
+  "reported": 11,
+  "update": 4,
+  "items": [
+    { "id": "src-001", "title": "CSIS Beyond Parallel — 'Suspected Uranium Enrichment Building at Yongbyon Complete': 위성사진 분석, 영변 우라늄 농축 추정 건물 완공 확인. 2024년 12월 착공, 외부 건설 2025년 6월 초 완료, 내부 설비 진행 중. 방사화학실험실 NNE 480m, 기존 원심분리기홀 N 1,800m 위치 (6월)", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon-complete/", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "MBC — '북한, 영변에 새 우라늄 농축 시설 완공한 듯': Beyond Parallel 위성사진 인용, 예비 발전기·차량 보관소 완공 확인. 농축 우라늄 생산 시 핵무기 수 대폭 증가 전망 (6월)", "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6815156_36981.html", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "CRS/USNI — 'Report to Congress on U.S.-South Korea Alliance' (R48877): 한미동맹 현대화, 한국 '1차적 방위 책임' 전환, JFS 이행, 북한 핵위협 '미국 본토에 대한 명백하고 현존하는 위험(clear and present danger)' 평가 (6/11)", "url": "https://news.usni.org/2026/06/11/report-to-congress-on-u-s-south-korea-alliance-2", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "통일뉴스 — '2026년 한반도의 냉혹한 현실과 실용적 공존의 길': 핵무장 북한과 분쟁 없이 공존하는 방법에 초점. 이재명 정부 실용적 공존 3원칙(체제 존중, 흡수통일 불추구, 적대행위 금지). 사실상 2국가 평화공존 제도화 제안 (6월)", "url": "https://www.tongilnews.com/news/articleView.html?idxno=215471", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "아시아엔 — '[북한 브리핑 6.7~6.13] 신냉전 구도 속 대남·대일 공세와 북·중·러 밀착 행보': 1주간 북한 동향 종합. 시진핑 방북·NCG·IAEA 이사회·핵비축량 전망 등 (6/13)", "url": "https://kor.theasian.asia/archives/407267", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "JIIA — '北朝鮮核・ミサイルリスクの総合分析 最終報告書': 일본국제문제연구소 조선반도정세연구회 최종보고서. 북한 핵·미사일 리스크 종합 평가 (2026년)", "url": "https://www.jiia.or.jp/jpn/upload/R07_Korean_Peninsula_all.pdf", "tag": "new", "related_report": null },
+    { "id": "src-007", "title": "Military Watch Magazine — 'North Korea Lays Out Plans For Future of its Fast Expanding Blue Water Destroyer Program': 최현호급 12척 건조계획 상세, 연 2척 진수율, 원양해군 전환 분석 (6월)", "url": "https://militarywatchmagazine.com/article/nkorea-plans-future-blue-water-destroyer", "tag": "update", "related_report": "2026-06-13" },
+    { "id": "src-008", "title": "리포터A — '감시망 뚫고 완공된 그곳, 최악의 시나리오 현실로': 영변 우라늄 농축시설 완공, 제재 하 핵시설 건설 가능성 분석 (6월)", "url": "https://www.reportera.co.kr/military/north-korea-yongbyon-uranium-enrichment-facility-completed/comment-page-1/", "tag": "update", "related_report": "2026-06-13" },
+    { "id": "src-009", "title": "Al Jazeera — 'Nuclear risks rise as powers expand and modernise arsenals: SIPRI study': SIPRI Yearbook 2026 영문 보도, 핵위험 증가 경고 (6/8)", "url": "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds", "tag": "update", "related_report": "2026-06-13" },
+    { "id": "src-010", "title": "Korea Herald — 'N. Korea, Russia hold ceremony to link cross-border bridge; completion set for mid-June': 두만강 교량 연결 기념식, 6월 중순 완공 예정 (6월)", "url": "https://www.koreaherald.com/article/10722508", "tag": "update", "related_report": "2026-06-11" },
+    { "id": "src-011", "title": "SIPRI — 'Increasing focus on nuclear weapons amid heightened escalation risks' (6/8)", "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now", "tag": "reported", "related_report": "2026-06-13" },
+    { "id": "src-012", "title": "VERTIC — 'Analysis of a New DPRK Enrichment Facility' (6월)", "url": "https://www.vertic.org/2026/06/analysis-of-a-new-dprk-enrichment-facility/", "tag": "reported", "related_report": "2026-06-13" },
+    { "id": "src-013", "title": "VOA Korean — '핵 전문가들 \"북한, 5년 내 핵탄두 최대 110기 가능\"' (6/10)", "url": "https://www.voakorea.com/a/nuclear-experts-north-korea-could-have-up-to-110-nuclear-warheads-within-5-years-061026/8159324.html", "tag": "reported", "related_report": "2026-06-13" },
+    { "id": "src-014", "title": "Army Recognition — 'North Korea Plans 12 Nuclear-Armed Destroyers by 2030' (6월)", "url": "https://www.armyrecognition.com/news/navy-news/2026/north-korea-plans-12-nuclear-armed-destroyers-by-2030-after-choe-hyon-missile-test", "tag": "reported", "related_report": "2026-06-13" },
+    { "id": "src-015", "title": "IAEA — 'Director General's Introductory Statement to the Board of Governors (8 June 2026)' (6/8)", "url": "https://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-board-of-governors-8-june-2026", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-016", "title": "NPR — 'North Korea unveils a new plant to produce fuel for nuclear weapons' (6/4)", "url": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-017", "title": "US State Department — 'Joint Statement on DPRK Sanctions Accountability' (5/29)", "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability/", "tag": "reported", "related_report": "2026-06-10" },
+    { "id": "src-018", "title": "서울경제 — '北, 보란 듯 영변 한가운데 핵시설 확장…우라늄 농축 능력 75% 확대' (6/11)", "url": "https://www.sedaily.com/article/20054516", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-019", "title": "뉴스핌 — '한미, 제6차 NCG서 핵·재래식 통합 고도화' (6/11)", "url": "https://www.newspim.com/news/view/20260611001200", "tag": "reported", "related_report": "2026-06-12" },
+    { "id": "src-020", "title": "RFA — 'Satellite imagery shows new North Korea-Russia bridge nearing completion' (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-021", "title": "Indo-Pacific Defense Forum — 'New road bridge gives North Korea, Russia leverage over China' (6월)", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/", "tag": "reported", "related_report": "2026-06-11" }
+  ]
+}
