@@ -1,0 +1,13 @@
+{
+  "id": "src-004",
+  "title": "CSIS Beyond Parallel — 'Pyongsan Uranium Concentrate Plant (Nam-chon Chemical Complex): Infrastructure Development and Status'",
+  "url": "https://beyondparallel.csis.org/pyongsan-uranium-concentrate-plant-nam-chon-chemical-complex-infrastructure-development-and-status/",
+  "snippet": "CSIS Beyond Parallel analysis of the Pyongsan Uranium Concentrate Plant (also known as Nam-chon Chemical Complex). Infrastructure development and current operational status assessment based on satellite imagery and open-source intelligence. Pyongsan is North Korea's primary facility for processing raw uranium ore into uranium concentrate (yellowcake), the essential feedstock for enrichment programs at Yongbyon and other sites.",
+  "source_name": "Beyond Parallel/CSIS",
+  "language": "en",
+  "discovered_date": "2026-06-15",
+  "tag": "new",
+  "related_report": null,
+  "related_item": null,
+  "tag_reason": "이전 7일 소스에 CSIS의 평산 우라늄 정광 공장 분석 보고서 없음. Daily NK 위성영상(src-003)과 독립적으로 동일 시설을 분석한 CSIS 보고서."
+}

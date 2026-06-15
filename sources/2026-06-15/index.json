@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-15",
+  "total": 18,
+  "new": 5,
+  "reported": 9,
+  "update": 4,
+  "items": [
+    { "id": "src-001", "title": "북한 외무성 — '비핵화는 최종적·불가역적으로 종결된 사안': 외무성 대변인 담화, 한미일 비핵화 메시지 반박, '핵보유국 지위 불변' 선언. 6/12 도쿄 한미일 협의에 대한 직접 대응 (6/13-14)", "url": "https://www.usnews.com/news/world/articles/2026-06-13/north-korea-says-denuclearisation-is-a-matter-terminated-irreversibly", "tag": "new", "related_report": null },
+    { "id": "src-002", "title": "한·미·일, 도쿄에서 북한 관련 실무협의 개최 — '비핵화 목표·UN 결의 이행 재확인': 김상일 외교부 과장·와일레졸 미 국무부 부차관보·오쓰카 일본 심의관 (6/12)", "url": "https://www.newspim.com/news/view/20260613000100", "tag": "new", "related_report": null },
+    { "id": "src-003", "title": "Daily NK — 'New satellite images reveal upgrades, freight activity at North Korea's Pyongsan uranium plant': 평산 우라늄 정련공장 인프라 확장·화물 활동 위성영상 확인 (2026)", "url": "https://www.dailynk.com/english/north-korea-pyongsan-uranium-refinery-satellite-imagery-2026/", "tag": "new", "related_report": null },
+    { "id": "src-004", "title": "CSIS Beyond Parallel — 'Pyongsan Uranium Concentrate Plant (Nam-chon Chemical Complex): Infrastructure Development and Status': 평산 남천화학공장 우라늄 정광 시설 인프라 개발 현황 분석 (2026)", "url": "https://beyondparallel.csis.org/pyongsan-uranium-concentrate-plant-nam-chon-chemical-complex-infrastructure-development-and-status/", "tag": "new", "related_report": null },
+    { "id": "src-005", "title": "아시아투데이 — '北, 한미일 비난...핵보유국 지위 불변': 외무성 대변인 담화 국문 보도, 이재명 대통령·한미일 비핵화 공조 비난 (6/14)", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260614010004578", "tag": "new", "related_report": null },
+    { "id": "src-006", "title": "Taipei Times — 'N Korea says its status as nuclear state irreversible' (6/15)", "url": "https://www.taipeitimes.com/News/front/archives/2026/06/15/2003859109", "tag": "update", "related_report": "2026-06-15" },
+    { "id": "src-007", "title": "SPN 서울평양뉴스 — '北, 한미일 북핵 협의 맹비난...핵보유국 지위 절대 변경시키지 못해' (6/14)", "url": "https://www.spnews.co.kr/news/articleView.html?idxno=108067", "tag": "update", "related_report": "2026-06-15" },
+    { "id": "src-008", "title": "Daily NK — 'Bridge over troubled waters': 두만강 교량 개통 D-4 종합분석, 전략적 함의 (6월)", "url": "https://www.dailynk.com/english/bridge-over-troubled-waters/", "tag": "update", "related_report": "2026-06-14" },
+    { "id": "src-009", "title": "Jordan News — 'North Korea Reaffirms Its Nuclear State Status Is Final and Irreversible' (6/14-15)", "url": "https://www.jordannews.jo/Section-23/Asia/North-Korea-Reaffirms-Its-Nuclear-State-Status-Is-Final-and-Irreversible-52028", "tag": "update", "related_report": "2026-06-15" },
+    { "id": "src-010", "title": "CSIS Beyond Parallel — 'Suspected Uranium Enrichment Building at Yongbyon Complete' (6월)", "url": "https://beyondparallel.csis.org/suspected-uranium-enrichment-building-at-yongbyon-complete/", "tag": "reported", "related_report": "2026-06-14" },
+    { "id": "src-011", "title": "NPR — 'North Korea unveils a new plant to produce fuel for nuclear weapons' (6/4)", "url": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-012", "title": "USNI News/CRS — 'Report to Congress on North Korea's Nuclear Weapons and Missile Programs' (R45259, 6/3)", "url": "https://news.usni.org/2026/06/03/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-4", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-013", "title": "CNN — 'Kim Jong Un inspects new nuclear plant, plans exponential weapons production ramp-up' (6/4)", "url": "https://www.cnn.com/2026/06/04/asia/north-korea-nuclear-plant-kim-intl-hnk-ml", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-014", "title": "Indo-Pacific Defense Forum — 'New road bridge gives North Korea, Russia leverage over China' (6월)", "url": "https://ipdefenseforum.com/2026/06/new-road-bridge-gives-north-korea-russia-leverage-over-china/", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-015", "title": "RFA — 'Satellite imagery shows new North Korea-Russia bridge nearing completion' (5/21)", "url": "https://www.rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/", "tag": "reported", "related_report": "2026-06-11" },
+    { "id": "src-016", "title": "CRS/Congress.gov — 'North Korea's Nuclear Weapons and Missile Programs' (IF10472, 6월 update)", "url": "https://www.congress.gov/crs-product/IF10472", "tag": "reported", "related_report": "2026-06-14" },
+    { "id": "src-017", "title": "Al Jazeera — 'N Korea's Kim Jong Un calls for exponential expansion of nuclear arsenal' (6/4)", "url": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal", "tag": "reported", "related_report": "2026-06-08" },
+    { "id": "src-018", "title": "뉴스핌 — '한미, 제6차 NCG서 핵·재래식 통합 고도화' (6/11)", "url": "https://www.newspim.com/news/view/20260611001200", "tag": "reported", "related_report": "2026-06-12" }
+  ]
+}
